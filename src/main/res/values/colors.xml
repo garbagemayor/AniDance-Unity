@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffafea</color>
+    <color name="colorPrimaryDark">#ff18c2</color>
+    <color name="colorAccent">#e39ad0</color>
+
+    <color name="column_bar_active_background">#7fffafea</color>
+    <color name="column_bar_inactive_background">#7fd893c6</color>
+</resources>
