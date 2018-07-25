@@ -123,11 +123,12 @@
                         android:singleLine="true"
                         />
 
-                    <View
+                    <anidance.anidance_android.VisualizerPackage.VisualizerView
                         android:layout_width="1dp"
-                        android:layout_height="1dp"
-                        android:layout_gravity="center_vertical"
+                        android:layout_height="match_parent"
                         android:layout_weight="1"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/file_mode_visualizer"
                         />
 
                     <Button
@@ -146,10 +147,11 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="5dp"
-                        android:id="@+id/file_mode_listen_btn"
-                        android:text="试听"
+                        android:id="@+id/file_mode_start_btn"
+                        android:text="开始"
                         android:textSize="20sp"
                         android:singleLine="true"
+                        android:enabled="false"
                         />
 
                     <Button
@@ -157,10 +159,11 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="5dp"
-                        android:id="@+id/file_mode_start_btn"
-                        android:text="开始"
+                        android:id="@+id/file_mode_stop_btn"
+                        android:text="停止"
                         android:textSize="20sp"
                         android:singleLine="true"
+                        android:enabled="false"
                         />
 
                 </LinearLayout>
@@ -168,7 +171,7 @@
             </RelativeLayout>
 
             <!-- 现场演唱的操作区 -->
-            <RelativeLayout
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:minHeight="60dp"
@@ -180,7 +183,7 @@
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_horizontal"
                     android:orientation="horizontal"
                     android:paddingLeft="20dp"
                     android:paddingRight="20dp"
@@ -189,15 +192,120 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_margin="5dp"
-                        android:text="哈哈哈"
+                        android:layout_gravity="center_vertical"
+                        android:text="节拍器：每分钟"
                         android:textSize="20sp"
+                        />
+
+                    <EditText
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:minWidth="50dp"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/metronome_edittext"
+                        android:text="60"
+                        android:textSize="20sp"
+                        />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:text="拍"
+                        android:textSize="20sp"
+                        />
+
+                    <Spinner
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        >
+
+                    </Spinner>
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/metronome_checkbox"
+                        android:checked="true"
+                        />
+
+                    <anidance.anidance_android.VisualizerPackage.VisualizerView
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/metronome_visualizer"
+                        />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="5dp"
+                        android:id="@+id/metronome_start_btn"
+                        android:text="开始"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="5dp"
+                        android:id="@+id/metronome_stop_btn"
+                        android:text="停止"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        android:enabled="false"
                         />
 
                 </LinearLayout>
 
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:orientation="horizontal"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="20dp"
+                    >
 
-            </RelativeLayout>
+                    <anidance.anidance_android.VisualizerPackage.VisualizerView
+                        android:layout_width="1dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:layout_gravity="center_vertical"
+                        android:id="@+id/recorder_visualizer"
+                        />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="5dp"
+                        android:id="@+id/recorder_start_btn"
+                        android:text="开始"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        />
+
+                    <Button
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="5dp"
+                        android:id="@+id/recorder_stop_btn"
+                        android:text="停止"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        android:enabled="false"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
 
         </LinearLayout>
 
