@@ -1,54 +1,78 @@
 package anidance.anidance_android;
 
-import android.Manifest;
 import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
-import android.content.pm.PackageManager;
 import android.database.Cursor;
-import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.MediaStore;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.content.ContextCompat;
+import android.text.Editable;
+import android.text.InputType;
+import android.text.TextWatcher;
 import android.text.method.ScrollingMovementMethod;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
+import android.widget.EditText;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.unity3d.player.R;
 
-import org.w3c.dom.Text;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+import java.net.SocketException;
+import java.net.UnknownHostException;
 
-import java.io.IOException;
+import anidance.anidance_android.VisualizerPackage.VisualizerView;
+import anidance.anidance_android.VisualizerPackage.VisualizerViewHelper;
 
 public class MainActivity extends UnityPlayerActivity {
 
     public static String TAG = "MainActivity";
 
+    //Unity背景部分
     private LinearLayout mUnityParent;
-
     private View mPlaceHolderView;
     private View mOperationView;
 
-    private int mColumnActive;
+    //模式选择部分
     private View mColumnFileView;
     private View mColumnLiveView;
     private View mOperationFileView;
     private View mOperationLiveView;
 
+    //选择文件部分
     private TextView mFileNameText;
     private Button mFileBrowseBtn;
-    private Uri mFileUri;
-    private Button mFileListenBtn;
-    private MediaPlayer mMediaPlayer;
     private Button mFileStartBtn;
+    private Button mFileStopBtn;
+    private VisualizerView mFileVisualizerView;
+    private MediaController mMediaController;
+
+    //现场演唱部分的节拍器
+    private CheckBox mMetronomeCheckBox;
+    private EditText mMetronomeEditText;
+    private VisualizerView mMetronomeVisualizerView;
+    private Button mMetronomeStartBtn;
+    private Button mMetronomeStopBtn;
+    private MetronomeController mMetronomeController;
+
+    //现场演唱部分的录音机
+    private VisualizerView mRecorderVisualizerView;
+    private Button mRecorderStartBtn;
+    private Button mRecorderStopBtn;
+    private RecorderController mRecorderController;
+
+    private DatagramSocket mUnitySocket;
+    private InetAddress mUnityAddr;
+    private int mUnityPort;
+    private Thread mReadAndSendThread;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,9 +80,41 @@ public class MainActivity extends UnityPlayerActivity {
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         setContentView(R.layout.activity_main);
 
-        //检查App是否有足够的权限
-        requestAllPermissions();
+        //权限检验器
+        PermissionsChecker.run(MainActivity.this);
 
+        //文件路径生成器
+        FolderGenerator.run();
+
+        //Unity背景部分
+        initUnityBackgroundView();
+
+        //模式选择
+        initModeSelectView();
+
+        //选择文件部分
+        initFileModeView();
+
+        //现场演唱部分
+        initLiveModeMetronome();
+        initLiveModeRecorder();
+
+        //准备与Unity通信
+        try {
+            mUnityPort = 12345;
+            mUnitySocket = new DatagramSocket();
+            mUnityAddr = InetAddress.getByName("127.0.0.1");
+        } catch (SocketException e) {
+            Log.e(TAG, "mUnitySocket炸了");
+            e.printStackTrace();
+        } catch (UnknownHostException e) {
+            Log.e(TAG, "mUnityAddr炸了");
+            e.printStackTrace();
+        }
+    }
+
+    //Unity背景部分
+    private void initUnityBackgroundView() {
         //Unity背景
         mUnityParent = findViewById(R.id.main_unity_view);
         mUnityParent.addView(mUnityPlayer.getView());
@@ -76,9 +132,22 @@ public class MainActivity extends UnityPlayerActivity {
                 }
             }
         });
+        mPlaceHolderView.setOnLongClickListener(new View.OnLongClickListener() {
+            @Override
+            public boolean onLongClick(View v) {
+                if (!HackerThread.HACKER_THREAD.isAlive()) {
+                    HackerThread.HACKER_THREAD.start();
+                } else {
+                    HackerThread.HACKER_THREAD.interrupt();
+                }
+                return true;
+            }
+        });
+    }
 
+    //模式选择部分
+    private void initModeSelectView() {
         //模式选择
-        mColumnActive = 0;
         mColumnFileView = findViewById(R.id.main_column_file);
         mColumnLiveView = findViewById(R.id.main_column_live);
         mOperationFileView = findViewById(R.id.main_operation_file);
@@ -87,7 +156,6 @@ public class MainActivity extends UnityPlayerActivity {
         mColumnFileView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mColumnActive = 0;
                 mColumnFileView.setBackgroundResource(R.drawable.top_column_bar_active);
                 mColumnLiveView.setBackgroundResource(R.drawable.top_column_bar_inactive);
                 mOperationFileView.setVisibility(View.VISIBLE);
@@ -97,15 +165,17 @@ public class MainActivity extends UnityPlayerActivity {
         mColumnLiveView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                mColumnActive = 1;
                 mColumnFileView.setBackgroundResource(R.drawable.top_column_bar_inactive);
                 mColumnLiveView.setBackgroundResource(R.drawable.top_column_bar_active);
                 mOperationFileView.setVisibility(View.GONE);
                 mOperationLiveView.setVisibility(View.VISIBLE);
             }
         });
+    }
 
-        //文件名太长时左右滚动
+    //选择文件部分
+    private void initFileModeView() {
+        //显示文件名
         mFileNameText = findViewById(R.id.file_mode_path_text);
         mFileNameText.setMovementMethod(ScrollingMovementMethod.getInstance());
 
@@ -114,12 +184,6 @@ public class MainActivity extends UnityPlayerActivity {
         mFileBrowseBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (mMediaPlayer != null && mMediaPlayer.isPlaying()) {
-                    mMediaPlayer.stop();
-                    mMediaPlayer.release();
-                    mMediaPlayer = null;
-                    mFileListenBtn.setText("试听");
-                }
                 Intent intent = new Intent(Intent.ACTION_GET_CONTENT);
                 intent.setType("audio/*");
                 intent.addCategory(Intent.CATEGORY_OPENABLE);
@@ -127,91 +191,181 @@ public class MainActivity extends UnityPlayerActivity {
             }
         });
 
-        //试听按钮
-        mMediaPlayer = null;
-        mFileListenBtn = findViewById(R.id.file_mode_listen_btn);
-        mFileListenBtn.setOnClickListener(new View.OnClickListener() {
+        //波形绘制器
+        mFileVisualizerView = findViewById(R.id.file_mode_visualizer);
+        VisualizerViewHelper.setDefaultLineRender(mFileVisualizerView);
+
+        //开始按钮
+        mFileStartBtn = findViewById(R.id.file_mode_start_btn);
+        mFileStartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (mFileUri != null) {
-                    if (mMediaPlayer == null) {
-                        mMediaPlayer = new MediaPlayer();
-                        try {
-                            mMediaPlayer.setDataSource(MainActivity.this, mFileUri);
-                        } catch (IOException e) {
-                            e.printStackTrace();
-                        }
-                        mMediaPlayer.prepareAsync();
-                        mMediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
-                            @Override
-                            public void onPrepared(MediaPlayer mp) {
-                                mMediaPlayer.setLooping(true);
-                                mMediaPlayer.start();
-                                mFileListenBtn.setText("停止");
-                            }
-                        });
-                    } else {
-                        if (mMediaPlayer.isPlaying()) {
-                            mMediaPlayer.stop();
-                            mMediaPlayer.release();
-                            mMediaPlayer = null;
-                            mFileListenBtn.setText("试听");
-                        }
-                    }
+                mMediaController.start();
+            }
+        });
+
+        //停止按钮
+        mFileStopBtn = findViewById(R.id.file_mode_stop_btn);
+        mFileStopBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mMediaController.stop();
+            }
+        });
+
+        //播放与跳舞控制器
+        mMediaController = new MediaController(MainActivity.this);
+        mMediaController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+            @Override
+            public VisualizerView getView() {
+                return mFileVisualizerView;
+            }
+        });
+        mMediaController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+            @Override
+            public void onStartStop(boolean isStart) {
+                mFileBrowseBtn.setEnabled(!isStart);
+                mFileStartBtn.setEnabled(!isStart);
+                mFileStopBtn.setEnabled(isStart);
+            }
+        });
+    }
+
+    //现场演唱的节拍器
+    private void initLiveModeMetronome() {
+        //节拍器使能
+        mMetronomeCheckBox = findViewById(R.id.metronome_checkbox);
+        mMetronomeCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                mMetronomeEditText.setEnabled(isChecked);
+                if (isChecked) {
+                    mMetronomeController.setBpm(Integer.valueOf(mMetronomeEditText.getText().toString()));
                 } else {
-                    Toast.makeText(MainActivity.this, "请选择文件！", Toast.LENGTH_SHORT).show();
+                    mMetronomeController.setBpm(0);
                 }
             }
         });
-    }
 
-    @Override
-    public void onBackPressed() {
-        runOnUiThread(new Runnable() {
+        //节拍器数字
+        mMetronomeEditText = findViewById(R.id.metronome_edittext);
+        mMetronomeEditText.setInputType(InputType.TYPE_CLASS_NUMBER);
+        mMetronomeEditText.addTextChangedListener(new TextWatcher() {
             @Override
-            public void run() {
-                mUnityPlayer.quit();
+            public void beforeTextChanged(CharSequence s, int start, int count, int after) {
+            }
+
+            @Override
+            public void onTextChanged(CharSequence s, int start, int before, int count) {
+                if (s.length() > 0) {
+                    int value = Integer.valueOf(s.toString());
+                    if (value < 1) {
+                        value = 1;
+                        mMetronomeEditText.setText("1");
+                        mMetronomeEditText.setSelection(1);
+                    } else if (value > 600) {
+                        value = 600;
+                        mMetronomeEditText.setText("600");
+                        mMetronomeEditText.setSelection(3);
+                    }
+                    mMetronomeController.setBpm(value);
+                }
+            }
+
+            @Override
+            public void afterTextChanged(Editable s) {
             }
         });
-        super.onBackPressed();
-    }
 
-    @Override
-    public void onDestroy(){
-        if (mMediaPlayer != null && mMediaPlayer.isPlaying()) {
-            mMediaPlayer.stop();
-            mMediaPlayer.release();
-            mMediaPlayer = null;
-        }
-        super.onDestroy();
-    }
-
-    //获取权限
-    private void requestAllPermissions() {
-        String[] permissions = {
-                Manifest.permission.READ_EXTERNAL_STORAGE,
-                Manifest.permission.WRITE_EXTERNAL_STORAGE,
-                Manifest.permission.RECORD_AUDIO,
-        };
-        if (ContextCompat.checkSelfPermission(MainActivity.this, Manifest.permission.WRITE_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-            if (ActivityCompat.shouldShowRequestPermissionRationale(MainActivity.this, Manifest.permission.READ_EXTERNAL_STORAGE)) {
-                Toast.makeText(MainActivity.this, "需要权限！", Toast.LENGTH_SHORT).show();
-            } else {
-                ActivityCompat.requestPermissions(MainActivity.this, permissions, 1);
-                Toast.makeText(MainActivity.this, "申请权限！", Toast.LENGTH_SHORT).show();
+        //节拍器开始
+        mMetronomeStartBtn = findViewById(R.id.metronome_start_btn);
+        mMetronomeStartBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mMetronomeController.start();
             }
-        }
+        });
+
+        //节拍器停止按钮
+        mMetronomeStopBtn = findViewById(R.id.metronome_stop_btn);
+        mMetronomeStopBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mMetronomeController.stop();
+            }
+        });
+
+        //节拍器控制器
+        mMetronomeController = new MetronomeController(MainActivity.this, Integer.valueOf(mMetronomeEditText.getText().toString()));
+        mMetronomeController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+            @Override
+            public VisualizerView getView() {
+                return mMetronomeVisualizerView;
+            }
+        });
+        mMetronomeController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+            @Override
+            public void onStartStop(boolean isStart) {
+                mMetronomeCheckBox.setEnabled(!isStart);
+                mMetronomeEditText.setEnabled(!isStart && mMetronomeCheckBox.isChecked());
+                mMetronomeStartBtn.setEnabled(!isStart);
+                mMetronomeStopBtn.setEnabled(isStart);
+            }
+        });
+    }
+
+    //现场演唱的录音机
+    private void initLiveModeRecorder() {
+        //录音机波形显示
+        mRecorderVisualizerView = findViewById(R.id.recorder_visualizer);
+        VisualizerViewHelper.setDefaultLineRender(mRecorderVisualizerView);
+
+        //录音机开始按钮
+        mRecorderStartBtn = findViewById(R.id.recorder_start_btn);
+        mRecorderStartBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mRecorderController.start();
+            }
+        });
+
+        //录音机停止按钮
+        mRecorderStopBtn = findViewById(R.id.recorder_stop_btn);
+        mRecorderStopBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mRecorderController.stop();
+            }
+        });
+
+        //录音控制器
+        mRecorderController = new RecorderController(MainActivity.this);
+        mRecorderController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+            @Override
+            public VisualizerView getView() {
+                return mRecorderVisualizerView;
+            }
+        });
+        mRecorderController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+            @Override
+            public void onStartStop(boolean isStart) {
+                mRecorderStartBtn.setEnabled(!isStart);
+                mRecorderStopBtn.setEnabled(isStart);
+            }
+        });
     }
 
     //浏览文件返回时
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (resultCode == Activity.RESULT_OK) {
-            Log.d(TAG, "requestCode = " + resultCode);
             if (requestCode == 1) {
-                mFileUri = data.getData();
-                String fileDisplayName = getDisplayNameFromUri(MainActivity.this, mFileUri);
-                mFileNameText.setText(fileDisplayName);
+                Uri uri = data.getData();
+                if (uri != null) {
+                    mFileNameText.setText(MainActivity.getDisplayNameFromUri(MainActivity.this, uri));
+                    mMediaController.setUri(uri);
+                    mFileStartBtn.setEnabled(true);
+                }
             }
         }
     }
@@ -223,7 +377,7 @@ public class MainActivity extends UnityPlayerActivity {
         } else if (uri.getScheme().equals(ContentResolver.SCHEME_FILE)) {
             return uri.getLastPathSegment();
         }
-        Cursor cursor = context.getContentResolver().query( uri, new String[] {MediaStore.MediaColumns.DISPLAY_NAME}, null, null, null );
+        Cursor cursor = context.getContentResolver().query(uri, new String[]{MediaStore.MediaColumns.DISPLAY_NAME}, null, null, null);
         if (cursor == null) {
             return null;
         }
