@@ -94,81 +94,200 @@
 
             </LinearLayout>
 
-            <!-- 选择文件的操作区 -->
-            <RelativeLayout
+            <!-- 舞种选择操作区 -->
+            <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:minHeight="60dp"
-                android:orientation="vertical"
+                android:layout_gravity="center_horizontal"
+                android:orientation="horizontal"
                 android:background="@drawable/view_active"
-                android:id="@+id/main_operation_file"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
                 >
 
-                <LinearLayout
-                    android:layout_width="match_parent"
+                <TextView
+                    android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
+                    android:layout_gravity="center_vertical"
+                    android:text="舞种选择"
+                    android:textSize="20sp"
+                    android:layout_marginEnd="20dp"
+                    />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
                     android:orientation="horizontal"
-                    android:paddingLeft="20dp"
-                    android:paddingRight="20dp"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
                     >
 
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:id="@+id/file_mode_path_text"
-                        android:text="未选择文件"
+                        android:text="Tangle"
                         android:textSize="20sp"
                         android:singleLine="true"
                         />
 
-                    <anidance.anidance_android.VisualizerPackage.VisualizerView
-                        android:layout_width="1dp"
-                        android:layout_height="match_parent"
-                        android:layout_weight="1"
-                        android:layout_gravity="center_vertical"
-                        android:id="@+id/file_mode_visualizer"
-                        />
-
-                    <Button
+                    <CheckBox
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:layout_marginEnd="5dp"
-                        android:id="@+id/file_mode_browse_btn"
-                        android:text="浏览"
-                        android:textSize="20sp"
-                        android:singleLine="true"
-                        />
-
-                    <Button
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:layout_marginEnd="5dp"
-                        android:id="@+id/file_mode_start_btn"
-                        android:text="开始"
-                        android:textSize="20sp"
-                        android:singleLine="true"
-                        android:enabled="false"
-                        />
-
-                    <Button
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:layout_marginEnd="5dp"
-                        android:id="@+id/file_mode_stop_btn"
-                        android:text="停止"
-                        android:textSize="20sp"
-                        android:singleLine="true"
-                        android:enabled="false"
+                        android:id="@+id/dance_type_T_checkbox"
+                        android:checked="true"
                         />
 
                 </LinearLayout>
 
-            </RelativeLayout>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Rumba"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        />
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/dance_type_R_checkbox"
+                        android:checked="false"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ChaCha"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        />
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/dance_type_C_checkbox"
+                        android:checked="false"
+                        />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="20dp"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Waltz"
+                        android:textSize="20sp"
+                        android:singleLine="true"
+                        />
+
+                    <CheckBox
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/dance_type_W_checkbox"
+                        android:checked="false"
+                        />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!-- 选择文件的操作区 -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="60dp"
+                android:background="@drawable/view_active"
+                android:orientation="horizontal"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:id="@+id/main_operation_file"
+                >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="20dp"
+                    android:id="@+id/file_mode_path_text"
+                    android:text="未选择文件"
+                    android:textSize="20sp"
+                    android:singleLine="true"
+                    />
+
+                <anidance.anidance_android.VisualizerPackage.VisualizerView
+                    android:layout_width="1dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_gravity="center_vertical"
+                    android:id="@+id/file_mode_visualizer"
+                    />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/file_mode_browse_btn"
+                    android:text="浏览"
+                    android:textSize="20sp"
+                    android:singleLine="true"
+                    />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/file_mode_start_btn"
+                    android:text="开始"
+                    android:textSize="20sp"
+                    android:singleLine="true"
+                    android:enabled="false"
+                    />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginEnd="5dp"
+                    android:id="@+id/file_mode_stop_btn"
+                    android:text="停止"
+                    android:textSize="20sp"
+                    android:singleLine="true"
+                    android:enabled="false"
+                    />
+
+            </LinearLayout>
 
             <!-- 现场演唱的操作区 -->
             <LinearLayout
@@ -215,17 +334,11 @@
                         android:textSize="20sp"
                         />
 
-                    <Spinner
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        >
-
-                    </Spinner>
-
                     <CheckBox
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="20dp"
                         android:id="@+id/metronome_checkbox"
                         android:checked="true"
                         />

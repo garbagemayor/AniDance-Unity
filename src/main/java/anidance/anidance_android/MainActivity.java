@@ -40,12 +40,19 @@ public class MainActivity extends UnityPlayerActivity {
     private LinearLayout mUnityParent;
     private View mPlaceHolderView;
     private View mOperationView;
+    private HackerThread mHackerThread;
 
     //模式选择部分
     private View mColumnFileView;
     private View mColumnLiveView;
     private View mOperationFileView;
     private View mOperationLiveView;
+
+    //舞种选择部分
+    public static int DANCE_TYPE_COUNT = 4;
+    public static String[] DANCE_TYPE_NAME = {"Tangle", "Rumba", "Chacha", "Waltz"};
+    private int mDanceTypeNow;// = 0,1,2,3
+    private CheckBox[] mDanceTypeCheckBox;
 
     //选择文件部分
     private TextView mFileNameText;
@@ -92,6 +99,9 @@ public class MainActivity extends UnityPlayerActivity {
         //模式选择
         initModeSelectView();
 
+        //舞种选择
+        initDanceTypeView();
+
         //选择文件部分
         initFileModeView();
 
@@ -135,10 +145,12 @@ public class MainActivity extends UnityPlayerActivity {
         mPlaceHolderView.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View v) {
-                if (!HackerThread.HACKER_THREAD.isAlive()) {
-                    HackerThread.HACKER_THREAD.start();
+                if (mHackerThread == null) {
+                    mHackerThread = new HackerThread();
+                    mHackerThread.start();
                 } else {
-                    HackerThread.HACKER_THREAD.interrupt();
+                    mHackerThread.interrupt();
+                    mHackerThread = null;
                 }
                 return true;
             }
@@ -171,6 +183,31 @@ public class MainActivity extends UnityPlayerActivity {
                 mOperationLiveView.setVisibility(View.VISIBLE);
             }
         });
+    }
+
+    //舞种选择
+    private void initDanceTypeView() {
+        mDanceTypeNow = 0;
+        mDanceTypeCheckBox = new CheckBox[4];
+        mDanceTypeCheckBox[0] = findViewById(R.id.dance_type_T_checkbox);
+        mDanceTypeCheckBox[1] = findViewById(R.id.dance_type_R_checkbox);
+        mDanceTypeCheckBox[2] = findViewById(R.id.dance_type_C_checkbox);
+        mDanceTypeCheckBox[3] = findViewById(R.id.dance_type_W_checkbox);
+        for (int i = 0; i < DANCE_TYPE_COUNT; i ++) {
+            final int i_f = i;
+            mDanceTypeCheckBox[i].setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+                @Override
+                public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+                    if (isChecked && mDanceTypeNow != i_f) {
+                        int j = mDanceTypeNow;
+                        mDanceTypeNow = i_f;
+                        mDanceTypeCheckBox[j].setChecked(false);
+                    } else if (mDanceTypeNow == i_f) {
+                        mDanceTypeCheckBox[i_f].setChecked(true);
+                    }
+                }
+            });
+        }
     }
 
     //选择文件部分
@@ -227,6 +264,9 @@ public class MainActivity extends UnityPlayerActivity {
                 mFileBrowseBtn.setEnabled(!isStart);
                 mFileStartBtn.setEnabled(!isStart);
                 mFileStopBtn.setEnabled(isStart);
+                mColumnFileView.setEnabled(!isStart);
+                mColumnLiveView.setEnabled(!isStart);
+                mPlaceHolderView.setEnabled(!isStart);
             }
         });
     }
@@ -310,6 +350,9 @@ public class MainActivity extends UnityPlayerActivity {
                 mMetronomeEditText.setEnabled(!isStart && mMetronomeCheckBox.isChecked());
                 mMetronomeStartBtn.setEnabled(!isStart);
                 mMetronomeStopBtn.setEnabled(isStart);
+                mColumnFileView.setEnabled(!isStart && !mRecorderController.isRunning());
+                mColumnLiveView.setEnabled(!isStart && !mRecorderController.isRunning());
+                mPlaceHolderView.setEnabled(!isStart && !mRecorderController.isRunning());
             }
         });
     }
@@ -351,6 +394,9 @@ public class MainActivity extends UnityPlayerActivity {
             public void onStartStop(boolean isStart) {
                 mRecorderStartBtn.setEnabled(!isStart);
                 mRecorderStopBtn.setEnabled(isStart);
+                mColumnFileView.setEnabled(!isStart && !mMetronomeController.isRunning());
+                mColumnLiveView.setEnabled(!isStart && !mMetronomeController.isRunning());
+                mPlaceHolderView.setEnabled(!isStart && !mMetronomeController.isRunning());
             }
         });
     }
