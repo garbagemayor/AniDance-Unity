@@ -18,6 +18,7 @@ public class MediaController extends BaseController {
     private WaveToMfcc mWaveToMfcc;
 
     public MediaController(Context context) {
+        super();
         mContext = context;
         mMediaPlayer = new MediaPlayer();
         mMediaPlayer.setLooping(false);
@@ -40,18 +41,21 @@ public class MediaController extends BaseController {
     @Override
     public void start() {
         mVisualizerViewCallBack.getView().link(mMediaPlayer);
-        mMediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+        mVisualizerViewCallBack.getView().setOutsideOnCompletionListener(new MediaPlayer.OnCompletionListener() {
             @Override
             public void onCompletion(MediaPlayer mp) {
                 MediaController.this.stop();
+                Log.d(TAG, "OutsideOnCompletionListener");
             }
         });
         mOnControllerStartStopListener.onStartStop(true);
         mMediaPlayer.start();
+        super.start();
     }
 
     @Override
     public void stop() {
+        super.stop();
         mMediaPlayer.pause();
         mMediaPlayer.seekTo(0);
         mVisualizerViewCallBack.getView().release();

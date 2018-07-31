@@ -16,6 +16,7 @@ public class RecorderController extends BaseController {
     private Thread mReadBufferThread;
 
     public RecorderController(Context context) {
+        super();
         mContext = context;
         mAudioRecord = new AudioRecord(MediaRecorder.AudioSource.DEFAULT, 44100, 1, AudioFormat.ENCODING_PCM_8BIT, 44100 * 4);
         mReadBufferThread = new Thread(new Runnable() {
@@ -41,13 +42,14 @@ public class RecorderController extends BaseController {
         mOnControllerStartStopListener.onStartStop(true);
         mAudioRecord.startRecording();
         mReadBufferThread.start();
+        super.start();
     }
 
     @Override
     public void stop() {
+        super.stop();
         mReadBufferThread.interrupt();
         mAudioRecord.stop();
         mOnControllerStartStopListener.onStartStop(false);
     }
-
 }

@@ -16,6 +16,7 @@ public class MetronomeController extends BaseController {
     private Thread mBeatThread;
 
     public MetronomeController(Context context, int bpm) {
+        super();
         mContext = context;
         mMediaPlayer = MediaPlayer.create(mContext, R.raw.metronome_beat_1);
         mBeatThread = new Thread(new Runnable() {
@@ -44,10 +45,12 @@ public class MetronomeController extends BaseController {
     public void start() {
         mOnControllerStartStopListener.onStartStop(true);
         mBeatThread.start();
+        super.start();
     }
 
     @Override
     public void stop() {
+        super.stop();
         mBeatThread.interrupt();
         mOnControllerStartStopListener.onStartStop(false);
     }
