@@ -1,7 +1,6 @@
 package anidance.anidance_android;
 
 import android.os.Environment;
-import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

@@ -4,7 +4,6 @@ import android.content.Context;
 import android.media.AudioFormat;
 import android.media.AudioRecord;
 import android.media.MediaRecorder;
-import android.util.Log;
 
 public class RecorderController extends BaseController {
 
@@ -22,16 +21,9 @@ public class RecorderController extends BaseController {
         mReadBufferThread = new Thread(new Runnable() {
             @Override
             public void run() {
-                long lastBeat = System.currentTimeMillis();
                 byte[] buffer = new byte[44100 * 4];
                 while (!Thread.interrupted()) {
                     mAudioRecord.read(buffer, 0, 44100);
-                    StringBuilder tmp = new StringBuilder("buffer:");
-                    for (byte b: buffer) {
-                        tmp.append(" ");
-                        tmp.append(b);
-                    }
-                    Log.d(TAG, "buffer: " + tmp.toString());
                 }
             }
         });

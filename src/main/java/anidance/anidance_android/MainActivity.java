@@ -193,7 +193,7 @@ public class MainActivity extends UnityPlayerActivity {
         mDanceTypeCheckBox[1] = findViewById(R.id.dance_type_R_checkbox);
         mDanceTypeCheckBox[2] = findViewById(R.id.dance_type_C_checkbox);
         mDanceTypeCheckBox[3] = findViewById(R.id.dance_type_W_checkbox);
-        for (int i = 0; i < DANCE_TYPE_COUNT; i ++) {
+        for (int i = 0; i < DANCE_TYPE_COUNT; i++) {
             final int i_f = i;
             mDanceTypeCheckBox[i].setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
                 @Override

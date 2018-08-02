@@ -79,6 +79,7 @@ public class VisualizerView extends View {
 
     /**
      * Links the visualizer to a player
+     *
      * @param player - MediaPlayer instance to link to
      */
     public void link(MediaPlayer player) {
@@ -152,6 +153,7 @@ public class VisualizerView extends View {
      * Pass data to the visualizer. Typically this will be obtained from the
      * Android Visualizer.OnDataCaptureListener call back. See
      * {@link Visualizer.OnDataCaptureListener#onWaveFormDataCapture }
+     *
      * @param bytes
      */
     public void updateVisualizer(byte[] bytes) {
@@ -163,6 +165,7 @@ public class VisualizerView extends View {
      * Pass FFT data to the visualizer. Typically this will be obtained from the
      * Android Visualizer.OnDataCaptureListener call back. See
      * {@link Visualizer.OnDataCaptureListener#onFftDataCapture }
+     *
      * @param bytes
      */
     public void updateVisualizerFFT(byte[] bytes) {
