@@ -42,6 +42,9 @@ public class VisualizerView extends View {
     private Paint mFlashPaint = new Paint();
     private Paint mFadePaint = new Paint();
 
+    private Visualizer.OnDataCaptureListener mOutsideOnDataCaptureListener;
+    private MediaPlayer.OnCompletionListener mOutsideOnCompletionListener;
+
     public VisualizerView(Context context, AttributeSet attrs, int defStyle) {
         super(context, attrs);
         init();
@@ -66,8 +69,17 @@ public class VisualizerView extends View {
         mRenderers = new HashSet<Renderer>();
     }
 
+    public void setOutsideDataCaptureListener(Visualizer.OnDataCaptureListener listener) {
+        mOutsideOnDataCaptureListener = listener;
+    }
+
+    public void setOutsideOnCompletionListener(MediaPlayer.OnCompletionListener listener) {
+        mOutsideOnCompletionListener = listener;
+    }
+
     /**
      * Links the visualizer to a player
+     *
      * @param player - MediaPlayer instance to link to
      */
     public void link(MediaPlayer player) {
@@ -87,6 +99,9 @@ public class VisualizerView extends View {
             public void onWaveFormDataCapture(Visualizer visualizer, byte[] bytes,
                                               int samplingRate) {
                 updateVisualizer(bytes);
+                if (mOutsideOnDataCaptureListener != null) {
+                    mOutsideOnDataCaptureListener.onWaveFormDataCapture(visualizer, bytes, samplingRate);
+                }
             }
 
             //捕获傅里叶数据
@@ -94,6 +109,9 @@ public class VisualizerView extends View {
             public void onFftDataCapture(Visualizer visualizer, byte[] bytes,
                                          int samplingRate) {
                 updateVisualizerFFT(bytes);
+                if (mOutsideOnDataCaptureListener != null) {
+                    mOutsideOnDataCaptureListener.onFftDataCapture(visualizer, bytes, samplingRate);
+                }
             }
         };
 
@@ -106,6 +124,9 @@ public class VisualizerView extends View {
             @Override
             public void onCompletion(MediaPlayer mediaPlayer) {
                 mVisualizer.setEnabled(false);
+                if (mOutsideOnCompletionListener != null) {
+                    mOutsideOnCompletionListener.onCompletion(mediaPlayer);
+                }
             }
         });
     }
@@ -132,6 +153,7 @@ public class VisualizerView extends View {
      * Pass data to the visualizer. Typically this will be obtained from the
      * Android Visualizer.OnDataCaptureListener call back. See
      * {@link Visualizer.OnDataCaptureListener#onWaveFormDataCapture }
+     *
      * @param bytes
      */
     public void updateVisualizer(byte[] bytes) {
@@ -143,6 +165,7 @@ public class VisualizerView extends View {
      * Pass FFT data to the visualizer. Typically this will be obtained from the
      * Android Visualizer.OnDataCaptureListener call back. See
      * {@link Visualizer.OnDataCaptureListener#onFftDataCapture }
+     *
      * @param bytes
      */
     public void updateVisualizerFFT(byte[] bytes) {

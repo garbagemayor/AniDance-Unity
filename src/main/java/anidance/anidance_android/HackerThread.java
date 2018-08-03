@@ -1,7 +1,6 @@
 package anidance.anidance_android;
 
 import android.os.Environment;
-import android.util.Log;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -17,8 +16,6 @@ public class HackerThread extends Thread {
 
     public static String TAG = "HackerThread";
 
-    public static HackerThread HACKER_THREAD = new HackerThread();
-
     private DatagramSocket mUnitySocket;
     private InetAddress mUnityAddr;
     private int mUnityPort;
@@ -29,11 +26,7 @@ public class HackerThread extends Thread {
                 mUnityPort = 12345;
                 mUnitySocket = new DatagramSocket();
                 mUnityAddr = InetAddress.getByName("127.0.0.1");
-            } catch (SocketException e) {
-                Log.e(TAG, "mUnitySocket炸了");
-                e.printStackTrace();
-            } catch (UnknownHostException e) {
-                Log.e(TAG, "mUnityAddr炸了");
+            } catch (SocketException | UnknownHostException e) {
                 e.printStackTrace();
             }
             String messageFilePath = Environment.getExternalStorageDirectory().getAbsolutePath() + "/AniDance/socket_message.txt";
@@ -46,9 +39,8 @@ public class HackerThread extends Thread {
                     byte data[] = line.getBytes();
                     DatagramPacket packet = new DatagramPacket(data, data.length, mUnityAddr, mUnityPort);
                     mUnitySocket.send(packet);
-                    Log.d(TAG, "socket.send: " + line.substring(0, 32) + "...");
                     line = br.readLine();
-                    Thread.sleep(40);
+                    Thread.sleep(40);//25fps
                 }
                 br.reset();
             }
