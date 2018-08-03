@@ -1,5 +1,6 @@
 package anidance.anidance_android;
 
+import android.app.Activity;
 import android.content.ContentResolver;
 import android.content.Context;
 import android.database.Cursor;
@@ -13,8 +14,16 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.net.DatagramPacket;
+import java.net.DatagramSocket;
+import java.net.InetAddress;
+import java.net.SocketException;
+import java.net.UnknownHostException;
+import java.util.ArrayList;
+import java.util.List;
 
-import anidance.anidance_android.MfccPackage.WaveDataAnalyzer;
+import anidance.anidance_android.MfccPackage.WaveFileAnalyzer;
+import anidance.anidance_android.beats.Beats;
 
 public class MediaController extends BaseController {
 
@@ -25,8 +34,8 @@ public class MediaController extends BaseController {
     private Uri mUri;
     private MediaPlayer mMediaPlayer;
 
+    private WaveFileAnalyzer mAnalyzer;
     private Thread mReadThread;
-    private WaveDataAnalyzer mAnalyzer;
 
     public MediaController(Context context) {
         super();
@@ -40,28 +49,6 @@ public class MediaController extends BaseController {
             mMediaPlayer.reset();
         }
         mUri = uri;
-        mReadThread = new Thread(new Runnable() {
-            @Override
-            public void run() {
-                double[][] mfcc = WaveDataAnalyzer.analysis(getRealFilePath(mUri));
-                try {
-                    Log.d(TAG, "PrintWriter: print mfcc, shape = (" + mfcc.length + ", " + mfcc[0].length + ")");
-                    PrintWriter pr = new PrintWriter(new File(Environment.getExternalStorageDirectory().getAbsolutePath() + "/AniDance/socket_message.txt"));
-                    for (int j = 0; j < mfcc[0].length; j ++) {
-                        for (int i = 0; i < mfcc.length; i ++) {
-                            pr.printf("%16.8f    ", mfcc[i][j]);
-                        }
-                        pr.println();
-                    }
-                    pr.close();
-                } catch (FileNotFoundException e) {
-                    e.printStackTrace();
-                }
-                Log.d(TAG, "PrintWriter finish");
-
-            }
-        });
-        mReadThread.start();
         try {
             mMediaPlayer.setDataSource(mContext, mUri);
         } catch (IOException e) {
@@ -80,17 +67,74 @@ public class MediaController extends BaseController {
             }
         });
         mOnControllerStartStopListener.onStartStop(true);
-        mMediaPlayer.start();
-        super.start();
+        mReadThread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                mAnalyzer = new WaveFileAnalyzer(getRealFilePath(mUri));
+
+                //计算节拍
+                Log.d(TAG, "取前若干秒，获取节拍");
+                mAnalyzer.skip(WaveFileAnalyzer.NEAREST_SECONDS);
+                Beats.BeatsGener beatsGener = mAnalyzer.analysisBeats();
+                Log.d(TAG, "beatsGener = (" + beatsGener.offset + ", " + beatsGener.duration + ")");
+                mAnalyzer.resetHead();
+                mAnalyzer.skip(beatsGener.offset);
+                //触发播放器和开始时间
+                long playerStartTime = System.nanoTime() / 1000000;
+                mMediaPlayer.start();
+                ((Activity) mContext).runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        MediaController.super.start();
+                    }
+                });
+                try {
+                    //发送与计算迭代
+                    while (mAnalyzer.hasNext(beatsGener.duration)) {
+                        //计算下一拍
+                        double stepStartTime = mAnalyzer.getCurrentTime();
+                        double[] maskingMfcc = mAnalyzer.analysisNext(beatsGener.duration);
+                        //转化为可以发送的数据
+                        List<Double> maskingMfccList = new ArrayList<>();
+                        for (int i = 0; i < maskingMfcc.length; i ++) {
+                            maskingMfccList.add(maskingMfcc[i]);
+                        }
+                        String stepName = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].next(maskingMfccList);
+                        int stepBeats = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].getStepBeats(stepName);
+                        Log.d(TAG, "stepName = " + stepName + ", stepBeats = " + stepBeats);
+                        long playerCurrentTime = System.nanoTime() / 1000000 - playerStartTime;
+                        long sleepTime = Math.max(0, Math.round(stepStartTime * 1000) - playerCurrentTime);
+                        //等待然后发送
+                        Thread.sleep(sleepTime);
+                        if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
+                            SendMoveThread.SEND_THREAD.interrupt();
+                        }
+                        SendMoveThread.SEND_THREAD = new SendMoveThread(stepName, stepBeats * beatsGener.duration);
+                        SendMoveThread.SEND_THREAD.start();
+                        //跳过动作剩余节拍
+                        mAnalyzer.skip((stepBeats - 1) * beatsGener.duration);
+                        beatsGener = mAnalyzer.analysisBeats();
+                    }
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        mReadThread.start();
     }
 
     @Override
     public void stop() {
         super.stop();
+        mReadThread.interrupt();
+        if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
+            SendMoveThread.SEND_THREAD.interrupt();
+        }
         mMediaPlayer.pause();
         mMediaPlayer.seekTo(0);
         mVisualizerViewCallBack.getView().release();
         mOnControllerStartStopListener.onStartStop(false);
+        SendMoveThread.sendTerminal();
     }
 
     //从Uri获取绝对路径

@@ -31,6 +31,7 @@ import java.net.UnknownHostException;
 
 import anidance.anidance_android.VisualizerPackage.VisualizerView;
 import anidance.anidance_android.VisualizerPackage.VisualizerViewHelper;
+import anidance.anidance_android.table.TableManager;
 
 public class MainActivity extends UnityPlayerActivity {
 
@@ -51,7 +52,8 @@ public class MainActivity extends UnityPlayerActivity {
     //舞种选择部分
     public static int DANCE_TYPE_COUNT = 4;
     public static String[] DANCE_TYPE_NAME = {"Tangle", "Rumba", "Chacha", "Waltz"};
-    private int mDanceTypeNow;// = 0,1,2,3
+    public static TableManager[] TABLE_MANAGER;
+    public static int DANCE_TYPE_NOW;// = 0,1,2,3
     private CheckBox[] mDanceTypeCheckBox;
 
     //选择文件部分
@@ -142,6 +144,7 @@ public class MainActivity extends UnityPlayerActivity {
                 }
             }
         });
+        /*
         mPlaceHolderView.setOnLongClickListener(new View.OnLongClickListener() {
             @Override
             public boolean onLongClick(View v) {
@@ -155,6 +158,7 @@ public class MainActivity extends UnityPlayerActivity {
                 return true;
             }
         });
+        */
     }
 
     //模式选择部分
@@ -187,7 +191,7 @@ public class MainActivity extends UnityPlayerActivity {
 
     //舞种选择
     private void initDanceTypeView() {
-        mDanceTypeNow = 0;
+        DANCE_TYPE_NOW = 0;
         mDanceTypeCheckBox = new CheckBox[4];
         mDanceTypeCheckBox[0] = findViewById(R.id.dance_type_T_checkbox);
         mDanceTypeCheckBox[1] = findViewById(R.id.dance_type_R_checkbox);
@@ -198,16 +202,27 @@ public class MainActivity extends UnityPlayerActivity {
             mDanceTypeCheckBox[i].setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
                 @Override
                 public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                    if (isChecked && mDanceTypeNow != i_f) {
-                        int j = mDanceTypeNow;
-                        mDanceTypeNow = i_f;
+                    if (isChecked && DANCE_TYPE_NOW != i_f) {
+                        int j = DANCE_TYPE_NOW;
+                        DANCE_TYPE_NOW = i_f;
                         mDanceTypeCheckBox[j].setChecked(false);
-                    } else if (mDanceTypeNow == i_f) {
+                    } else if (DANCE_TYPE_NOW == i_f) {
                         mDanceTypeCheckBox[i_f].setChecked(true);
                     }
                 }
             });
         }
+        //初始化巨大的数据表
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                TABLE_MANAGER = new TableManager[4];
+                TABLE_MANAGER[0] = new TableManager("T");
+                TABLE_MANAGER[1] = new TableManager("R");
+                TABLE_MANAGER[2] = new TableManager("C");
+                TABLE_MANAGER[3] = new TableManager("W");
+            }
+        }).start();
     }
 
     //选择文件部分
@@ -266,7 +281,7 @@ public class MainActivity extends UnityPlayerActivity {
                 mFileStopBtn.setEnabled(isStart);
                 mColumnFileView.setEnabled(!isStart);
                 mColumnLiveView.setEnabled(!isStart);
-                mPlaceHolderView.setEnabled(!isStart);
+                //mPlaceHolderView.setEnabled(!isStart);
             }
         });
     }
@@ -352,7 +367,7 @@ public class MainActivity extends UnityPlayerActivity {
                 mMetronomeStopBtn.setEnabled(isStart);
                 mColumnFileView.setEnabled(!isStart && !mRecorderController.isRunning());
                 mColumnLiveView.setEnabled(!isStart && !mRecorderController.isRunning());
-                mPlaceHolderView.setEnabled(!isStart && !mRecorderController.isRunning());
+                //mPlaceHolderView.setEnabled(!isStart && !mRecorderController.isRunning());
             }
         });
     }
@@ -396,7 +411,7 @@ public class MainActivity extends UnityPlayerActivity {
                 mRecorderStopBtn.setEnabled(isStart);
                 mColumnFileView.setEnabled(!isStart && !mMetronomeController.isRunning());
                 mColumnLiveView.setEnabled(!isStart && !mMetronomeController.isRunning());
-                mPlaceHolderView.setEnabled(!isStart && !mMetronomeController.isRunning());
+                //mPlaceHolderView.setEnabled(!isStart && !mMetronomeController.isRunning());
             }
         });
     }
