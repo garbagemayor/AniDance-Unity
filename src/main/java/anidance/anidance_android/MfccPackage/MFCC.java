@@ -1,5 +1,7 @@
 package anidance.anidance_android.MfccPackage;
 
+import android.util.Log;
+
 public class MFCC {
 
     public static String TAG = "MFCC";
@@ -29,6 +31,7 @@ public class MFCC {
     }
     */
     public double[][] process(double[] doubleInputBuffer) {
+        Log.d(TAG, "doubleInputBuffer.length = " + doubleInputBuffer.length);
         final double[][] mfccResult = dctMfcc(doubleInputBuffer);
         return mfccResult;
     }
