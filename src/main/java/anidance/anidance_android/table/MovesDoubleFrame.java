@@ -8,6 +8,7 @@ public class MovesDoubleFrame {
 
     public static String TAG = "MovesDoubleFrame";
     private static byte[] byteHeader = "{\"center\": ".getBytes();
+    private static double KEEP_CONSTANT = 0.998;
 
     public Vector3d center;
     public String skeletons;
@@ -37,7 +38,8 @@ public class MovesDoubleFrame {
             SendMoveThread.currentCenter.z += center.z - SendMoveThread.lastCenter.z;
         }
         SendMoveThread.lastCenter = center;
-        SendMoveThread.currentCenter.y = 0.98 * SendMoveThread.currentCenter.y + 0.02 * center.y;
+        //SendMoveThread.currentCenter.y = 0.98 * SendMoveThread.currentCenter.y + 0.02 * center.y;
+        keepCenter(center);
         /*
         SendMoveThread.py_ss = SendMoveThread.py_ss * 0.98 + (v.y - 85) * 0.02;
         v.y -= SendMoveThread.py_ss;
@@ -51,10 +53,10 @@ public class MovesDoubleFrame {
         return pos - offset;
     }
 
-    private Vector3d calculateCenter(Vector3d lct, Vector3d ct) {
-        lct.x = lct.x * 0.98 + ct.x * 0.02;
-        lct.y = lct.y * 0.98 + ct.y * 0.02;
-        lct.z = lct.z * 0.98 + ct.z * 0.02;
-        return lct;
+    private void keepCenter(Vector3d ct) {
+        Vector3d cct = SendMoveThread.currentCenter;
+        cct.x = cct.x * KEEP_CONSTANT + ct.x * (1 - KEEP_CONSTANT);
+        cct.y = cct.y * KEEP_CONSTANT + ct.y * (1 - KEEP_CONSTANT);
+        cct.z = cct.z * KEEP_CONSTANT + ct.z * (1 - KEEP_CONSTANT);
     }
 }
