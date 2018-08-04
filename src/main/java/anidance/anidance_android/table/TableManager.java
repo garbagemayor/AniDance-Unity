@@ -7,6 +7,9 @@ import java.util.HashMap;
 import java.util.List;
 
 public class TableManager {
+
+    public static boolean initFinishFlag = false;
+
     private String fileName = "ppp.json";
     private String TAG = "TableManager";
     private Context context;
@@ -15,7 +18,7 @@ public class TableManager {
     private HashMap<String, HashMap<String, EdgesItem>> edges;
     private HashMap<String, MotionItem> motions;
     private HashMap<String, List<String>> startstep;
-    private Moves moves;
+    private MovesDouble moves;
     private String status;
     private int beats;
     private String lastStep;
@@ -26,7 +29,6 @@ public class TableManager {
         this.edges = e.edges.get(dance_type);
         Motions m = new Motions();
         this.motions = m.motions.get(dance_type);
-        this.moves = new Moves();
         this.dance_type = dance_type;
         this.status = "rest";
         this.beats = 0;
@@ -113,8 +115,7 @@ public class TableManager {
         return this.beats;
     }
 
-    public List<String> getMoves(String step) {
-        return this.moves.getMoves(step);
-        //return Arrays.asList("");
+    public MovesDoubleFrame[] getMoves(String step) {
+        return MovesDouble.getMoves(step);
     }
 }

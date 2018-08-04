@@ -31,6 +31,7 @@ import java.net.UnknownHostException;
 
 import anidance.anidance_android.VisualizerPackage.VisualizerView;
 import anidance.anidance_android.VisualizerPackage.VisualizerViewHelper;
+import anidance.anidance_android.table.MovesDouble;
 import anidance.anidance_android.table.TableManager;
 
 public class MainActivity extends UnityPlayerActivity {
@@ -216,11 +217,14 @@ public class MainActivity extends UnityPlayerActivity {
         new Thread(new Runnable() {
             @Override
             public void run() {
+                MovesDouble.init();
                 TABLE_MANAGER = new TableManager[4];
                 TABLE_MANAGER[0] = new TableManager("T");
                 TABLE_MANAGER[1] = new TableManager("R");
                 TABLE_MANAGER[2] = new TableManager("C");
                 TABLE_MANAGER[3] = new TableManager("W");
+                TableManager.initFinishFlag = true;
+                Log.d(TAG, "TableManager init finish");
             }
         }).start();
     }
@@ -252,6 +256,9 @@ public class MainActivity extends UnityPlayerActivity {
         mFileStartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if (! TableManager.initFinishFlag) {
+                    return;
+                }
                 mMediaController.start();
             }
         });
@@ -383,6 +390,9 @@ public class MainActivity extends UnityPlayerActivity {
         mRecorderStartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if (! TableManager.initFinishFlag) {
+                    return;
+                }
                 mRecorderController.start();
             }
         });

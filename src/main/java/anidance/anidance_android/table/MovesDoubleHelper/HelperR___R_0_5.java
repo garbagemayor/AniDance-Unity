@@ -171,246 +171,246 @@ public class HelperR___R_0_5 {
                         getFrame157(),
                         getFrame158(),
                         getFrame159(),
-                        HelperR___R_0_5___Part_1.getFrame160(),
-                        HelperR___R_0_5___Part_1.getFrame161(),
-                        HelperR___R_0_5___Part_1.getFrame162(),
-                        HelperR___R_0_5___Part_1.getFrame163(),
-                        HelperR___R_0_5___Part_1.getFrame164(),
-                        HelperR___R_0_5___Part_1.getFrame165(),
-                        HelperR___R_0_5___Part_1.getFrame166(),
-                        HelperR___R_0_5___Part_1.getFrame167(),
-                        HelperR___R_0_5___Part_1.getFrame168(),
-                        HelperR___R_0_5___Part_1.getFrame169(),
-                        HelperR___R_0_5___Part_1.getFrame170(),
-                        HelperR___R_0_5___Part_1.getFrame171(),
-                        HelperR___R_0_5___Part_1.getFrame172(),
-                        HelperR___R_0_5___Part_1.getFrame173(),
-                        HelperR___R_0_5___Part_1.getFrame174(),
-                        HelperR___R_0_5___Part_1.getFrame175(),
-                        HelperR___R_0_5___Part_1.getFrame176(),
-                        HelperR___R_0_5___Part_1.getFrame177(),
-                        HelperR___R_0_5___Part_1.getFrame178(),
-                        HelperR___R_0_5___Part_1.getFrame179(),
-                        HelperR___R_0_5___Part_1.getFrame180(),
-                        HelperR___R_0_5___Part_1.getFrame181(),
-                        HelperR___R_0_5___Part_1.getFrame182(),
-                        HelperR___R_0_5___Part_1.getFrame183(),
-                        HelperR___R_0_5___Part_1.getFrame184(),
-                        HelperR___R_0_5___Part_1.getFrame185(),
-                        HelperR___R_0_5___Part_1.getFrame186(),
-                        HelperR___R_0_5___Part_1.getFrame187(),
-                        HelperR___R_0_5___Part_1.getFrame188(),
-                        HelperR___R_0_5___Part_1.getFrame189(),
-                        HelperR___R_0_5___Part_1.getFrame190(),
-                        HelperR___R_0_5___Part_1.getFrame191(),
-                        HelperR___R_0_5___Part_1.getFrame192(),
-                        HelperR___R_0_5___Part_1.getFrame193(),
-                        HelperR___R_0_5___Part_1.getFrame194(),
-                        HelperR___R_0_5___Part_1.getFrame195(),
-                        HelperR___R_0_5___Part_1.getFrame196(),
-                        HelperR___R_0_5___Part_1.getFrame197(),
-                        HelperR___R_0_5___Part_1.getFrame198(),
-                        HelperR___R_0_5___Part_1.getFrame199(),
-                        HelperR___R_0_5___Part_1.getFrame200(),
-                        HelperR___R_0_5___Part_1.getFrame201(),
-                        HelperR___R_0_5___Part_1.getFrame202(),
-                        HelperR___R_0_5___Part_1.getFrame203(),
-                        HelperR___R_0_5___Part_1.getFrame204(),
-                        HelperR___R_0_5___Part_1.getFrame205(),
-                        HelperR___R_0_5___Part_1.getFrame206(),
-                        HelperR___R_0_5___Part_1.getFrame207(),
-                        HelperR___R_0_5___Part_1.getFrame208(),
-                        HelperR___R_0_5___Part_1.getFrame209(),
-                        HelperR___R_0_5___Part_1.getFrame210(),
-                        HelperR___R_0_5___Part_1.getFrame211(),
-                        HelperR___R_0_5___Part_1.getFrame212(),
-                        HelperR___R_0_5___Part_1.getFrame213(),
-                        HelperR___R_0_5___Part_1.getFrame214(),
-                        HelperR___R_0_5___Part_1.getFrame215(),
-                        HelperR___R_0_5___Part_1.getFrame216(),
-                        HelperR___R_0_5___Part_1.getFrame217(),
-                        HelperR___R_0_5___Part_1.getFrame218(),
-                        HelperR___R_0_5___Part_1.getFrame219(),
-                        HelperR___R_0_5___Part_1.getFrame220(),
-                        HelperR___R_0_5___Part_1.getFrame221(),
-                        HelperR___R_0_5___Part_1.getFrame222(),
-                        HelperR___R_0_5___Part_1.getFrame223(),
-                        HelperR___R_0_5___Part_1.getFrame224(),
-                        HelperR___R_0_5___Part_1.getFrame225(),
-                        HelperR___R_0_5___Part_1.getFrame226(),
-                        HelperR___R_0_5___Part_1.getFrame227(),
-                        HelperR___R_0_5___Part_1.getFrame228(),
-                        HelperR___R_0_5___Part_1.getFrame229(),
-                        HelperR___R_0_5___Part_1.getFrame230(),
-                        HelperR___R_0_5___Part_1.getFrame231(),
-                        HelperR___R_0_5___Part_1.getFrame232(),
-                        HelperR___R_0_5___Part_1.getFrame233(),
-                        HelperR___R_0_5___Part_1.getFrame234(),
-                        HelperR___R_0_5___Part_1.getFrame235(),
-                        HelperR___R_0_5___Part_1.getFrame236(),
-                        HelperR___R_0_5___Part_1.getFrame237(),
-                        HelperR___R_0_5___Part_1.getFrame238(),
-                        HelperR___R_0_5___Part_1.getFrame239(),
-                        HelperR___R_0_5___Part_1.getFrame240(),
-                        HelperR___R_0_5___Part_1.getFrame241(),
-                        HelperR___R_0_5___Part_1.getFrame242(),
-                        HelperR___R_0_5___Part_1.getFrame243(),
-                        HelperR___R_0_5___Part_1.getFrame244(),
-                        HelperR___R_0_5___Part_1.getFrame245(),
-                        HelperR___R_0_5___Part_1.getFrame246(),
-                        HelperR___R_0_5___Part_1.getFrame247(),
-                        HelperR___R_0_5___Part_1.getFrame248(),
-                        HelperR___R_0_5___Part_1.getFrame249(),
-                        HelperR___R_0_5___Part_1.getFrame250(),
-                        HelperR___R_0_5___Part_1.getFrame251(),
-                        HelperR___R_0_5___Part_1.getFrame252(),
-                        HelperR___R_0_5___Part_1.getFrame253(),
-                        HelperR___R_0_5___Part_1.getFrame254(),
-                        HelperR___R_0_5___Part_1.getFrame255(),
-                        HelperR___R_0_5___Part_1.getFrame256(),
-                        HelperR___R_0_5___Part_1.getFrame257(),
-                        HelperR___R_0_5___Part_1.getFrame258(),
-                        HelperR___R_0_5___Part_1.getFrame259(),
-                        HelperR___R_0_5___Part_1.getFrame260(),
-                        HelperR___R_0_5___Part_1.getFrame261(),
-                        HelperR___R_0_5___Part_1.getFrame262(),
-                        HelperR___R_0_5___Part_1.getFrame263(),
-                        HelperR___R_0_5___Part_1.getFrame264(),
-                        HelperR___R_0_5___Part_1.getFrame265(),
-                        HelperR___R_0_5___Part_1.getFrame266(),
-                        HelperR___R_0_5___Part_1.getFrame267(),
-                        HelperR___R_0_5___Part_1.getFrame268(),
-                        HelperR___R_0_5___Part_1.getFrame269(),
-                        HelperR___R_0_5___Part_1.getFrame270(),
-                        HelperR___R_0_5___Part_1.getFrame271(),
-                        HelperR___R_0_5___Part_1.getFrame272(),
-                        HelperR___R_0_5___Part_1.getFrame273(),
-                        HelperR___R_0_5___Part_1.getFrame274(),
-                        HelperR___R_0_5___Part_1.getFrame275(),
-                        HelperR___R_0_5___Part_1.getFrame276(),
-                        HelperR___R_0_5___Part_1.getFrame277(),
-                        HelperR___R_0_5___Part_1.getFrame278(),
-                        HelperR___R_0_5___Part_1.getFrame279(),
-                        HelperR___R_0_5___Part_1.getFrame280(),
-                        HelperR___R_0_5___Part_1.getFrame281(),
-                        HelperR___R_0_5___Part_1.getFrame282(),
-                        HelperR___R_0_5___Part_1.getFrame283(),
-                        HelperR___R_0_5___Part_1.getFrame284(),
-                        HelperR___R_0_5___Part_1.getFrame285(),
-                        HelperR___R_0_5___Part_1.getFrame286(),
-                        HelperR___R_0_5___Part_1.getFrame287(),
-                        HelperR___R_0_5___Part_1.getFrame288(),
-                        HelperR___R_0_5___Part_1.getFrame289(),
-                        HelperR___R_0_5___Part_1.getFrame290(),
-                        HelperR___R_0_5___Part_1.getFrame291(),
-                        HelperR___R_0_5___Part_1.getFrame292(),
-                        HelperR___R_0_5___Part_1.getFrame293(),
-                        HelperR___R_0_5___Part_1.getFrame294(),
-                        HelperR___R_0_5___Part_1.getFrame295(),
-                        HelperR___R_0_5___Part_1.getFrame296(),
-                        HelperR___R_0_5___Part_1.getFrame297(),
-                        HelperR___R_0_5___Part_1.getFrame298(),
-                        HelperR___R_0_5___Part_1.getFrame299(),
-                        HelperR___R_0_5___Part_1.getFrame300(),
-                        HelperR___R_0_5___Part_1.getFrame301(),
-                        HelperR___R_0_5___Part_1.getFrame302(),
-                        HelperR___R_0_5___Part_1.getFrame303(),
-                        HelperR___R_0_5___Part_1.getFrame304(),
-                        HelperR___R_0_5___Part_1.getFrame305(),
-                        HelperR___R_0_5___Part_1.getFrame306(),
-                        HelperR___R_0_5___Part_1.getFrame307(),
-                        HelperR___R_0_5___Part_1.getFrame308(),
-                        HelperR___R_0_5___Part_1.getFrame309(),
-                        HelperR___R_0_5___Part_1.getFrame310(),
-                        HelperR___R_0_5___Part_1.getFrame311(),
-                        HelperR___R_0_5___Part_1.getFrame312(),
-                        HelperR___R_0_5___Part_1.getFrame313(),
-                        HelperR___R_0_5___Part_1.getFrame314(),
-                        HelperR___R_0_5___Part_1.getFrame315(),
-                        HelperR___R_0_5___Part_1.getFrame316(),
-                        HelperR___R_0_5___Part_1.getFrame317(),
-                        HelperR___R_0_5___Part_1.getFrame318(),
-                        HelperR___R_0_5___Part_1.getFrame319(),
-                        HelperR___R_0_5___Part_2.getFrame320(),
-                        HelperR___R_0_5___Part_2.getFrame321(),
-                        HelperR___R_0_5___Part_2.getFrame322(),
-                        HelperR___R_0_5___Part_2.getFrame323(),
-                        HelperR___R_0_5___Part_2.getFrame324(),
-                        HelperR___R_0_5___Part_2.getFrame325(),
-                        HelperR___R_0_5___Part_2.getFrame326(),
-                        HelperR___R_0_5___Part_2.getFrame327(),
-                        HelperR___R_0_5___Part_2.getFrame328(),
-                        HelperR___R_0_5___Part_2.getFrame329(),
-                        HelperR___R_0_5___Part_2.getFrame330(),
-                        HelperR___R_0_5___Part_2.getFrame331(),
-                        HelperR___R_0_5___Part_2.getFrame332(),
-                        HelperR___R_0_5___Part_2.getFrame333(),
-                        HelperR___R_0_5___Part_2.getFrame334(),
-                        HelperR___R_0_5___Part_2.getFrame335(),
-                        HelperR___R_0_5___Part_2.getFrame336(),
-                        HelperR___R_0_5___Part_2.getFrame337(),
-                        HelperR___R_0_5___Part_2.getFrame338(),
-                        HelperR___R_0_5___Part_2.getFrame339(),
-                        HelperR___R_0_5___Part_2.getFrame340(),
-                        HelperR___R_0_5___Part_2.getFrame341(),
-                        HelperR___R_0_5___Part_2.getFrame342(),
-                        HelperR___R_0_5___Part_2.getFrame343(),
-                        HelperR___R_0_5___Part_2.getFrame344(),
-                        HelperR___R_0_5___Part_2.getFrame345(),
-                        HelperR___R_0_5___Part_2.getFrame346(),
-                        HelperR___R_0_5___Part_2.getFrame347(),
-                        HelperR___R_0_5___Part_2.getFrame348(),
-                        HelperR___R_0_5___Part_2.getFrame349(),
-                        HelperR___R_0_5___Part_2.getFrame350(),
-                        HelperR___R_0_5___Part_2.getFrame351(),
-                        HelperR___R_0_5___Part_2.getFrame352(),
-                        HelperR___R_0_5___Part_2.getFrame353(),
-                        HelperR___R_0_5___Part_2.getFrame354(),
-                        HelperR___R_0_5___Part_2.getFrame355(),
-                        HelperR___R_0_5___Part_2.getFrame356(),
-                        HelperR___R_0_5___Part_2.getFrame357(),
-                        HelperR___R_0_5___Part_2.getFrame358(),
-                        HelperR___R_0_5___Part_2.getFrame359(),
-                        HelperR___R_0_5___Part_2.getFrame360(),
-                        HelperR___R_0_5___Part_2.getFrame361(),
-                        HelperR___R_0_5___Part_2.getFrame362(),
-                        HelperR___R_0_5___Part_2.getFrame363(),
-                        HelperR___R_0_5___Part_2.getFrame364(),
-                        HelperR___R_0_5___Part_2.getFrame365(),
-                        HelperR___R_0_5___Part_2.getFrame366(),
-                        HelperR___R_0_5___Part_2.getFrame367(),
-                        HelperR___R_0_5___Part_2.getFrame368(),
-                        HelperR___R_0_5___Part_2.getFrame369(),
-                        HelperR___R_0_5___Part_2.getFrame370(),
-                        HelperR___R_0_5___Part_2.getFrame371(),
-                        HelperR___R_0_5___Part_2.getFrame372(),
-                        HelperR___R_0_5___Part_2.getFrame373(),
-                        HelperR___R_0_5___Part_2.getFrame374(),
-                        HelperR___R_0_5___Part_2.getFrame375(),
-                        HelperR___R_0_5___Part_2.getFrame376(),
-                        HelperR___R_0_5___Part_2.getFrame377(),
-                        HelperR___R_0_5___Part_2.getFrame378(),
-                        HelperR___R_0_5___Part_2.getFrame379(),
-                        HelperR___R_0_5___Part_2.getFrame380(),
-                        HelperR___R_0_5___Part_2.getFrame381(),
-                        HelperR___R_0_5___Part_2.getFrame382(),
-                        HelperR___R_0_5___Part_2.getFrame383(),
-                        HelperR___R_0_5___Part_2.getFrame384(),
-                        HelperR___R_0_5___Part_2.getFrame385(),
-                        HelperR___R_0_5___Part_2.getFrame386(),
-                        HelperR___R_0_5___Part_2.getFrame387(),
-                        HelperR___R_0_5___Part_2.getFrame388(),
-                        HelperR___R_0_5___Part_2.getFrame389(),
-                        HelperR___R_0_5___Part_2.getFrame390(),
-                        HelperR___R_0_5___Part_2.getFrame391(),
-                        HelperR___R_0_5___Part_2.getFrame392(),
-                        HelperR___R_0_5___Part_2.getFrame393(),
-                        HelperR___R_0_5___Part_2.getFrame394(),
-                        HelperR___R_0_5___Part_2.getFrame395(),
-                        HelperR___R_0_5___Part_2.getFrame396(),
-                        HelperR___R_0_5___Part_2.getFrame397(),
-                        HelperR___R_0_5___Part_2.getFrame398(),
-                        HelperR___R_0_5___Part_2.getFrame399(),
+                        getFrame160(),
+                        getFrame161(),
+                        getFrame162(),
+                        getFrame163(),
+                        getFrame164(),
+                        getFrame165(),
+                        getFrame166(),
+                        getFrame167(),
+                        getFrame168(),
+                        getFrame169(),
+                        getFrame170(),
+                        getFrame171(),
+                        getFrame172(),
+                        getFrame173(),
+                        getFrame174(),
+                        getFrame175(),
+                        getFrame176(),
+                        getFrame177(),
+                        getFrame178(),
+                        getFrame179(),
+                        getFrame180(),
+                        getFrame181(),
+                        getFrame182(),
+                        getFrame183(),
+                        getFrame184(),
+                        getFrame185(),
+                        getFrame186(),
+                        getFrame187(),
+                        getFrame188(),
+                        getFrame189(),
+                        getFrame190(),
+                        getFrame191(),
+                        getFrame192(),
+                        getFrame193(),
+                        getFrame194(),
+                        getFrame195(),
+                        getFrame196(),
+                        getFrame197(),
+                        getFrame198(),
+                        getFrame199(),
+                        getFrame200(),
+                        getFrame201(),
+                        getFrame202(),
+                        getFrame203(),
+                        getFrame204(),
+                        getFrame205(),
+                        getFrame206(),
+                        getFrame207(),
+                        getFrame208(),
+                        getFrame209(),
+                        getFrame210(),
+                        getFrame211(),
+                        getFrame212(),
+                        getFrame213(),
+                        getFrame214(),
+                        getFrame215(),
+                        getFrame216(),
+                        getFrame217(),
+                        getFrame218(),
+                        getFrame219(),
+                        getFrame220(),
+                        getFrame221(),
+                        getFrame222(),
+                        getFrame223(),
+                        getFrame224(),
+                        getFrame225(),
+                        getFrame226(),
+                        getFrame227(),
+                        getFrame228(),
+                        getFrame229(),
+                        getFrame230(),
+                        getFrame231(),
+                        getFrame232(),
+                        getFrame233(),
+                        getFrame234(),
+                        getFrame235(),
+                        getFrame236(),
+                        getFrame237(),
+                        getFrame238(),
+                        getFrame239(),
+                        getFrame240(),
+                        getFrame241(),
+                        getFrame242(),
+                        getFrame243(),
+                        getFrame244(),
+                        getFrame245(),
+                        getFrame246(),
+                        getFrame247(),
+                        getFrame248(),
+                        getFrame249(),
+                        getFrame250(),
+                        getFrame251(),
+                        getFrame252(),
+                        getFrame253(),
+                        getFrame254(),
+                        getFrame255(),
+                        getFrame256(),
+                        getFrame257(),
+                        getFrame258(),
+                        getFrame259(),
+                        getFrame260(),
+                        getFrame261(),
+                        getFrame262(),
+                        getFrame263(),
+                        getFrame264(),
+                        getFrame265(),
+                        getFrame266(),
+                        getFrame267(),
+                        getFrame268(),
+                        getFrame269(),
+                        getFrame270(),
+                        getFrame271(),
+                        getFrame272(),
+                        getFrame273(),
+                        getFrame274(),
+                        getFrame275(),
+                        getFrame276(),
+                        getFrame277(),
+                        getFrame278(),
+                        getFrame279(),
+                        getFrame280(),
+                        getFrame281(),
+                        getFrame282(),
+                        getFrame283(),
+                        getFrame284(),
+                        getFrame285(),
+                        getFrame286(),
+                        getFrame287(),
+                        getFrame288(),
+                        getFrame289(),
+                        getFrame290(),
+                        getFrame291(),
+                        getFrame292(),
+                        getFrame293(),
+                        getFrame294(),
+                        getFrame295(),
+                        getFrame296(),
+                        getFrame297(),
+                        getFrame298(),
+                        getFrame299(),
+                        getFrame300(),
+                        getFrame301(),
+                        getFrame302(),
+                        getFrame303(),
+                        getFrame304(),
+                        getFrame305(),
+                        getFrame306(),
+                        getFrame307(),
+                        getFrame308(),
+                        getFrame309(),
+                        getFrame310(),
+                        getFrame311(),
+                        getFrame312(),
+                        getFrame313(),
+                        getFrame314(),
+                        getFrame315(),
+                        getFrame316(),
+                        getFrame317(),
+                        getFrame318(),
+                        getFrame319(),
+                        getFrame320(),
+                        getFrame321(),
+                        getFrame322(),
+                        getFrame323(),
+                        getFrame324(),
+                        getFrame325(),
+                        getFrame326(),
+                        getFrame327(),
+                        getFrame328(),
+                        getFrame329(),
+                        getFrame330(),
+                        getFrame331(),
+                        getFrame332(),
+                        getFrame333(),
+                        getFrame334(),
+                        getFrame335(),
+                        getFrame336(),
+                        getFrame337(),
+                        getFrame338(),
+                        getFrame339(),
+                        getFrame340(),
+                        getFrame341(),
+                        getFrame342(),
+                        getFrame343(),
+                        getFrame344(),
+                        getFrame345(),
+                        getFrame346(),
+                        getFrame347(),
+                        getFrame348(),
+                        getFrame349(),
+                        getFrame350(),
+                        getFrame351(),
+                        getFrame352(),
+                        getFrame353(),
+                        getFrame354(),
+                        getFrame355(),
+                        getFrame356(),
+                        getFrame357(),
+                        getFrame358(),
+                        getFrame359(),
+                        getFrame360(),
+                        getFrame361(),
+                        getFrame362(),
+                        getFrame363(),
+                        getFrame364(),
+                        getFrame365(),
+                        getFrame366(),
+                        getFrame367(),
+                        getFrame368(),
+                        getFrame369(),
+                        getFrame370(),
+                        getFrame371(),
+                        getFrame372(),
+                        getFrame373(),
+                        getFrame374(),
+                        getFrame375(),
+                        getFrame376(),
+                        getFrame377(),
+                        getFrame378(),
+                        getFrame379(),
+                        getFrame380(),
+                        getFrame381(),
+                        getFrame382(),
+                        getFrame383(),
+                        getFrame384(),
+                        getFrame385(),
+                        getFrame386(),
+                        getFrame387(),
+                        getFrame388(),
+                        getFrame389(),
+                        getFrame390(),
+                        getFrame391(),
+                        getFrame392(),
+                        getFrame393(),
+                        getFrame394(),
+                        getFrame395(),
+                        getFrame396(),
+                        getFrame397(),
+                        getFrame398(),
+                        getFrame399(),
                 }
         );
     }
@@ -418,4960 +418,2800 @@ public class HelperR___R_0_5 {
     private static MovesDoubleFrame getFrame0() {
         return new MovesDoubleFrame(
                 new Vector3d(81.75869929616046, 87.68977662063224, 44.18700654564834),
-                new Vector3d[] {
-                    new Vector3d(-2.00984065358234, 79.73668211960214, -7.24078767357803),
-                    new Vector3d(-8.76133296315264, 79.25146483444587, 1.46850492896104),
-                    new Vector3d(-4.20030391041827, 28.49593504928964, -2.77754151879287),
-                    new Vector3d(9.83408634837079, 57.67958373093026, -15.95053498803115),
-                    new Vector3d(16.80016911204267, 22.72699584030525, -15.28701875267959),
-                    new Vector3d(17.64867985423017, 10.43263548874276, -16.93421113549209),
-                    new Vector3d(21.24249088938642, 0.57412108444589, -13.31267793236709),
-                    new Vector3d(3.86484806712080, 17.21574706100839, -8.30815827904677),
-                    new Vector3d(5.06943791087079, -37.93629456496818, -11.81803681908584),
-                    new Vector3d(4.63238957102705, -72.50960694289788, -6.68225190697646),
-                    new Vector3d(3.80665104563641, -79.49229584670647, 1.41782133521104),
-                    new Vector3d(-8.38752620045733, -80.96628113723381, -14.77944734154677),
-                    new Vector3d(-13.33907649342608, 57.74849242233651, 13.12466337622666),
-                    new Vector3d(-14.13687922780109, 21.08301390671150, 17.62360136450791),
-                    new Vector3d(-14.49896724049638, 7.18332518600837, 20.75371611060167),
-                    new Vector3d(-16.72295100514484, -2.63442994094474, 17.00259306372666),
-                    new Vector3d(-7.44449031178546, 16.99478148483651, 7.95783598364854),
-                    new Vector3d(-1.83360774342609, -37.18974915481193, 11.39767973364854),
-                    new Vector3d(7.44055607493330, -73.79988556838614, 10.57758085669541),
-                    new Vector3d(13.85537541087079, -80.71468583083733, 4.61613981665635),
-                    new Vector3d(-7.37146785084796, -81.07926026321037, 8.80424101294541),
-                    new Vector3d(-15.55773494069170, 10.20016478561776, 17.75928862036729),
-                    new Vector3d(18.56294377024579, -2.15372925735099, -15.81067903099990),
-                }
+                "\"skeletons\": [{\"x\": -2.0098, \"y\": 79.7367, \"z\": -7.2408}, {\"x\": -8.7613, \"y\": 79.2515, \"z\": 1.4685}, {\"x\": -4.2003, \"y\": 28.4959, \"z\": -2.7775}, {\"x\": 9.8341, \"y\": 57.6796, \"z\": -15.9505}, {\"x\": 16.8002, \"y\": 22.7270, \"z\": -15.2870}, {\"x\": 17.6487, \"y\": 10.4326, \"z\": -16.9342}, {\"x\": 21.2425, \"y\": 0.5741, \"z\": -13.3127}, {\"x\": 3.8648, \"y\": 17.2157, \"z\": -8.3082}, {\"x\": 5.0694, \"y\": -37.9363, \"z\": -11.8180}, {\"x\": 4.6324, \"y\": -72.5096, \"z\": -6.6823}, {\"x\": 3.8067, \"y\": -79.4923, \"z\": 1.4178}, {\"x\": -8.3875, \"y\": -80.9663, \"z\": -14.7794}, {\"x\": -13.3391, \"y\": 57.7485, \"z\": 13.1247}, {\"x\": -14.1369, \"y\": 21.0830, \"z\": 17.6236}, {\"x\": -14.4990, \"y\": 7.1833, \"z\": 20.7537}, {\"x\": -16.7230, \"y\": -2.6344, \"z\": 17.0026}, {\"x\": -7.4445, \"y\": 16.9948, \"z\": 7.9578}, {\"x\": -1.8336, \"y\": -37.1897, \"z\": 11.3977}, {\"x\": 7.4406, \"y\": -73.7999, \"z\": 10.5776}, {\"x\": 13.8554, \"y\": -80.7147, \"z\": 4.6161}, {\"x\": -7.3715, \"y\": -81.0793, \"z\": 8.8042}, {\"x\": -15.5577, \"y\": 10.2002, \"z\": 17.7593}, {\"x\": 18.5629, \"y\": -2.1537, \"z\": -15.8107}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame1() {
         return new MovesDoubleFrame(
                 new Vector3d(81.72877671398986, 87.68404205637533, 43.96118152412505),
-                new Vector3d[] {
-                    new Vector3d(-1.83154095644414, 79.74188306220726, -7.28054579937616),
-                    new Vector3d(-8.71348719319079, 79.22044127414333, 1.35898078579403),
-                    new Vector3d(-4.22406694916031, 28.48490343968904, -2.83715136740390),
-                    new Vector3d(10.05878551433486, 57.67481639346018, -15.89566587495574),
-                    new Vector3d(16.91873309752623, 22.65404406468905, -15.08486752440407),
-                    new Vector3d(17.76293702164317, 10.35387296739014, -16.76881846009290),
-                    new Vector3d(21.27262564138588, 0.48343627079024, -13.09536326525154),
-                    new Vector3d(3.98820342709773, 17.23673550398065, -8.26134365736342),
-                    new Vector3d(5.23911662164414, -37.85903464496350, -11.81857230025972),
-                    new Vector3d(4.72617895827184, -72.45159173654498, -6.54425408131147),
-                    new Vector3d(3.84953621004385, -79.48544952669603, 1.59987486440487),
-                    new Vector3d(-8.35064840983102, -80.96628490447765, -14.56553955665755),
-                    new Vector3d(-13.45969213731380, 57.80590023710250, 13.05147883465765),
-                    new Vector3d(-14.37795512571743, 21.16814676528821, 17.31297443156006),
-                    new Vector3d(-14.89422791676487, 7.17273508698356, 20.36961613500079),
-                    new Vector3d(-17.03017105372103, -2.52805034675460, 16.43353481995781),
-                    new Vector3d(-7.58115846181646, 17.00611419668408, 7.88075265320671),
-                    new Vector3d(-1.82809980504269, -37.16070025460528, 11.46325187382294),
-                    new Vector3d(7.51944561796306, -73.76769926993536, 10.76628784509879),
-                    new Vector3d(13.88919593675321, -80.69519184858045, 4.84030982173227),
-                    new Vector3d(-7.34600337439087, -81.08415512247257, 9.03082300807949),
-                    new Vector3d(-15.90701917989584, 10.22946944454494, 17.39378687526699),
-                    new Vector3d(18.62540882921385, -2.24538859900142, -15.64955308015135),
-                }
+                "\"skeletons\": [{\"x\": -1.8315, \"y\": 79.7419, \"z\": -7.2805}, {\"x\": -8.7135, \"y\": 79.2204, \"z\": 1.3590}, {\"x\": -4.2241, \"y\": 28.4849, \"z\": -2.8372}, {\"x\": 10.0588, \"y\": 57.6748, \"z\": -15.8957}, {\"x\": 16.9187, \"y\": 22.6540, \"z\": -15.0849}, {\"x\": 17.7629, \"y\": 10.3539, \"z\": -16.7688}, {\"x\": 21.2726, \"y\": 0.4834, \"z\": -13.0954}, {\"x\": 3.9882, \"y\": 17.2367, \"z\": -8.2613}, {\"x\": 5.2391, \"y\": -37.8590, \"z\": -11.8186}, {\"x\": 4.7262, \"y\": -72.4516, \"z\": -6.5443}, {\"x\": 3.8495, \"y\": -79.4854, \"z\": 1.5999}, {\"x\": -8.3506, \"y\": -80.9663, \"z\": -14.5655}, {\"x\": -13.4597, \"y\": 57.8059, \"z\": 13.0515}, {\"x\": -14.3780, \"y\": 21.1681, \"z\": 17.3130}, {\"x\": -14.8942, \"y\": 7.1727, \"z\": 20.3696}, {\"x\": -17.0302, \"y\": -2.5281, \"z\": 16.4335}, {\"x\": -7.5812, \"y\": 17.0061, \"z\": 7.8808}, {\"x\": -1.8281, \"y\": -37.1607, \"z\": 11.4633}, {\"x\": 7.5194, \"y\": -73.7677, \"z\": 10.7663}, {\"x\": 13.8892, \"y\": -80.6952, \"z\": 4.8403}, {\"x\": -7.3460, \"y\": -81.0842, \"z\": 9.0308}, {\"x\": -15.9070, \"y\": 10.2295, \"z\": 17.3938}, {\"x\": 18.6254, \"y\": -2.2454, \"z\": -15.6496}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame2() {
         return new MovesDoubleFrame(
                 new Vector3d(81.69364890975295, 87.67209803193387, 43.74603922270470),
-                new Vector3d[] {
-                    new Vector3d(-1.66618375486133, 79.74044102138791, -7.33992989420767),
-                    new Vector3d(-8.58718724472613, 79.24153827746754, 1.22106838472330),
-                    new Vector3d(-4.17623785128403, 28.50919167916027, -2.95189802789026),
-                    new Vector3d(10.22871770624994, 57.61158682718657, -15.77491802218141),
-                    new Vector3d(16.96931931708856, 22.52722504382192, -15.04505842292693),
-                    new Vector3d(17.85569155872781, 10.25309598031843, -16.65308194547843),
-                    new Vector3d(21.25888608373663, 0.38852196287737, -13.01054197509960),
-                    new Vector3d(4.09221298466816, 17.22712533776969, -8.20921145840870),
-                    new Vector3d(5.22525329571188, -37.87891344846592, -11.74232042253043),
-                    new Vector3d(4.79732362350891, -72.43979174130496, -6.35922966187636),
-                    new Vector3d(3.86353572358331, -79.47440082221952, 1.84009545603317),
-                    new Vector3d(-8.32478604825350, -80.96040903274829, -14.34675949873657),
-                    new Vector3d(-13.53558514071121, 57.89795744734050, 12.85196318382432),
-                    new Vector3d(-14.61285309391942, 21.16525731933492, 17.08226733776386),
-                    new Vector3d(-15.20025821408067, 7.22961106716887, 20.08162138236021),
-                    new Vector3d(-17.26262532111829, -2.50476433820247, 16.10873265572184),
-                    new Vector3d(-7.62768498871990, 17.01983543026165, 7.79999931648385),
-                    new Vector3d(-1.80778797139632, -37.17814975180973, 11.42861879685593),
-                    new Vector3d(7.57575283557717, -73.75423527889038, 10.93592621946518),
-                    new Vector3d(13.92945170371920, -80.68309837978838, 5.05134450302809),
-                    new Vector3d(-7.29930492601432, -81.09659107492037, 9.26548043642849),
-                    new Vector3d(-16.17812846496422, 10.28993935523522, 17.08821968812218),
-                    new Vector3d(18.66011091706018, -2.33019230325672, -15.61439999738309),
-                }
+                "\"skeletons\": [{\"x\": -1.6662, \"y\": 79.7404, \"z\": -7.3399}, {\"x\": -8.5872, \"y\": 79.2415, \"z\": 1.2211}, {\"x\": -4.1762, \"y\": 28.5092, \"z\": -2.9519}, {\"x\": 10.2287, \"y\": 57.6116, \"z\": -15.7749}, {\"x\": 16.9693, \"y\": 22.5272, \"z\": -15.0451}, {\"x\": 17.8557, \"y\": 10.2531, \"z\": -16.6531}, {\"x\": 21.2589, \"y\": 0.3885, \"z\": -13.0105}, {\"x\": 4.0922, \"y\": 17.2271, \"z\": -8.2092}, {\"x\": 5.2253, \"y\": -37.8789, \"z\": -11.7423}, {\"x\": 4.7973, \"y\": -72.4398, \"z\": -6.3592}, {\"x\": 3.8635, \"y\": -79.4744, \"z\": 1.8401}, {\"x\": -8.3248, \"y\": -80.9604, \"z\": -14.3468}, {\"x\": -13.5356, \"y\": 57.8980, \"z\": 12.8520}, {\"x\": -14.6129, \"y\": 21.1653, \"z\": 17.0823}, {\"x\": -15.2003, \"y\": 7.2296, \"z\": 20.0816}, {\"x\": -17.2626, \"y\": -2.5048, \"z\": 16.1087}, {\"x\": -7.6277, \"y\": 17.0198, \"z\": 7.8000}, {\"x\": -1.8078, \"y\": -37.1781, \"z\": 11.4286}, {\"x\": 7.5758, \"y\": -73.7542, \"z\": 10.9359}, {\"x\": 13.9295, \"y\": -80.6831, \"z\": 5.0513}, {\"x\": -7.2993, \"y\": -81.0966, \"z\": 9.2655}, {\"x\": -16.1781, \"y\": 10.2899, \"z\": 17.0882}, {\"x\": 18.6601, \"y\": -2.3302, \"z\": -15.6144}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame3() {
         return new MovesDoubleFrame(
                 new Vector3d(81.63605745932213, 87.65386492639820, 43.53981405958087),
-                new Vector3d[] {
-                    new Vector3d(-1.50001486871474, 79.73086669330046, -7.42349243275991),
-                    new Vector3d(-8.51979193436472, 79.24978286495519, 1.08831065359979),
-                    new Vector3d(-4.12362037601327, 28.50170281069356, -2.98959263504786),
-                    new Vector3d(10.42318009684857, 57.56162322635673, -15.75736292900785),
-                    new Vector3d(17.09762678791706, 22.52851702334922, -14.91807338281571),
-                    new Vector3d(17.87989501953125, 10.20667690058136, -16.59401929006430),
-                    new Vector3d(21.18852419745654, 0.27408164902474, -12.93021258702741),
-                    new Vector3d(4.15222158790532, 17.18714675196764, -8.26064629917644),
-                    new Vector3d(5.19197635507226, -37.94161925484627, -11.63058928408010),
-                    new Vector3d(4.85305460306039, -72.41115150297759, -6.19202112295464),
-                    new Vector3d(3.92700791896734, -79.47964667546385, 2.05815877013747),
-                    new Vector3d(-8.28292860447016, -80.96015291275202, -14.12914837253611),
-                    new Vector3d(-13.62808222949953, 57.88747193626627, 12.73489999300666),
-                    new Vector3d(-14.84553241012688, 21.23022665019954, 16.86682973190468),
-                    new Vector3d(-15.42045925972157, 7.27670521997604, 19.87126132021384),
-                    new Vector3d(-17.43755731797756, -2.46962053245435, 15.87064759565586),
-                    new Vector3d(-7.65964002107320, 17.00903841043509, 7.69544862334104),
-                    new Vector3d(-1.89912894112723, -37.15097335145254, 11.50527320692524),
-                    new Vector3d(7.63757783129699, -73.71622283609554, 11.10019329217254),
-                    new Vector3d(13.98701864830533, -80.66525522809543, 5.25017401791267),
-                    new Vector3d(-7.23353895603265, -81.09337998716718, 9.50039429516831),
-                    new Vector3d(-16.38216002041235, 10.33045849201110, 16.87396341082856),
-                    new Vector3d(18.62384923490367, -2.39373836793661, -15.61987958747531),
-                }
+                "\"skeletons\": [{\"x\": -1.5000, \"y\": 79.7309, \"z\": -7.4235}, {\"x\": -8.5198, \"y\": 79.2498, \"z\": 1.0883}, {\"x\": -4.1236, \"y\": 28.5017, \"z\": -2.9896}, {\"x\": 10.4232, \"y\": 57.5616, \"z\": -15.7574}, {\"x\": 17.0976, \"y\": 22.5285, \"z\": -14.9181}, {\"x\": 17.8799, \"y\": 10.2067, \"z\": -16.5940}, {\"x\": 21.1885, \"y\": 0.2741, \"z\": -12.9302}, {\"x\": 4.1522, \"y\": 17.1871, \"z\": -8.2606}, {\"x\": 5.1920, \"y\": -37.9416, \"z\": -11.6306}, {\"x\": 4.8531, \"y\": -72.4112, \"z\": -6.1920}, {\"x\": 3.9270, \"y\": -79.4796, \"z\": 2.0582}, {\"x\": -8.2829, \"y\": -80.9602, \"z\": -14.1291}, {\"x\": -13.6281, \"y\": 57.8875, \"z\": 12.7349}, {\"x\": -14.8455, \"y\": 21.2302, \"z\": 16.8668}, {\"x\": -15.4205, \"y\": 7.2767, \"z\": 19.8713}, {\"x\": -17.4376, \"y\": -2.4696, \"z\": 15.8706}, {\"x\": -7.6596, \"y\": 17.0090, \"z\": 7.6954}, {\"x\": -1.8991, \"y\": -37.1510, \"z\": 11.5053}, {\"x\": 7.6376, \"y\": -73.7162, \"z\": 11.1002}, {\"x\": 13.9870, \"y\": -80.6653, \"z\": 5.2502}, {\"x\": -7.2335, \"y\": -81.0934, \"z\": 9.5004}, {\"x\": -16.3822, \"y\": 10.3305, \"z\": 16.8740}, {\"x\": 18.6238, \"y\": -2.3937, \"z\": -15.6199}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame4() {
         return new MovesDoubleFrame(
                 new Vector3d(81.55236825584470, 87.62901122730207, 43.31264785998855),
-                new Vector3d[] {
-                    new Vector3d(-1.34531470277255, 79.71582542793465, -7.49310639157141),
-                    new Vector3d(-8.43628938526737, 79.26618887010940, 0.98327159945718),
-                    new Vector3d(-4.05697907182509, 28.52038893019616, -3.03475338625538),
-                    new Vector3d(10.62257867875254, 57.59676411804371, -15.64795606305236),
-                    new Vector3d(17.00692591464010, 22.37561223932347, -14.89307104013129),
-                    new Vector3d(17.85121914282776, 10.18524563678197, -16.57816873309416),
-                    new Vector3d(21.03583910949247, 0.16762584266777, -12.88478044670436),
-                    new Vector3d(4.20551491644149, 17.16381816673968, -8.24067115767368),
-                    new Vector3d(5.09917360845962, -37.89383533591344, -11.73402568351465),
-                    new Vector3d(4.91391561790217, -72.37961111951918, -6.00081077980028),
-                    new Vector3d(4.02619729866658, -79.45265586631965, 2.27180695227404),
-                    new Vector3d(-8.21664228319824, -80.94084332448229, -13.88987080932968),
-                    new Vector3d(-13.73162214618579, 57.93042581745828, 12.53297998831874),
-                    new Vector3d(-14.99992418791119, 21.23545572621454, 16.68056978801329),
-                    new Vector3d(-15.61106443476857, 7.29760986797763, 19.71751601252232),
-                    new Vector3d(-17.61533819595376, -2.44154179077129, 15.70662237676055),
-                    new Vector3d(-7.69563155018895, 17.01121426012256, 7.59939966528826),
-                    new Vector3d(-1.94096008147812, -37.16862768635742, 11.51855631010466),
-                    new Vector3d(7.69032065025845, -73.69167004490882, 11.30174767168732),
-                    new Vector3d(14.05880131542234, -80.63522403448177, 5.47134540258683),
-                    new Vector3d(-7.16738161933154, -81.07469684293723, 9.71930572698181),
-                    new Vector3d(-16.55196722886319, 10.36594986928706, 16.70040171646724),
-                    new Vector3d(18.51472847156954, -2.48021854552438, -15.59014354775533),
-                }
+                "\"skeletons\": [{\"x\": -1.3453, \"y\": 79.7158, \"z\": -7.4931}, {\"x\": -8.4363, \"y\": 79.2662, \"z\": 0.9833}, {\"x\": -4.0570, \"y\": 28.5204, \"z\": -3.0348}, {\"x\": 10.6226, \"y\": 57.5968, \"z\": -15.6480}, {\"x\": 17.0069, \"y\": 22.3756, \"z\": -14.8931}, {\"x\": 17.8512, \"y\": 10.1852, \"z\": -16.5782}, {\"x\": 21.0358, \"y\": 0.1676, \"z\": -12.8848}, {\"x\": 4.2055, \"y\": 17.1638, \"z\": -8.2407}, {\"x\": 5.0992, \"y\": -37.8938, \"z\": -11.7340}, {\"x\": 4.9139, \"y\": -72.3796, \"z\": -6.0008}, {\"x\": 4.0262, \"y\": -79.4527, \"z\": 2.2718}, {\"x\": -8.2166, \"y\": -80.9408, \"z\": -13.8899}, {\"x\": -13.7316, \"y\": 57.9304, \"z\": 12.5330}, {\"x\": -14.9999, \"y\": 21.2355, \"z\": 16.6806}, {\"x\": -15.6111, \"y\": 7.2976, \"z\": 19.7175}, {\"x\": -17.6153, \"y\": -2.4415, \"z\": 15.7066}, {\"x\": -7.6956, \"y\": 17.0112, \"z\": 7.5994}, {\"x\": -1.9410, \"y\": -37.1686, \"z\": 11.5186}, {\"x\": 7.6903, \"y\": -73.6917, \"z\": 11.3017}, {\"x\": 14.0588, \"y\": -80.6352, \"z\": 5.4713}, {\"x\": -7.1674, \"y\": -81.0747, \"z\": 9.7193}, {\"x\": -16.5520, \"y\": 10.3659, \"z\": 16.7004}, {\"x\": 18.5147, \"y\": -2.4802, \"z\": -15.5901}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame5() {
         return new MovesDoubleFrame(
                 new Vector3d(81.47329001460216, 87.61055041731215, 43.09790928407669),
-                new Vector3d[] {
-                    new Vector3d(-1.17433009802604, 79.72794886127981, -7.56447447023544),
-                    new Vector3d(-8.31726190569465, 79.26688624685804, 0.86016762129097),
-                    new Vector3d(-4.06892214607832, 28.51686801279632, -3.13979210162471),
-                    new Vector3d(10.83725269960523, 57.59896834419122, -15.52851533258419),
-                    new Vector3d(16.99187400934932, 22.30516807814523, -14.89429874864387),
-                    new Vector3d(17.81927549034674, 10.14263200774463, -16.59055932807095),
-                    new Vector3d(20.91212376857404, 0.08584254262675, -12.92151538795944),
-                    new Vector3d(4.27116947702241, 17.18026660632605, -8.27466345588316),
-                    new Vector3d(5.02066387953259, -37.93241321792942, -11.65809664823905),
-                    new Vector3d(4.99760005542152, -72.38195911407237, -5.81254686068423),
-                    new Vector3d(4.09640696343865, -79.45418553086814, 2.51062691084176),
-                    new Vector3d(-8.14886613140785, -80.91466035684910, -13.67181468203203),
-                    new Vector3d(-13.83325026373574, 57.93016501873890, 12.34782784622465),
-                    new Vector3d(-15.16907193461215, 21.28080039624517, 16.49317923127908),
-                    new Vector3d(-15.83644248654129, 7.35409005043435, 19.60373604934965),
-                    new Vector3d(-17.75340228257679, -2.39679367438061, 15.53745436307831),
-                    new Vector3d(-7.74380774722718, 17.01971700845441, 7.49969720085512),
-                    new Vector3d(-1.97313949181081, -37.17096901905332, 11.55372671816035),
-                    new Vector3d(7.75244236138174, -73.66967062230461, 11.48288517032102),
-                    new Vector3d(14.13140328297283, -80.62268080660937, 5.68719043574288),
-                    new Vector3d(-7.08839996354678, -81.06382681777069, 9.95703167244058),
-                    new Vector3d(-16.71165354733537, 10.39525804916654, 16.55256625474595),
-                    new Vector3d(18.30286783301982, -2.46940726095936, -15.69080714763206),
-                }
+                "\"skeletons\": [{\"x\": -1.1743, \"y\": 79.7279, \"z\": -7.5645}, {\"x\": -8.3173, \"y\": 79.2669, \"z\": 0.8602}, {\"x\": -4.0689, \"y\": 28.5169, \"z\": -3.1398}, {\"x\": 10.8373, \"y\": 57.5990, \"z\": -15.5285}, {\"x\": 16.9919, \"y\": 22.3052, \"z\": -14.8943}, {\"x\": 17.8193, \"y\": 10.1426, \"z\": -16.5906}, {\"x\": 20.9121, \"y\": 0.0858, \"z\": -12.9215}, {\"x\": 4.2712, \"y\": 17.1803, \"z\": -8.2747}, {\"x\": 5.0207, \"y\": -37.9324, \"z\": -11.6581}, {\"x\": 4.9976, \"y\": -72.3820, \"z\": -5.8125}, {\"x\": 4.0964, \"y\": -79.4542, \"z\": 2.5106}, {\"x\": -8.1489, \"y\": -80.9147, \"z\": -13.6718}, {\"x\": -13.8333, \"y\": 57.9302, \"z\": 12.3478}, {\"x\": -15.1691, \"y\": 21.2808, \"z\": 16.4932}, {\"x\": -15.8364, \"y\": 7.3541, \"z\": 19.6037}, {\"x\": -17.7534, \"y\": -2.3968, \"z\": 15.5375}, {\"x\": -7.7438, \"y\": 17.0197, \"z\": 7.4997}, {\"x\": -1.9731, \"y\": -37.1710, \"z\": 11.5537}, {\"x\": 7.7524, \"y\": -73.6697, \"z\": 11.4829}, {\"x\": 14.1314, \"y\": -80.6227, \"z\": 5.6872}, {\"x\": -7.0884, \"y\": -81.0638, \"z\": 9.9570}, {\"x\": -16.7117, \"y\": 10.3953, \"z\": 16.5526}, {\"x\": 18.3029, \"y\": -2.4694, \"z\": -15.6908}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame6() {
         return new MovesDoubleFrame(
                 new Vector3d(81.39467968754477, 87.60114397762150, 42.86926224619538),
-                new Vector3d[] {
-                    new Vector3d(-1.03706890185251, 79.71957185921178, -7.60543500689351),
-                    new Vector3d(-8.25863179651594, 79.26111454343700, 0.75860380182873),
-                    new Vector3d(-4.10297877082425, 28.49379836480684, -3.22007340571650),
-                    new Vector3d(11.04281654938545, 57.61403193212357, -15.47802375109287),
-                    new Vector3d(17.07992927443538, 22.36232671081835, -14.77750756805716),
-                    new Vector3d(17.81748507800681, 10.13826233846168, -16.63938647797845),
-                    new Vector3d(20.76547245520224, 0.00950835511464, -12.97912846447545),
-                    new Vector3d(4.26549198186312, 17.14688265940563, -8.32359051070430),
-                    new Vector3d(5.11506065146193, -37.97363995297247, -11.60966829978149),
-                    new Vector3d(5.11354973305262, -72.39175191760695, -5.62647940102092),
-                    new Vector3d(4.19587922927854, -79.44690117954048, 2.71884574197574),
-                    new Vector3d(-8.06071495393340, -80.88182192791410, -13.43938165941348),
-                    new Vector3d(-13.90641757413135, 57.96150984932869, 12.15509486545582),
-                    new Vector3d(-15.35245285887641, 21.30357344337240, 16.36815088196193),
-                    new Vector3d(-16.05152418373397, 7.39989931053051, 19.49700880863897),
-                    new Vector3d(-17.89784553061925, -2.43229439394551, 15.47593020270030),
-                    new Vector3d(-7.85084784077697, 17.02015504324611, 7.36984957525889),
-                    new Vector3d(-1.98048970208306, -37.16747535630012, 11.64267177893091),
-                    new Vector3d(7.81988444801385, -73.65225525343065, 11.68349507435209),
-                    new Vector3d(14.19894149615178, -80.61072522367486, 5.91173028181655),
-                    new Vector3d(-7.01918957065097, -81.06461439645116, 10.20110344158364),
-                    new Vector3d(-16.90199725208601, 10.41505796522389, 16.42310344892622),
-                    new Vector3d(18.18232836909586, -2.51240055840450, -15.80880669447428),
-                }
+                "\"skeletons\": [{\"x\": -1.0371, \"y\": 79.7196, \"z\": -7.6054}, {\"x\": -8.2586, \"y\": 79.2611, \"z\": 0.7586}, {\"x\": -4.1030, \"y\": 28.4938, \"z\": -3.2201}, {\"x\": 11.0428, \"y\": 57.6140, \"z\": -15.4780}, {\"x\": 17.0799, \"y\": 22.3623, \"z\": -14.7775}, {\"x\": 17.8175, \"y\": 10.1383, \"z\": -16.6394}, {\"x\": 20.7655, \"y\": 0.0095, \"z\": -12.9791}, {\"x\": 4.2655, \"y\": 17.1469, \"z\": -8.3236}, {\"x\": 5.1151, \"y\": -37.9736, \"z\": -11.6097}, {\"x\": 5.1135, \"y\": -72.3918, \"z\": -5.6265}, {\"x\": 4.1959, \"y\": -79.4469, \"z\": 2.7188}, {\"x\": -8.0607, \"y\": -80.8818, \"z\": -13.4394}, {\"x\": -13.9064, \"y\": 57.9615, \"z\": 12.1551}, {\"x\": -15.3525, \"y\": 21.3036, \"z\": 16.3682}, {\"x\": -16.0515, \"y\": 7.3999, \"z\": 19.4970}, {\"x\": -17.8978, \"y\": -2.4323, \"z\": 15.4759}, {\"x\": -7.8508, \"y\": 17.0202, \"z\": 7.3698}, {\"x\": -1.9805, \"y\": -37.1675, \"z\": 11.6427}, {\"x\": 7.8199, \"y\": -73.6523, \"z\": 11.6835}, {\"x\": 14.1989, \"y\": -80.6107, \"z\": 5.9117}, {\"x\": -7.0192, \"y\": -81.0646, \"z\": 10.2011}, {\"x\": -16.9020, \"y\": 10.4151, \"z\": 16.4231}, {\"x\": 18.1823, \"y\": -2.5124, \"z\": -15.8088}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame7() {
         return new MovesDoubleFrame(
                 new Vector3d(81.31161046940188, 87.58924659693095, 42.62840179325834),
-                new Vector3d[] {
-                    new Vector3d(-0.93344097798535, 79.71669319456439, -7.65743688633160),
-                    new Vector3d(-8.22545816848357, 79.23904309091169, 0.60321487276585),
-                    new Vector3d(-4.08570891589654, 28.50483684776478, -3.36349492005727),
-                    new Vector3d(11.20326722471133, 57.55382152258658, -15.40875869901149),
-                    new Vector3d(17.19982130828452, 22.35818628581302, -14.78210030956864),
-                    new Vector3d(17.83089687623270, 10.10006004369405, -16.68406596283756),
-                    new Vector3d(20.65426498889718, -0.11030993643205, -13.02708412989828),
-                    new Vector3d(4.31719914160072, 17.15093091900243, -8.31393456057090),
-                    new Vector3d(5.17363776164937, -37.94772411243603, -11.61034555953438),
-                    new Vector3d(5.23715137356001, -72.39637909033488, -5.40410889089746),
-                    new Vector3d(4.29462764480453, -79.45938779694637, 2.97968370521685),
-                    new Vector3d(-7.96331142283528, -80.84603264889864, -13.19179130035126),
-                    new Vector3d(-14.01907678227880, 57.98559856651477, 11.94578247723234),
-                    new Vector3d(-15.52346595956773, 21.35049071632288, 16.23593707821233),
-                    new Vector3d(-16.21251684147220, 7.46526475774969, 19.41031548333157),
-                    new Vector3d(-18.04140044421686, -2.34127200040546, 15.39157501338229),
-                    new Vector3d(-8.00801881815463, 16.99565898061153, 7.21343606631369),
-                    new Vector3d(-1.93444961071219, -37.11083756929595, 11.62230075351387),
-                    new Vector3d(7.90982443499778, -73.62347690613291, 11.91946915058075),
-                    new Vector3d(14.25584697731550, -80.59607912128077, 6.16230758516820),
-                    new Vector3d(-6.94410633614393, -81.05818191090864, 10.45330768368108),
-                    new Vector3d(-17.04290051703072, 10.48453494860770, 16.31148971407444),
-                    new Vector3d(18.07836263229768, -2.65387468937887, -15.82224570173559),
-                }
+                "\"skeletons\": [{\"x\": -0.9334, \"y\": 79.7167, \"z\": -7.6574}, {\"x\": -8.2255, \"y\": 79.2390, \"z\": 0.6032}, {\"x\": -4.0857, \"y\": 28.5048, \"z\": -3.3635}, {\"x\": 11.2033, \"y\": 57.5538, \"z\": -15.4088}, {\"x\": 17.1998, \"y\": 22.3582, \"z\": -14.7821}, {\"x\": 17.8309, \"y\": 10.1001, \"z\": -16.6841}, {\"x\": 20.6543, \"y\": -0.1103, \"z\": -13.0271}, {\"x\": 4.3172, \"y\": 17.1509, \"z\": -8.3139}, {\"x\": 5.1736, \"y\": -37.9477, \"z\": -11.6103}, {\"x\": 5.2372, \"y\": -72.3964, \"z\": -5.4041}, {\"x\": 4.2946, \"y\": -79.4594, \"z\": 2.9797}, {\"x\": -7.9633, \"y\": -80.8460, \"z\": -13.1918}, {\"x\": -14.0191, \"y\": 57.9856, \"z\": 11.9458}, {\"x\": -15.5235, \"y\": 21.3505, \"z\": 16.2359}, {\"x\": -16.2125, \"y\": 7.4653, \"z\": 19.4103}, {\"x\": -18.0414, \"y\": -2.3413, \"z\": 15.3916}, {\"x\": -8.0080, \"y\": 16.9957, \"z\": 7.2134}, {\"x\": -1.9344, \"y\": -37.1108, \"z\": 11.6223}, {\"x\": 7.9098, \"y\": -73.6235, \"z\": 11.9195}, {\"x\": 14.2558, \"y\": -80.5961, \"z\": 6.1623}, {\"x\": -6.9441, \"y\": -81.0582, \"z\": 10.4533}, {\"x\": -17.0429, \"y\": 10.4845, \"z\": 16.3115}, {\"x\": 18.0784, \"y\": -2.6539, \"z\": -15.8222}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame8() {
         return new MovesDoubleFrame(
                 new Vector3d(81.21732183032373, 87.56468238231275, 42.39391467795553),
-                new Vector3d[] {
-                    new Vector3d(-0.82638467144752, 79.68220646150087, -7.73338060274676),
-                    new Vector3d(-8.19592590276068, 79.26132945514222, 0.48216466147581),
-                    new Vector3d(-4.11986737111663, 28.51587334660915, -3.50556655698171),
-                    new Vector3d(11.37608776483116, 57.51538252605189, -15.33406596712817),
-                    new Vector3d(17.21653062307540, 22.25254547125671, -14.70456168732466),
-                    new Vector3d(17.82756236808735, 10.05076945528905, -16.66524585318364),
-                    new Vector3d(20.70327181382082, -0.17093002656990, -13.06683204063714),
-                    new Vector3d(4.31308050761341, 17.12689059003511, -8.35726234384266),
-                    new Vector3d(5.17287138036413, -38.02311021305906, -11.47211382266790),
-                    new Vector3d(5.37600185670145, -72.38536364020604, -5.18021004436227),
-                    new Vector3d(4.41887056411451, -79.40727953299587, 3.27392546225094),
-                    new Vector3d(-7.84522806747422, -80.78080464865673, -12.95307654441367),
-                    new Vector3d(-14.14382572739550, 57.97500028994404, 11.75077771097578),
-                    new Vector3d(-15.70263348286817, 21.39014918513124, 16.05489574837886),
-                    new Vector3d(-16.43283181959132, 7.51195334457772, 19.28856183804150),
-                    new Vector3d(-18.23535273216328, -2.32285602993279, 15.36116416600496),
-                    new Vector3d(-8.15318217209613, 16.97985634793572, 7.02562714611760),
-                    new Vector3d(-1.88786103233265, -37.10304550967462, 11.70099561719152),
-                    new Vector3d(8.00573321329117, -73.58921454172129, 12.12655591686649),
-                    new Vector3d(14.38242171494080, -80.56597236378194, 6.38364032405144),
-                    new Vector3d(-6.84706080483520, -81.03309041525829, 10.70807315600926),
-                    new Vector3d(-17.22967262307709, 10.52003329787893, 16.19733753093584),
-                    new Vector3d(18.11488068524253, -2.68945724060106, -15.86715100669241),
-                }
+                "\"skeletons\": [{\"x\": -0.8264, \"y\": 79.6822, \"z\": -7.7334}, {\"x\": -8.1959, \"y\": 79.2613, \"z\": 0.4822}, {\"x\": -4.1199, \"y\": 28.5159, \"z\": -3.5056}, {\"x\": 11.3761, \"y\": 57.5154, \"z\": -15.3341}, {\"x\": 17.2165, \"y\": 22.2525, \"z\": -14.7046}, {\"x\": 17.8276, \"y\": 10.0508, \"z\": -16.6652}, {\"x\": 20.7033, \"y\": -0.1709, \"z\": -13.0668}, {\"x\": 4.3131, \"y\": 17.1269, \"z\": -8.3573}, {\"x\": 5.1729, \"y\": -38.0231, \"z\": -11.4721}, {\"x\": 5.3760, \"y\": -72.3854, \"z\": -5.1802}, {\"x\": 4.4189, \"y\": -79.4073, \"z\": 3.2739}, {\"x\": -7.8452, \"y\": -80.7808, \"z\": -12.9531}, {\"x\": -14.1438, \"y\": 57.9750, \"z\": 11.7508}, {\"x\": -15.7026, \"y\": 21.3901, \"z\": 16.0549}, {\"x\": -16.4328, \"y\": 7.5120, \"z\": 19.2886}, {\"x\": -18.2354, \"y\": -2.3229, \"z\": 15.3612}, {\"x\": -8.1532, \"y\": 16.9799, \"z\": 7.0256}, {\"x\": -1.8879, \"y\": -37.1030, \"z\": 11.7010}, {\"x\": 8.0057, \"y\": -73.5892, \"z\": 12.1266}, {\"x\": 14.3824, \"y\": -80.5660, \"z\": 6.3836}, {\"x\": -6.8471, \"y\": -81.0331, \"z\": 10.7081}, {\"x\": -17.2297, \"y\": 10.5200, \"z\": 16.1973}, {\"x\": 18.1149, \"y\": -2.6895, \"z\": -15.8672}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame9() {
         return new MovesDoubleFrame(
                 new Vector3d(81.12183662385169, 87.54651701965834, 42.12055879610735),
-                new Vector3d[] {
-                    new Vector3d(-0.68039166471311, 79.65414417923733, -7.75294741153631),
-                    new Vector3d(-8.16905087377092, 79.23119991672561, 0.35946858481443),
-                    new Vector3d(-4.19866398430605, 28.49412551073992, -3.65433189997909),
-                    new Vector3d(11.56681817966100, 57.44273299135553, -15.24101592189301),
-                    new Vector3d(17.26333270511036, 22.13505531939241, -14.70929083433280),
-                    new Vector3d(17.94640233291522, 9.95541632627975, -16.64990222762315),
-                    new Vector3d(20.72700988053183, -0.22470225172042, -12.99831908810321),
-                    new Vector3d(4.30671353419723, 17.10841480453104, -8.40910782064623),
-                    new Vector3d(5.16146264299218, -38.02416335259272, -11.51443391817766),
-                    new Vector3d(5.47489340617944, -72.38212441353977, -4.91340490215616),
-                    new Vector3d(5.13501464127402, -78.76143603679040, 3.34039478872142),
-                    new Vector3d(-7.73278894667535, -80.72605099673666, -12.67995251967408),
-                    new Vector3d(-14.27688427716466, 57.94536860871924, 11.50749722957698),
-                    new Vector3d(-15.92180872206598, 21.36327953593964, 15.88384922712456),
-                    new Vector3d(-16.72232882879031, 7.55320683067795, 19.20905305242267),
-                    new Vector3d(-18.49809936321964, -2.29053149003839, 15.27197687962984),
-                    new Vector3d(-8.31708905240843, 16.96228232244691, 6.88377280697873),
-                    new Vector3d(-2.05102551710533, -37.09499738194100, 11.65239290076178),
-                    new Vector3d(8.06554708811377, -73.53877469861526, 12.34951176604020),
-                    new Vector3d(14.46166534395847, -80.54544822179392, 6.65735379695979),
-                    new Vector3d(-6.75071368711532, -81.03542487240483, 10.98767833419399),
-                    new Vector3d(-17.46265551372775, 10.51558542578633, 16.11224516814899),
-                    new Vector3d(18.18699204266323, -2.71982455607751, -15.83334965386698),
-                }
+                "\"skeletons\": [{\"x\": -0.6804, \"y\": 79.6541, \"z\": -7.7529}, {\"x\": -8.1691, \"y\": 79.2312, \"z\": 0.3595}, {\"x\": -4.1987, \"y\": 28.4941, \"z\": -3.6543}, {\"x\": 11.5668, \"y\": 57.4427, \"z\": -15.2410}, {\"x\": 17.2633, \"y\": 22.1351, \"z\": -14.7093}, {\"x\": 17.9464, \"y\": 9.9554, \"z\": -16.6499}, {\"x\": 20.7270, \"y\": -0.2247, \"z\": -12.9983}, {\"x\": 4.3067, \"y\": 17.1084, \"z\": -8.4091}, {\"x\": 5.1615, \"y\": -38.0242, \"z\": -11.5144}, {\"x\": 5.4749, \"y\": -72.3821, \"z\": -4.9134}, {\"x\": 5.1350, \"y\": -78.7614, \"z\": 3.3404}, {\"x\": -7.7328, \"y\": -80.7261, \"z\": -12.6800}, {\"x\": -14.2769, \"y\": 57.9454, \"z\": 11.5075}, {\"x\": -15.9218, \"y\": 21.3633, \"z\": 15.8838}, {\"x\": -16.7223, \"y\": 7.5532, \"z\": 19.2091}, {\"x\": -18.4981, \"y\": -2.2905, \"z\": 15.2720}, {\"x\": -8.3171, \"y\": 16.9623, \"z\": 6.8838}, {\"x\": -2.0510, \"y\": -37.0950, \"z\": 11.6524}, {\"x\": 8.0655, \"y\": -73.5388, \"z\": 12.3495}, {\"x\": 14.4617, \"y\": -80.5454, \"z\": 6.6574}, {\"x\": -6.7507, \"y\": -81.0354, \"z\": 10.9877}, {\"x\": -17.4627, \"y\": 10.5156, \"z\": 16.1122}, {\"x\": 18.1870, \"y\": -2.7198, \"z\": -15.8333}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame10() {
         return new MovesDoubleFrame(
                 new Vector3d(80.99182055629738, 87.49308113402687, 41.84917829466796),
-                new Vector3d[] {
-                    new Vector3d(-0.59445683908198, 79.65478795887140, -7.78347770821036),
-                    new Vector3d(-8.11022512637737, 79.23157881295977, 0.24086889438010),
-                    new Vector3d(-4.25107708843584, 28.47770921464755, -3.80094287992872),
-                    new Vector3d(11.71096894920465, 57.42052383175674, -15.15097779922770),
-                    new Vector3d(17.39844669202361, 22.11509213116737, -14.61171341665261),
-                    new Vector3d(18.09890078440789, 9.93518048376273, -16.53425011270182),
-                    new Vector3d(20.79826281405477, -0.28221489524876, -12.89030777929873),
-                    new Vector3d(4.32457956724143, 17.08755141658796, -8.49792172765228),
-                    new Vector3d(5.12435487679218, -38.07381941007587, -11.45776552048396),
-                    new Vector3d(5.60448770397733, -72.35446648904649, -4.65183851730708),
-                    new Vector3d(5.25841278462328, -78.72640037305767, 3.60820569723318),
-                    new Vector3d(-7.59776802690261, -80.65874292147583, -12.39978964053752),
-                    new Vector3d(-14.46835390015508, 57.96268606106046, 11.28613947668914),
-                    new Vector3d(-16.20328956695880, 21.40030550028353, 15.68133276692156),
-                    new Vector3d(-17.04171743135858, 7.55566242133371, 19.02926911321943),
-                    new Vector3d(-18.63739353415218, -2.37158930937245, 15.11139493711756),
-                    new Vector3d(-8.45930388559230, 16.96740672502506, 6.67509508485629),
-                    new Vector3d(-2.18010757327832, -37.09117882576597, 11.63240426279993),
-                    new Vector3d(8.14263071470238, -73.44404256393831, 12.56137298587715),
-                    new Vector3d(14.58583464126683, -80.48226179021138, 6.92870271002884),
-                    new Vector3d(-6.63118140960252, -81.00527890101208, 11.27704875672517),
-                    new Vector3d(-17.73547107970062, 10.52012799046895, 15.88801175687692),
-                    new Vector3d(18.27517779590637, -2.76174250302553, -15.78920397226527),
-                }
+                "\"skeletons\": [{\"x\": -0.5945, \"y\": 79.6548, \"z\": -7.7835}, {\"x\": -8.1102, \"y\": 79.2316, \"z\": 0.2409}, {\"x\": -4.2511, \"y\": 28.4777, \"z\": -3.8009}, {\"x\": 11.7110, \"y\": 57.4205, \"z\": -15.1510}, {\"x\": 17.3984, \"y\": 22.1151, \"z\": -14.6117}, {\"x\": 18.0989, \"y\": 9.9352, \"z\": -16.5343}, {\"x\": 20.7983, \"y\": -0.2822, \"z\": -12.8903}, {\"x\": 4.3246, \"y\": 17.0876, \"z\": -8.4979}, {\"x\": 5.1244, \"y\": -38.0738, \"z\": -11.4578}, {\"x\": 5.6045, \"y\": -72.3545, \"z\": -4.6518}, {\"x\": 5.2584, \"y\": -78.7264, \"z\": 3.6082}, {\"x\": -7.5978, \"y\": -80.6587, \"z\": -12.3998}, {\"x\": -14.4684, \"y\": 57.9627, \"z\": 11.2861}, {\"x\": -16.2033, \"y\": 21.4003, \"z\": 15.6813}, {\"x\": -17.0417, \"y\": 7.5557, \"z\": 19.0293}, {\"x\": -18.6374, \"y\": -2.3716, \"z\": 15.1114}, {\"x\": -8.4593, \"y\": 16.9674, \"z\": 6.6751}, {\"x\": -2.1801, \"y\": -37.0912, \"z\": 11.6324}, {\"x\": 8.1426, \"y\": -73.4440, \"z\": 12.5614}, {\"x\": 14.5858, \"y\": -80.4823, \"z\": 6.9287}, {\"x\": -6.6312, \"y\": -81.0053, \"z\": 11.2770}, {\"x\": -17.7355, \"y\": 10.5201, \"z\": 15.8880}, {\"x\": 18.2752, \"y\": -2.7617, \"z\": -15.7892}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame11() {
         return new MovesDoubleFrame(
                 new Vector3d(80.83492705755971, 87.45667101637761, 41.53710273301019),
-                new Vector3d[] {
-                    new Vector3d(-0.46817504110499, 79.65129642725589, -7.82622466580238),
-                    new Vector3d(-8.05898384258868, 79.23656893469636, 0.13496395791757),
-                    new Vector3d(-4.19655409420651, 28.47301836515727, -3.95268480953940),
-                    new Vector3d(11.83098191653569, 57.38784086758032, -15.06250842558636),
-                    new Vector3d(17.59266916994754, 22.11812568607187, -14.46893412729180),
-                    new Vector3d(18.24090415254564, 9.94659277359047, -16.40225587694792),
-                    new Vector3d(20.88623977400896, -0.28170369848571, -12.72265369614190),
-                    new Vector3d(4.36450163655106, 17.06460869963605, -8.58400224459127),
-                    new Vector3d(5.11101441049031, -38.09202954667553, -11.53241999038703),
-                    new Vector3d(5.75551956375432, -72.33568363428714, -4.33529353778091),
-                    new Vector3d(5.41151921253448, -78.71537616127415, 3.91854705735929),
-                    new Vector3d(-7.44224711551710, -80.63519981403398, -12.05737357919303),
-                    new Vector3d(-14.63326976185462, 57.96641052169609, 11.06262843695574),
-                    new Vector3d(-16.45778171006010, 21.38079361688523, 15.46840600343052),
-                    new Vector3d(-17.37290948004658, 7.53192781529629, 18.83080875255185),
-                    new Vector3d(-18.89539992552062, -2.33650412882181, 14.92867872502944),
-                    new Vector3d(-8.58038591190993, 16.96545896984282, 6.45447876360855),
-                    new Vector3d(-2.37875522539139, -37.11837622085610, 11.52418413589547),
-                    new Vector3d(8.23844957555140, -73.35042787327205, 12.80583606540185),
-                    new Vector3d(14.72315896866308, -80.43003192796445, 7.23418786684149),
-                    new Vector3d(-6.51402663144559, -81.01876349963042, 11.58778552217366),
-                    new Vector3d(-18.00743634897673, 10.51081245059059, 15.69370481564660),
-                    new Vector3d(18.41739461882364, -2.78588235037667, -15.66077651860945),
-                }
+                "\"skeletons\": [{\"x\": -0.4682, \"y\": 79.6513, \"z\": -7.8262}, {\"x\": -8.0590, \"y\": 79.2366, \"z\": 0.1350}, {\"x\": -4.1966, \"y\": 28.4730, \"z\": -3.9527}, {\"x\": 11.8310, \"y\": 57.3878, \"z\": -15.0625}, {\"x\": 17.5927, \"y\": 22.1181, \"z\": -14.4689}, {\"x\": 18.2409, \"y\": 9.9466, \"z\": -16.4023}, {\"x\": 20.8862, \"y\": -0.2817, \"z\": -12.7227}, {\"x\": 4.3645, \"y\": 17.0646, \"z\": -8.5840}, {\"x\": 5.1110, \"y\": -38.0920, \"z\": -11.5324}, {\"x\": 5.7555, \"y\": -72.3357, \"z\": -4.3353}, {\"x\": 5.4115, \"y\": -78.7154, \"z\": 3.9185}, {\"x\": -7.4422, \"y\": -80.6352, \"z\": -12.0574}, {\"x\": -14.6333, \"y\": 57.9664, \"z\": 11.0626}, {\"x\": -16.4578, \"y\": 21.3808, \"z\": 15.4684}, {\"x\": -17.3729, \"y\": 7.5319, \"z\": 18.8308}, {\"x\": -18.8954, \"y\": -2.3365, \"z\": 14.9287}, {\"x\": -8.5804, \"y\": 16.9655, \"z\": 6.4545}, {\"x\": -2.3788, \"y\": -37.1184, \"z\": 11.5242}, {\"x\": 8.2384, \"y\": -73.3504, \"z\": 12.8058}, {\"x\": 14.7232, \"y\": -80.4300, \"z\": 7.2342}, {\"x\": -6.5140, \"y\": -81.0188, \"z\": 11.5878}, {\"x\": -18.0074, \"y\": 10.5108, \"z\": 15.6937}, {\"x\": 18.4174, \"y\": -2.7859, \"z\": -15.6608}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame12() {
         return new MovesDoubleFrame(
                 new Vector3d(80.67274592231878, 87.43355067197324, 41.19898771212208),
-                new Vector3d[] {
-                    new Vector3d(-0.38568672923107, 79.63567765090917, -7.84484694715424),
-                    new Vector3d(-8.03386111263832, 79.24080368621227, 0.03986877128003),
-                    new Vector3d(-4.20797585047168, 28.48337749744935, -4.12093806529994),
-                    new Vector3d(12.03309307703508, 57.42692507182964, -14.95803491203103),
-                    new Vector3d(17.70282344849595, 22.10325811635501, -14.28798839681721),
-                    new Vector3d(18.37452254792911, 9.94266245912111, -16.24126714345798),
-                    new Vector3d(21.01039279452949, -0.29512750376217, -12.50866787643055),
-                    new Vector3d(4.39625627219338, 17.03241075564366, -8.69954325250808),
-                    new Vector3d(5.24181399125912, -38.13345588391666, -11.49798035669738),
-                    new Vector3d(5.93463488015127, -72.34655581820061, -4.04985877099484),
-                    new Vector3d(5.56388632296729, -78.71065612672645, 4.24725403665906),
-                    new Vector3d(-7.26749781670317, -80.60811164907724, -11.76625749485528),
-                    new Vector3d(-14.77912960307829, 57.92336263791282, 10.82078152909620),
-                    new Vector3d(-16.76655603965313, 21.32718123592150, 15.20695454219536),
-                    new Vector3d(-17.74614014701626, 7.56684385376983, 18.59610274381513),
-                    new Vector3d(-19.17784047633076, -2.35088305015991, 14.65306435407858),
-                    new Vector3d(-8.69504690640741, 16.91880202679028, 6.22328184803932),
-                    new Vector3d(-2.71365150047314, -37.19543726865292, 11.35629550018114),
-                    new Vector3d(8.30939652180422, -73.27745164220276, 13.03320039364037),
-                    new Vector3d(14.84033611443815, -80.38399539110137, 7.56493920263797),
-                    new Vector3d(-6.35207262653048, -80.96184449383868, 11.87842565466892),
-                    new Vector3d(-18.32902322752026, 10.50228531692480, 15.42953415406684),
-                    new Vector3d(18.60268614233994, -2.75883721596995, -15.53851818656257),
-                }
+                "\"skeletons\": [{\"x\": -0.3857, \"y\": 79.6357, \"z\": -7.8448}, {\"x\": -8.0339, \"y\": 79.2408, \"z\": 0.0399}, {\"x\": -4.2080, \"y\": 28.4834, \"z\": -4.1209}, {\"x\": 12.0331, \"y\": 57.4269, \"z\": -14.9580}, {\"x\": 17.7028, \"y\": 22.1033, \"z\": -14.2880}, {\"x\": 18.3745, \"y\": 9.9427, \"z\": -16.2413}, {\"x\": 21.0104, \"y\": -0.2951, \"z\": -12.5087}, {\"x\": 4.3963, \"y\": 17.0324, \"z\": -8.6995}, {\"x\": 5.2418, \"y\": -38.1335, \"z\": -11.4980}, {\"x\": 5.9346, \"y\": -72.3466, \"z\": -4.0499}, {\"x\": 5.5639, \"y\": -78.7107, \"z\": 4.2473}, {\"x\": -7.2675, \"y\": -80.6081, \"z\": -11.7663}, {\"x\": -14.7791, \"y\": 57.9234, \"z\": 10.8208}, {\"x\": -16.7666, \"y\": 21.3272, \"z\": 15.2070}, {\"x\": -17.7461, \"y\": 7.5668, \"z\": 18.5961}, {\"x\": -19.1778, \"y\": -2.3509, \"z\": 14.6531}, {\"x\": -8.6950, \"y\": 16.9188, \"z\": 6.2233}, {\"x\": -2.7137, \"y\": -37.1954, \"z\": 11.3563}, {\"x\": 8.3094, \"y\": -73.2775, \"z\": 13.0332}, {\"x\": 14.8403, \"y\": -80.3840, \"z\": 7.5649}, {\"x\": -6.3521, \"y\": -80.9618, \"z\": 11.8784}, {\"x\": -18.3290, \"y\": 10.5023, \"z\": 15.4295}, {\"x\": 18.6027, \"y\": -2.7588, \"z\": -15.5385}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame13() {
         return new MovesDoubleFrame(
                 new Vector3d(80.49960358749867, 87.40623560535332, 40.84915276205666),
-                new Vector3d[] {
-                    new Vector3d(-0.31112795811759, 79.64441542101630, -7.88507969563206),
-                    new Vector3d(-8.03382814884098, 79.23028656249306, -0.05204407312854),
-                    new Vector3d(-4.22356811612981, 28.47957030958049, -4.32085138728183),
-                    new Vector3d(12.17151053814748, 57.44846431583637, -14.88680141861015),
-                    new Vector3d(17.84596545901899, 22.10122766341430, -14.10726840333271),
-                    new Vector3d(18.56241011986545, 9.95286672505767, -16.00519703992663),
-                    new Vector3d(21.09330497633033, -0.26076715976424, -12.23131205012363),
-                    new Vector3d(4.40182801580157, 17.01230098575824, -8.81426443191735),
-                    new Vector3d(5.50376705223543, -38.12651265448249, -11.42722319754480),
-                    new Vector3d(6.20998820203376, -72.34762695604449, -3.77692760535387),
-                    new Vector3d(5.72637774767520, -78.74108928580384, 4.59321088326269),
-                    new Vector3d(-7.08084167111102, -80.59329340449901, -11.42606754504686),
-                    new Vector3d(-14.94451639135890, 57.90786645277051, 10.59119480332897),
-                    new Vector3d(-17.04070291785581, 21.36477202235854, 14.97322525023481),
-                    new Vector3d(-18.06630756362550, 7.56898100061472, 18.28417829201896),
-                    new Vector3d(-19.48959896167630, -2.38758030927621, 14.31663112821100),
-                    new Vector3d(-8.79806440782340, 16.89750930685395, 5.99717720470595),
-                    new Vector3d(-3.19174235115585, -37.24759662203076, 11.08570443097474),
-                    new Vector3d(8.37394665162453, -73.14769565883786, 13.30708057947588),
-                    new Vector3d(15.01779392544874, -80.31313256080041, 7.88991506131035),
-                    new Vector3d(-6.22183503892998, -80.98037266538009, 12.26324090827640),
-                    new Vector3d(-18.57834534851742, 10.49124289313900, 15.08127200897737),
-                    new Vector3d(18.73973442733823, -2.74888597823377, -15.27902708852836),
-                }
+                "\"skeletons\": [{\"x\": -0.3111, \"y\": 79.6444, \"z\": -7.8851}, {\"x\": -8.0338, \"y\": 79.2303, \"z\": -0.0520}, {\"x\": -4.2236, \"y\": 28.4796, \"z\": -4.3209}, {\"x\": 12.1715, \"y\": 57.4485, \"z\": -14.8868}, {\"x\": 17.8460, \"y\": 22.1012, \"z\": -14.1073}, {\"x\": 18.5624, \"y\": 9.9529, \"z\": -16.0052}, {\"x\": 21.0933, \"y\": -0.2608, \"z\": -12.2313}, {\"x\": 4.4018, \"y\": 17.0123, \"z\": -8.8143}, {\"x\": 5.5038, \"y\": -38.1265, \"z\": -11.4272}, {\"x\": 6.2100, \"y\": -72.3476, \"z\": -3.7769}, {\"x\": 5.7264, \"y\": -78.7411, \"z\": 4.5932}, {\"x\": -7.0808, \"y\": -80.5933, \"z\": -11.4261}, {\"x\": -14.9445, \"y\": 57.9079, \"z\": 10.5912}, {\"x\": -17.0407, \"y\": 21.3648, \"z\": 14.9732}, {\"x\": -18.0663, \"y\": 7.5690, \"z\": 18.2842}, {\"x\": -19.4896, \"y\": -2.3876, \"z\": 14.3166}, {\"x\": -8.7981, \"y\": 16.8975, \"z\": 5.9972}, {\"x\": -3.1917, \"y\": -37.2476, \"z\": 11.0857}, {\"x\": 8.3739, \"y\": -73.1477, \"z\": 13.3071}, {\"x\": 15.0178, \"y\": -80.3131, \"z\": 7.8899}, {\"x\": -6.2218, \"y\": -80.9804, \"z\": 12.2632}, {\"x\": -18.5783, \"y\": 10.4912, \"z\": 15.0813}, {\"x\": 18.7397, \"y\": -2.7489, \"z\": -15.2790}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame14() {
         return new MovesDoubleFrame(
                 new Vector3d(80.31436653186176, 87.37003897592254, 40.46374696822160),
-                new Vector3d[] {
-                    new Vector3d(-0.25224345072141, 79.65384857804538, -7.88339528258049),
-                    new Vector3d(-8.02666238532598, 79.21287192988201, -0.12541755934173),
-                    new Vector3d(-4.19118612907256, 28.48420093293163, -4.48223028742048),
-                    new Vector3d(12.34720659039701, 57.47702062865531, -14.73902430340526),
-                    new Vector3d(17.98508768534630, 22.09417150756157, -13.91118060052012),
-                    new Vector3d(18.75375362815743, 9.97570151972576, -15.81754490758906),
-                    new Vector3d(21.15550849597883, -0.26938670284482, -11.95314378293600),
-                    new Vector3d(4.44327153608642, 17.02323848347303, -8.91889608674545),
-                    new Vector3d(5.77964302817113, -38.21290241350820, -11.29128699443459),
-                    new Vector3d(6.46781420073144, -72.34866596331288, -3.46023974894048),
-                    new Vector3d(5.90145742133177, -78.74914239892401, 4.97594537175921),
-                    new Vector3d(-6.86306284234010, -80.58346969513084, -11.06195162445447),
-                    new Vector3d(-15.07356110337355, 57.88907282335105, 10.36637050839230),
-                    new Vector3d(-17.33673216885463, 21.35933306869095, 14.59061704545027),
-                    new Vector3d(-18.43571962773622, 7.54887421281102, 17.92831589156458),
-                    new Vector3d(-19.59284403665891, -2.49882411932303, 13.84846038426607),
-                    new Vector3d(-8.91501366513684, 16.90291763129375, 5.75459008076072),
-                    new Vector3d(-3.83199220003610, -37.35105126005082, 10.77094338008569),
-                    new Vector3d(8.42980750185535, -72.92700691533283, 13.59221680901935),
-                    new Vector3d(15.19571015827667, -80.19810804041421, 8.24957036747604),
-                    new Vector3d(-6.10551921826527, -81.03452403730034, 12.68084628064764),
-                    new Vector3d(-18.87438154436861, 10.49265612241902, 14.73381837151935),
-                    new Vector3d(18.83873673105627, -2.74610730531536, -15.02572102185544),
-                }
+                "\"skeletons\": [{\"x\": -0.2522, \"y\": 79.6538, \"z\": -7.8834}, {\"x\": -8.0267, \"y\": 79.2129, \"z\": -0.1254}, {\"x\": -4.1912, \"y\": 28.4842, \"z\": -4.4822}, {\"x\": 12.3472, \"y\": 57.4770, \"z\": -14.7390}, {\"x\": 17.9851, \"y\": 22.0942, \"z\": -13.9112}, {\"x\": 18.7538, \"y\": 9.9757, \"z\": -15.8175}, {\"x\": 21.1555, \"y\": -0.2694, \"z\": -11.9531}, {\"x\": 4.4433, \"y\": 17.0232, \"z\": -8.9189}, {\"x\": 5.7796, \"y\": -38.2129, \"z\": -11.2913}, {\"x\": 6.4678, \"y\": -72.3487, \"z\": -3.4602}, {\"x\": 5.9015, \"y\": -78.7491, \"z\": 4.9759}, {\"x\": -6.8631, \"y\": -80.5835, \"z\": -11.0620}, {\"x\": -15.0736, \"y\": 57.8891, \"z\": 10.3664}, {\"x\": -17.3367, \"y\": 21.3593, \"z\": 14.5906}, {\"x\": -18.4357, \"y\": 7.5489, \"z\": 17.9283}, {\"x\": -19.5928, \"y\": -2.4988, \"z\": 13.8485}, {\"x\": -8.9150, \"y\": 16.9029, \"z\": 5.7546}, {\"x\": -3.8320, \"y\": -37.3511, \"z\": 10.7709}, {\"x\": 8.4298, \"y\": -72.9270, \"z\": 13.5922}, {\"x\": 15.1957, \"y\": -80.1981, \"z\": 8.2496}, {\"x\": -6.1055, \"y\": -81.0345, \"z\": 12.6808}, {\"x\": -18.8744, \"y\": 10.4927, \"z\": 14.7338}, {\"x\": 18.8387, \"y\": -2.7461, \"z\": -15.0257}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame15() {
         return new MovesDoubleFrame(
                 new Vector3d(80.09841838356073, 87.34154961489983, 40.06915166264779),
-                new Vector3d[] {
-                    new Vector3d(-0.16872282967357, 79.64114517444168, -7.91150120984036),
-                    new Vector3d(-8.00619297751632, 79.19991202565173, -0.20213545115960),
-                    new Vector3d(-4.14912480813045, 28.49666784647822, -4.65676551845430),
-                    new Vector3d(12.56919007545302, 57.48375546909922, -14.63176489892452),
-                    new Vector3d(18.08802061432460, 22.05109532753438, -13.73978801610468),
-                    new Vector3d(18.85358407436631, 9.92785139617277, -15.61221926206626),
-                    new Vector3d(21.25755223145336, -0.25519590561441, -11.71117417842515),
-                    new Vector3d(4.54912607573203, 16.98489388949104, -9.01784494813813),
-                    new Vector3d(6.16224175066154, -38.23882421160889, -11.17784648778436),
-                    new Vector3d(6.71879357639286, -72.34289572691449, -3.09798081560832),
-                    new Vector3d(6.12013515666190, -78.72971231099248, 5.36723070562641),
-                    new Vector3d(-6.60078200440484, -80.62662873917841, -10.67286682212852),
-                    new Vector3d(-15.17776743673567, 57.86433940574749, 10.15199706488393),
-                    new Vector3d(-17.53925081130979, 21.33231770109524, 14.27105168997204),
-                    new Vector3d(-18.80276679426034, 7.50010121169057, 17.51902975127520),
-                    new Vector3d(-20.02170962864120, -2.41498500390946, 13.47336978684998),
-                    new Vector3d(-9.01102592934170, 16.89218947219781, 5.52455525708685),
-                    new Vector3d(-4.64666561908117, -37.47861358066140, 10.36697222403424),
-                    new Vector3d(8.41638966316742, -72.69848307097654, 13.88222585034856),
-                    new Vector3d(15.31091503910726, -80.04212214072733, 8.63847302804623),
-                    new Vector3d(-5.94558956468738, -81.04531509683434, 13.09479280545606),
-                    new Vector3d(-19.16434135444008, 10.46090142848010, 14.32784774811055),
-                    new Vector3d(18.95483180734622, -2.66492240845598, -14.80951064344329),
-                }
+                "\"skeletons\": [{\"x\": -0.1687, \"y\": 79.6411, \"z\": -7.9115}, {\"x\": -8.0062, \"y\": 79.1999, \"z\": -0.2021}, {\"x\": -4.1491, \"y\": 28.4967, \"z\": -4.6568}, {\"x\": 12.5692, \"y\": 57.4838, \"z\": -14.6318}, {\"x\": 18.0880, \"y\": 22.0511, \"z\": -13.7398}, {\"x\": 18.8536, \"y\": 9.9279, \"z\": -15.6122}, {\"x\": 21.2576, \"y\": -0.2552, \"z\": -11.7112}, {\"x\": 4.5491, \"y\": 16.9849, \"z\": -9.0178}, {\"x\": 6.1622, \"y\": -38.2388, \"z\": -11.1778}, {\"x\": 6.7188, \"y\": -72.3429, \"z\": -3.0980}, {\"x\": 6.1201, \"y\": -78.7297, \"z\": 5.3672}, {\"x\": -6.6008, \"y\": -80.6266, \"z\": -10.6729}, {\"x\": -15.1778, \"y\": 57.8643, \"z\": 10.1520}, {\"x\": -17.5393, \"y\": 21.3323, \"z\": 14.2711}, {\"x\": -18.8028, \"y\": 7.5001, \"z\": 17.5190}, {\"x\": -20.0217, \"y\": -2.4150, \"z\": 13.4734}, {\"x\": -9.0110, \"y\": 16.8922, \"z\": 5.5246}, {\"x\": -4.6467, \"y\": -37.4786, \"z\": 10.3670}, {\"x\": 8.4164, \"y\": -72.6985, \"z\": 13.8822}, {\"x\": 15.3109, \"y\": -80.0421, \"z\": 8.6385}, {\"x\": -5.9456, \"y\": -81.0453, \"z\": 13.0948}, {\"x\": -19.1643, \"y\": 10.4609, \"z\": 14.3278}, {\"x\": 18.9548, \"y\": -2.6649, \"z\": -14.8095}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame16() {
         return new MovesDoubleFrame(
                 new Vector3d(79.88372713526564, 87.31615057979704, 39.64876175705601),
-                new Vector3d[] {
-                    new Vector3d(-0.10930315264063, 79.65628247121427, -7.92073789911709),
-                    new Vector3d(-7.98335321462420, 79.17626559552895, -0.26836588976326),
-                    new Vector3d(-4.04768182943515, 28.48725811895179, -4.81639889800408),
-                    new Vector3d(12.74113866387577, 57.46521800279224, -14.54566182124235),
-                    new Vector3d(18.25201743857129, 22.07847416566036, -13.55484769639165),
-                    new Vector3d(18.99893161426933, 9.88718200092234, -15.37388968613162),
-                    new Vector3d(21.31044454270858, -0.26870098504600, -11.43459038234542),
-                    new Vector3d(4.68257491135481, 16.91944036595113, -9.08223252274586),
-                    new Vector3d(6.47149153886108, -38.29557632464010, -11.04288276361292),
-                    new Vector3d(6.97326126774872, -72.36093028800921, -2.69927595147761),
-                    new Vector3d(6.33096200763555, -78.71949961056181, 5.79181508788839),
-                    new Vector3d(-6.36803083580117, -80.66948619888933, -10.27103582601747),
-                    new Vector3d(-15.25590683683891, 57.79589433351163, 9.92902866626793),
-                    new Vector3d(-17.76975158359350, 21.27445119930893, 13.89003292251402),
-                    new Vector3d(-19.12838726275723, 7.46878876594280, 17.11108389436503),
-                    new Vector3d(-20.24074521452140, -2.48935486125263, 12.94034686349439),
-                    new Vector3d(-9.05316841577405, 16.87941543790837, 5.26975257305027),
-                    new Vector3d(-5.68317384163116, -37.59688671426161, 9.86703047774242),
-                    new Vector3d(8.32413348919590, -72.42662725671885, 14.20398104660843),
-                    new Vector3d(15.44018778509189, -79.78135005079508, 9.08642123980382),
-                    new Vector3d(-5.78219776863618, -81.02734348572977, 13.55370228880083),
-                    new Vector3d(-19.44700371967100, 10.42196708374658, 13.92472391329664),
-                    new Vector3d(19.02450162755938, -2.69793276352784, -14.53305873837038),
-                }
+                "\"skeletons\": [{\"x\": -0.1093, \"y\": 79.6563, \"z\": -7.9207}, {\"x\": -7.9834, \"y\": 79.1763, \"z\": -0.2684}, {\"x\": -4.0477, \"y\": 28.4873, \"z\": -4.8164}, {\"x\": 12.7411, \"y\": 57.4652, \"z\": -14.5457}, {\"x\": 18.2520, \"y\": 22.0785, \"z\": -13.5548}, {\"x\": 18.9989, \"y\": 9.8872, \"z\": -15.3739}, {\"x\": 21.3104, \"y\": -0.2687, \"z\": -11.4346}, {\"x\": 4.6826, \"y\": 16.9194, \"z\": -9.0822}, {\"x\": 6.4715, \"y\": -38.2956, \"z\": -11.0429}, {\"x\": 6.9733, \"y\": -72.3609, \"z\": -2.6993}, {\"x\": 6.3310, \"y\": -78.7195, \"z\": 5.7918}, {\"x\": -6.3680, \"y\": -80.6695, \"z\": -10.2710}, {\"x\": -15.2559, \"y\": 57.7959, \"z\": 9.9290}, {\"x\": -17.7698, \"y\": 21.2745, \"z\": 13.8900}, {\"x\": -19.1284, \"y\": 7.4688, \"z\": 17.1111}, {\"x\": -20.2407, \"y\": -2.4894, \"z\": 12.9403}, {\"x\": -9.0532, \"y\": 16.8794, \"z\": 5.2698}, {\"x\": -5.6832, \"y\": -37.5969, \"z\": 9.8670}, {\"x\": 8.3241, \"y\": -72.4266, \"z\": 14.2040}, {\"x\": 15.4402, \"y\": -79.7814, \"z\": 9.0864}, {\"x\": -5.7822, \"y\": -81.0273, \"z\": 13.5537}, {\"x\": -19.4470, \"y\": 10.4220, \"z\": 13.9247}, {\"x\": 19.0245, \"y\": -2.6979, \"z\": -14.5331}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame17() {
         return new MovesDoubleFrame(
                 new Vector3d(79.67249707953549, 87.30917713884195, 39.22114616938300),
-                new Vector3d[] {
-                    new Vector3d(-0.03925194123809, 79.69059071340587, -7.97485612213659),
-                    new Vector3d(-7.94136685529324, 79.14824756610891, -0.30513431127704),
-                    new Vector3d(-3.86852039435330, 28.46415539292693, -4.94889010311565),
-                    new Vector3d(12.93842822873029, 57.43870009207715, -14.45130645473994),
-                    new Vector3d(18.25583920306554, 22.01704035190642, -13.34781944283763),
-                    new Vector3d(19.09691396638987, 9.86111781546277, -15.20698572248940),
-                    new Vector3d(21.38877827070534, -0.27609583940194, -11.19614240248896),
-                    new Vector3d(4.82040208426757, 16.85406638867803, -9.14286209172670),
-                    new Vector3d(6.69906304636519, -38.38232852316212, -10.96397696310314),
-                    new Vector3d(7.24551480809374, -72.38722525596091, -2.29061592531580),
-                    new Vector3d(6.51450920876828, -78.73030283669253, 6.24182086429005),
-                    new Vector3d(-6.14074441907575, -80.70709443077477, -9.87047359714430),
-                    new Vector3d(-15.31080037255809, 57.77259112459009, 9.74703810814432),
-                    new Vector3d(-18.02589829803584, 21.22275159045200, 13.49258336012926),
-                    new Vector3d(-19.44652782901662, 7.38789546056429, 16.61390598431668),
-                    new Vector3d(-20.55240716664290, -2.55878789057480, 12.38358509542453),
-                    new Vector3d(-9.05029444006328, 16.86124282280533, 5.01880124860043),
-                    new Vector3d(-6.79216297400800, -37.69034475667804, 9.29017501076464),
-                    new Vector3d(8.09001402610948, -72.04540231481900, 14.51913489215757),
-                    new Vector3d(15.55083929178832, -79.35605879687498, 9.59805665334765),
-                    new Vector3d(-5.68125689411099, -81.05105475731133, 13.94401279125101),
-                    new Vector3d(-19.69934197803662, 10.38552813019002, 13.42567340947136),
-                    new Vector3d(19.14516468963352, -2.75374629488635, -14.31839792762382),
-                }
+                "\"skeletons\": [{\"x\": -0.0393, \"y\": 79.6906, \"z\": -7.9749}, {\"x\": -7.9414, \"y\": 79.1482, \"z\": -0.3051}, {\"x\": -3.8685, \"y\": 28.4642, \"z\": -4.9489}, {\"x\": 12.9384, \"y\": 57.4387, \"z\": -14.4513}, {\"x\": 18.2558, \"y\": 22.0170, \"z\": -13.3478}, {\"x\": 19.0969, \"y\": 9.8611, \"z\": -15.2070}, {\"x\": 21.3888, \"y\": -0.2761, \"z\": -11.1961}, {\"x\": 4.8204, \"y\": 16.8541, \"z\": -9.1429}, {\"x\": 6.6991, \"y\": -38.3823, \"z\": -10.9640}, {\"x\": 7.2455, \"y\": -72.3872, \"z\": -2.2906}, {\"x\": 6.5145, \"y\": -78.7303, \"z\": 6.2418}, {\"x\": -6.1407, \"y\": -80.7071, \"z\": -9.8705}, {\"x\": -15.3108, \"y\": 57.7726, \"z\": 9.7470}, {\"x\": -18.0259, \"y\": 21.2228, \"z\": 13.4926}, {\"x\": -19.4465, \"y\": 7.3879, \"z\": 16.6139}, {\"x\": -20.5524, \"y\": -2.5588, \"z\": 12.3836}, {\"x\": -9.0503, \"y\": 16.8612, \"z\": 5.0188}, {\"x\": -6.7922, \"y\": -37.6903, \"z\": 9.2902}, {\"x\": 8.0900, \"y\": -72.0454, \"z\": 14.5191}, {\"x\": 15.5508, \"y\": -79.3561, \"z\": 9.5981}, {\"x\": -5.6813, \"y\": -81.0511, \"z\": 13.9440}, {\"x\": -19.6993, \"y\": 10.3855, \"z\": 13.4257}, {\"x\": 19.1452, \"y\": -2.7537, \"z\": -14.3184}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame18() {
         return new MovesDoubleFrame(
                 new Vector3d(79.45101631985834, 87.33338435585948, 38.76809279586817),
-                new Vector3d[] {
-                    new Vector3d(0.00308278746807, 79.67751872581933, -7.98355198560582),
-                    new Vector3d(-7.92559953693423, 79.10292031879099, -0.35466635791661),
-                    new Vector3d(-3.73095280199386, 28.41093368411349, -5.09034888125682),
-                    new Vector3d(13.18148141312157, 57.47826950413229, -14.39166140672637),
-                    new Vector3d(18.44917816660195, 22.04709751899367, -13.21161083932888),
-                    new Vector3d(19.20888238931695, 9.83810621443833, -14.97360658797784),
-                    new Vector3d(21.45965849951431, -0.34610991059103, -10.99563743413621),
-                    new Vector3d(5.02099213144570, 16.77150589099788, -9.18400149461700),
-                    new Vector3d(6.92035378631529, -38.43395491984268, -10.88724087817110),
-                    new Vector3d(7.53916307760993, -72.41372458784815, -1.89275499151843),
-                    new Vector3d(6.75738473343407, -78.72268941324171, 6.68011988365779),
-                    new Vector3d(-5.91079598753339, -80.76814714134798, -9.44443820804363),
-                    new Vector3d(-15.34163200396607, 57.66256529610245, 9.52118793923374),
-                    new Vector3d(-18.21905615516438, 21.13960552240062, 13.11517856918998),
-                    new Vector3d(-19.75637080103198, 7.29129713699618, 16.09321552712436),
-                    new Vector3d(-20.81883422582932, -2.60549854024624, 11.78162644241308),
-                    new Vector3d(-9.04769240490739, 16.81642157070008, 4.80637147148967),
-                    new Vector3d(-7.94045687069833, -37.74634466648713, 8.75890599077128),
-                    new Vector3d(7.78347496817620, -71.59576533730480, 14.83383958635692),
-                    new Vector3d(15.58949849562274, -78.66671628569017, 10.17296045982966),
-                    new Vector3d(-5.55146403338043, -81.08884983611898, 14.40149370701012),
-                    new Vector3d(-19.94285417560610, 10.30697658678032, 12.93383527259400),
-                    new Vector3d(19.25816134843348, -2.82270210212946, -14.14509805315201),
-                }
+                "\"skeletons\": [{\"x\": 0.0031, \"y\": 79.6775, \"z\": -7.9836}, {\"x\": -7.9256, \"y\": 79.1029, \"z\": -0.3547}, {\"x\": -3.7310, \"y\": 28.4109, \"z\": -5.0903}, {\"x\": 13.1815, \"y\": 57.4783, \"z\": -14.3917}, {\"x\": 18.4492, \"y\": 22.0471, \"z\": -13.2116}, {\"x\": 19.2089, \"y\": 9.8381, \"z\": -14.9736}, {\"x\": 21.4597, \"y\": -0.3461, \"z\": -10.9956}, {\"x\": 5.0210, \"y\": 16.7715, \"z\": -9.1840}, {\"x\": 6.9204, \"y\": -38.4340, \"z\": -10.8872}, {\"x\": 7.5392, \"y\": -72.4137, \"z\": -1.8928}, {\"x\": 6.7574, \"y\": -78.7227, \"z\": 6.6801}, {\"x\": -5.9108, \"y\": -80.7681, \"z\": -9.4444}, {\"x\": -15.3416, \"y\": 57.6626, \"z\": 9.5212}, {\"x\": -18.2191, \"y\": 21.1396, \"z\": 13.1152}, {\"x\": -19.7564, \"y\": 7.2913, \"z\": 16.0932}, {\"x\": -20.8188, \"y\": -2.6055, \"z\": 11.7816}, {\"x\": -9.0477, \"y\": 16.8164, \"z\": 4.8064}, {\"x\": -7.9405, \"y\": -37.7463, \"z\": 8.7589}, {\"x\": 7.7835, \"y\": -71.5958, \"z\": 14.8338}, {\"x\": 15.5895, \"y\": -78.6667, \"z\": 10.1730}, {\"x\": -5.5515, \"y\": -81.0888, \"z\": 14.4015}, {\"x\": -19.9429, \"y\": 10.3070, \"z\": 12.9338}, {\"x\": 19.2582, \"y\": -2.8227, \"z\": -14.1451}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame19() {
         return new MovesDoubleFrame(
                 new Vector3d(79.19994000690740, 87.39602901312531, 38.31353217821642),
-                new Vector3d[] {
-                    new Vector3d(0.08848249588278, 79.61593474943048, -8.02008281269140),
-                    new Vector3d(-7.87328958721804, 79.01441788047588, -0.40841009337174),
-                    new Vector3d(-3.53369041380844, 28.35431191181888, -5.18754239143256),
-                    new Vector3d(13.44416574086046, 57.44757333992528, -14.27327716752074),
-                    new Vector3d(18.59324469128829, 21.97003543999969, -13.04722394777092),
-                    new Vector3d(19.32148275164915, 9.81888449133897, -14.81017851436318),
-                    new Vector3d(21.55132865241179, -0.39842144592851, -10.78961711444921),
-                    new Vector3d(5.24974638864691, 16.65284009262245, -9.19365066634654),
-                    new Vector3d(7.08332822225926, -38.62436865342480, -10.76947249745935),
-                    new Vector3d(7.80027332549587, -72.43689749980221, -1.52135644928227),
-                    new Vector3d(7.05865141794379, -78.74616347212132, 7.12669580262435),
-                    new Vector3d(-5.64769187865219, -80.86906716881728, -9.01034701499098),
-                    new Vector3d(-15.31029912614103, 57.61759635889850, 9.36405251532897),
-                    new Vector3d(-18.37482549332853, 21.04432394446398, 12.69247019343536),
-                    new Vector3d(-20.00822334954132, 7.18231251635757, 15.54431599828563),
-                    new Vector3d(-21.13772948793418, -2.64584241993335, 11.18180299198447),
-                    new Vector3d(-9.00469885991149, 16.77724136680400, 4.61346454332376),
-                    new Vector3d(-9.16449311330621, -37.74259956395306, 7.99996574658827),
-                    new Vector3d(7.31186709874736, -70.97509439049698, 15.20955974654176),
-                    new Vector3d(15.48365025536939, -77.81643346549465, 10.83864401574749),
-                    new Vector3d(-5.51230049797883, -81.11479628825437, 14.80174928104697),
-                    new Vector3d(-20.15131823886425, 10.20852653467975, 12.40463173896178),
-                    new Vector3d(19.38572719454350, -2.88092194002264, -13.96556806398186),
-                }
+                "\"skeletons\": [{\"x\": 0.0885, \"y\": 79.6159, \"z\": -8.0201}, {\"x\": -7.8733, \"y\": 79.0144, \"z\": -0.4084}, {\"x\": -3.5337, \"y\": 28.3543, \"z\": -5.1875}, {\"x\": 13.4442, \"y\": 57.4476, \"z\": -14.2733}, {\"x\": 18.5932, \"y\": 21.9700, \"z\": -13.0472}, {\"x\": 19.3215, \"y\": 9.8189, \"z\": -14.8102}, {\"x\": 21.5513, \"y\": -0.3984, \"z\": -10.7896}, {\"x\": 5.2497, \"y\": 16.6528, \"z\": -9.1937}, {\"x\": 7.0833, \"y\": -38.6244, \"z\": -10.7695}, {\"x\": 7.8003, \"y\": -72.4369, \"z\": -1.5214}, {\"x\": 7.0587, \"y\": -78.7462, \"z\": 7.1267}, {\"x\": -5.6477, \"y\": -80.8691, \"z\": -9.0103}, {\"x\": -15.3103, \"y\": 57.6176, \"z\": 9.3641}, {\"x\": -18.3748, \"y\": 21.0443, \"z\": 12.6925}, {\"x\": -20.0082, \"y\": 7.1823, \"z\": 15.5443}, {\"x\": -21.1377, \"y\": -2.6458, \"z\": 11.1818}, {\"x\": -9.0047, \"y\": 16.7772, \"z\": 4.6135}, {\"x\": -9.1645, \"y\": -37.7426, \"z\": 8.0000}, {\"x\": 7.3119, \"y\": -70.9751, \"z\": 15.2096}, {\"x\": 15.4837, \"y\": -77.8164, \"z\": 10.8386}, {\"x\": -5.5123, \"y\": -81.1148, \"z\": 14.8017}, {\"x\": -20.1513, \"y\": 10.2085, \"z\": 12.4046}, {\"x\": 19.3857, \"y\": -2.8809, \"z\": -13.9656}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame20() {
         return new MovesDoubleFrame(
                 new Vector3d(78.91473542127220, 87.48049501581947, 37.84454508318033),
-                new Vector3d[] {
-                    new Vector3d(0.22134268904265, 79.55542145076201, -8.05713294359369),
-                    new Vector3d(-7.76196106748000, 78.89105158750522, -0.46161414208858),
-                    new Vector3d(-3.31174869114121, 28.30054338034181, -5.24677419722520),
-                    new Vector3d(13.73518735931207, 57.38183714514935, -14.11486569060710),
-                    new Vector3d(18.78851374473364, 21.90765394545088, -12.85559166248870),
-                    new Vector3d(19.55426942727495, 9.77716145445778, -14.69271459065874),
-                    new Vector3d(21.67030981816917, -0.46775167828864, -10.64710292469879),
-                    new Vector3d(5.49394198819385, 16.53503121124721, -9.16580305637564),
-                    new Vector3d(7.28337398799315, -38.81178787045362, -10.52642794432489),
-                    new Vector3d(8.08042554633236, -72.54863427035842, -1.12038368940046),
-                    new Vector3d(7.28576711681130, -78.89521061302477, 7.63192288116413),
-                    new Vector3d(-5.34483066365060, -80.98231474305504, -8.53921597978218),
-                    new Vector3d(-15.23743171890104, 57.52647443417270, 9.18423540992255),
-                    new Vector3d(-18.47980847377650, 20.93429244110408, 12.26093679167282),
-                    new Vector3d(-20.18507631256292, 7.06847667182248, 14.97795327468333),
-                    new Vector3d(-21.35458473939171, -2.74065404987923, 10.54418121865826),
-                    new Vector3d(-8.89263030037670, 16.71537079311203, 4.50107170537309),
-                    new Vector3d(-10.56820497161289, -37.78584820439394, 7.07355553488094),
-                    new Vector3d(6.57521412299864, -70.20558562778641, 15.51581646828133),
-                    new Vector3d(15.23106199463084, -76.68443557897358, 11.66837152382791),
-                    new Vector3d(-5.61482903910585, -81.09100764937021, 15.07031478989103),
-                    new Vector3d(-20.27173488404045, 10.10476779330294, 11.84670413514136),
-                    new Vector3d(19.48431509197381, -2.94223258116840, -13.83983332591240),
-                }
+                "\"skeletons\": [{\"x\": 0.2213, \"y\": 79.5554, \"z\": -8.0571}, {\"x\": -7.7620, \"y\": 78.8911, \"z\": -0.4616}, {\"x\": -3.3117, \"y\": 28.3005, \"z\": -5.2468}, {\"x\": 13.7352, \"y\": 57.3818, \"z\": -14.1149}, {\"x\": 18.7885, \"y\": 21.9077, \"z\": -12.8556}, {\"x\": 19.5543, \"y\": 9.7772, \"z\": -14.6927}, {\"x\": 21.6703, \"y\": -0.4678, \"z\": -10.6471}, {\"x\": 5.4939, \"y\": 16.5350, \"z\": -9.1658}, {\"x\": 7.2834, \"y\": -38.8118, \"z\": -10.5264}, {\"x\": 8.0804, \"y\": -72.5486, \"z\": -1.1204}, {\"x\": 7.2858, \"y\": -78.8952, \"z\": 7.6319}, {\"x\": -5.3448, \"y\": -80.9823, \"z\": -8.5392}, {\"x\": -15.2374, \"y\": 57.5265, \"z\": 9.1842}, {\"x\": -18.4798, \"y\": 20.9343, \"z\": 12.2609}, {\"x\": -20.1851, \"y\": 7.0685, \"z\": 14.9780}, {\"x\": -21.3546, \"y\": -2.7407, \"z\": 10.5442}, {\"x\": -8.8926, \"y\": 16.7154, \"z\": 4.5011}, {\"x\": -10.5682, \"y\": -37.7858, \"z\": 7.0736}, {\"x\": 6.5752, \"y\": -70.2056, \"z\": 15.5158}, {\"x\": 15.2311, \"y\": -76.6844, \"z\": 11.6684}, {\"x\": -5.6148, \"y\": -81.0910, \"z\": 15.0703}, {\"x\": -20.2717, \"y\": 10.1048, \"z\": 11.8467}, {\"x\": 19.4843, \"y\": -2.9422, \"z\": -13.8398}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame21() {
         return new MovesDoubleFrame(
                 new Vector3d(78.58637997746008, 87.58883776242375, 37.35846004069846),
-                new Vector3d[] {
-                    new Vector3d(0.38899201575538, 79.41030164187313, -8.06130251217256),
-                    new Vector3d(-7.60295407413977, 78.74867733574648, -0.49129342114665),
-                    new Vector3d(-3.12903262959823, 28.16843120344796, -5.28224347350839),
-                    new Vector3d(14.02306601606376, 57.31153166089040, -13.97228522637383),
-                    new Vector3d(19.05732633421755, 21.83401765492823, -12.70682751088761),
-                    new Vector3d(19.85407026925045, 9.64955527828349, -14.54802158341022),
-                    new Vector3d(21.88182022427717, -0.58412311784109, -10.51644492486016),
-                    new Vector3d(5.75976019138243, 16.41093737121112, -9.11935092108241),
-                    new Vector3d(7.62177688931624, -38.91781532718526, -10.29169400451425),
-                    new Vector3d(8.43414903672577, -72.71906261272699, -0.69192898986581),
-                    new Vector3d(7.53791554834173, -79.08871970758206, 8.20776984982374),
-                    new Vector3d(-4.99884207141567, -81.10728114107300, -8.03788878375973),
-                    new Vector3d(-15.15959293233261, 57.40867264567658, 9.07593567913089),
-                    new Vector3d(-18.56085218397735, 20.79943192302033, 11.80582170400754),
-                    new Vector3d(-20.35714558318582, 6.92159860681969, 14.38310168833114),
-                    new Vector3d(-21.56264950871008, -2.81148630271979, 9.84620481204619),
-                    new Vector3d(-8.70052053821255, 16.61480539392905, 4.45383235946087),
-                    new Vector3d(-12.12171579931452, -37.76416446112852, 5.89718282011568),
-                    new Vector3d(5.59155806221920, -69.19992158617991, 15.83322986215927),
-                    new Vector3d(14.81928665494124, -75.21851723148214, 12.71606227889446),
-                    new Vector3d(-5.83170082963936, -81.02181678399808, 15.12068296146025),
-                    new Vector3d(-20.36385125881288, 9.98985647071770, 11.30840429421108),
-                    new Vector3d(19.80105224139271, -2.99817068028970, -13.76585565451939),
-                }
+                "\"skeletons\": [{\"x\": 0.3890, \"y\": 79.4103, \"z\": -8.0613}, {\"x\": -7.6030, \"y\": 78.7487, \"z\": -0.4913}, {\"x\": -3.1290, \"y\": 28.1684, \"z\": -5.2822}, {\"x\": 14.0231, \"y\": 57.3115, \"z\": -13.9723}, {\"x\": 19.0573, \"y\": 21.8340, \"z\": -12.7068}, {\"x\": 19.8541, \"y\": 9.6496, \"z\": -14.5480}, {\"x\": 21.8818, \"y\": -0.5841, \"z\": -10.5164}, {\"x\": 5.7598, \"y\": 16.4109, \"z\": -9.1194}, {\"x\": 7.6218, \"y\": -38.9178, \"z\": -10.2917}, {\"x\": 8.4341, \"y\": -72.7191, \"z\": -0.6919}, {\"x\": 7.5379, \"y\": -79.0887, \"z\": 8.2078}, {\"x\": -4.9988, \"y\": -81.1073, \"z\": -8.0379}, {\"x\": -15.1596, \"y\": 57.4087, \"z\": 9.0759}, {\"x\": -18.5609, \"y\": 20.7994, \"z\": 11.8058}, {\"x\": -20.3571, \"y\": 6.9216, \"z\": 14.3831}, {\"x\": -21.5626, \"y\": -2.8115, \"z\": 9.8462}, {\"x\": -8.7005, \"y\": 16.6148, \"z\": 4.4538}, {\"x\": -12.1217, \"y\": -37.7642, \"z\": 5.8972}, {\"x\": 5.5916, \"y\": -69.1999, \"z\": 15.8332}, {\"x\": 14.8193, \"y\": -75.2185, \"z\": 12.7161}, {\"x\": -5.8317, \"y\": -81.0218, \"z\": 15.1207}, {\"x\": -20.3639, \"y\": 9.9899, \"z\": 11.3084}, {\"x\": 19.8011, \"y\": -2.9982, \"z\": -13.7659}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame22() {
         return new MovesDoubleFrame(
                 new Vector3d(78.21283936427388, 87.67965704969616, 36.83362359917247),
-                new Vector3d[] {
-                    new Vector3d(0.59929424122423, 79.23527005382928, -8.03327403905391),
-                    new Vector3d(-7.41261923234005, 78.58925817354260, -0.49561519467734),
-                    new Vector3d(-2.86829896664896, 28.00898270153739, -5.23880541318932),
-                    new Vector3d(14.35666378507899, 57.20075323504890, -13.76796117116030),
-                    new Vector3d(19.38546486798646, 21.71342593853615, -12.47066951443670),
-                    new Vector3d(20.16244785279222, 9.50582704628598, -14.36325715419038),
-                    new Vector3d(22.16310000349367, -0.71859217896219, -10.38111826089085),
-                    new Vector3d(6.06404568128679, 16.25602214462754, -9.04525854629675),
-                    new Vector3d(7.87033711329699, -39.12838117017802, -9.90846435707308),
-                    new Vector3d(8.78615142936059, -72.86807021747278, -0.23178855960823),
-                    new Vector3d(7.85056693895979, -79.25563228135441, 8.80005212762010),
-                    new Vector3d(-4.62986401207503, -81.19207908455014, -7.51820421422328),
-                    new Vector3d(-15.03845835865926, 57.26363198955234, 8.97668783156502),
-                    new Vector3d(-18.60499977323084, 20.67198579031403, 11.39316674246532),
-                    new Vector3d(-20.51750028568140, 6.77399566730142, 13.75651149044366),
-                    new Vector3d(-21.67871156430521, -2.88756772604523, 9.10211004493536),
-                    new Vector3d(-8.42631884850693, 16.46730583175061, 4.49838582578764),
-                    new Vector3d(-13.79211594011289, -37.73306674275204, 4.50790660267493),
-                    new Vector3d(4.40616826833302, -68.01013061061261, 16.01045450685921),
-                    new Vector3d(14.14051591724045, -73.49975784260251, 13.79205511482443),
-                    new Vector3d(-6.15573493327451, -80.82810476237691, 14.85254321862887),
-                    new Vector3d(-20.46641016566701, 9.89794026390034, 10.72157232826821),
-                    new Vector3d(20.06185158979586, -3.09686380865900, -13.64044774648533),
-                }
+                "\"skeletons\": [{\"x\": 0.5993, \"y\": 79.2353, \"z\": -8.0333}, {\"x\": -7.4126, \"y\": 78.5893, \"z\": -0.4956}, {\"x\": -2.8683, \"y\": 28.0090, \"z\": -5.2388}, {\"x\": 14.3567, \"y\": 57.2008, \"z\": -13.7680}, {\"x\": 19.3855, \"y\": 21.7134, \"z\": -12.4707}, {\"x\": 20.1624, \"y\": 9.5058, \"z\": -14.3633}, {\"x\": 22.1631, \"y\": -0.7186, \"z\": -10.3811}, {\"x\": 6.0640, \"y\": 16.2560, \"z\": -9.0453}, {\"x\": 7.8703, \"y\": -39.1284, \"z\": -9.9085}, {\"x\": 8.7862, \"y\": -72.8681, \"z\": -0.2318}, {\"x\": 7.8506, \"y\": -79.2556, \"z\": 8.8001}, {\"x\": -4.6299, \"y\": -81.1921, \"z\": -7.5182}, {\"x\": -15.0385, \"y\": 57.2636, \"z\": 8.9767}, {\"x\": -18.6050, \"y\": 20.6720, \"z\": 11.3932}, {\"x\": -20.5175, \"y\": 6.7740, \"z\": 13.7565}, {\"x\": -21.6787, \"y\": -2.8876, \"z\": 9.1021}, {\"x\": -8.4263, \"y\": 16.4673, \"z\": 4.4984}, {\"x\": -13.7921, \"y\": -37.7331, \"z\": 4.5079}, {\"x\": 4.4062, \"y\": -68.0101, \"z\": 16.0105}, {\"x\": 14.1405, \"y\": -73.4998, \"z\": 13.7921}, {\"x\": -6.1557, \"y\": -80.8281, \"z\": 14.8525}, {\"x\": -20.4664, \"y\": 9.8979, \"z\": 10.7216}, {\"x\": 20.0619, \"y\": -3.0969, \"z\": -13.6404}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame23() {
         return new MovesDoubleFrame(
                 new Vector3d(77.79988408543690, 87.74559207626872, 36.26333833488438),
-                new Vector3d[] {
-                    new Vector3d(0.86503904086028, 79.05514784115179, -7.94430419252163),
-                    new Vector3d(-7.17518597235635, 78.43010470352256, -0.43510601091038),
-                    new Vector3d(-2.60339694167417, 27.83478408079875, -5.11846259955607),
-                    new Vector3d(14.62747107614870, 57.02764867331031, -13.58671509802025),
-                    new Vector3d(19.69931055644123, 21.50696105950039, -12.21741440105689),
-                    new Vector3d(20.46308059249327, 9.34872434221890, -14.18911792515644),
-                    new Vector3d(22.47445837930649, -0.89165644831946, -10.22972332201040),
-                    new Vector3d(6.40060346920409, 16.09845084659018, -8.88307473337573),
-                    new Vector3d(8.23662084265480, -39.31808012775731, -9.38322418537486),
-                    new Vector3d(9.14335806840963, -73.00810115505701, 0.32960999357838),
-                    new Vector3d(8.30293327595975, -79.29613539050219, 9.36106375003984),
-                    new Vector3d(-4.23279327797392, -81.26499373555305, -6.93473081296679),
-                    new Vector3d(-14.92789847260111, 57.10629172258388, 8.96233724322104),
-                    new Vector3d(-18.67141115445222, 20.52515972388596, 10.97672410912848),
-                    new Vector3d(-20.67075427696798, 6.57602241528242, 13.12620867182306),
-                    new Vector3d(-21.85273049589665, -2.95490408309242, 8.35552594159050),
-                    new Vector3d(-8.15460533833723, 16.27443894305204, 4.63901701791412),
-                    new Vector3d(-15.44492099411485, -37.59078671263993, 2.98769026046875),
-                    new Vector3d(2.99877314112560, -66.82456744590620, 15.93455905752242),
-                    new Vector3d(13.23727733006474, -71.64660024626036, 14.72375101630120),
-                    new Vector3d(-6.58099535665694, -80.51916023012811, 14.24742399880630),
-                    new Vector3d(-20.53058873096185, 9.72303527213158, 10.11476250345414),
-                    new Vector3d(20.35924723284904, -3.29324050948555, -13.50118729841870),
-                }
+                "\"skeletons\": [{\"x\": 0.8650, \"y\": 79.0551, \"z\": -7.9443}, {\"x\": -7.1752, \"y\": 78.4301, \"z\": -0.4351}, {\"x\": -2.6034, \"y\": 27.8348, \"z\": -5.1185}, {\"x\": 14.6275, \"y\": 57.0276, \"z\": -13.5867}, {\"x\": 19.6993, \"y\": 21.5070, \"z\": -12.2174}, {\"x\": 20.4631, \"y\": 9.3487, \"z\": -14.1891}, {\"x\": 22.4745, \"y\": -0.8917, \"z\": -10.2297}, {\"x\": 6.4006, \"y\": 16.0985, \"z\": -8.8831}, {\"x\": 8.2366, \"y\": -39.3181, \"z\": -9.3832}, {\"x\": 9.1434, \"y\": -73.0081, \"z\": 0.3296}, {\"x\": 8.3029, \"y\": -79.2961, \"z\": 9.3611}, {\"x\": -4.2328, \"y\": -81.2650, \"z\": -6.9347}, {\"x\": -14.9279, \"y\": 57.1063, \"z\": 8.9623}, {\"x\": -18.6714, \"y\": 20.5252, \"z\": 10.9767}, {\"x\": -20.6708, \"y\": 6.5760, \"z\": 13.1262}, {\"x\": -21.8527, \"y\": -2.9549, \"z\": 8.3555}, {\"x\": -8.1546, \"y\": 16.2744, \"z\": 4.6390}, {\"x\": -15.4449, \"y\": -37.5908, \"z\": 2.9877}, {\"x\": 2.9988, \"y\": -66.8246, \"z\": 15.9346}, {\"x\": 13.2373, \"y\": -71.6466, \"z\": 14.7238}, {\"x\": -6.5810, \"y\": -80.5192, \"z\": 14.2474}, {\"x\": -20.5306, \"y\": 9.7230, \"z\": 10.1148}, {\"x\": 20.3592, \"y\": -3.2932, \"z\": -13.5012}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame24() {
         return new MovesDoubleFrame(
                 new Vector3d(77.33330755186546, 87.76323235198902, 35.62527510452200),
-                new Vector3d[] {
-                    new Vector3d(1.15188527333720, 78.91854236679036, -7.77241388653563),
-                    new Vector3d(-6.89735587151713, 78.31202840121234, -0.29061773661493),
-                    new Vector3d(-2.30545748541515, 27.67609085532124, -4.88830079848714),
-                    new Vector3d(14.95735315140639, 56.85021695120059, -13.32903704997402),
-                    new Vector3d(20.10798727455606, 21.34053108492357, -11.92033253034364),
-                    new Vector3d(20.82971188943799, 9.18961932064961, -13.93870442213978),
-                    new Vector3d(22.78861299504626, -1.07215562299613, -10.03965803909232),
-                    new Vector3d(6.72539411104425, 15.98005043077355, -8.63242525834896),
-                    new Vector3d(8.69032002904972, -39.37684904294738, -8.78488988549299),
-                    new Vector3d(9.53081088937926, -73.06778972778936, 1.02042347725960),
-                    new Vector3d(8.81873602448264, -79.28447053847391, 9.99264394542219),
-                    new Vector3d(-3.78566410548094, -81.31055876548064, -6.28078109514554),
-                    new Vector3d(-14.78368876919099, 56.92370575744472, 9.05661865575760),
-                    new Vector3d(-18.69077297751454, 20.36968780851967, 10.61643134207545),
-                    new Vector3d(-20.77171759522336, 6.36511824863362, 12.47902859677837),
-                    new Vector3d(-22.06683687076818, -2.94842045040890, 7.61055067360740),
-                    new Vector3d(-7.86908367583015, 16.12421023825123, 4.83808280655207),
-                    new Vector3d(-16.83555621551677, -37.34071776779906, 1.31653675392049),
-                    new Vector3d(1.36590055140053, -65.83820548275294, 15.60485441850431),
-                    new Vector3d(11.80817331705489, -70.11873316839160, 15.35803260628333),
-                    new Vector3d(-7.21624235163343, -80.15919308091399, 12.77566543346848),
-                    new Vector3d(-20.52582872601666, 9.55683940332700, 9.51580162447089),
-                    new Vector3d(20.67417866244963, -3.44755590807162, -13.31810234933081),
-                }
+                "\"skeletons\": [{\"x\": 1.1519, \"y\": 78.9185, \"z\": -7.7724}, {\"x\": -6.8974, \"y\": 78.3120, \"z\": -0.2906}, {\"x\": -2.3055, \"y\": 27.6761, \"z\": -4.8883}, {\"x\": 14.9574, \"y\": 56.8502, \"z\": -13.3290}, {\"x\": 20.1080, \"y\": 21.3405, \"z\": -11.9203}, {\"x\": 20.8297, \"y\": 9.1896, \"z\": -13.9387}, {\"x\": 22.7886, \"y\": -1.0722, \"z\": -10.0397}, {\"x\": 6.7254, \"y\": 15.9801, \"z\": -8.6324}, {\"x\": 8.6903, \"y\": -39.3768, \"z\": -8.7849}, {\"x\": 9.5308, \"y\": -73.0678, \"z\": 1.0204}, {\"x\": 8.8187, \"y\": -79.2845, \"z\": 9.9926}, {\"x\": -3.7857, \"y\": -81.3106, \"z\": -6.2808}, {\"x\": -14.7837, \"y\": 56.9237, \"z\": 9.0566}, {\"x\": -18.6908, \"y\": 20.3697, \"z\": 10.6164}, {\"x\": -20.7717, \"y\": 6.3651, \"z\": 12.4790}, {\"x\": -22.0668, \"y\": -2.9484, \"z\": 7.6106}, {\"x\": -7.8691, \"y\": 16.1242, \"z\": 4.8381}, {\"x\": -16.8356, \"y\": -37.3407, \"z\": 1.3165}, {\"x\": 1.3659, \"y\": -65.8382, \"z\": 15.6049}, {\"x\": 11.8082, \"y\": -70.1187, \"z\": 15.3580}, {\"x\": -7.2162, \"y\": -80.1592, \"z\": 12.7757}, {\"x\": -20.5258, \"y\": 9.5568, \"z\": 9.5158}, {\"x\": 20.6742, \"y\": -3.4476, \"z\": -13.3181}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame25() {
         return new MovesDoubleFrame(
                 new Vector3d(76.80935201415791, 87.72485253869033, 34.90091180951215),
-                new Vector3d[] {
-                    new Vector3d(1.47176832820190, 78.82870637690920, -7.52620687586760),
-                    new Vector3d(-6.60570324379450, 78.23681225867907, -0.06978880164457),
-                    new Vector3d(-1.96541470965397, 27.57781333620197, -4.56136425976007),
-                    new Vector3d(15.25559364466688, 56.71351917795479, -13.00220763635953),
-                    new Vector3d(20.46988638029012, 21.20819027341807, -11.52722894130035),
-                    new Vector3d(21.23568338011390, 9.06517852346212, -13.61640091450729),
-                    new Vector3d(23.12725216872360, -1.24796371476284, -9.74392595918992),
-                    new Vector3d(7.09044147591493, 15.92436042903171, -8.32231588083241),
-                    new Vector3d(9.19779341288626, -39.37267935824165, -8.16165008097204),
-                    new Vector3d(9.98624173706585, -73.07745655621095, 1.77909201780517),
-                    new Vector3d(9.18188495888995, -79.42810197813061, 10.81045797695354),
-                    new Vector3d(-3.27737052540184, -81.29720652125722, -5.54265098410879),
-                    new Vector3d(-14.60207885689953, 56.80199512857353, 9.19745244065184),
-                    new Vector3d(-18.59627952274873, 20.22754851399020, 10.30127008259606),
-                    new Vector3d(-20.80386789064111, 6.23126368111945, 11.89897032685906),
-                    new Vector3d(-22.24664348502257, -2.87833599403279, 6.87850920854815),
-                    new Vector3d(-7.56143727491723, 16.03380090032714, 5.11349156571670),
-                    new Vector3d(-18.00976495752708, -36.87615445375631, -0.33092477680586),
-                    new Vector3d(-0.53666680687702, -65.35435608041206, 14.68436511112196),
-                    new Vector3d(10.04921040752129, -69.21372541286185, 15.26770935888737),
-                    new Vector3d(-8.24497930565325, -79.92533656162915, 10.77308252538516),
-                    new Vector3d(-20.48421883820044, 9.47235128630183, 9.00135053733398),
-                    new Vector3d(21.01971601724873, -3.61169189048780, -13.05427829992641),
-                }
+                "\"skeletons\": [{\"x\": 1.4718, \"y\": 78.8287, \"z\": -7.5262}, {\"x\": -6.6057, \"y\": 78.2368, \"z\": -0.0698}, {\"x\": -1.9654, \"y\": 27.5778, \"z\": -4.5614}, {\"x\": 15.2556, \"y\": 56.7135, \"z\": -13.0022}, {\"x\": 20.4699, \"y\": 21.2082, \"z\": -11.5272}, {\"x\": 21.2357, \"y\": 9.0652, \"z\": -13.6164}, {\"x\": 23.1273, \"y\": -1.2480, \"z\": -9.7439}, {\"x\": 7.0904, \"y\": 15.9244, \"z\": -8.3223}, {\"x\": 9.1978, \"y\": -39.3727, \"z\": -8.1617}, {\"x\": 9.9862, \"y\": -73.0775, \"z\": 1.7791}, {\"x\": 9.1819, \"y\": -79.4281, \"z\": 10.8105}, {\"x\": -3.2774, \"y\": -81.2972, \"z\": -5.5427}, {\"x\": -14.6021, \"y\": 56.8020, \"z\": 9.1975}, {\"x\": -18.5963, \"y\": 20.2275, \"z\": 10.3013}, {\"x\": -20.8039, \"y\": 6.2313, \"z\": 11.8990}, {\"x\": -22.2466, \"y\": -2.8783, \"z\": 6.8785}, {\"x\": -7.5614, \"y\": 16.0338, \"z\": 5.1135}, {\"x\": -18.0098, \"y\": -36.8762, \"z\": -0.3309}, {\"x\": -0.5367, \"y\": -65.3544, \"z\": 14.6844}, {\"x\": 10.0492, \"y\": -69.2137, \"z\": 15.2677}, {\"x\": -8.2450, \"y\": -79.9253, \"z\": 10.7731}, {\"x\": -20.4842, \"y\": 9.4724, \"z\": 9.0014}, {\"x\": 21.0197, \"y\": -3.6117, \"z\": -13.0543}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame26() {
         return new MovesDoubleFrame(
                 new Vector3d(76.24114348579860, 87.66155852359726, 34.09700998054083),
-                new Vector3d[] {
-                    new Vector3d(1.79065301595381, 78.77979565530701, -7.21466251603913),
-                    new Vector3d(-6.30798539525976, 78.19872611438930, 0.21856007634577),
-                    new Vector3d(-1.64004522776338, 27.51989428444825, -4.18241174025016),
-                    new Vector3d(15.57222706827212, 56.63194675449054, -12.61008313737090),
-                    new Vector3d(20.82288598791008, 21.11025118867169, -11.03111701861331),
-                    new Vector3d(21.59421102902850, 8.98185529353835, -13.18438759281493),
-                    new Vector3d(23.49948536140485, -1.34408321759544, -9.39092024180495),
-                    new Vector3d(7.51770791210533, 15.90632205431235, -7.85745255846697),
-                    new Vector3d(9.61965872725355, -39.36966872677856, -7.56737767223100),
-                    new Vector3d(10.45951174725472, -73.01149545776006, 2.53623602203886),
-                    new Vector3d(9.60265307836571, -79.50003504594255, 11.65511115940620),
-                    new Vector3d(-2.71416645153815, -81.25661102951109, -4.72694010675970),
-                    new Vector3d(-14.44304781326767, 56.80048033208688, 9.35111113860224),
-                    new Vector3d(-18.51135296029050, 20.12805769835410, 10.06812479548615),
-                    new Vector3d(-20.83678254683009, 6.09531801987323, 11.28084791034116),
-                    new Vector3d(-22.38546473814823, -2.74451415792233, 6.02681920760287),
-                    new Vector3d(-7.21675581067819, 16.00042253990133, 5.48214647153296),
-                    new Vector3d(-18.94666101803251, -36.36750495400433, -1.91733002962595),
-                    new Vector3d(-2.46034390689529, -65.25489294531440, 13.26256849292555),
-                    new Vector3d(8.10579074430792, -69.12687785448675, 14.34819277855417),
-                    new Vector3d(-9.94562739760448, -79.72319585705849, 8.63715432579385),
-                    new Vector3d(-20.38922893991241, 9.41467821081690, 8.46548003814602),
-                    new Vector3d(21.44147920863278, -3.66956278718592, -12.74441857542281),
-                }
+                "\"skeletons\": [{\"x\": 1.7907, \"y\": 78.7798, \"z\": -7.2147}, {\"x\": -6.3080, \"y\": 78.1987, \"z\": 0.2186}, {\"x\": -1.6400, \"y\": 27.5199, \"z\": -4.1824}, {\"x\": 15.5722, \"y\": 56.6319, \"z\": -12.6101}, {\"x\": 20.8229, \"y\": 21.1103, \"z\": -11.0311}, {\"x\": 21.5942, \"y\": 8.9819, \"z\": -13.1844}, {\"x\": 23.4995, \"y\": -1.3441, \"z\": -9.3909}, {\"x\": 7.5177, \"y\": 15.9063, \"z\": -7.8575}, {\"x\": 9.6197, \"y\": -39.3697, \"z\": -7.5674}, {\"x\": 10.4595, \"y\": -73.0115, \"z\": 2.5362}, {\"x\": 9.6027, \"y\": -79.5000, \"z\": 11.6551}, {\"x\": -2.7142, \"y\": -81.2566, \"z\": -4.7269}, {\"x\": -14.4430, \"y\": 56.8005, \"z\": 9.3511}, {\"x\": -18.5114, \"y\": 20.1281, \"z\": 10.0681}, {\"x\": -20.8368, \"y\": 6.0953, \"z\": 11.2808}, {\"x\": -22.3855, \"y\": -2.7445, \"z\": 6.0268}, {\"x\": -7.2168, \"y\": 16.0004, \"z\": 5.4821}, {\"x\": -18.9467, \"y\": -36.3675, \"z\": -1.9173}, {\"x\": -2.4603, \"y\": -65.2549, \"z\": 13.2626}, {\"x\": 8.1058, \"y\": -69.1269, \"z\": 14.3482}, {\"x\": -9.9456, \"y\": -79.7232, \"z\": 8.6372}, {\"x\": -20.3892, \"y\": 9.4147, \"z\": 8.4655}, {\"x\": 21.4415, \"y\": -3.6696, \"z\": -12.7444}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame27() {
         return new MovesDoubleFrame(
                 new Vector3d(75.63627984309093, 87.56515041766157, 33.22490691774901),
-                new Vector3d[] {
-                    new Vector3d(2.10281354161595, 78.76182055897434, -6.85445201768146),
-                    new Vector3d(-6.00670346837730, 78.17891127465516, 0.57057775416637),
-                    new Vector3d(-1.29483396613047, 27.50039835722976, -3.74728954209552),
-                    new Vector3d(15.95677853221746, 56.62798895542937, -12.16489920575051),
-                    new Vector3d(21.18869019002408, 21.05326604586052, -10.47716259126508),
-                    new Vector3d(21.94249419466459, 8.92592284655365, -12.71011797318913),
-                    new Vector3d(23.78720538364779, -1.40883828111905, -9.00471380916884),
-                    new Vector3d(7.95019644130903, 15.91947312850854, -7.29392687211491),
-                    new Vector3d(9.88055461671581, -39.39235741219869, -7.04478267219861),
-                    new Vector3d(10.93822719476738, -72.90342030961557, 3.35296937546204),
-                    new Vector3d(10.16748781580239, -79.43378762308663, 12.55671755358557),
-                    new Vector3d(-2.11756963067023, -81.17493466297334, -3.86055668058383),
-                    new Vector3d(-14.19303331429336, 56.76705420889505, 9.64536646009256),
-                    new Vector3d(-18.39829032278137, 20.08754155396672, 9.94157707176579),
-                    new Vector3d(-20.86629780486549, 6.01472853998645, 10.64308811637561),
-                    new Vector3d(-22.47818492929277, -2.46817849566909, 5.09378099159956),
-                    new Vector3d(-6.88752174790179, 15.99536043282891, 5.90835306631760),
-                    new Vector3d(-19.60706708646793, -35.71955146544705, -3.34487511980933),
-                    new Vector3d(-4.42424774869478, -65.51997002665108, 11.42958393890924),
-                    new Vector3d(6.01378761681862, -69.70825884868174, 12.71426510134903),
-                    new Vector3d(-12.20954199321722, -79.61881272207373, 6.20075389107237),
-                    new Vector3d(-20.27711842024672, 9.39364777716632, 7.93054203024353),
-                    new Vector3d(21.75378322045171, -3.67500855910894, -12.39578338488732),
-                }
+                "\"skeletons\": [{\"x\": 2.1028, \"y\": 78.7618, \"z\": -6.8545}, {\"x\": -6.0067, \"y\": 78.1789, \"z\": 0.5706}, {\"x\": -1.2948, \"y\": 27.5004, \"z\": -3.7473}, {\"x\": 15.9568, \"y\": 56.6280, \"z\": -12.1649}, {\"x\": 21.1887, \"y\": 21.0533, \"z\": -10.4772}, {\"x\": 21.9425, \"y\": 8.9259, \"z\": -12.7101}, {\"x\": 23.7872, \"y\": -1.4088, \"z\": -9.0047}, {\"x\": 7.9502, \"y\": 15.9195, \"z\": -7.2939}, {\"x\": 9.8806, \"y\": -39.3924, \"z\": -7.0448}, {\"x\": 10.9382, \"y\": -72.9034, \"z\": 3.3530}, {\"x\": 10.1675, \"y\": -79.4338, \"z\": 12.5567}, {\"x\": -2.1176, \"y\": -81.1749, \"z\": -3.8606}, {\"x\": -14.1930, \"y\": 56.7671, \"z\": 9.6454}, {\"x\": -18.3983, \"y\": 20.0875, \"z\": 9.9416}, {\"x\": -20.8663, \"y\": 6.0147, \"z\": 10.6431}, {\"x\": -22.4782, \"y\": -2.4682, \"z\": 5.0938}, {\"x\": -6.8875, \"y\": 15.9954, \"z\": 5.9084}, {\"x\": -19.6071, \"y\": -35.7196, \"z\": -3.3449}, {\"x\": -4.4242, \"y\": -65.5200, \"z\": 11.4296}, {\"x\": 6.0138, \"y\": -69.7083, \"z\": 12.7143}, {\"x\": -12.2095, \"y\": -79.6188, \"z\": 6.2008}, {\"x\": -20.2771, \"y\": 9.3936, \"z\": 7.9305}, {\"x\": 21.7538, \"y\": -3.6750, \"z\": -12.3958}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame28() {
         return new MovesDoubleFrame(
                 new Vector3d(74.98222036757527, 87.43868784710642, 32.28244055510077),
-                new Vector3d[] {
-                    new Vector3d(2.43532531242063, 78.75649669322389, -6.43163285653306),
-                    new Vector3d(-5.68838186659870, 78.17440066029489, 0.99198140449181),
-                    new Vector3d(-0.89910424444272, 27.50901069918606, -3.24729249666122),
-                    new Vector3d(16.32219568659826, 56.63221123286890, -11.62401810508535),
-                    new Vector3d(21.57295744817994, 21.05059266618853, -9.87062765569527),
-                    new Vector3d(22.27187680467665, 8.90750655736177, -12.17483720759015),
-                    new Vector3d(24.07401913866103, -1.47109323190632, -8.55551935309368),
-                    new Vector3d(8.41589487750765, 15.91816479475212, -6.64797999880280),
-                    new Vector3d(10.02619638047161, -39.42269770696115, -6.62581973975675),
-                    new Vector3d(11.49474367950533, -72.77178244731545, 4.24626465366088),
-                    new Vector3d(10.69581896904754, -79.39057020612593, 13.49390393160427),
-                    new Vector3d(-1.49734841290832, -81.05426875723698, -2.97021167968959),
-                    new Vector3d(-13.98516322581951, 56.83379643366385, 9.91958404527958),
-                    new Vector3d(-18.28653491064681, 20.10815845566222, 9.86997258223476),
-                    new Vector3d(-20.90423125110733, 6.00411128940673, 10.00947836344193),
-                    new Vector3d(-22.46902542342778, -2.14113910464480, 4.14649599831891),
-                    new Vector3d(-6.59195215554128, 16.00897343561698, 6.35809064350120),
-                    new Vector3d(-19.96375744696808, -35.02045889459821, -4.47529146441752),
-                    new Vector3d(-6.45740625710376, -66.07805014215680, 9.31040837325039),
-                    new Vector3d(3.61226141182441, -70.71724552747067, 10.87443227119104),
-                    new Vector3d(-14.61566666948726, -79.73963606038254, 3.11504367212991),
-                    new Vector3d(-20.19395303787406, 9.46487350072115, 7.42702380250956),
-                    new Vector3d(22.02537529700122, -3.70916053762178, -11.99050107734755),
-                }
+                "\"skeletons\": [{\"x\": 2.4353, \"y\": 78.7565, \"z\": -6.4316}, {\"x\": -5.6884, \"y\": 78.1744, \"z\": 0.9920}, {\"x\": -0.8991, \"y\": 27.5090, \"z\": -3.2473}, {\"x\": 16.3222, \"y\": 56.6322, \"z\": -11.6240}, {\"x\": 21.5730, \"y\": 21.0506, \"z\": -9.8706}, {\"x\": 22.2719, \"y\": 8.9075, \"z\": -12.1748}, {\"x\": 24.0740, \"y\": -1.4711, \"z\": -8.5555}, {\"x\": 8.4159, \"y\": 15.9182, \"z\": -6.6480}, {\"x\": 10.0262, \"y\": -39.4227, \"z\": -6.6258}, {\"x\": 11.4947, \"y\": -72.7718, \"z\": 4.2463}, {\"x\": 10.6958, \"y\": -79.3906, \"z\": 13.4939}, {\"x\": -1.4973, \"y\": -81.0543, \"z\": -2.9702}, {\"x\": -13.9852, \"y\": 56.8338, \"z\": 9.9196}, {\"x\": -18.2865, \"y\": 20.1082, \"z\": 9.8700}, {\"x\": -20.9042, \"y\": 6.0041, \"z\": 10.0095}, {\"x\": -22.4690, \"y\": -2.1411, \"z\": 4.1465}, {\"x\": -6.5920, \"y\": 16.0090, \"z\": 6.3581}, {\"x\": -19.9638, \"y\": -35.0205, \"z\": -4.4753}, {\"x\": -6.4574, \"y\": -66.0781, \"z\": 9.3104}, {\"x\": 3.6123, \"y\": -70.7172, \"z\": 10.8744}, {\"x\": -14.6157, \"y\": -79.7396, \"z\": 3.1150}, {\"x\": -20.1940, \"y\": 9.4649, \"z\": 7.4270}, {\"x\": 22.0254, \"y\": -3.7092, \"z\": -11.9905}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame29() {
         return new MovesDoubleFrame(
                 new Vector3d(74.29291963384307, 87.27519108468961, 31.27990424830506),
-                new Vector3d[] {
-                    new Vector3d(2.80326020020249, 78.78350607324428, -5.95770171973633),
-                    new Vector3d(-5.36323852800229, 78.19584589802598, 1.43290856451924),
-                    new Vector3d(-0.47342798785799, 27.52097697829010, -2.68191277724154),
-                    new Vector3d(16.75330302424258, 56.66878515840837, -11.00707216275060),
-                    new Vector3d(21.98533300458895, 21.08510020750572, -9.21952276481117),
-                    new Vector3d(22.59347269279873, 8.93778772769781, -11.62130320926948),
-                    new Vector3d(24.39298307305847, -1.48919984621745, -8.10672159111583),
-                    new Vector3d(8.90054343208591, 15.92207054778513, -5.97550769593476),
-                    new Vector3d(10.10013357106863, -39.47501470991478, -6.18753941746576),
-                    new Vector3d(11.96815096562925, -72.60282696210287, 5.15920250600748),
-                    new Vector3d(11.22194655690235, -79.35160095664428, 14.49614913588784),
-                    new Vector3d(-0.84680615067225, -80.91301104313982, -2.00403927765089),
-                    new Vector3d(-13.71659960709162, 56.83757811247322, 10.28483068626035),
-                    new Vector3d(-18.24376753300993, 20.16375604509775, 9.77287006724455),
-                    new Vector3d(-21.00734731223093, 6.07321252473679, 9.33415251530807),
-                    new Vector3d(-22.41713604339723, -1.75884115836011, 3.13897066725532),
-                    new Vector3d(-6.26847675173545, 16.08047693974159, 6.78005655152166),
-                    new Vector3d(-20.14945019670040, -34.35144135697677, -5.32353744399571),
-                    new Vector3d(-8.59346211247617, -66.83288129639440, 6.96983845562272),
-                    new Vector3d(1.00333175206800, -71.96769329434584, 8.86634749708625),
-                    new Vector3d(-16.87911822357913, -79.93066773943070, -0.65989466777415),
-                    new Vector3d(-20.14164288239413, 9.60839888694358, 6.92708117178814),
-                    new Vector3d(22.34041729429270, -3.65593721576437, -11.57980047706666),
-                }
+                "\"skeletons\": [{\"x\": 2.8033, \"y\": 78.7835, \"z\": -5.9577}, {\"x\": -5.3632, \"y\": 78.1958, \"z\": 1.4329}, {\"x\": -0.4734, \"y\": 27.5210, \"z\": -2.6819}, {\"x\": 16.7533, \"y\": 56.6688, \"z\": -11.0071}, {\"x\": 21.9853, \"y\": 21.0851, \"z\": -9.2195}, {\"x\": 22.5935, \"y\": 8.9378, \"z\": -11.6213}, {\"x\": 24.3930, \"y\": -1.4892, \"z\": -8.1067}, {\"x\": 8.9005, \"y\": 15.9221, \"z\": -5.9755}, {\"x\": 10.1001, \"y\": -39.4750, \"z\": -6.1875}, {\"x\": 11.9682, \"y\": -72.6028, \"z\": 5.1592}, {\"x\": 11.2219, \"y\": -79.3516, \"z\": 14.4961}, {\"x\": -0.8468, \"y\": -80.9130, \"z\": -2.0040}, {\"x\": -13.7166, \"y\": 56.8376, \"z\": 10.2848}, {\"x\": -18.2438, \"y\": 20.1638, \"z\": 9.7729}, {\"x\": -21.0073, \"y\": 6.0732, \"z\": 9.3342}, {\"x\": -22.4171, \"y\": -1.7588, \"z\": 3.1390}, {\"x\": -6.2685, \"y\": 16.0805, \"z\": 6.7801}, {\"x\": -20.1495, \"y\": -34.3514, \"z\": -5.3235}, {\"x\": -8.5935, \"y\": -66.8329, \"z\": 6.9698}, {\"x\": 1.0033, \"y\": -71.9677, \"z\": 8.8663}, {\"x\": -16.8791, \"y\": -79.9307, \"z\": -0.6599}, {\"x\": -20.1416, \"y\": 9.6084, \"z\": 6.9271}, {\"x\": 22.3404, \"y\": -3.6559, \"z\": -11.5798}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame30() {
         return new MovesDoubleFrame(
                 new Vector3d(73.60355458542028, 87.06512137055726, 30.20765156440729),
-                new Vector3d[] {
-                    new Vector3d(3.12127380483024, 78.82312371725995, -5.44989707075127),
-                    new Vector3d(-5.05809706956032, 78.21955885111510, 1.92092409761765),
-                    new Vector3d(-0.06308451375675, 27.50844985609335, -2.10531245514426),
-                    new Vector3d(17.20204958920084, 56.68438750294486, -10.27319759730569),
-                    new Vector3d(22.33519034820284, 21.08173637439105, -8.54504892897348),
-                    new Vector3d(22.91519821393651, 8.96224940929765, -10.98138127595422),
-                    new Vector3d(24.68952960362900, -1.51781054282876, -7.58455922854137),
-                    new Vector3d(9.36407849416589, 15.92188865022222, -5.30153766018567),
-                    new Vector3d(10.12864237732350, -39.47094903481067, -5.73431002268677),
-                    new Vector3d(12.50015970212965, -72.38223319614173, 6.16306009633637),
-                    new Vector3d(11.88578752902109, -79.13437267914183, 15.58851051743306),
-                    new Vector3d(-0.17342790764185, -80.71192320867918, -0.88759908335113),
-                    new Vector3d(-13.52413972441523, 56.96639140185228, 10.64630688671319),
-                    new Vector3d(-18.30111487714079, 20.23736253084664, 9.55145795560858),
-                    new Vector3d(-21.26708403740718, 6.19569293479842, 8.54263667755994),
-                    new Vector3d(-22.31752287100240, -1.34850998736294, 1.99266953558390),
-                    new Vector3d(-5.97471611656748, 16.15591074770226, 7.26191566421114),
-                    new Vector3d(-20.19406058981114, -33.77103494294037, -5.95852938074378),
-                    new Vector3d(-10.73362816720188, -67.74276142788442, 4.45236531433743),
-                    new Vector3d(-1.35252299949746, -73.50474090814023, 6.08805424522177),
-                    new Vector3d(-19.32696656997150, -79.84958783150944, -4.45866963540264),
-                    new Vector3d(-20.14078860063409, 9.79759610734159, 6.32187439893858),
-                    new Vector3d(22.59797546957560, -3.67442739624159, -11.03953673157936),
-                }
+                "\"skeletons\": [{\"x\": 3.1213, \"y\": 78.8231, \"z\": -5.4499}, {\"x\": -5.0581, \"y\": 78.2196, \"z\": 1.9209}, {\"x\": -0.0631, \"y\": 27.5084, \"z\": -2.1053}, {\"x\": 17.2020, \"y\": 56.6844, \"z\": -10.2732}, {\"x\": 22.3352, \"y\": 21.0817, \"z\": -8.5450}, {\"x\": 22.9152, \"y\": 8.9622, \"z\": -10.9814}, {\"x\": 24.6895, \"y\": -1.5178, \"z\": -7.5846}, {\"x\": 9.3641, \"y\": 15.9219, \"z\": -5.3015}, {\"x\": 10.1286, \"y\": -39.4709, \"z\": -5.7343}, {\"x\": 12.5002, \"y\": -72.3822, \"z\": 6.1631}, {\"x\": 11.8858, \"y\": -79.1344, \"z\": 15.5885}, {\"x\": -0.1734, \"y\": -80.7119, \"z\": -0.8876}, {\"x\": -13.5241, \"y\": 56.9664, \"z\": 10.6463}, {\"x\": -18.3011, \"y\": 20.2374, \"z\": 9.5515}, {\"x\": -21.2671, \"y\": 6.1957, \"z\": 8.5426}, {\"x\": -22.3175, \"y\": -1.3485, \"z\": 1.9927}, {\"x\": -5.9747, \"y\": 16.1559, \"z\": 7.2619}, {\"x\": -20.1941, \"y\": -33.7710, \"z\": -5.9585}, {\"x\": -10.7336, \"y\": -67.7428, \"z\": 4.4524}, {\"x\": -1.3525, \"y\": -73.5047, \"z\": 6.0881}, {\"x\": -19.3270, \"y\": -79.8496, \"z\": -4.4587}, {\"x\": -20.1408, \"y\": 9.7976, \"z\": 6.3219}, {\"x\": 22.5980, \"y\": -3.6744, \"z\": -11.0395}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame31() {
         return new MovesDoubleFrame(
                 new Vector3d(72.92278634323252, 86.81898886188988, 29.05902723579027),
-                new Vector3d[] {
-                    new Vector3d(3.39940676618897, 78.85551747230501, -4.86660926497517),
-                    new Vector3d(-4.79042405781928, 78.23362243319355, 2.48995082306536),
-                    new Vector3d(0.29550730807103, 27.54296517175380, -1.49910582582003),
-                    new Vector3d(17.66463519829219, 56.69463008538064, -9.43843025689283),
-                    new Vector3d(22.63397217599035, 21.07190028725251, -7.80225742735806),
-                    new Vector3d(23.18602682738935, 8.95607030702852, -10.24283815774849),
-                    new Vector3d(24.91491651835260, -1.53593471468104, -6.98035356568361),
-                    new Vector3d(9.74556630107355, 15.94146292676144, -4.60388392057780),
-                    new Vector3d(10.15881715587169, -39.44309341190016, -5.28349536182435),
-                    new Vector3d(13.06088935296598, -72.10169974370868, 7.20333498384573),
-                    new Vector3d(12.54665069234960, -78.85179291984055, 16.73355737515115),
-                    new Vector3d(0.47937445426905, -80.50658849814941, 0.29035887903292),
-                    new Vector3d(-13.32546883070119, 57.03818079565242, 11.03514178814897),
-                    new Vector3d(-18.43705642395189, 20.38752752061913, 9.28579041288464),
-                    new Vector3d(-21.53239116966016, 6.37259396174637, 7.66600916349652),
-                    new Vector3d(-22.08735165666258, -0.93155540397752, 0.84265339553659),
-                    new Vector3d(-5.67472244263629, 16.15172734207217, 7.89897950591752),
-                    new Vector3d(-20.24695982931589, -33.37152168320096, -6.37507623891331),
-                    new Vector3d(-12.66155908685916, -68.70491334029168, 1.41469611219151),
-                    new Vector3d(-3.56298597867366, -75.02758052575719, 2.56758370226043),
-                    new Vector3d(-21.77388571030253, -79.63740942310432, -8.36149795497715),
-                    new Vector3d(-20.05422804563305, 9.98029594069276, 5.67772272015428),
-                    new Vector3d(22.80502494524258, -3.66163738382949, -10.44131982792735),
-                }
+                "\"skeletons\": [{\"x\": 3.3994, \"y\": 78.8555, \"z\": -4.8666}, {\"x\": -4.7904, \"y\": 78.2336, \"z\": 2.4900}, {\"x\": 0.2955, \"y\": 27.5430, \"z\": -1.4991}, {\"x\": 17.6646, \"y\": 56.6946, \"z\": -9.4384}, {\"x\": 22.6340, \"y\": 21.0719, \"z\": -7.8023}, {\"x\": 23.1860, \"y\": 8.9561, \"z\": -10.2428}, {\"x\": 24.9149, \"y\": -1.5359, \"z\": -6.9804}, {\"x\": 9.7456, \"y\": 15.9415, \"z\": -4.6039}, {\"x\": 10.1588, \"y\": -39.4431, \"z\": -5.2835}, {\"x\": 13.0609, \"y\": -72.1017, \"z\": 7.2033}, {\"x\": 12.5467, \"y\": -78.8518, \"z\": 16.7336}, {\"x\": 0.4794, \"y\": -80.5066, \"z\": 0.2904}, {\"x\": -13.3255, \"y\": 57.0382, \"z\": 11.0351}, {\"x\": -18.4371, \"y\": 20.3875, \"z\": 9.2858}, {\"x\": -21.5324, \"y\": 6.3726, \"z\": 7.6660}, {\"x\": -22.0874, \"y\": -0.9316, \"z\": 0.8427}, {\"x\": -5.6747, \"y\": 16.1517, \"z\": 7.8990}, {\"x\": -20.2470, \"y\": -33.3715, \"z\": -6.3751}, {\"x\": -12.6616, \"y\": -68.7049, \"z\": 1.4147}, {\"x\": -3.5630, \"y\": -75.0276, \"z\": 2.5676}, {\"x\": -21.7739, \"y\": -79.6374, \"z\": -8.3615}, {\"x\": -20.0542, \"y\": 9.9803, \"z\": 5.6777}, {\"x\": 22.8050, \"y\": -3.6616, \"z\": -10.4413}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame32() {
         return new MovesDoubleFrame(
                 new Vector3d(72.25863028136362, 86.55692032614010, 27.84536503187216),
-                new Vector3d[] {
-                    new Vector3d(3.65089067526378, 78.84933224376122, -4.23414820233800),
-                    new Vector3d(-4.54128243022944, 78.23321923785780, 3.10302682943394),
-                    new Vector3d(0.58423223840015, 27.62102234853976, -0.86882191321125),
-                    new Vector3d(18.09050817451729, 56.73106960718933, -8.55242998123287),
-                    new Vector3d(22.94842420482745, 21.08427647690267, -6.99324532219758),
-                    new Vector3d(23.45147108288685, 8.94963249389828, -9.49636683447437),
-                    new Vector3d(25.16502283794589, -1.54065522185105, -6.31876914992486),
-                    new Vector3d(9.99441936545851, 15.96402938700997, -3.88700294585573),
-                    new Vector3d(10.21289632874074, -39.49220055093303, -4.86836629494806),
-                    new Vector3d(13.55831064578335, -71.82011862033750, 8.25191859773408),
-                    new Vector3d(13.19916228660415, -78.54410222627924, 17.93641549977924),
-                    new Vector3d(1.12158325296047, -80.32889382277078, 1.54999355808418),
-                    new Vector3d(-13.17430533325115, 57.06681711805633, 11.44764536429649),
-                    new Vector3d(-18.58437001521974, 20.55431892310606, 8.93472304384693),
-                    new Vector3d(-21.75059617709049, 6.55501379076839, 6.73858346394013),
-                    new Vector3d(-21.59505560370267, -0.63508941218529, -0.21733507997826),
-                    new Vector3d(-5.53149890005390, 16.18718950593520, 8.45322413819657),
-                    new Vector3d(-20.22357727103017, -33.20504160590200, -6.40368993654106),
-                    new Vector3d(-14.48737361797663, -69.57600502136816, -1.85901211803237),
-                    new Vector3d(-5.68670206299053, -76.27914179052188, -1.10096196334879),
-                    new Vector3d(-23.95207740013711, -79.29608383052791, -12.56428096259862),
-                    new Vector3d(-19.95063850015278, 10.14800265636499, 5.00003248902971),
-                    new Vector3d(23.09764162398570, -3.61403439426941, -9.82203209473195),
-                }
+                "\"skeletons\": [{\"x\": 3.6509, \"y\": 78.8493, \"z\": -4.2341}, {\"x\": -4.5413, \"y\": 78.2332, \"z\": 3.1030}, {\"x\": 0.5842, \"y\": 27.6210, \"z\": -0.8688}, {\"x\": 18.0905, \"y\": 56.7311, \"z\": -8.5524}, {\"x\": 22.9484, \"y\": 21.0843, \"z\": -6.9932}, {\"x\": 23.4515, \"y\": 8.9496, \"z\": -9.4964}, {\"x\": 25.1650, \"y\": -1.5407, \"z\": -6.3188}, {\"x\": 9.9944, \"y\": 15.9640, \"z\": -3.8870}, {\"x\": 10.2129, \"y\": -39.4922, \"z\": -4.8684}, {\"x\": 13.5583, \"y\": -71.8201, \"z\": 8.2519}, {\"x\": 13.1992, \"y\": -78.5441, \"z\": 17.9364}, {\"x\": 1.1216, \"y\": -80.3289, \"z\": 1.5500}, {\"x\": -13.1743, \"y\": 57.0668, \"z\": 11.4476}, {\"x\": -18.5844, \"y\": 20.5543, \"z\": 8.9347}, {\"x\": -21.7506, \"y\": 6.5550, \"z\": 6.7386}, {\"x\": -21.5951, \"y\": -0.6351, \"z\": -0.2173}, {\"x\": -5.5315, \"y\": 16.1872, \"z\": 8.4532}, {\"x\": -20.2236, \"y\": -33.2050, \"z\": -6.4037}, {\"x\": -14.4874, \"y\": -69.5760, \"z\": -1.8590}, {\"x\": -5.6867, \"y\": -76.2791, \"z\": -1.1010}, {\"x\": -23.9521, \"y\": -79.2961, \"z\": -12.5643}, {\"x\": -19.9506, \"y\": 10.1480, \"z\": 5.0000}, {\"x\": 23.0976, \"y\": -3.6140, \"z\": -9.8220}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame33() {
         return new MovesDoubleFrame(
                 new Vector3d(71.61797341074438, 86.27517787458348, 26.61832893073571),
-                new Vector3d[] {
-                    new Vector3d(3.89697997308140, 78.82777567628588, -3.60012927969159),
-                    new Vector3d(-4.34604462638112, 78.19276976551288, 3.71201797267088),
-                    new Vector3d(0.77149139353929, 27.61424762397738, -0.20684128828975),
-                    new Vector3d(18.47587176738650, 56.70029379409016, -7.64959882452536),
-                    new Vector3d(23.23809252007388, 21.04578178163715, -6.17200740028605),
-                    new Vector3d(23.75300276627043, 8.93581882492898, -8.77863650662122),
-                    new Vector3d(25.36902178721146, -1.58740684177685, -5.52178548816015),
-                    new Vector3d(10.19331726712217, 15.96324455937006, -3.21057456901659),
-                    new Vector3d(10.19177289410466, -39.59041936270319, -4.50221568390403),
-                    new Vector3d(14.11974425071885, -71.52613663133864, 9.30757069534365),
-                    new Vector3d(13.83475132712569, -78.22091534333164, 19.13779415744128),
-                    new Vector3d(1.74487370949764, -80.08129230942087, 2.75920877797699),
-                    new Vector3d(-13.07381865128714, 57.05082346910778, 11.85207645284042),
-                    new Vector3d(-18.71631063870197, 20.66559700573255, 8.45146580298581),
-                    new Vector3d(-21.91710838655059, 6.77165518095577, 5.78460995792883),
-                    new Vector3d(-21.05467070665750, -0.41825956256809, -1.19016307618844),
-                    new Vector3d(-5.47391376058137, 16.14858540629940, 8.99720377079963),
-                    new Vector3d(-20.25987746439657, -33.12791959215866, -6.20278319612941),
-                    new Vector3d(-16.20073708261937, -70.16425344207276, -5.09419662808576),
-                    new Vector3d(-7.69687911005123, -77.18112719039314, -4.99541204226207),
-                    new Vector3d(-25.85091550719644, -78.68029794404424, -16.92976233564383),
-                    new Vector3d(-19.85877922165838, 10.35526797576016, 4.31670499655077),
-                    new Vector3d(23.31307122660584, -3.63213615774254, -9.04719844491422),
-                }
+                "\"skeletons\": [{\"x\": 3.8970, \"y\": 78.8278, \"z\": -3.6001}, {\"x\": -4.3460, \"y\": 78.1928, \"z\": 3.7120}, {\"x\": 0.7715, \"y\": 27.6142, \"z\": -0.2068}, {\"x\": 18.4759, \"y\": 56.7003, \"z\": -7.6496}, {\"x\": 23.2381, \"y\": 21.0458, \"z\": -6.1720}, {\"x\": 23.7530, \"y\": 8.9358, \"z\": -8.7786}, {\"x\": 25.3690, \"y\": -1.5874, \"z\": -5.5218}, {\"x\": 10.1933, \"y\": 15.9632, \"z\": -3.2106}, {\"x\": 10.1918, \"y\": -39.5904, \"z\": -4.5022}, {\"x\": 14.1197, \"y\": -71.5261, \"z\": 9.3076}, {\"x\": 13.8348, \"y\": -78.2209, \"z\": 19.1378}, {\"x\": 1.7449, \"y\": -80.0813, \"z\": 2.7592}, {\"x\": -13.0738, \"y\": 57.0508, \"z\": 11.8521}, {\"x\": -18.7163, \"y\": 20.6656, \"z\": 8.4515}, {\"x\": -21.9171, \"y\": 6.7717, \"z\": 5.7846}, {\"x\": -21.0547, \"y\": -0.4183, \"z\": -1.1902}, {\"x\": -5.4739, \"y\": 16.1486, \"z\": 8.9972}, {\"x\": -20.2599, \"y\": -33.1279, \"z\": -6.2028}, {\"x\": -16.2007, \"y\": -70.1643, \"z\": -5.0942}, {\"x\": -7.6969, \"y\": -77.1811, \"z\": -4.9954}, {\"x\": -25.8509, \"y\": -78.6803, \"z\": -16.9298}, {\"x\": -19.8588, \"y\": 10.3553, \"z\": 4.3167}, {\"x\": 23.3131, \"y\": -3.6321, \"z\": -9.0472}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame34() {
         return new MovesDoubleFrame(
                 new Vector3d(71.00272140237099, 85.97546846832941, 25.39656284501803),
-                new Vector3d[] {
-                    new Vector3d(4.09714589587952, 78.75784568252624, -2.97335915632241),
-                    new Vector3d(-4.17488187557549, 78.12405230626334, 4.31033573956293),
-                    new Vector3d(0.85931022546570, 27.52132766017545, 0.42492611526721),
-                    new Vector3d(18.81918413050417, 56.63530642422425, -6.79879263213230),
-                    new Vector3d(23.44393917913649, 20.94482435968791, -5.35703307424099),
-                    new Vector3d(23.95515207159713, 8.85632674847236, -7.94519198623044),
-                    new Vector3d(25.48331557422578, -1.68724095680156, -4.65138371027627),
-                    new Vector3d(10.33200755564417, 15.89469896227101, -2.57551618884207),
-                    new Vector3d(10.22882164286417, -39.63140477210153, -4.30323726498518),
-                    new Vector3d(14.67097117563164, -71.19102652087042, 10.35142095267200),
-                    new Vector3d(14.43275844103636, -77.85084706795041, 20.34168353539834),
-                    new Vector3d(2.36865693360567, -79.81142831824870, 3.96384772578153),
-                    new Vector3d(-13.04914269241250, 57.05095525699954, 12.22411254646361),
-                    new Vector3d(-18.75650776953401, 20.76907437682058, 7.90758961835477),
-                    new Vector3d(-21.99577264926263, 6.96846177659443, 4.90731667341918),
-                    new Vector3d(-20.54641666194326, -0.29142236980674, -2.00809609938808),
-                    new Vector3d(-5.44422459730901, 16.06128529657603, 9.43642259939746),
-                    new Vector3d(-20.21707611391792, -33.18147564324912, -5.89815699075224),
-                    new Vector3d(-17.69519336597139, -70.49838663792943, -8.41005014985848),
-                    new Vector3d(-9.48467323018270, -77.59484976344035, -9.03462874340656),
-                    new Vector3d(-27.64669834913242, -77.86160671509990, -21.07610661315264),
-                    new Vector3d(-19.73664169810544, 10.51831899410108, 3.66780858618449),
-                    new Vector3d(23.52123156170424, -3.72163145269461, -8.24297995896990),
-                }
+                "\"skeletons\": [{\"x\": 4.0971, \"y\": 78.7578, \"z\": -2.9734}, {\"x\": -4.1749, \"y\": 78.1241, \"z\": 4.3103}, {\"x\": 0.8593, \"y\": 27.5213, \"z\": 0.4249}, {\"x\": 18.8192, \"y\": 56.6353, \"z\": -6.7988}, {\"x\": 23.4439, \"y\": 20.9448, \"z\": -5.3570}, {\"x\": 23.9552, \"y\": 8.8563, \"z\": -7.9452}, {\"x\": 25.4833, \"y\": -1.6872, \"z\": -4.6514}, {\"x\": 10.3320, \"y\": 15.8947, \"z\": -2.5755}, {\"x\": 10.2288, \"y\": -39.6314, \"z\": -4.3032}, {\"x\": 14.6710, \"y\": -71.1910, \"z\": 10.3514}, {\"x\": 14.4328, \"y\": -77.8508, \"z\": 20.3417}, {\"x\": 2.3687, \"y\": -79.8114, \"z\": 3.9638}, {\"x\": -13.0491, \"y\": 57.0510, \"z\": 12.2241}, {\"x\": -18.7565, \"y\": 20.7691, \"z\": 7.9076}, {\"x\": -21.9958, \"y\": 6.9685, \"z\": 4.9073}, {\"x\": -20.5464, \"y\": -0.2914, \"z\": -2.0081}, {\"x\": -5.4442, \"y\": 16.0613, \"z\": 9.4364}, {\"x\": -20.2171, \"y\": -33.1815, \"z\": -5.8982}, {\"x\": -17.6952, \"y\": -70.4984, \"z\": -8.4101}, {\"x\": -9.4847, \"y\": -77.5948, \"z\": -9.0346}, {\"x\": -27.6467, \"y\": -77.8616, \"z\": -21.0761}, {\"x\": -19.7366, \"y\": 10.5183, \"z\": 3.6678}, {\"x\": 23.5212, \"y\": -3.7216, \"z\": -8.2430}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame35() {
         return new MovesDoubleFrame(
                 new Vector3d(70.38916941729683, 85.64897451339546, 24.20277785585638),
-                new Vector3d[] {
-                    new Vector3d(4.25082670643537, 78.64611033617963, -2.37311119614986),
-                    new Vector3d(-4.00629175959054, 78.02462863816021, 4.89495986804627),
-                    new Vector3d(0.91718177256749, 27.43679326603848, 0.89779754772521),
-                    new Vector3d(19.08701809126951, 56.51883254698009, -6.02052642420719),
-                    new Vector3d(23.59615119930817, 20.82802122913470, -4.54572275395979),
-                    new Vector3d(24.16121756700965, 8.71598927241183, -7.08749039633233),
-                    new Vector3d(25.53970080054515, -1.83611338872098, -3.78020499380012),
-                    new Vector3d(10.38556866692741, 15.82219510223296, -2.02038902818111),
-                    new Vector3d(10.30880335888190, -39.70633224794179, -4.18076991700290),
-                    new Vector3d(15.12867469248936, -70.82618219247475, 11.35630181965075),
-                    new Vector3d(15.00929185429035, -77.41191802214597, 21.55070896483303),
-                    new Vector3d(2.99598672562396, -79.51996445678267, 5.10550006397983),
-                    new Vector3d(-13.01979514543553, 56.97906610817800, 12.54852005138732),
-                    new Vector3d(-18.66741306107423, 20.81872375449105, 7.35438322769968),
-                    new Vector3d(-21.96274355038344, 7.12062499960824, 4.14823120518734),
-                    new Vector3d(-20.10179748404573, -0.24944555489080, -2.63497684545684),
-                    new Vector3d(-5.51176607771006, 16.03181167295665, 9.72493480883146),
-                    new Vector3d(-20.01402346831793, -33.48750386595165, -5.50389951070150),
-                    new Vector3d(-18.89527089841661, -70.59158580618433, -11.62970848083495),
-                    new Vector3d(-10.90249788923349, -77.65468415148911, -13.28702893842730),
-                    new Vector3d(-29.51664118050611, -76.81430227486150, -24.57617036250599),
-                    new Vector3d(-19.53667104490099, 10.60692233933206, 3.07079343963087),
-                    new Vector3d(23.76599008791151, -3.86650413150812, -7.46813802217183),
-                }
+                "\"skeletons\": [{\"x\": 4.2508, \"y\": 78.6461, \"z\": -2.3731}, {\"x\": -4.0063, \"y\": 78.0246, \"z\": 4.8950}, {\"x\": 0.9172, \"y\": 27.4368, \"z\": 0.8978}, {\"x\": 19.0870, \"y\": 56.5188, \"z\": -6.0205}, {\"x\": 23.5962, \"y\": 20.8280, \"z\": -4.5457}, {\"x\": 24.1612, \"y\": 8.7160, \"z\": -7.0875}, {\"x\": 25.5397, \"y\": -1.8361, \"z\": -3.7802}, {\"x\": 10.3856, \"y\": 15.8222, \"z\": -2.0204}, {\"x\": 10.3088, \"y\": -39.7063, \"z\": -4.1808}, {\"x\": 15.1287, \"y\": -70.8262, \"z\": 11.3563}, {\"x\": 15.0093, \"y\": -77.4119, \"z\": 21.5507}, {\"x\": 2.9960, \"y\": -79.5200, \"z\": 5.1055}, {\"x\": -13.0198, \"y\": 56.9791, \"z\": 12.5485}, {\"x\": -18.6674, \"y\": 20.8187, \"z\": 7.3544}, {\"x\": -21.9627, \"y\": 7.1206, \"z\": 4.1482}, {\"x\": -20.1018, \"y\": -0.2494, \"z\": -2.6350}, {\"x\": -5.5118, \"y\": 16.0318, \"z\": 9.7249}, {\"x\": -20.0140, \"y\": -33.4875, \"z\": -5.5039}, {\"x\": -18.8953, \"y\": -70.5916, \"z\": -11.6297}, {\"x\": -10.9025, \"y\": -77.6547, \"z\": -13.2870}, {\"x\": -29.5166, \"y\": -76.8143, \"z\": -24.5762}, {\"x\": -19.5367, \"y\": 10.6069, \"z\": 3.0708}, {\"x\": 23.7660, \"y\": -3.8665, \"z\": -7.4681}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame36() {
         return new MovesDoubleFrame(
                 new Vector3d(69.76027058150687, 85.27544281772578, 23.06988581362370),
-                new Vector3d[] {
-                    new Vector3d(4.41253293301673, 78.50702981282521, -1.87237277252180),
-                    new Vector3d(-3.86957497805734, 77.87951612810072, 5.37256826201033),
-                    new Vector3d(0.96552686804963, 27.31088030514488, 1.29500068966761),
-                    new Vector3d(19.30718684991347, 56.37041055471902, -5.33854521312955),
-                    new Vector3d(23.70523432149770, 20.67928534178433, -3.80150804776741),
-                    new Vector3d(24.36760284351075, 8.57389419362585, -6.34672541552763),
-                    new Vector3d(25.58584618287723, -2.01204755130043, -2.98530550833778),
-                    new Vector3d(10.40575972864350, 15.71741957966173, -1.53081567849278),
-                    new Vector3d(10.29161829596023, -39.80892601607810, -4.10815322745858),
-                    new Vector3d(15.53538224685309, -70.38090084068233, 12.33049095226563),
-                    new Vector3d(15.55539636295389, -76.90142013169245, 22.69280376248943),
-                    new Vector3d(3.61920228584216, -79.18817377900194, 6.18446569472480),
-                    new Vector3d(-13.03546653648220, 56.85483263898241, 12.76548864853266),
-                    new Vector3d(-18.66253200288258, 20.84588929062127, 6.93835074303895),
-                    new Vector3d(-21.85523297834370, 7.18630876735264, 3.52763163875970),
-                    new Vector3d(-19.70917837344767, -0.30508750133421, -3.12020106250029),
-                    new Vector3d(-5.65461466467623, 15.98328247909783, 10.04145641141521),
-                    new Vector3d(-19.61985479900864, -33.91234297522401, -5.09887402511924),
-                    new Vector3d(-19.82625789170131, -70.43911325862906, -14.57343445153011),
-                    new Vector3d(-12.10456875063575, -77.38396005006138, -17.59589771800318),
-                    new Vector3d(-31.47740353994056, -75.45727116598596, -27.28245864565954),
-                    new Vector3d(-19.31446190698855, 10.63045886886375, 2.59349811770119),
-                    new Vector3d(23.98062444169566, -4.04383592268055, -6.75621943408232),
-                }
+                "\"skeletons\": [{\"x\": 4.4125, \"y\": 78.5070, \"z\": -1.8724}, {\"x\": -3.8696, \"y\": 77.8795, \"z\": 5.3726}, {\"x\": 0.9655, \"y\": 27.3109, \"z\": 1.2950}, {\"x\": 19.3072, \"y\": 56.3704, \"z\": -5.3385}, {\"x\": 23.7052, \"y\": 20.6793, \"z\": -3.8015}, {\"x\": 24.3676, \"y\": 8.5739, \"z\": -6.3467}, {\"x\": 25.5858, \"y\": -2.0120, \"z\": -2.9853}, {\"x\": 10.4058, \"y\": 15.7174, \"z\": -1.5308}, {\"x\": 10.2916, \"y\": -39.8089, \"z\": -4.1082}, {\"x\": 15.5354, \"y\": -70.3809, \"z\": 12.3305}, {\"x\": 15.5554, \"y\": -76.9014, \"z\": 22.6928}, {\"x\": 3.6192, \"y\": -79.1882, \"z\": 6.1845}, {\"x\": -13.0355, \"y\": 56.8548, \"z\": 12.7655}, {\"x\": -18.6625, \"y\": 20.8459, \"z\": 6.9384}, {\"x\": -21.8552, \"y\": 7.1863, \"z\": 3.5276}, {\"x\": -19.7092, \"y\": -0.3051, \"z\": -3.1202}, {\"x\": -5.6546, \"y\": 15.9833, \"z\": 10.0415}, {\"x\": -19.6199, \"y\": -33.9123, \"z\": -5.0989}, {\"x\": -19.8263, \"y\": -70.4391, \"z\": -14.5734}, {\"x\": -12.1046, \"y\": -77.3840, \"z\": -17.5959}, {\"x\": -31.4774, \"y\": -75.4573, \"z\": -27.2825}, {\"x\": -19.3145, \"y\": 10.6305, \"z\": 2.5935}, {\"x\": 23.9806, \"y\": -4.0438, \"z\": -6.7562}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame37() {
         return new MovesDoubleFrame(
                 new Vector3d(69.11260041270049, 84.85842734791042, 22.00121653575945),
-                new Vector3d[] {
-                    new Vector3d(4.57227858624952, 78.36368744835761, -1.46531925547989),
-                    new Vector3d(-3.75713708549820, 77.71306056070389, 5.74974898993222),
-                    new Vector3d(1.00418329920378, 27.17734904375233, 1.61689520706808),
-                    new Vector3d(19.52248773491465, 56.16367254904878, -4.79081603805523),
-                    new Vector3d(23.79151909321763, 20.48079255854518, -3.24064715500165),
-                    new Vector3d(24.51007604467831, 8.40668767964872, -5.74392807764517),
-                    new Vector3d(25.60302891635947, -2.18339949201579, -2.30849848881102),
-                    new Vector3d(10.46028563695735, 15.56020060472263, -1.10250812724120),
-                    new Vector3d(10.22537647226095, -39.90904651821166, -4.08022374616828),
-                    new Vector3d(15.87352257910520, -69.87933174360424, 13.25050476272602),
-                    new Vector3d(16.03505187536832, -76.31245087260349, 23.73208417665391),
-                    new Vector3d(4.25466218042785, -78.80820329515615, 7.20063097088558),
-                    new Vector3d(-13.10618778995710, 56.71651014841829, 12.83703172619182),
-                    new Vector3d(-18.68996412532677, 20.75634793257596, 6.62633659236115),
-                    new Vector3d(-21.79236857394833, 7.12311318861155, 3.02530989192781),
-                    new Vector3d(-19.39236237865051, -0.41916535932077, -3.47767616704591),
-                    new Vector3d(-5.78557363249313, 15.87572969233424, 10.28279263955310),
-                    new Vector3d(-19.03515430261325, -34.39764892939098, -4.84220942937043),
-                    new Vector3d(-20.57398850971303, -70.14226689061483, -17.10854212837410),
-                    new Vector3d(-13.33144276088050, -76.83528486072628, -21.45812797797353),
-                    new Vector3d(-33.42691906914384, -73.95766015014611, -29.10553353782883),
-                    new Vector3d(-19.23236127879394, 10.58882805867245, 2.20279989875947),
-                    new Vector3d(24.14953935750139, -4.18824098723333, -6.16125676159870),
-                }
+                "\"skeletons\": [{\"x\": 4.5723, \"y\": 78.3637, \"z\": -1.4653}, {\"x\": -3.7571, \"y\": 77.7131, \"z\": 5.7497}, {\"x\": 1.0042, \"y\": 27.1773, \"z\": 1.6169}, {\"x\": 19.5225, \"y\": 56.1637, \"z\": -4.7908}, {\"x\": 23.7915, \"y\": 20.4808, \"z\": -3.2406}, {\"x\": 24.5101, \"y\": 8.4067, \"z\": -5.7439}, {\"x\": 25.6030, \"y\": -2.1834, \"z\": -2.3085}, {\"x\": 10.4603, \"y\": 15.5602, \"z\": -1.1025}, {\"x\": 10.2254, \"y\": -39.9090, \"z\": -4.0802}, {\"x\": 15.8735, \"y\": -69.8793, \"z\": 13.2505}, {\"x\": 16.0351, \"y\": -76.3125, \"z\": 23.7321}, {\"x\": 4.2547, \"y\": -78.8082, \"z\": 7.2006}, {\"x\": -13.1062, \"y\": 56.7165, \"z\": 12.8370}, {\"x\": -18.6900, \"y\": 20.7563, \"z\": 6.6263}, {\"x\": -21.7924, \"y\": 7.1231, \"z\": 3.0253}, {\"x\": -19.3924, \"y\": -0.4192, \"z\": -3.4777}, {\"x\": -5.7856, \"y\": 15.8757, \"z\": 10.2828}, {\"x\": -19.0352, \"y\": -34.3976, \"z\": -4.8422}, {\"x\": -20.5740, \"y\": -70.1423, \"z\": -17.1085}, {\"x\": -13.3314, \"y\": -76.8353, \"z\": -21.4581}, {\"x\": -33.4269, \"y\": -73.9577, \"z\": -29.1055}, {\"x\": -19.2324, \"y\": 10.5888, \"z\": 2.2028}, {\"x\": 24.1495, \"y\": -4.1882, \"z\": -6.1613}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame38() {
         return new MovesDoubleFrame(
                 new Vector3d(68.43068276293462, 84.39537290247473, 20.99892445347174),
-                new Vector3d[] {
-                    new Vector3d(4.70935557295637, 78.20756492304609, -1.15746421642281),
-                    new Vector3d(-3.63724970978172, 77.52241710171053, 6.01849294561681),
-                    new Vector3d(1.01553843428449, 26.99005480864877, 1.83786975487322),
-                    new Vector3d(19.68974483193144, 55.94190097680352, -4.42676287888096),
-                    new Vector3d(23.84904106751552, 20.24227300061306, -2.77346385602475),
-                    new Vector3d(24.59649793600510, 8.15542636742854, -5.27206237257981),
-                    new Vector3d(25.58450569037639, -2.42349703054393, -1.78483528692133),
-                    new Vector3d(10.49887118633062, 15.41561880255689, -0.78257328043416),
-                    new Vector3d(10.18312368005273, -40.02414211401678, -4.17358948672136),
-                    new Vector3d(16.27619386466954, -69.30696900087503, 14.10098573765550),
-                    new Vector3d(16.53448331081909, -75.57242768007426, 24.75491189674218),
-                    new Vector3d(4.91172882328189, -78.39847510511727, 8.10479796445051),
-                    new Vector3d(-13.17195502623448, 56.55296054711604, 12.77630733480022),
-                    new Vector3d(-18.75157335305740, 20.58621191895383, 6.47138412283965),
-                    new Vector3d(-21.80668359417533, 7.00297217286009, 2.64614801124413),
-                    new Vector3d(-19.13906550568016, -0.56961345074482, -3.81494959704967),
-                    new Vector3d(-5.92370324749564, 15.69292389695793, 10.47554519461699),
-                    new Vector3d(-18.25968332678321, -34.83459046083597, -4.94782654726824),
-                    new Vector3d(-21.29189186937994, -69.71538008137169, -19.12802732840924),
-                    new Vector3d(-14.60962941239519, -76.22556841115917, -24.63326258714744),
-                    new Vector3d(-35.23862910431297, -72.42408649209760, -30.14664213826293),
-                    new Vector3d(-19.25525682473708, 10.49513990909520, 1.88944762265364),
-                    new Vector3d(24.26891295181612, -4.41667533458039, -5.68912649437110),
-                }
+                "\"skeletons\": [{\"x\": 4.7094, \"y\": 78.2076, \"z\": -1.1575}, {\"x\": -3.6372, \"y\": 77.5224, \"z\": 6.0185}, {\"x\": 1.0155, \"y\": 26.9901, \"z\": 1.8379}, {\"x\": 19.6897, \"y\": 55.9419, \"z\": -4.4268}, {\"x\": 23.8490, \"y\": 20.2423, \"z\": -2.7735}, {\"x\": 24.5965, \"y\": 8.1554, \"z\": -5.2721}, {\"x\": 25.5845, \"y\": -2.4235, \"z\": -1.7848}, {\"x\": 10.4989, \"y\": 15.4156, \"z\": -0.7826}, {\"x\": 10.1831, \"y\": -40.0241, \"z\": -4.1736}, {\"x\": 16.2762, \"y\": -69.3070, \"z\": 14.1010}, {\"x\": 16.5345, \"y\": -75.5724, \"z\": 24.7549}, {\"x\": 4.9117, \"y\": -78.3985, \"z\": 8.1048}, {\"x\": -13.1720, \"y\": 56.5530, \"z\": 12.7763}, {\"x\": -18.7516, \"y\": 20.5862, \"z\": 6.4714}, {\"x\": -21.8067, \"y\": 7.0030, \"z\": 2.6461}, {\"x\": -19.1391, \"y\": -0.5696, \"z\": -3.8149}, {\"x\": -5.9237, \"y\": 15.6929, \"z\": 10.4755}, {\"x\": -18.2597, \"y\": -34.8346, \"z\": -4.9478}, {\"x\": -21.2919, \"y\": -69.7154, \"z\": -19.1280}, {\"x\": -14.6096, \"y\": -76.2256, \"z\": -24.6333}, {\"x\": -35.2386, \"y\": -72.4241, \"z\": -30.1466}, {\"x\": -19.2553, \"y\": 10.4951, \"z\": 1.8894}, {\"x\": 24.2689, \"y\": -4.4167, \"z\": -5.6891}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame39() {
         return new MovesDoubleFrame(
                 new Vector3d(67.72080252119407, 83.89236583524334, 20.02713647136202),
-                new Vector3d[] {
-                    new Vector3d(4.82869634804935, 78.04731509315187, -0.94557902110338),
-                    new Vector3d(-3.51842421519960, 77.32275936484183, 6.19608586823943),
-                    new Vector3d(0.99187018994167, 26.78663513397658, 2.02293007072562),
-                    new Vector3d(19.80976058089708, 55.72297473175031, -4.16211846140182),
-                    new Vector3d(23.88448546378301, 20.01577239974844, -2.40531681602250),
-                    new Vector3d(24.64375385876951, 7.90470213681082, -4.92092271385424),
-                    new Vector3d(25.52301840349313, -2.69531938611270, -1.44488585619189),
-                    new Vector3d(10.50023225874894, 15.28257177581311, -0.54382471066756),
-                    new Vector3d(10.13646667413312, -40.12612844152711, -4.35273187390035),
-                    new Vector3d(16.75525926106920, -68.64137541363267, 14.86109934645400),
-                    new Vector3d(17.04223720397334, -74.77448215586055, 25.70191984251839),
-                    new Vector3d(5.58081904064509, -77.94560994844841, 9.00650252725757),
-                    new Vector3d(-13.22454374681673, 56.39388767083631, 12.63920153857983),
-                    new Vector3d(-18.90513842198120, 20.47017665991055, 6.34904001569302),
-                    new Vector3d(-21.82976817262735, 6.85597549996724, 2.36010155932260),
-                    new Vector3d(-18.91416660003130, -0.75621039843354, -4.05305345574803),
-                    new Vector3d(-6.06234453999841, 15.43316893368582, 10.63690610043001),
-                    new Vector3d(-17.54351131649777, -35.13375664288990, -5.18138197128125),
-                    new Vector3d(-21.82832636620700, -69.27331351618275, -20.72241725918132),
-                    new Vector3d(-15.79583485147044, -75.61580614607291, -27.23167710838548),
-                    new Vector3d(-36.72326815794219, -71.12301447833545, -30.56938964725524),
-                    new Vector3d(-19.31194595289344, 10.36766109365116, 1.63854738396722),
-                    new Vector3d(24.31872568163722, -4.67853655378775, -5.37858846560544),
-                }
+                "\"skeletons\": [{\"x\": 4.8287, \"y\": 78.0473, \"z\": -0.9456}, {\"x\": -3.5184, \"y\": 77.3228, \"z\": 6.1961}, {\"x\": 0.9919, \"y\": 26.7866, \"z\": 2.0229}, {\"x\": 19.8098, \"y\": 55.7230, \"z\": -4.1621}, {\"x\": 23.8845, \"y\": 20.0158, \"z\": -2.4053}, {\"x\": 24.6438, \"y\": 7.9047, \"z\": -4.9209}, {\"x\": 25.5230, \"y\": -2.6953, \"z\": -1.4449}, {\"x\": 10.5002, \"y\": 15.2826, \"z\": -0.5438}, {\"x\": 10.1365, \"y\": -40.1261, \"z\": -4.3527}, {\"x\": 16.7553, \"y\": -68.6414, \"z\": 14.8611}, {\"x\": 17.0422, \"y\": -74.7745, \"z\": 25.7019}, {\"x\": 5.5808, \"y\": -77.9456, \"z\": 9.0065}, {\"x\": -13.2245, \"y\": 56.3939, \"z\": 12.6392}, {\"x\": -18.9051, \"y\": 20.4702, \"z\": 6.3490}, {\"x\": -21.8298, \"y\": 6.8560, \"z\": 2.3601}, {\"x\": -18.9142, \"y\": -0.7562, \"z\": -4.0531}, {\"x\": -6.0623, \"y\": 15.4332, \"z\": 10.6369}, {\"x\": -17.5435, \"y\": -35.1338, \"z\": -5.1814}, {\"x\": -21.8283, \"y\": -69.2733, \"z\": -20.7224}, {\"x\": -15.7958, \"y\": -75.6158, \"z\": -27.2317}, {\"x\": -36.7233, \"y\": -71.1230, \"z\": -30.5694}, {\"x\": -19.3119, \"y\": 10.3677, \"z\": 1.6385}, {\"x\": 24.3187, \"y\": -4.6785, \"z\": -5.3786}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame40() {
         return new MovesDoubleFrame(
                 new Vector3d(67.01313331408593, 83.35738604722992, 19.03378095302119),
-                new Vector3d[] {
-                    new Vector3d(4.89901509893881, 77.90370191437331, -0.76550251557167),
-                    new Vector3d(-3.45473091465474, 77.15824499509759, 6.34813442961264),
-                    new Vector3d(0.90259993535847, 26.58075483720774, 2.21184092561950),
-                    new Vector3d(19.87142573979877, 55.50950820867351, -3.92602816115995),
-                    new Vector3d(23.86656151319222, 19.76897278809081, -2.10775415506928),
-                    new Vector3d(24.63458115641650, 7.70178536457597, -4.72330065452715),
-                    new Vector3d(25.38331273420129, -2.94104685941663, -1.30134909097166),
-                    new Vector3d(10.43299392111633, 15.16745831312166, -0.40628477574940),
-                    new Vector3d(10.15803494775519, -40.16515192952598, -4.48263711365593),
-                    new Vector3d(17.31721108634385, -67.95933617401171, 15.57256220590151),
-                    new Vector3d(17.62993613627336, -73.94672021103909, 26.56112415643213),
-                    new Vector3d(6.28229686597849, -77.45889576004191, 9.95902723933470),
-                    new Vector3d(-13.33233500483625, 56.32502117321378, 12.45231103170136),
-                    new Vector3d(-19.09318173225049, 20.40417266522505, 6.15653641602398),
-                    new Vector3d(-21.90640362976772, 6.76180511151411, 2.06430502884020),
-                    new Vector3d(-18.72734733883286, -0.89700653705311, -4.26587080977367),
-                    new Vector3d(-6.20878280004448, 15.12479619976942, 10.80912125871543),
-                    new Vector3d(-17.19417122074222, -35.32078279746732, -5.43548136340995),
-                    new Vector3d(-22.01118407453197, -69.03613608011854, -22.07725828438824),
-                    new Vector3d(-16.66662366074114, -75.08068180111047, -29.28560054640772),
-                    new Vector3d(-37.69037304427077, -70.24307900888209, -30.67748928199487),
-                    new Vector3d(-19.37909541477222, 10.27220272572787, 1.42042169991242),
-                    new Vector3d(24.23259538755097, -4.88697139365261, -5.28606894534086),
-                }
+                "\"skeletons\": [{\"x\": 4.8990, \"y\": 77.9037, \"z\": -0.7655}, {\"x\": -3.4547, \"y\": 77.1582, \"z\": 6.3481}, {\"x\": 0.9026, \"y\": 26.5808, \"z\": 2.2118}, {\"x\": 19.8714, \"y\": 55.5095, \"z\": -3.9260}, {\"x\": 23.8666, \"y\": 19.7690, \"z\": -2.1078}, {\"x\": 24.6346, \"y\": 7.7018, \"z\": -4.7233}, {\"x\": 25.3833, \"y\": -2.9410, \"z\": -1.3013}, {\"x\": 10.4330, \"y\": 15.1675, \"z\": -0.4063}, {\"x\": 10.1580, \"y\": -40.1652, \"z\": -4.4826}, {\"x\": 17.3172, \"y\": -67.9593, \"z\": 15.5726}, {\"x\": 17.6299, \"y\": -73.9467, \"z\": 26.5611}, {\"x\": 6.2823, \"y\": -77.4589, \"z\": 9.9590}, {\"x\": -13.3323, \"y\": 56.3250, \"z\": 12.4523}, {\"x\": -19.0932, \"y\": 20.4042, \"z\": 6.1565}, {\"x\": -21.9064, \"y\": 6.7618, \"z\": 2.0643}, {\"x\": -18.7273, \"y\": -0.8970, \"z\": -4.2659}, {\"x\": -6.2088, \"y\": 15.1248, \"z\": 10.8091}, {\"x\": -17.1942, \"y\": -35.3208, \"z\": -5.4355}, {\"x\": -22.0112, \"y\": -69.0361, \"z\": -22.0773}, {\"x\": -16.6666, \"y\": -75.0807, \"z\": -29.2856}, {\"x\": -37.6904, \"y\": -70.2431, \"z\": -30.6775}, {\"x\": -19.3791, \"y\": 10.2722, \"z\": 1.4204}, {\"x\": 24.2326, \"y\": -4.8870, \"z\": -5.2861}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame41() {
         return new MovesDoubleFrame(
                 new Vector3d(66.31810995783184, 82.81939531264850, 18.00156534242633),
-                new Vector3d[] {
-                    new Vector3d(4.91608476665027, 77.78637081164661, -0.62701448430875),
-                    new Vector3d(-3.46155111841150, 77.02018292677330, 6.48515758939969),
-                    new Vector3d(0.76979654548701, 26.41910564861697, 2.33329438321988),
-                    new Vector3d(19.86860822617800, 55.30026360637757, -3.72750851915477),
-                    new Vector3d(23.82093046855151, 19.52671137864027, -1.79186977400699),
-                    new Vector3d(24.53116332608598, 7.50094161671104, -4.58426169206508),
-                    new Vector3d(25.16928661128873, -3.18056423379168, -1.31602762365583),
-                    new Vector3d(10.27292335053675, 15.06031839881522, -0.37983662315960),
-                    new Vector3d(10.26989386520232, -40.17731935860323, -4.49958257177901),
-                    new Vector3d(17.92246326171606, -67.30045121243826, 16.30514077681464),
-                    new Vector3d(18.34730025654689, -73.08361113479666, 27.49443042243749),
-                    new Vector3d(7.00929239509639, -76.97725511393853, 10.92579533373918),
-                    new Vector3d(-13.49586385184420, 56.26452264264012, 12.28668692734723),
-                    new Vector3d(-19.32156506012614, 20.35002965357565, 5.92956149734766),
-                    new Vector3d(-22.02758457975040, 6.75348991096963, 1.63894329305397),
-                    new Vector3d(-18.57559727353319, -0.94830182269804, -4.59949773061727),
-                    new Vector3d(-6.32056070291965, 14.82168212765636, 10.97919288286407),
-                    new Vector3d(-17.16349416266765, -35.42221186330248, -5.82606330532063),
-                    new Vector3d(-22.09039366392323, -68.83442152946618, -23.05296873513203),
-                    new Vector3d(-17.03724453285582, -74.67235002800440, -30.75648242027721),
-                    new Vector3d(-38.10849541396484, -69.78325446920690, -30.72846409030310),
-                    new Vector3d(-19.47548960537598, 10.25785714466666, 1.10661436281823),
-                    new Vector3d(24.05574865415223, -5.06551219176034, -5.33274629736189),
-                }
+                "\"skeletons\": [{\"x\": 4.9161, \"y\": 77.7864, \"z\": -0.6270}, {\"x\": -3.4616, \"y\": 77.0202, \"z\": 6.4852}, {\"x\": 0.7698, \"y\": 26.4191, \"z\": 2.3333}, {\"x\": 19.8686, \"y\": 55.3003, \"z\": -3.7275}, {\"x\": 23.8209, \"y\": 19.5267, \"z\": -1.7919}, {\"x\": 24.5312, \"y\": 7.5009, \"z\": -4.5843}, {\"x\": 25.1693, \"y\": -3.1806, \"z\": -1.3160}, {\"x\": 10.2729, \"y\": 15.0603, \"z\": -0.3798}, {\"x\": 10.2699, \"y\": -40.1773, \"z\": -4.4996}, {\"x\": 17.9225, \"y\": -67.3005, \"z\": 16.3051}, {\"x\": 18.3473, \"y\": -73.0836, \"z\": 27.4944}, {\"x\": 7.0093, \"y\": -76.9773, \"z\": 10.9258}, {\"x\": -13.4959, \"y\": 56.2645, \"z\": 12.2867}, {\"x\": -19.3216, \"y\": 20.3500, \"z\": 5.9296}, {\"x\": -22.0276, \"y\": 6.7535, \"z\": 1.6389}, {\"x\": -18.5756, \"y\": -0.9483, \"z\": -4.5995}, {\"x\": -6.3206, \"y\": 14.8217, \"z\": 10.9792}, {\"x\": -17.1635, \"y\": -35.4222, \"z\": -5.8261}, {\"x\": -22.0904, \"y\": -68.8344, \"z\": -23.0530}, {\"x\": -17.0372, \"y\": -74.6724, \"z\": -30.7565}, {\"x\": -38.1085, \"y\": -69.7833, \"z\": -30.7285}, {\"x\": -19.4755, \"y\": 10.2579, \"z\": 1.1066}, {\"x\": 24.0557, \"y\": -5.0655, \"z\": -5.3327}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame42() {
         return new MovesDoubleFrame(
                 new Vector3d(65.62636778688247, 82.31181088644672, 16.93480112029285),
-                new Vector3d[] {
-                    new Vector3d(4.88611229638232, 77.69717091865196, -0.56201593352527),
-                    new Vector3d(-3.50241614600048, 76.91638639202779, 6.56126038547658),
-                    new Vector3d(0.58059439701967, 26.31194110522679, 2.35830369393541),
-                    new Vector3d(19.81764659171539, 55.12815172148913, -3.56298795854326),
-                    new Vector3d(23.69920048254598, 19.32824102555985, -1.48545058254100),
-                    new Vector3d(24.34471985960190, 7.31885221234029, -4.54649071797480),
-                    new Vector3d(24.92861733981366, -3.37438300430240, -1.45437411111188),
-                    new Vector3d(10.04727369903447, 14.99587745519596, -0.51350814270881),
-                    new Vector3d(10.45108197154680, -40.20727436814903, -4.32359643086543),
-                    new Vector3d(18.52274206354927, -66.70278033353246, 17.07051070510805),
-                    new Vector3d(19.04975815113150, -72.30336940309969, 28.43885401822483),
-                    new Vector3d(7.69278665133710, -76.51715264718248, 11.98485300311381),
-                    new Vector3d(-13.67674877475254, 56.22130036458124, 12.14112998707763),
-                    new Vector3d(-19.58029250804818, 20.31442395113552, 5.60363697399683),
-                    new Vector3d(-22.11926795264111, 6.74689385116635, 1.08303295081632),
-                    new Vector3d(-18.48572929490057, -0.96083336023373, -5.06588720877455),
-                    new Vector3d(-6.42268335148979, 14.52411794013633, 11.10039845663714),
-                    new Vector3d(-17.40249163685163, -35.42060830112600, -6.16983618338393),
-                    new Vector3d(-21.97534143254448, -68.68210708363524, -23.58898955750374),
-                    new Vector3d(-17.02100456345525, -74.53743436859877, -31.65948751202291),
-                    new Vector3d(-38.07254200691742, -69.73551910948845, -30.58562091881259),
-                    new Vector3d(-19.53555020490262, 10.24631449903847, 0.66443481592220),
-                    new Vector3d(23.85366889845881, -5.18360429207995, -5.50602645727116),
-                }
+                "\"skeletons\": [{\"x\": 4.8861, \"y\": 77.6972, \"z\": -0.5620}, {\"x\": -3.5024, \"y\": 76.9164, \"z\": 6.5613}, {\"x\": 0.5806, \"y\": 26.3119, \"z\": 2.3583}, {\"x\": 19.8176, \"y\": 55.1282, \"z\": -3.5630}, {\"x\": 23.6992, \"y\": 19.3282, \"z\": -1.4855}, {\"x\": 24.3447, \"y\": 7.3189, \"z\": -4.5465}, {\"x\": 24.9286, \"y\": -3.3744, \"z\": -1.4544}, {\"x\": 10.0473, \"y\": 14.9959, \"z\": -0.5135}, {\"x\": 10.4511, \"y\": -40.2073, \"z\": -4.3236}, {\"x\": 18.5227, \"y\": -66.7028, \"z\": 17.0705}, {\"x\": 19.0498, \"y\": -72.3034, \"z\": 28.4389}, {\"x\": 7.6928, \"y\": -76.5172, \"z\": 11.9849}, {\"x\": -13.6767, \"y\": 56.2213, \"z\": 12.1411}, {\"x\": -19.5803, \"y\": 20.3144, \"z\": 5.6036}, {\"x\": -22.1193, \"y\": 6.7469, \"z\": 1.0830}, {\"x\": -18.4857, \"y\": -0.9608, \"z\": -5.0659}, {\"x\": -6.4227, \"y\": 14.5241, \"z\": 11.1004}, {\"x\": -17.4025, \"y\": -35.4206, \"z\": -6.1698}, {\"x\": -21.9753, \"y\": -68.6821, \"z\": -23.5890}, {\"x\": -17.0210, \"y\": -74.5374, \"z\": -31.6595}, {\"x\": -38.0725, \"y\": -69.7355, \"z\": -30.5856}, {\"x\": -19.5356, \"y\": 10.2463, \"z\": 0.6644}, {\"x\": 23.8537, \"y\": -5.1836, \"z\": -5.5060}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame43() {
         return new MovesDoubleFrame(
                 new Vector3d(64.90311558542322, 81.85905393909087, 15.82532772334939),
-                new Vector3d[] {
-                    new Vector3d(4.80597163916902, 77.62541836532741, -0.50692112354451),
-                    new Vector3d(-3.56572463796179, 76.87794500663772, 6.60682176888094),
-                    new Vector3d(0.31997207146314, 26.24377971364449, 2.26216955855931),
-                    new Vector3d(19.69529505298922, 55.00774868759304, -3.46143364749202),
-                    new Vector3d(23.55197935101456, 19.12734404745265, -1.22320984931861),
-                    new Vector3d(24.11776929890675, 7.19558803694297, -4.56234812698910),
-                    new Vector3d(24.62243325677505, -3.52404519071847, -1.74015605967788),
-                    new Vector3d(9.74608769927779, 14.97748560618345, -0.77919817112486),
-                    new Vector3d(10.65932431253946, -40.22463339982767, -3.97125895386097),
-                    new Vector3d(19.18673174408219, -66.20388063213574, 17.91854377332443),
-                    new Vector3d(19.81461804920045, -71.62977471686538, 29.41051179916295),
-                    new Vector3d(8.40734007337710, -76.10801353060505, 13.09507896812295),
-                    new Vector3d(-13.90187357353314, 56.18258198054221, 11.97241924569676),
-                    new Vector3d(-19.82726565175114, 20.30954143851330, 5.15911498513692),
-                    new Vector3d(-22.20936037295969, 6.74686484193151, 0.45467553606563),
-                    new Vector3d(-18.47887436408374, -0.95518054711483, -5.66537830260208),
-                    new Vector3d(-6.57249974681546, 14.34596605718890, 11.07618574583995),
-                    new Vector3d(-17.84449587636052, -35.37982921254061, -6.42905015656866),
-                    new Vector3d(-21.53042344093847, -68.74331742755446, -23.81996449992216),
-                    new Vector3d(-16.68053808454211, -74.61705882794570, -32.16021785088991),
-                    new Vector3d(-37.68300183210683, -70.03360899433150, -30.06081348288372),
-                    new Vector3d(-19.58451240633291, 10.24743753985062, 0.13208979199660),
-                    new Vector3d(23.57292606594642, -5.23305632787533, -5.83394804811761),
-                }
+                "\"skeletons\": [{\"x\": 4.8060, \"y\": 77.6254, \"z\": -0.5069}, {\"x\": -3.5657, \"y\": 76.8779, \"z\": 6.6068}, {\"x\": 0.3200, \"y\": 26.2438, \"z\": 2.2622}, {\"x\": 19.6953, \"y\": 55.0077, \"z\": -3.4614}, {\"x\": 23.5520, \"y\": 19.1273, \"z\": -1.2232}, {\"x\": 24.1178, \"y\": 7.1956, \"z\": -4.5623}, {\"x\": 24.6224, \"y\": -3.5240, \"z\": -1.7402}, {\"x\": 9.7461, \"y\": 14.9775, \"z\": -0.7792}, {\"x\": 10.6593, \"y\": -40.2246, \"z\": -3.9713}, {\"x\": 19.1867, \"y\": -66.2039, \"z\": 17.9185}, {\"x\": 19.8146, \"y\": -71.6298, \"z\": 29.4105}, {\"x\": 8.4073, \"y\": -76.1080, \"z\": 13.0951}, {\"x\": -13.9019, \"y\": 56.1826, \"z\": 11.9724}, {\"x\": -19.8273, \"y\": 20.3095, \"z\": 5.1591}, {\"x\": -22.2094, \"y\": 6.7469, \"z\": 0.4547}, {\"x\": -18.4789, \"y\": -0.9552, \"z\": -5.6654}, {\"x\": -6.5725, \"y\": 14.3460, \"z\": 11.0762}, {\"x\": -17.8445, \"y\": -35.3798, \"z\": -6.4291}, {\"x\": -21.5304, \"y\": -68.7433, \"z\": -23.8200}, {\"x\": -16.6805, \"y\": -74.6171, \"z\": -32.1602}, {\"x\": -37.6830, \"y\": -70.0336, \"z\": -30.0608}, {\"x\": -19.5845, \"y\": 10.2474, \"z\": 0.1321}, {\"x\": 23.5729, \"y\": -5.2331, \"z\": -5.8339}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame44() {
         return new MovesDoubleFrame(
                 new Vector3d(64.12687176811031, 81.50459074506229, 14.68057864823590),
-                new Vector3d[] {
-                    new Vector3d(4.69925096517555, 77.59612419230557, -0.49468627925957),
-                    new Vector3d(-3.65975721965421, 76.87239978118008, 6.64644690438466),
-                    new Vector3d(0.04500249763218, 26.21639503848840, 2.01012707515614),
-                    new Vector3d(19.54562839097882, 54.96193298614072, -3.47733874840698),
-                    new Vector3d(23.43487798897283, 18.97467056433915, -1.03872272669377),
-                    new Vector3d(23.85682554279390, 7.14497708319977, -4.62576392664800),
-                    new Vector3d(24.26603305559446, -3.63485556268496, -2.07639119481536),
-                    new Vector3d(9.36805829080163, 14.93672747052062, -1.16262481523191),
-                    new Vector3d(10.90599658135221, -40.21668493010986, -3.44346308176235),
-                    new Vector3d(19.89992034033463, -65.75341172252425, 18.82542168126216),
-                    new Vector3d(20.62668237481536, -71.07167410287087, 30.42445904670947),
-                    new Vector3d(9.17136578438910, -75.79494011932191, 14.21843685775319),
-                    new Vector3d(-14.08988729337366, 56.13428975085525, 11.84280669653472),
-                    new Vector3d(-20.05818011098899, 20.32196502424378, 4.68228365048576),
-                    new Vector3d(-22.41071708161992, 6.79609669589117, -0.17544166981879),
-                    new Vector3d(-18.60886191498629, -0.89218931913418, -6.34997948912903),
-                    new Vector3d(-6.78575234510210, 14.29767514304666, 10.82151586340330),
-                    new Vector3d(-18.40575062112664, -35.32409000132061, -6.63380187047607),
-                    new Vector3d(-20.88292228716919, -68.95845659177746, -23.72695342000419),
-                    new Vector3d(-16.01286329722607, -74.73564746515537, -32.23792873426640),
-                    new Vector3d(-37.03735666718661, -70.70871549021373, -29.21883139604170),
-                    new Vector3d(-19.81759072247865, 10.32858114339910, -0.46611056273895),
-                    new Vector3d(23.22202652437383, -5.25767285218557, -6.19550914387808),
-                }
+                "\"skeletons\": [{\"x\": 4.6993, \"y\": 77.5961, \"z\": -0.4947}, {\"x\": -3.6598, \"y\": 76.8724, \"z\": 6.6464}, {\"x\": 0.0450, \"y\": 26.2164, \"z\": 2.0101}, {\"x\": 19.5456, \"y\": 54.9619, \"z\": -3.4773}, {\"x\": 23.4349, \"y\": 18.9747, \"z\": -1.0387}, {\"x\": 23.8568, \"y\": 7.1450, \"z\": -4.6258}, {\"x\": 24.2660, \"y\": -3.6349, \"z\": -2.0764}, {\"x\": 9.3681, \"y\": 14.9367, \"z\": -1.1626}, {\"x\": 10.9060, \"y\": -40.2167, \"z\": -3.4435}, {\"x\": 19.8999, \"y\": -65.7534, \"z\": 18.8254}, {\"x\": 20.6267, \"y\": -71.0717, \"z\": 30.4245}, {\"x\": 9.1714, \"y\": -75.7949, \"z\": 14.2184}, {\"x\": -14.0899, \"y\": 56.1343, \"z\": 11.8428}, {\"x\": -20.0582, \"y\": 20.3220, \"z\": 4.6823}, {\"x\": -22.4107, \"y\": 6.7961, \"z\": -0.1754}, {\"x\": -18.6089, \"y\": -0.8922, \"z\": -6.3500}, {\"x\": -6.7858, \"y\": 14.2977, \"z\": 10.8215}, {\"x\": -18.4058, \"y\": -35.3241, \"z\": -6.6338}, {\"x\": -20.8829, \"y\": -68.9585, \"z\": -23.7270}, {\"x\": -16.0129, \"y\": -74.7356, \"z\": -32.2379}, {\"x\": -37.0374, \"y\": -70.7087, \"z\": -29.2188}, {\"x\": -19.8176, \"y\": 10.3286, \"z\": -0.4661}, {\"x\": 23.2220, \"y\": -5.2577, \"z\": -6.1955}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame45() {
         return new MovesDoubleFrame(
                 new Vector3d(63.27806635957541, 81.28265036340375, 13.51126363550701),
-                new Vector3d[] {
-                    new Vector3d(4.60475238161350, 77.61222355540207, -0.51689085319417),
-                    new Vector3d(-3.76154558834802, 76.88025283575627, 6.63264513620866),
-                    new Vector3d(-0.23791823688832, 26.22595091273582, 1.59818600922708),
-                    new Vector3d(19.39418003705583, 54.97227934979527, -3.59133450397762),
-                    new Vector3d(23.31738509866003, 18.92130710105819, -0.93273954933638),
-                    new Vector3d(23.59212411600319, 7.16090827073042, -4.77392279156059),
-                    new Vector3d(23.95203223285293, -3.65181732989223, -2.41971153500275),
-                    new Vector3d(8.99172490936844, 14.89107292338989, -1.67110506614239),
-                    new Vector3d(11.22255863124637, -40.22199520836527, -2.68978313256814),
-                    new Vector3d(20.62838569891555, -65.37192771403741, 19.77299468638414),
-                    new Vector3d(21.42899182849731, -70.58949449820058, 31.45530818956348),
-                    new Vector3d(9.98022047078173, -75.61192393433211, 15.39318511607164),
-                    new Vector3d(-14.24846660334890, 56.09612729974828, 11.70411660433821),
-                    new Vector3d(-20.29754015392456, 20.33741437057475, 4.24536524137269),
-                    new Vector3d(-22.66903464791099, 6.82719871455237, -0.68170908774539),
-                    new Vector3d(-18.90036066650973, -0.76935819132316, -6.99002673684097),
-                    new Vector3d(-7.10705029172634, 14.30056797449422, 10.34922662135463),
-                    new Vector3d(-19.01194706659198, -35.33804642190939, -6.72511408423013),
-                    new Vector3d(-20.06720646141693, -69.39361732548669, -23.38432032546493),
-                    new Vector3d(-15.27583786506031, -74.97233299550585, -31.86488959417198),
-                    new Vector3d(-36.31935561022890, -71.53549021908543, -28.25372435961342),
-                    new Vector3d(-20.12621717790541, 10.41220960450920, -1.02777661098464),
-                    new Vector3d(22.91931050543869, -5.19642760435770, -6.58534193007460),
-                }
+                "\"skeletons\": [{\"x\": 4.6048, \"y\": 77.6122, \"z\": -0.5169}, {\"x\": -3.7615, \"y\": 76.8803, \"z\": 6.6326}, {\"x\": -0.2379, \"y\": 26.2260, \"z\": 1.5982}, {\"x\": 19.3942, \"y\": 54.9723, \"z\": -3.5913}, {\"x\": 23.3174, \"y\": 18.9213, \"z\": -0.9327}, {\"x\": 23.5921, \"y\": 7.1609, \"z\": -4.7739}, {\"x\": 23.9520, \"y\": -3.6518, \"z\": -2.4197}, {\"x\": 8.9917, \"y\": 14.8911, \"z\": -1.6711}, {\"x\": 11.2226, \"y\": -40.2220, \"z\": -2.6898}, {\"x\": 20.6284, \"y\": -65.3719, \"z\": 19.7730}, {\"x\": 21.4290, \"y\": -70.5895, \"z\": 31.4553}, {\"x\": 9.9802, \"y\": -75.6119, \"z\": 15.3932}, {\"x\": -14.2485, \"y\": 56.0961, \"z\": 11.7041}, {\"x\": -20.2975, \"y\": 20.3374, \"z\": 4.2454}, {\"x\": -22.6690, \"y\": 6.8272, \"z\": -0.6817}, {\"x\": -18.9004, \"y\": -0.7694, \"z\": -6.9900}, {\"x\": -7.1071, \"y\": 14.3006, \"z\": 10.3492}, {\"x\": -19.0119, \"y\": -35.3380, \"z\": -6.7251}, {\"x\": -20.0672, \"y\": -69.3936, \"z\": -23.3843}, {\"x\": -15.2758, \"y\": -74.9723, \"z\": -31.8649}, {\"x\": -36.3194, \"y\": -71.5355, \"z\": -28.2537}, {\"x\": -20.1262, \"y\": 10.4122, \"z\": -1.0278}, {\"x\": 22.9193, \"y\": -5.1964, \"z\": -6.5853}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame46() {
         return new MovesDoubleFrame(
                 new Vector3d(62.31550238738907, 81.19792066870593, 12.28466729032752),
-                new Vector3d[] {
-                    new Vector3d(4.54443610936551, 77.65041879261828, -0.57379973887289),
-                    new Vector3d(-3.79390425601327, 76.91747585482946, 6.62408701349233),
-                    new Vector3d(-0.50945774239034, 26.25933942488743, 1.06889788223600),
-                    new Vector3d(19.28551751160158, 54.98979303082610, -3.81936780542446),
-                    new Vector3d(23.17170978366356, 18.93804944456552, -0.96892165984812),
-                    new Vector3d(23.37919913387013, 7.18181871882539, -4.91075252485243),
-                    new Vector3d(23.68515477309025, -3.64462103779271, -2.75070079277718),
-                    new Vector3d(8.64624801216940, 14.85274699318560, -2.27744158087605),
-                    new Vector3d(11.60841897301878, -40.20005158345619, -1.82581907994255),
-                    new Vector3d(21.43078268258567, -65.07044663771170, 20.80011905450183),
-                    new Vector3d(22.32908618058849, -70.15538637926223, 32.50851962593775),
-                    new Vector3d(10.89074917290816, -75.56046331969834, 16.60073609086716),
-                    new Vector3d(-14.32500533176172, 56.06640858093184, 11.55942342045824),
-                    new Vector3d(-20.58522772612654, 20.35308812463973, 3.94807710728761),
-                    new Vector3d(-22.89504339536555, 6.79963770323711, -1.01944284310105),
-                    new Vector3d(-19.33381868594796, -0.56486099926867, -7.65833288341026),
-                    new Vector3d(-7.47238103037715, 14.34469292246192, 9.73183182795158),
-                    new Vector3d(-19.40793549652911, -35.43168458288591, -6.68458295014356),
-                    new Vector3d(-19.49542472741884, -69.83020312655955, -22.90290147633269),
-                    new Vector3d(-14.63635709832413, -75.18072837691078, -31.35416613739024),
-                    new Vector3d(-35.72277708199913, -72.43920586182178, -27.33508831435365),
-                    new Vector3d(-20.46660426317228, 10.48550703201560, -1.44977630041683),
-                    new Vector3d(22.65198992126342, -5.10849100935247, -6.95017955311645),
-                }
+                "\"skeletons\": [{\"x\": 4.5444, \"y\": 77.6504, \"z\": -0.5738}, {\"x\": -3.7939, \"y\": 76.9175, \"z\": 6.6241}, {\"x\": -0.5095, \"y\": 26.2593, \"z\": 1.0689}, {\"x\": 19.2855, \"y\": 54.9898, \"z\": -3.8194}, {\"x\": 23.1717, \"y\": 18.9380, \"z\": -0.9689}, {\"x\": 23.3792, \"y\": 7.1818, \"z\": -4.9108}, {\"x\": 23.6852, \"y\": -3.6446, \"z\": -2.7507}, {\"x\": 8.6462, \"y\": 14.8527, \"z\": -2.2774}, {\"x\": 11.6084, \"y\": -40.2001, \"z\": -1.8258}, {\"x\": 21.4308, \"y\": -65.0704, \"z\": 20.8001}, {\"x\": 22.3291, \"y\": -70.1554, \"z\": 32.5085}, {\"x\": 10.8907, \"y\": -75.5605, \"z\": 16.6007}, {\"x\": -14.3250, \"y\": 56.0664, \"z\": 11.5594}, {\"x\": -20.5852, \"y\": 20.3531, \"z\": 3.9481}, {\"x\": -22.8950, \"y\": 6.7996, \"z\": -1.0194}, {\"x\": -19.3338, \"y\": -0.5649, \"z\": -7.6583}, {\"x\": -7.4724, \"y\": 14.3447, \"z\": 9.7318}, {\"x\": -19.4079, \"y\": -35.4317, \"z\": -6.6846}, {\"x\": -19.4954, \"y\": -69.8302, \"z\": -22.9029}, {\"x\": -14.6364, \"y\": -75.1807, \"z\": -31.3542}, {\"x\": -35.7228, \"y\": -72.4392, \"z\": -27.3351}, {\"x\": -20.4666, \"y\": 10.4855, \"z\": -1.4498}, {\"x\": 22.6520, \"y\": -5.1085, \"z\": -6.9502}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame47() {
         return new MovesDoubleFrame(
                 new Vector3d(61.24789215876993, 81.26157233399528, 10.99136940673166),
-                new Vector3d[] {
-                    new Vector3d(4.50311104351068, 77.67789605744231, -0.61538685735590),
-                    new Vector3d(-3.79435128219494, 76.93085294306456, 6.58526792252288),
-                    new Vector3d(-0.72544391015767, 26.33318977880626, 0.35853592871589),
-                    new Vector3d(19.19272777791260, 55.05366130674722, -4.11164621397651),
-                    new Vector3d(23.04376274447941, 18.95906495258055, -1.06807325130402),
-                    new Vector3d(23.16237848243270, 7.20222633810001, -5.07945849255198),
-                    new Vector3d(23.41108892736827, -3.64355272136506, -3.01487286322980),
-                    new Vector3d(8.28507160592746, 14.80257012358912, -2.90596760447745),
-                    new Vector3d(12.09350119583240, -40.11718052408720, -0.91357325849363),
-                    new Vector3d(22.24936127449585, -64.77607822228165, 21.81734346125373),
-                    new Vector3d(23.27884128555867, -69.73369574057996, 33.55393117688069),
-                    new Vector3d(11.88113239847279, -75.71272656004501, 17.82776505356459),
-                    new Vector3d(-14.34125981711255, 56.03684803332929, 11.39597957332346),
-                    new Vector3d(-20.94402854159711, 20.32201482298410, 3.88456176565121),
-                    new Vector3d(-23.12246153585644, 6.72589393604997, -1.22402388265841),
-                    new Vector3d(-19.87765384172487, -0.29274826576806, -8.36212904852718),
-                    new Vector3d(-7.85653227024857, 14.45884746703318, 8.99855257993668),
-                    new Vector3d(-19.69810338783135, -35.61169187264903, -6.70544836442557),
-                    new Vector3d(-19.09445510697295, -70.20021299731432, -22.22786751234726),
-                    new Vector3d(-14.02177766293561, -75.39709989362463, -30.59895225239562),
-                    new Vector3d(-35.13746442470087, -73.39740671861711, -26.57972095424057),
-                    new Vector3d(-20.88872670515786, 10.56074497967465, -1.76409912646250),
-                    new Vector3d(22.34838324348082, -5.06467370008138, -7.22566221482458),
-                }
+                "\"skeletons\": [{\"x\": 4.5031, \"y\": 77.6779, \"z\": -0.6154}, {\"x\": -3.7944, \"y\": 76.9309, \"z\": 6.5853}, {\"x\": -0.7254, \"y\": 26.3332, \"z\": 0.3585}, {\"x\": 19.1927, \"y\": 55.0537, \"z\": -4.1116}, {\"x\": 23.0438, \"y\": 18.9591, \"z\": -1.0681}, {\"x\": 23.1624, \"y\": 7.2022, \"z\": -5.0795}, {\"x\": 23.4111, \"y\": -3.6436, \"z\": -3.0149}, {\"x\": 8.2851, \"y\": 14.8026, \"z\": -2.9060}, {\"x\": 12.0935, \"y\": -40.1172, \"z\": -0.9136}, {\"x\": 22.2494, \"y\": -64.7761, \"z\": 21.8173}, {\"x\": 23.2788, \"y\": -69.7337, \"z\": 33.5539}, {\"x\": 11.8811, \"y\": -75.7127, \"z\": 17.8278}, {\"x\": -14.3413, \"y\": 56.0368, \"z\": 11.3960}, {\"x\": -20.9440, \"y\": 20.3220, \"z\": 3.8846}, {\"x\": -23.1225, \"y\": 6.7259, \"z\": -1.2240}, {\"x\": -19.8777, \"y\": -0.2927, \"z\": -8.3621}, {\"x\": -7.8565, \"y\": 14.4588, \"z\": 8.9986}, {\"x\": -19.6981, \"y\": -35.6117, \"z\": -6.7054}, {\"x\": -19.0945, \"y\": -70.2002, \"z\": -22.2279}, {\"x\": -14.0218, \"y\": -75.3971, \"z\": -30.5990}, {\"x\": -35.1375, \"y\": -73.3974, \"z\": -26.5797}, {\"x\": -20.8887, \"y\": 10.5607, \"z\": -1.7641}, {\"x\": 22.3484, \"y\": -5.0647, \"z\": -7.2257}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame48() {
         return new MovesDoubleFrame(
                 new Vector3d(60.11901340313227, 81.49378938715151, 9.62867463263441),
-                new Vector3d[] {
-                    new Vector3d(4.45035036731680, 77.69483595427825, -0.64777348526526),
-                    new Vector3d(-3.81651595238260, 76.92519557525452, 6.56053404197570),
-                    new Vector3d(-0.94796758638092, 26.39889079964361, -0.39524051747463),
-                    new Vector3d(19.10422616857532, 55.13655490619906, -4.43620090127079),
-                    new Vector3d(22.94670874831569, 19.03913325147631, -1.21486799843417),
-                    new Vector3d(22.99297087274296, 7.27040670182583, -5.25261767754068),
-                    new Vector3d(23.06289490462443, -3.62020251163752, -3.16360808280265),
-                    new Vector3d(7.86287262449784, 14.71131925542662, -3.63802056779626),
-                    new Vector3d(12.62520353875859, -40.02260984374954, -0.03112311758581),
-                    new Vector3d(23.05544512783871, -64.51880676840371, 22.77104997490494),
-                    new Vector3d(24.22583343992753, -69.26556437324651, 34.54287844133469),
-                    new Vector3d(12.93991397512783, -76.01444370697206, 19.10455029063568),
-                    new Vector3d(-14.35918355354492, 55.94048501956841, 11.20124964246985),
-                    new Vector3d(-21.49097215438051, 20.21884622103400, 3.91835558252140),
-                    new Vector3d(-23.38087376157844, 6.59062925527977, -1.37767687418494),
-                    new Vector3d(-20.49354597938491, 0.01226006876367, -8.99400736372361),
-                    new Vector3d(-8.28835715359118, 14.67217004420276, 8.19148812472285),
-                    new Vector3d(-20.08546845831173, -35.69797077721113, -6.80476053640446),
-                    new Vector3d(-18.46921080367709, -70.61574354355386, -21.43575239325912),
-                    new Vector3d(-13.11194557792962, -75.73611972031627, -29.52987500600436),
-                    new Vector3d(-34.33635011802743, -74.22414239407371, -25.92805608951147),
-                    new Vector3d(-21.46080327974029, 10.63748856052531, -1.99481052098505),
-                    new Vector3d(22.02310622393833, -5.00249515731421, -7.39330423470814),
-                }
+                "\"skeletons\": [{\"x\": 4.4504, \"y\": 77.6948, \"z\": -0.6478}, {\"x\": -3.8165, \"y\": 76.9252, \"z\": 6.5605}, {\"x\": -0.9480, \"y\": 26.3989, \"z\": -0.3952}, {\"x\": 19.1042, \"y\": 55.1366, \"z\": -4.4362}, {\"x\": 22.9467, \"y\": 19.0391, \"z\": -1.2149}, {\"x\": 22.9930, \"y\": 7.2704, \"z\": -5.2526}, {\"x\": 23.0629, \"y\": -3.6202, \"z\": -3.1636}, {\"x\": 7.8629, \"y\": 14.7113, \"z\": -3.6380}, {\"x\": 12.6252, \"y\": -40.0226, \"z\": -0.0311}, {\"x\": 23.0554, \"y\": -64.5188, \"z\": 22.7710}, {\"x\": 24.2258, \"y\": -69.2656, \"z\": 34.5429}, {\"x\": 12.9399, \"y\": -76.0144, \"z\": 19.1046}, {\"x\": -14.3592, \"y\": 55.9405, \"z\": 11.2012}, {\"x\": -21.4910, \"y\": 20.2188, \"z\": 3.9184}, {\"x\": -23.3809, \"y\": 6.5906, \"z\": -1.3777}, {\"x\": -20.4935, \"y\": 0.0123, \"z\": -8.9940}, {\"x\": -8.2884, \"y\": 14.6722, \"z\": 8.1915}, {\"x\": -20.0855, \"y\": -35.6980, \"z\": -6.8048}, {\"x\": -18.4692, \"y\": -70.6157, \"z\": -21.4358}, {\"x\": -13.1119, \"y\": -75.7361, \"z\": -29.5299}, {\"x\": -34.3364, \"y\": -74.2241, \"z\": -25.9281}, {\"x\": -21.4608, \"y\": 10.6375, \"z\": -1.9948}, {\"x\": 22.0231, \"y\": -5.0025, \"z\": -7.3933}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame49() {
         return new MovesDoubleFrame(
                 new Vector3d(58.93122592741576, 81.90355850435188, 8.23782949413966),
-                new Vector3d[] {
-                    new Vector3d(4.45340113707164, 77.70803132226544, -0.71559781408942),
-                    new Vector3d(-3.78895565517755, 76.90211134042607, 6.54542824795576),
-                    new Vector3d(-1.15113072327993, 26.45574303930217, -1.12994367164274),
-                    new Vector3d(19.06153091280492, 55.19081426840030, -4.78497858348441),
-                    new Vector3d(22.86182302492114, 19.12745142403353, -1.45152807871297),
-                    new Vector3d(22.81644595615058, 7.27013491498748, -5.36772448020865),
-                    new Vector3d(22.66737128124310, -3.60603952991383, -3.26033182800658),
-                    new Vector3d(7.40737115274803, 14.55416570883000, -4.41846811193965),
-                    new Vector3d(13.08772163374790, -39.95168167329719, 0.70275938000799),
-                    new Vector3d(23.82536586945924, -64.26456938038841, 23.55078466515996),
-                    new Vector3d(25.11547731751297, -68.74890888362650, 35.34809954660184),
-                    new Vector3d(14.02543429308177, -76.45584580352481, 20.39779651240503),
-                    new Vector3d(-14.29252990605131, 55.83234537277256, 11.05831519879997),
-                    new Vector3d(-22.23431489525773, 20.12122337527394, 4.03662018558639),
-                    new Vector3d(-23.73418982672703, 6.48784265938509, -1.52454230793531),
-                    new Vector3d(-21.22225863155158, 0.40802950191867, -9.62582546334313),
-                    new Vector3d(-8.71921043412320, 14.86747672685357, 7.47276594128729),
-                    new Vector3d(-20.47095724423319, -35.63969163808954, -6.99361064107590),
-                    new Vector3d(-17.74989079943467, -70.98830904456656, -20.48963389948591),
-                    new Vector3d(-11.99952351770496, -76.16370584000668, -28.33304896906598),
-                    new Vector3d(-33.32722954348107, -74.96743536913652, -25.17683465321655),
-                    new Vector3d(-22.11020766826691, 10.68531264507931, -2.15427767903977),
-                    new Vector3d(21.70634121125612, -4.93407372673401, -7.53135166343686),
-                }
+                "\"skeletons\": [{\"x\": 4.4534, \"y\": 77.7080, \"z\": -0.7156}, {\"x\": -3.7890, \"y\": 76.9021, \"z\": 6.5454}, {\"x\": -1.1511, \"y\": 26.4557, \"z\": -1.1299}, {\"x\": 19.0615, \"y\": 55.1908, \"z\": -4.7850}, {\"x\": 22.8618, \"y\": 19.1275, \"z\": -1.4515}, {\"x\": 22.8164, \"y\": 7.2701, \"z\": -5.3677}, {\"x\": 22.6674, \"y\": -3.6060, \"z\": -3.2603}, {\"x\": 7.4074, \"y\": 14.5542, \"z\": -4.4185}, {\"x\": 13.0877, \"y\": -39.9517, \"z\": 0.7028}, {\"x\": 23.8254, \"y\": -64.2646, \"z\": 23.5508}, {\"x\": 25.1155, \"y\": -68.7489, \"z\": 35.3481}, {\"x\": 14.0254, \"y\": -76.4558, \"z\": 20.3978}, {\"x\": -14.2925, \"y\": 55.8323, \"z\": 11.0583}, {\"x\": -22.2343, \"y\": 20.1212, \"z\": 4.0366}, {\"x\": -23.7342, \"y\": 6.4878, \"z\": -1.5245}, {\"x\": -21.2223, \"y\": 0.4080, \"z\": -9.6258}, {\"x\": -8.7192, \"y\": 14.8675, \"z\": 7.4728}, {\"x\": -20.4710, \"y\": -35.6397, \"z\": -6.9936}, {\"x\": -17.7499, \"y\": -70.9883, \"z\": -20.4896}, {\"x\": -11.9995, \"y\": -76.1637, \"z\": -28.3330}, {\"x\": -33.3272, \"y\": -74.9674, \"z\": -25.1768}, {\"x\": -22.1102, \"y\": 10.6853, \"z\": -2.1543}, {\"x\": 21.7063, \"y\": -4.9341, \"z\": -7.5314}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame50() {
         return new MovesDoubleFrame(
                 new Vector3d(57.69488547151586, 82.47068805187398, 6.83604301898985),
-                new Vector3d[] {
-                    new Vector3d(4.48936790178556, 77.67941789536718, -0.80673336582958),
-                    new Vector3d(-3.74259043491312, 76.80684051686232, 6.48122353320148),
-                    new Vector3d(-1.38631510302873, 26.50615447558724, -1.96070478106486),
-                    new Vector3d(19.02490923926011, 55.22412876311270, -5.16735353643718),
-                    new Vector3d(22.88776125455225, 19.24092279286481, -1.77020316740012),
-                    new Vector3d(22.70454697801618, 7.28509303291808, -5.52708726640916),
-                    new Vector3d(22.26847910906401, -3.61544528492242, -3.35747064866503),
-                    new Vector3d(7.04324270873702, 14.39196986703218, -5.15967650647137),
-                    new Vector3d(13.48235326436193, -39.86751938649716, 1.18475119409719),
-                    new Vector3d(24.44753442098884, -63.96443101906368, 24.13365143504074),
-                    new Vector3d(25.82643152336392, -68.22327828294483, 36.01780452100271),
-                    new Vector3d(15.09138839491291, -77.04993587789808, 21.66053673300243),
-                    new Vector3d(-14.12060586227547, 55.75925420489097, 10.99506517370258),
-                    new Vector3d(-23.13665325921019, 20.12786045868465, 4.41620567716766),
-                    new Vector3d(-24.15005750499311, 6.49476136114832, -1.60219318233920),
-                    new Vector3d(-22.00744455630057, 1.06637477425873, -10.16466260930933),
-                    new Vector3d(-9.15242215456258, 15.12722094333132, 6.51001808618857),
-                    new Vector3d(-20.77687880017442, -35.65602238991635, -7.16087170275217),
-                    new Vector3d(-16.93544652992360, -71.42557035383554, -19.40832174016106),
-                    new Vector3d(-10.82849852636979, -76.71028983342747, -27.01411160736141),
-                    new Vector3d(-32.25766990069795, -75.78836796141040, -24.22065509238623),
-                    new Vector3d(-22.92330053382984, 10.90895758015042, -2.16418642514317),
-                    new Vector3d(21.37706251062211, -4.89723748820896, -7.64534882663172),
-                }
+                "\"skeletons\": [{\"x\": 4.4894, \"y\": 77.6794, \"z\": -0.8067}, {\"x\": -3.7426, \"y\": 76.8068, \"z\": 6.4812}, {\"x\": -1.3863, \"y\": 26.5062, \"z\": -1.9607}, {\"x\": 19.0249, \"y\": 55.2241, \"z\": -5.1674}, {\"x\": 22.8878, \"y\": 19.2409, \"z\": -1.7702}, {\"x\": 22.7045, \"y\": 7.2851, \"z\": -5.5271}, {\"x\": 22.2685, \"y\": -3.6154, \"z\": -3.3575}, {\"x\": 7.0432, \"y\": 14.3920, \"z\": -5.1597}, {\"x\": 13.4824, \"y\": -39.8675, \"z\": 1.1848}, {\"x\": 24.4475, \"y\": -63.9644, \"z\": 24.1337}, {\"x\": 25.8264, \"y\": -68.2233, \"z\": 36.0178}, {\"x\": 15.0914, \"y\": -77.0499, \"z\": 21.6605}, {\"x\": -14.1206, \"y\": 55.7593, \"z\": 10.9951}, {\"x\": -23.1367, \"y\": 20.1279, \"z\": 4.4162}, {\"x\": -24.1501, \"y\": 6.4948, \"z\": -1.6022}, {\"x\": -22.0074, \"y\": 1.0664, \"z\": -10.1647}, {\"x\": -9.1524, \"y\": 15.1272, \"z\": 6.5100}, {\"x\": -20.7769, \"y\": -35.6560, \"z\": -7.1609}, {\"x\": -16.9354, \"y\": -71.4256, \"z\": -19.4083}, {\"x\": -10.8285, \"y\": -76.7103, \"z\": -27.0141}, {\"x\": -32.2577, \"y\": -75.7884, \"z\": -24.2207}, {\"x\": -22.9233, \"y\": 10.9090, \"z\": -2.1642}, {\"x\": 21.3771, \"y\": -4.8972, \"z\": -7.6453}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame51() {
         return new MovesDoubleFrame(
                 new Vector3d(56.43632292559491, 83.14992872147567, 5.47178246204993),
-                new Vector3d[] {
-                    new Vector3d(4.53800961137496, 77.55129188986713, -0.94369384221543),
-                    new Vector3d(-3.68422362598480, 76.64033415189428, 6.37624028857511),
-                    new Vector3d(-1.66268255253702, 26.52264483277126, -2.77943329345889),
-                    new Vector3d(18.95398281005770, 55.20496326924331, -5.60492654421254),
-                    new Vector3d(23.13198844731981, 19.36878410673743, -2.15369967411313),
-                    new Vector3d(22.66303583813571, 7.31116026502867, -5.79398260117451),
-                    new Vector3d(21.89140312017137, -3.63321846591736, -3.50732514948751),
-                    new Vector3d(6.66398743588007, 14.25462998516642, -5.89809343009045),
-                    new Vector3d(13.80450014037079, -39.79614238490672, 1.39621205006349),
-                    new Vector3d(24.78881364630359, -63.67761784785608, 24.58428736951140),
-                    new Vector3d(26.25842782151212, -67.61792685324922, 36.60428019214415),
-                    new Vector3d(16.12838576691273, -77.74005273699696, 22.83798589347022),
-                    new Vector3d(-13.80558741066011, 55.69962200470501, 10.97395829364791),
-                    new Vector3d(-24.19565230984654, 20.27421963158470, 5.09255624497765),
-                    new Vector3d(-24.41045303694506, 6.68710364826704, -1.49596715727225),
-                    new Vector3d(-22.71622170819593, 2.05508079633741, -10.47927416321905),
-                    new Vector3d(-9.64146051398115, 15.37599056893785, 5.36535535395616),
-                    new Vector3d(-20.87036142914137, -35.85245550810779, -7.25754450461896),
-                    new Vector3d(-16.04187948820505, -72.01907477309764, -18.35623545396575),
-                    new Vector3d(-9.60380316488944, -77.35417068204421, -25.66898855482704),
-                    new Vector3d(-31.18371648349478, -76.73345545900432, -23.22840718578554),
-                    new Vector3d(-23.75332440604162, 11.31059112366941, -1.94699187315474),
-                    new Vector3d(21.06072898457603, -4.86746760958952, -7.80669954774053),
-                }
+                "\"skeletons\": [{\"x\": 4.5380, \"y\": 77.5513, \"z\": -0.9437}, {\"x\": -3.6842, \"y\": 76.6403, \"z\": 6.3762}, {\"x\": -1.6627, \"y\": 26.5226, \"z\": -2.7794}, {\"x\": 18.9540, \"y\": 55.2050, \"z\": -5.6049}, {\"x\": 23.1320, \"y\": 19.3688, \"z\": -2.1537}, {\"x\": 22.6630, \"y\": 7.3112, \"z\": -5.7940}, {\"x\": 21.8914, \"y\": -3.6332, \"z\": -3.5073}, {\"x\": 6.6640, \"y\": 14.2546, \"z\": -5.8981}, {\"x\": 13.8045, \"y\": -39.7961, \"z\": 1.3962}, {\"x\": 24.7888, \"y\": -63.6776, \"z\": 24.5843}, {\"x\": 26.2584, \"y\": -67.6179, \"z\": 36.6043}, {\"x\": 16.1284, \"y\": -77.7401, \"z\": 22.8380}, {\"x\": -13.8056, \"y\": 55.6996, \"z\": 10.9740}, {\"x\": -24.1957, \"y\": 20.2742, \"z\": 5.0926}, {\"x\": -24.4105, \"y\": 6.6871, \"z\": -1.4960}, {\"x\": -22.7162, \"y\": 2.0551, \"z\": -10.4793}, {\"x\": -9.6415, \"y\": 15.3760, \"z\": 5.3654}, {\"x\": -20.8704, \"y\": -35.8525, \"z\": -7.2575}, {\"x\": -16.0419, \"y\": -72.0191, \"z\": -18.3562}, {\"x\": -9.6038, \"y\": -77.3542, \"z\": -25.6690}, {\"x\": -31.1837, \"y\": -76.7335, \"z\": -23.2284}, {\"x\": -23.7533, \"y\": 11.3106, \"z\": -1.9470}, {\"x\": 21.0607, \"y\": -4.8675, \"z\": -7.8067}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame52() {
         return new MovesDoubleFrame(
                 new Vector3d(55.17333589086645, 83.86890061014300, 4.18317569073857),
-                new Vector3d[] {
-                    new Vector3d(4.56477085824511, 77.32927497408122, -1.14727647538450),
-                    new Vector3d(-3.57492244162444, 76.42705104573010, 6.21115945609612),
-                    new Vector3d(-1.98970334376994, 26.49853418167051, -3.67685766675097),
-                    new Vector3d(18.86629341004697, 55.14776165097856, -6.09903507317196),
-                    new Vector3d(23.55284133809463, 19.41411298463496, -2.60192046919241),
-                    new Vector3d(22.71368520496396, 7.32787733019123, -6.12794803892737),
-                    new Vector3d(21.62145665537954, -3.62737817153917, -3.74601545502048),
-                    new Vector3d(6.29022858367440, 14.12742462218831, -6.63026820974818),
-                    new Vector3d(14.02594716785459, -39.80466777769567, 1.26820136525898),
-                    new Vector3d(24.87578006308093, -63.36947325452251, 24.87860213639764),
-                    new Vector3d(26.22306675209350, -66.78491973433898, 36.98263822760222),
-                    new Vector3d(17.11001774162788, -78.40390396726781, 23.88762690320969),
-                    new Vector3d(-13.43989344380641, 55.61062764775761, 10.99004134844142),
-                    new Vector3d(-25.37223389270697, 20.54712306109564, 6.17203488743416),
-                    new Vector3d(-24.59672092969642, 7.20924739659259, -1.13805463332857),
-                    new Vector3d(-23.40091931475820, 3.34086359223305, -10.48815033801196),
-                    new Vector3d(-10.13055665961570, 15.42054043020200, 4.30646190355617),
-                    new Vector3d(-20.66755854619862, -36.26432663706333, -7.27605557024308),
-                    new Vector3d(-15.11434096856313, -72.57141919374189, -17.26521444393259),
-                    new Vector3d(-8.41035912828127, -78.03449441375911, -24.39777438611592),
-                    new Vector3d(-30.04368207875438, -77.77525310407925, -22.25233908537016),
-                    new Vector3d(-24.62357571008000, 11.94194628553858, -1.36186081688783),
-                    new Vector3d(20.82278387938438, -4.79544076117977, -8.07467051915634),
-                }
+                "\"skeletons\": [{\"x\": 4.5648, \"y\": 77.3293, \"z\": -1.1473}, {\"x\": -3.5749, \"y\": 76.4271, \"z\": 6.2112}, {\"x\": -1.9897, \"y\": 26.4985, \"z\": -3.6769}, {\"x\": 18.8663, \"y\": 55.1478, \"z\": -6.0990}, {\"x\": 23.5528, \"y\": 19.4141, \"z\": -2.6019}, {\"x\": 22.7137, \"y\": 7.3279, \"z\": -6.1279}, {\"x\": 21.6215, \"y\": -3.6274, \"z\": -3.7460}, {\"x\": 6.2902, \"y\": 14.1274, \"z\": -6.6303}, {\"x\": 14.0259, \"y\": -39.8047, \"z\": 1.2682}, {\"x\": 24.8758, \"y\": -63.3695, \"z\": 24.8786}, {\"x\": 26.2231, \"y\": -66.7849, \"z\": 36.9826}, {\"x\": 17.1100, \"y\": -78.4039, \"z\": 23.8876}, {\"x\": -13.4399, \"y\": 55.6106, \"z\": 10.9900}, {\"x\": -25.3722, \"y\": 20.5471, \"z\": 6.1720}, {\"x\": -24.5967, \"y\": 7.2092, \"z\": -1.1381}, {\"x\": -23.4009, \"y\": 3.3409, \"z\": -10.4882}, {\"x\": -10.1306, \"y\": 15.4205, \"z\": 4.3065}, {\"x\": -20.6676, \"y\": -36.2643, \"z\": -7.2761}, {\"x\": -15.1143, \"y\": -72.5714, \"z\": -17.2652}, {\"x\": -8.4104, \"y\": -78.0345, \"z\": -24.3978}, {\"x\": -30.0437, \"y\": -77.7753, \"z\": -22.2523}, {\"x\": -24.6236, \"y\": 11.9419, \"z\": -1.3619}, {\"x\": 20.8228, \"y\": -4.7954, \"z\": -8.0747}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame53() {
         return new MovesDoubleFrame(
                 new Vector3d(53.91357209330209, 84.59402259706800, 2.96548706373447),
-                new Vector3d[] {
-                    new Vector3d(4.63128282659042, 77.05231781756723, -1.41892195769391),
-                    new Vector3d(-3.46217109171364, 76.16700010739825, 5.98381166679548),
-                    new Vector3d(-2.30755822593102, 26.36485581539382, -4.52640012959460),
-                    new Vector3d(18.78278452088965, 55.04165188576994, -6.61659340338271),
-                    new Vector3d(24.19785264774976, 19.41619701323705, -3.04521311739304),
-                    new Vector3d(22.91505862656399, 7.32935948178635, -6.47188405960395),
-                    new Vector3d(21.45949986118130, -3.66371757884619, -3.98315076128553),
-                    new Vector3d(6.03814539622252, 13.95341427820121, -7.32554094360855),
-                    new Vector3d(14.00799863344154, -40.08554997661306, 0.65071592361138),
-                    new Vector3d(24.61660015433361, -62.99853220788705, 24.88058949240197),
-                    new Vector3d(25.52363278106646, -65.57358249687857, 36.96460526455942),
-                    new Vector3d(17.98722685536352, -79.00644533558544, 24.73813148734293),
-                    new Vector3d(-13.05481647011325, 55.48306697745423, 10.97223657121962),
-                    new Vector3d(-26.59864801858892, 21.01667394408958, 7.62922351910385),
-                    new Vector3d(-24.93969320892683, 8.08119326699400, -0.55944079223105),
-                    new Vector3d(-24.18456861536896, 4.98044878340954, -10.17878081140931),
-                    new Vector3d(-10.50407773438844, 15.32032381583927, 3.40136858748045),
-                    new Vector3d(-20.19607711531757, -36.93436109896238, -7.30069986208012),
-                    new Vector3d(-14.06219501627113, -73.21332477784343, -16.24646194279613),
-                    new Vector3d(-7.22236506419367, -78.71114390298783, -23.17338625966130),
-                    new Vector3d(-28.89215105183734, -78.79869633069559, -21.23217126462366),
-                    new Vector3d(-25.57313060414216, 12.84539109218442, -0.43638407669840),
-                    new Vector3d(20.64588159462868, -4.76556638573890, -8.31569243212063),
-                }
+                "\"skeletons\": [{\"x\": 4.6313, \"y\": 77.0523, \"z\": -1.4189}, {\"x\": -3.4622, \"y\": 76.1670, \"z\": 5.9838}, {\"x\": -2.3076, \"y\": 26.3649, \"z\": -4.5264}, {\"x\": 18.7828, \"y\": 55.0417, \"z\": -6.6166}, {\"x\": 24.1979, \"y\": 19.4162, \"z\": -3.0452}, {\"x\": 22.9151, \"y\": 7.3294, \"z\": -6.4719}, {\"x\": 21.4595, \"y\": -3.6637, \"z\": -3.9832}, {\"x\": 6.0381, \"y\": 13.9534, \"z\": -7.3255}, {\"x\": 14.0080, \"y\": -40.0855, \"z\": 0.6507}, {\"x\": 24.6166, \"y\": -62.9985, \"z\": 24.8806}, {\"x\": 25.5236, \"y\": -65.5736, \"z\": 36.9646}, {\"x\": 17.9872, \"y\": -79.0064, \"z\": 24.7381}, {\"x\": -13.0548, \"y\": 55.4831, \"z\": 10.9722}, {\"x\": -26.5986, \"y\": 21.0167, \"z\": 7.6292}, {\"x\": -24.9397, \"y\": 8.0812, \"z\": -0.5594}, {\"x\": -24.1846, \"y\": 4.9804, \"z\": -10.1788}, {\"x\": -10.5041, \"y\": 15.3203, \"z\": 3.4014}, {\"x\": -20.1961, \"y\": -36.9344, \"z\": -7.3007}, {\"x\": -14.0622, \"y\": -73.2133, \"z\": -16.2465}, {\"x\": -7.2224, \"y\": -78.7111, \"z\": -23.1734}, {\"x\": -28.8922, \"y\": -78.7987, \"z\": -21.2322}, {\"x\": -25.5731, \"y\": 12.8454, \"z\": -0.4364}, {\"x\": 20.6459, \"y\": -4.7656, \"z\": -8.3157}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame54() {
         return new MovesDoubleFrame(
                 new Vector3d(52.63911425983844, 85.31903574789816, 1.82320091533439),
-                new Vector3d[] {
-                    new Vector3d(4.71641520408015, 76.68840397873778, -1.76040210694255),
-                    new Vector3d(-3.33168570768412, 75.85019922919302, 5.75115936136827),
-                    new Vector3d(-2.46309827688789, 26.16753894995487, -5.21573783013113),
-                    new Vector3d(18.69466727652200, 54.81565654313215, -7.16325850349576),
-                    new Vector3d(24.99717265495832, 19.35585310386993, -3.49924506573705),
-                    new Vector3d(23.29628769108380, 7.24853480507118, -6.80283841985465),
-                    new Vector3d(21.41214290376150, -3.71541556003837, -4.18364768536423),
-                    new Vector3d(5.89512912450133, 13.66169338817444, -7.94485969800654),
-                    new Vector3d(13.77906526796056, -40.62460557303473, -0.72355890997326),
-                    new Vector3d(23.96356729451132, -62.50231255105106, 24.53789968161698),
-                    new Vector3d(24.06603908066617, -64.02417421968799, 36.41954790159320),
-                    new Vector3d(18.78315177818142, -79.40921959680264, 25.30140811548241),
-                    new Vector3d(-12.64641980091280, 55.33700370375832, 10.91469766029782),
-                    new Vector3d(-27.67038757251464, 21.59215415312392, 9.44788181506644),
-                    new Vector3d(-25.57302889184691, 9.24664104020246, 0.31346531732681),
-                    new Vector3d(-25.06654079737367, 6.83187459375185, -9.52005516108671),
-                    new Vector3d(-10.71601650308693, 15.05493633746662, 2.66213981113084),
-                    new Vector3d(-19.73314550341367, -37.50898715840685, -7.24462054086763),
-                    new Vector3d(-13.04796516058885, -73.79347220525248, -15.23405967768827),
-                    new Vector3d(-6.01187268636129, -79.41517353040373, -21.98881974298212),
-                    new Vector3d(-27.73252001926263, -79.74282079550099, -20.26414468635251),
-                    new Vector3d(-26.58330814145408, 13.95489967048177, 0.76472248451197),
-                    new Vector3d(20.62625540210941, -4.73797096435727, -8.52327155320224),
-                }
+                "\"skeletons\": [{\"x\": 4.7164, \"y\": 76.6884, \"z\": -1.7604}, {\"x\": -3.3317, \"y\": 75.8502, \"z\": 5.7512}, {\"x\": -2.4631, \"y\": 26.1675, \"z\": -5.2157}, {\"x\": 18.6947, \"y\": 54.8157, \"z\": -7.1633}, {\"x\": 24.9972, \"y\": 19.3559, \"z\": -3.4992}, {\"x\": 23.2963, \"y\": 7.2485, \"z\": -6.8028}, {\"x\": 21.4121, \"y\": -3.7154, \"z\": -4.1836}, {\"x\": 5.8951, \"y\": 13.6617, \"z\": -7.9449}, {\"x\": 13.7791, \"y\": -40.6246, \"z\": -0.7236}, {\"x\": 23.9636, \"y\": -62.5023, \"z\": 24.5379}, {\"x\": 24.0660, \"y\": -64.0242, \"z\": 36.4195}, {\"x\": 18.7832, \"y\": -79.4092, \"z\": 25.3014}, {\"x\": -12.6464, \"y\": 55.3370, \"z\": 10.9147}, {\"x\": -27.6704, \"y\": 21.5922, \"z\": 9.4479}, {\"x\": -25.5730, \"y\": 9.2466, \"z\": 0.3135}, {\"x\": -25.0665, \"y\": 6.8319, \"z\": -9.5201}, {\"x\": -10.7160, \"y\": 15.0549, \"z\": 2.6621}, {\"x\": -19.7331, \"y\": -37.5090, \"z\": -7.2446}, {\"x\": -13.0480, \"y\": -73.7935, \"z\": -15.2341}, {\"x\": -6.0119, \"y\": -79.4152, \"z\": -21.9888}, {\"x\": -27.7325, \"y\": -79.7428, \"z\": -20.2641}, {\"x\": -26.5833, \"y\": 13.9549, \"z\": 0.7647}, {\"x\": 20.6263, \"y\": -4.7380, \"z\": -8.5233}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame55() {
         return new MovesDoubleFrame(
                 new Vector3d(51.34931449440088, 86.02184806677757, 0.74206586869599),
-                new Vector3d[] {
-                    new Vector3d(4.83025759714391, 76.22870843923356, -2.13013614968410),
-                    new Vector3d(-3.16569828070991, 75.42868078220036, 5.41680237052275),
-                    new Vector3d(-2.57636821650521, 25.81749975345662, -5.88254986209240),
-                    new Vector3d(18.63630118664745, 54.53814551458795, -7.74103958701889),
-                    new Vector3d(25.98197446713871, 19.26793232291738, -3.97394366843520),
-                    new Vector3d(23.84292585684344, 7.13372713526563, -7.09500358140121),
-                    new Vector3d(21.38886024236781, -3.74414281732581, -4.32713099254563),
-                    new Vector3d(5.86435975928755, 13.24722329326316, -8.47447362806126),
-                    new Vector3d(13.42211381697816, -41.41197472008074, -2.75246103084336),
-                    new Vector3d(22.93978747194077, -61.81483557476263, 23.83114565972835),
-                    new Vector3d(21.68080875684249, -62.11047117484070, 35.17029585378650),
-                    new Vector3d(19.59776069785222, -79.61289286895328, 25.85200660802805),
-                    new Vector3d(-12.15075712686093, 55.11461968952726, 10.86664136042112),
-                    new Vector3d(-28.55597871507217, 22.38335365823810, 11.49573551533353),
-                    new Vector3d(-26.36751919920181, 10.55097180027286, 1.64448931851022),
-                    new Vector3d(-26.12622632123969, 8.80343508127811, -8.32843611407262),
-                    new Vector3d(-10.75316163284635, 14.72512836783924, 2.07654250660476),
-                    new Vector3d(-19.42277696680503, -37.98059522305938, -7.12985571685153),
-                    new Vector3d(-12.01676948594468, -74.37791876835756, -14.32791541458831),
-                    new Vector3d(-4.79278597369727, -80.11297825124753, -20.88097129495084),
-                    new Vector3d(-26.48292717447754, -80.58704245916111, -19.32829250171531),
-                    new Vector3d(-27.58065466275388, 15.17271090144376, 2.42328625138080),
-                    new Vector3d(20.72528215346880, -4.75328482823688, -8.68374347465240),
-                }
+                "\"skeletons\": [{\"x\": 4.8303, \"y\": 76.2287, \"z\": -2.1301}, {\"x\": -3.1657, \"y\": 75.4287, \"z\": 5.4168}, {\"x\": -2.5764, \"y\": 25.8175, \"z\": -5.8825}, {\"x\": 18.6363, \"y\": 54.5381, \"z\": -7.7410}, {\"x\": 25.9820, \"y\": 19.2679, \"z\": -3.9739}, {\"x\": 23.8429, \"y\": 7.1337, \"z\": -7.0950}, {\"x\": 21.3889, \"y\": -3.7441, \"z\": -4.3271}, {\"x\": 5.8644, \"y\": 13.2472, \"z\": -8.4745}, {\"x\": 13.4221, \"y\": -41.4120, \"z\": -2.7525}, {\"x\": 22.9398, \"y\": -61.8148, \"z\": 23.8311}, {\"x\": 21.6808, \"y\": -62.1105, \"z\": 35.1703}, {\"x\": 19.5978, \"y\": -79.6129, \"z\": 25.8520}, {\"x\": -12.1508, \"y\": 55.1146, \"z\": 10.8666}, {\"x\": -28.5560, \"y\": 22.3834, \"z\": 11.4957}, {\"x\": -26.3675, \"y\": 10.5510, \"z\": 1.6445}, {\"x\": -26.1262, \"y\": 8.8034, \"z\": -8.3284}, {\"x\": -10.7532, \"y\": 14.7251, \"z\": 2.0765}, {\"x\": -19.4228, \"y\": -37.9806, \"z\": -7.1299}, {\"x\": -12.0168, \"y\": -74.3779, \"z\": -14.3279}, {\"x\": -4.7928, \"y\": -80.1130, \"z\": -20.8810}, {\"x\": -26.4829, \"y\": -80.5870, \"z\": -19.3283}, {\"x\": -27.5807, \"y\": 15.1727, \"z\": 2.4233}, {\"x\": 20.7253, \"y\": -4.7533, \"z\": -8.6837}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame56() {
         return new MovesDoubleFrame(
                 new Vector3d(50.11159929202876, 86.73389217521982, -0.25733805127157),
-                new Vector3d[] {
-                    new Vector3d(4.93851597875318, 75.64966002804223, -2.52803471291427),
-                    new Vector3d(-3.04104516776546, 74.87698664536678, 5.02689438123299),
-                    new Vector3d(-2.55616831422414, 25.26816931395233, -6.24801887121270),
-                    new Vector3d(18.49239754699263, 54.12854721794081, -8.39632279992256),
-                    new Vector3d(27.20374012768751, 19.20240061363709, -4.51859261439710),
-                    new Vector3d(24.50517798747371, 7.03078463827387, -7.42034635788669),
-                    new Vector3d(21.34833369779443, -3.68616932194406, -4.50638248830664),
-                    new Vector3d(5.89996917228388, 12.62324572568479, -8.95473236404120),
-                    new Vector3d(12.86252961850442, -42.27335322408221, -5.35375366957715),
-                    new Vector3d(21.63920594371687, -60.72887859222059, 22.65294600961349),
-                    new Vector3d(18.72690275532598, -59.73051403994024, 32.84340998923419),
-                    new Vector3d(20.24485640715572, -78.84858766065278, 26.83559400915945),
-                    new Vector3d(-11.62769843882152, 54.77756016167711, 10.76440973706260),
-                    new Vector3d(-29.29732065262017, 23.33216199829990, 13.81169835732539),
-                    new Vector3d(-27.16074840038007, 11.88678161007347, 3.39676062690430),
-                    new Vector3d(-27.17049658485187, 10.59154192394408, -6.69541816788962),
-                    new Vector3d(-10.59411660138491, 14.19050785990217, 1.74435074711948),
-                    new Vector3d(-18.97539018558345, -38.57289786969282, -7.01534973355915),
-                    new Vector3d(-10.91721340207194, -75.04649525235540, -13.51566885640900),
-                    new Vector3d(-3.60319544702808, -80.82288908919665, -19.88426782116709),
-                    new Vector3d(-25.24575911633318, -81.44005522689196, -18.46291392219848),
-                    new Vector3d(-28.45752380331918, 16.44145004997205, 4.43802192342754),
-                    new Vector3d(20.87729744933637, -4.70749832499367, -8.86355726754609),
-                }
+                "\"skeletons\": [{\"x\": 4.9385, \"y\": 75.6497, \"z\": -2.5280}, {\"x\": -3.0410, \"y\": 74.8770, \"z\": 5.0269}, {\"x\": -2.5562, \"y\": 25.2682, \"z\": -6.2480}, {\"x\": 18.4924, \"y\": 54.1285, \"z\": -8.3963}, {\"x\": 27.2037, \"y\": 19.2024, \"z\": -4.5186}, {\"x\": 24.5052, \"y\": 7.0308, \"z\": -7.4203}, {\"x\": 21.3483, \"y\": -3.6862, \"z\": -4.5064}, {\"x\": 5.9000, \"y\": 12.6232, \"z\": -8.9547}, {\"x\": 12.8625, \"y\": -42.2734, \"z\": -5.3538}, {\"x\": 21.6392, \"y\": -60.7289, \"z\": 22.6529}, {\"x\": 18.7269, \"y\": -59.7305, \"z\": 32.8434}, {\"x\": 20.2449, \"y\": -78.8486, \"z\": 26.8356}, {\"x\": -11.6277, \"y\": 54.7776, \"z\": 10.7644}, {\"x\": -29.2973, \"y\": 23.3322, \"z\": 13.8117}, {\"x\": -27.1607, \"y\": 11.8868, \"z\": 3.3968}, {\"x\": -27.1705, \"y\": 10.5915, \"z\": -6.6954}, {\"x\": -10.5941, \"y\": 14.1905, \"z\": 1.7444}, {\"x\": -18.9754, \"y\": -38.5729, \"z\": -7.0153}, {\"x\": -10.9172, \"y\": -75.0465, \"z\": -13.5157}, {\"x\": -3.6032, \"y\": -80.8229, \"z\": -19.8843}, {\"x\": -25.2458, \"y\": -81.4401, \"z\": -18.4629}, {\"x\": -28.4575, \"y\": 16.4415, \"z\": 4.4380}, {\"x\": 20.8773, \"y\": -4.7075, \"z\": -8.8636}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame57() {
         return new MovesDoubleFrame(
                 new Vector3d(48.93549552146566, 87.48386658193341, -1.16977211274336),
-                new Vector3d[] {
-                    new Vector3d(4.99706346465321, 74.91819640634783, -2.99094510211346),
-                    new Vector3d(-2.96499512037749, 74.19685589993043, 4.61285132888302),
-                    new Vector3d(-2.45555058389590, 24.52817303860229, -6.43490909300615),
-                    new Vector3d(18.27961155163702, 53.57409065857998, -9.10795659470641),
-                    new Vector3d(28.52873613311024, 19.08518336226301, -5.15353917527282),
-                    new Vector3d(25.26433445202765, 6.94216665606881, -7.83498852045278),
-                    new Vector3d(21.40481296765265, -3.56981498106846, -4.80622549871119),
-                    new Vector3d(5.94689714385243, 11.76615434440587, -9.35418800078202),
-                    new Vector3d(12.10920226731783, -43.18156773636981, -8.51144333699854),
-                    new Vector3d(20.19325639678211, -58.84210937978499, 21.14787923816190),
-                    new Vector3d(16.11644888422632, -56.79439078673254, 29.95147464483042),
-                    new Vector3d(19.93573686553211, -76.47737156937762, 28.03947251731925),
-                    new Vector3d(-11.06953657196789, 54.26035949228532, 10.64777733124922),
-                    new Vector3d(-29.76073879015985, 24.28607273168265, 16.36872797560608),
-                    new Vector3d(-27.87489251592018, 13.04421961714581, 5.58230203086906),
-                    new Vector3d(-28.13395678158005, 12.10235691137015, -4.63565489356942),
-                    new Vector3d(-10.28516549565651, 13.48514020168823, 1.66886211671065),
-                    new Vector3d(-18.53252659707950, -39.32566520079503, -6.87084166114754),
-                    new Vector3d(-9.86064244180606, -75.72224287239101, -12.74883641648376),
-                    new Vector3d(-2.43943970045562, -81.57389294694110, -18.98073774879402),
-                    new Vector3d(-24.06112156778262, -82.27955183235194, -17.63914272577505),
-                    new Vector3d(-29.23140943573742, 17.53993538514247, 6.81561256684492),
-                    new Vector3d(21.10467433065488, -4.62726344995797, -9.16593269072343),
-                }
+                "\"skeletons\": [{\"x\": 4.9971, \"y\": 74.9182, \"z\": -2.9909}, {\"x\": -2.9650, \"y\": 74.1969, \"z\": 4.6129}, {\"x\": -2.4556, \"y\": 24.5282, \"z\": -6.4349}, {\"x\": 18.2796, \"y\": 53.5741, \"z\": -9.1080}, {\"x\": 28.5287, \"y\": 19.0852, \"z\": -5.1535}, {\"x\": 25.2643, \"y\": 6.9422, \"z\": -7.8350}, {\"x\": 21.4048, \"y\": -3.5698, \"z\": -4.8062}, {\"x\": 5.9469, \"y\": 11.7662, \"z\": -9.3542}, {\"x\": 12.1092, \"y\": -43.1816, \"z\": -8.5114}, {\"x\": 20.1933, \"y\": -58.8421, \"z\": 21.1479}, {\"x\": 16.1164, \"y\": -56.7944, \"z\": 29.9515}, {\"x\": 19.9357, \"y\": -76.4774, \"z\": 28.0395}, {\"x\": -11.0695, \"y\": 54.2604, \"z\": 10.6478}, {\"x\": -29.7607, \"y\": 24.2861, \"z\": 16.3687}, {\"x\": -27.8749, \"y\": 13.0442, \"z\": 5.5823}, {\"x\": -28.1340, \"y\": 12.1024, \"z\": -4.6357}, {\"x\": -10.2852, \"y\": 13.4851, \"z\": 1.6689}, {\"x\": -18.5325, \"y\": -39.3257, \"z\": -6.8708}, {\"x\": -9.8606, \"y\": -75.7222, \"z\": -12.7488}, {\"x\": -2.4394, \"y\": -81.5739, \"z\": -18.9807}, {\"x\": -24.0611, \"y\": -82.2796, \"z\": -17.6391}, {\"x\": -29.2314, \"y\": 17.5399, \"z\": 6.8156}, {\"x\": 21.1047, \"y\": -4.6273, \"z\": -9.1659}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame58() {
         return new MovesDoubleFrame(
                 new Vector3d(47.81176244942203, 88.26097922148787, -2.04204928248718),
-                new Vector3d[] {
-                    new Vector3d(5.01812894088846, 74.01816107309627, -3.44061072427258),
-                    new Vector3d(-2.90306769312210, 73.32371311543355, 4.19930190407812),
-                    new Vector3d(-2.38712464871299, 23.55927453791064, -6.60315874930342),
-                    new Vector3d(18.02752614070563, 52.91500361279512, -9.87910788900601),
-                    new Vector3d(29.90831111094373, 18.96787820038713, -6.00815468239634),
-                    new Vector3d(26.09892349089263, 6.84488839861219, -8.33408248178373),
-                    new Vector3d(21.58506840334465, -3.44925689963097, -5.10193837864984),
-                    new Vector3d(5.97197594930917, 10.78971833845202, -9.76586974078282),
-                    new Vector3d(11.32313453118867, -44.06924338929263, -12.00541006985792),
-                    new Vector3d(18.49485203295089, -56.20830033647015, 19.26866738719720),
-                    new Vector3d(13.95384899740793, -53.14216300063789, 27.11208854690800),
-                    new Vector3d(18.43102317981218, -72.78182944656838, 28.57169805040306),
-                    new Vector3d(-10.40627508293452, 53.60382050365507, 10.62115454495671),
-                    new Vector3d(-29.87873013872586, 25.22312018719009, 19.10171520143495),
-                    new Vector3d(-28.43165802691251, 13.98534747935848, 8.19879804411599),
-                    new Vector3d(-28.90836810311314, 13.21925692184899, -2.13904704735720),
-                    new Vector3d(-9.91570673549121, 12.65940929711088, 1.75600603076122),
-                    new Vector3d(-18.16413116417767, -40.14613433950753, -6.51750585726956),
-                    new Vector3d(-8.88284774781205, -76.46679612045526, -11.94814553821325),
-                    new Vector3d(-1.28656884254106, -82.28749643366963, -18.16510952563542),
-                    new Vector3d(-22.94698115720222, -83.08667489033222, -16.78595004092511),
-                    new Vector3d(-29.79344145849868, 18.47087057512280, 9.51641689172635),
-                    new Vector3d(21.33339909946973, -4.59682210934716, -9.45470126659977),
-                }
+                "\"skeletons\": [{\"x\": 5.0181, \"y\": 74.0182, \"z\": -3.4406}, {\"x\": -2.9031, \"y\": 73.3237, \"z\": 4.1993}, {\"x\": -2.3871, \"y\": 23.5593, \"z\": -6.6032}, {\"x\": 18.0275, \"y\": 52.9150, \"z\": -9.8791}, {\"x\": 29.9083, \"y\": 18.9679, \"z\": -6.0082}, {\"x\": 26.0989, \"y\": 6.8449, \"z\": -8.3341}, {\"x\": 21.5851, \"y\": -3.4493, \"z\": -5.1019}, {\"x\": 5.9720, \"y\": 10.7897, \"z\": -9.7659}, {\"x\": 11.3231, \"y\": -44.0692, \"z\": -12.0054}, {\"x\": 18.4949, \"y\": -56.2083, \"z\": 19.2687}, {\"x\": 13.9538, \"y\": -53.1422, \"z\": 27.1121}, {\"x\": 18.4310, \"y\": -72.7818, \"z\": 28.5717}, {\"x\": -10.4063, \"y\": 53.6038, \"z\": 10.6212}, {\"x\": -29.8787, \"y\": 25.2231, \"z\": 19.1017}, {\"x\": -28.4317, \"y\": 13.9853, \"z\": 8.1988}, {\"x\": -28.9084, \"y\": 13.2193, \"z\": -2.1390}, {\"x\": -9.9157, \"y\": 12.6594, \"z\": 1.7560}, {\"x\": -18.1641, \"y\": -40.1461, \"z\": -6.5175}, {\"x\": -8.8828, \"y\": -76.4668, \"z\": -11.9481}, {\"x\": -1.2866, \"y\": -82.2875, \"z\": -18.1651}, {\"x\": -22.9470, \"y\": -83.0867, \"z\": -16.7860}, {\"x\": -29.7934, \"y\": 18.4709, \"z\": 9.5164}, {\"x\": 21.3334, \"y\": -4.5968, \"z\": -9.4547}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame59() {
         return new MovesDoubleFrame(
                 new Vector3d(46.79426041092467, 89.04725360738612, -2.90102884743352),
-                new Vector3d[] {
-                    new Vector3d(4.97689809905878, 73.02412452972914, -3.84912645651678),
-                    new Vector3d(-2.93349586681293, 72.36742257892929, 3.77959942032724),
-                    new Vector3d(-2.25136091058692, 22.52332581051899, -6.62303783017387),
-                    new Vector3d(17.68701372779126, 52.18311093923435, -10.65762454569285),
-                    new Vector3d(31.23169566884996, 18.88579446690116, -7.11841137184331),
-                    new Vector3d(26.96387139931381, 6.82002564420967, -8.98508446517540),
-                    new Vector3d(21.95604718943609, -3.26240311445456, -5.43824575164658),
-                    new Vector3d(5.95190112022253, 9.70559846297533, -10.08994743551323),
-                    new Vector3d(10.54423938776639, -44.68126957075646, -15.58550686593437),
-                    new Vector3d(16.55101682941740, -53.04447681371738, 17.03000425531357),
-                    new Vector3d(11.80022220981174, -48.99630347050829, 24.04242754452415),
-                    new Vector3d(16.54138519111754, -68.22136390525604, 28.33365630306601),
-                    new Vector3d(-9.66068465023388, 52.86801194296437, 10.69431738379212),
-                    new Vector3d(-29.65954814197104, 26.17353616000110, 21.97096871939125),
-                    new Vector3d(-28.87267935677257, 14.65055685198985, 11.17377861201220),
-                    new Vector3d(-29.53012467638569, 13.85839653481508, 0.71306749326150),
-                    new Vector3d(-9.45150812157092, 11.71849912282809, 2.01966876808170),
-                    new Vector3d(-17.94102910420328, -41.09824573461582, -5.95200211406446),
-                    new Vector3d(-7.98440324083882, -77.19588725357434, -11.08547484542289),
-                    new Vector3d(-0.26263471582756, -83.03863381897007, -17.32056488986994),
-                    new Vector3d(-21.97470637982030, -83.87498845946229, -15.89877797017814),
-                    new Vector3d(-30.18903173636352, 19.20321980514912, 12.53141374675458),
-                    new Vector3d(21.64319305550508, -4.51079099088392, -9.80087407270863),
-                }
+                "\"skeletons\": [{\"x\": 4.9769, \"y\": 73.0241, \"z\": -3.8491}, {\"x\": -2.9335, \"y\": 72.3674, \"z\": 3.7796}, {\"x\": -2.2514, \"y\": 22.5233, \"z\": -6.6230}, {\"x\": 17.6870, \"y\": 52.1831, \"z\": -10.6576}, {\"x\": 31.2317, \"y\": 18.8858, \"z\": -7.1184}, {\"x\": 26.9639, \"y\": 6.8200, \"z\": -8.9851}, {\"x\": 21.9560, \"y\": -3.2624, \"z\": -5.4382}, {\"x\": 5.9519, \"y\": 9.7056, \"z\": -10.0899}, {\"x\": 10.5442, \"y\": -44.6813, \"z\": -15.5855}, {\"x\": 16.5510, \"y\": -53.0445, \"z\": 17.0300}, {\"x\": 11.8002, \"y\": -48.9963, \"z\": 24.0424}, {\"x\": 16.5414, \"y\": -68.2214, \"z\": 28.3337}, {\"x\": -9.6607, \"y\": 52.8680, \"z\": 10.6943}, {\"x\": -29.6595, \"y\": 26.1735, \"z\": 21.9710}, {\"x\": -28.8727, \"y\": 14.6506, \"z\": 11.1738}, {\"x\": -29.5301, \"y\": 13.8584, \"z\": 0.7131}, {\"x\": -9.4515, \"y\": 11.7185, \"z\": 2.0197}, {\"x\": -17.9410, \"y\": -41.0982, \"z\": -5.9520}, {\"x\": -7.9844, \"y\": -77.1959, \"z\": -11.0855}, {\"x\": -0.2626, \"y\": -83.0386, \"z\": -17.3206}, {\"x\": -21.9747, \"y\": -83.8750, \"z\": -15.8988}, {\"x\": -30.1890, \"y\": 19.2032, \"z\": 12.5314}, {\"x\": 21.6432, \"y\": -4.5108, \"z\": -9.8009}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame60() {
         return new MovesDoubleFrame(
                 new Vector3d(45.89024005570193, 89.83618142019385, -3.74381099449436),
-                new Vector3d[] {
-                    new Vector3d(4.87772380689646, 71.98062339396556, -4.22611290580873),
-                    new Vector3d(-3.00068333155514, 71.32794376704182, 3.47450282971137),
-                    new Vector3d(-2.14637661291528, 21.44322462972097, -6.57378065349989),
-                    new Vector3d(17.24534601029313, 51.38391575878875, -11.39933182042869),
-                    new Vector3d(32.45550726242248, 18.85111151918584, -8.49308025439507),
-                    new Vector3d(27.75344083230911, 6.76989575394265, -9.86234115421848),
-                    new Vector3d(22.49525181882080, -3.03265377172698, -5.79753774822731),
-                    new Vector3d(5.84115367520737, 8.55166579183034, -10.42684805210896),
-                    new Vector3d(9.75512168544292, -45.03018772195902, -19.06599132043603),
-                    new Vector3d(14.69239553412714, -49.52859410779666, 14.34289828945295),
-                    new Vector3d(9.47447386839053, -44.87047604194110, 20.41889473426983),
-                    new Vector3d(14.80233430622829, -63.05962065258270, 27.62894681148435),
-                    new Vector3d(-8.89954658618830, 52.03823383547461, 10.83621403923084),
-                    new Vector3d(-29.03631365951126, 27.12020294893208, 24.87574002208041),
-                    new Vector3d(-29.02590070046264, 15.15975983369770, 14.46784418385203),
-                    new Vector3d(-30.14612859449275, 14.07039376410478, 3.94122602225618),
-                    new Vector3d(-8.95069209675427, 10.65965075056507, 2.44652832668898),
-                    new Vector3d(-17.82973702964313, -42.02856067613401, -5.17662791252661),
-                    new Vector3d(-7.14974880529809, -77.96321772280341, -10.20699612661040),
-                    new Vector3d(0.56444083598040, -83.88052563816831, -16.36393233615281),
-                    new Vector3d(-21.10617028884705, -84.68482071767922, -15.00610469209149),
-                    new Vector3d(-30.17708054330399, 19.79225178439965, 15.74084998632207),
-                    new Vector3d(22.01972060645150, -4.41603706516567, -10.05805406549448),
-                }
+                "\"skeletons\": [{\"x\": 4.8777, \"y\": 71.9806, \"z\": -4.2261}, {\"x\": -3.0007, \"y\": 71.3279, \"z\": 3.4745}, {\"x\": -2.1464, \"y\": 21.4432, \"z\": -6.5738}, {\"x\": 17.2453, \"y\": 51.3839, \"z\": -11.3993}, {\"x\": 32.4555, \"y\": 18.8511, \"z\": -8.4931}, {\"x\": 27.7534, \"y\": 6.7699, \"z\": -9.8623}, {\"x\": 22.4953, \"y\": -3.0327, \"z\": -5.7975}, {\"x\": 5.8412, \"y\": 8.5517, \"z\": -10.4268}, {\"x\": 9.7551, \"y\": -45.0302, \"z\": -19.0660}, {\"x\": 14.6924, \"y\": -49.5286, \"z\": 14.3429}, {\"x\": 9.4745, \"y\": -44.8705, \"z\": 20.4189}, {\"x\": 14.8023, \"y\": -63.0596, \"z\": 27.6289}, {\"x\": -8.8995, \"y\": 52.0382, \"z\": 10.8362}, {\"x\": -29.0363, \"y\": 27.1202, \"z\": 24.8757}, {\"x\": -29.0259, \"y\": 15.1598, \"z\": 14.4678}, {\"x\": -30.1461, \"y\": 14.0704, \"z\": 3.9412}, {\"x\": -8.9507, \"y\": 10.6597, \"z\": 2.4465}, {\"x\": -17.8297, \"y\": -42.0286, \"z\": -5.1766}, {\"x\": -7.1497, \"y\": -77.9632, \"z\": -10.2070}, {\"x\": 0.5644, \"y\": -83.8805, \"z\": -16.3639}, {\"x\": -21.1062, \"y\": -84.6848, \"z\": -15.0061}, {\"x\": -30.1771, \"y\": 19.7923, \"z\": 15.7408}, {\"x\": 22.0197, \"y\": -4.4160, \"z\": -10.0581}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame61() {
         return new MovesDoubleFrame(
                 new Vector3d(45.11262025150478, 90.59568614051456, -4.59981065142511),
-                new Vector3d[] {
-                    new Vector3d(4.68216671132465, 70.87977301518720, -4.50575532650800),
-                    new Vector3d(-3.13776610487722, 70.23100591004641, 3.26223557120365),
-                    new Vector3d(-2.20589186360999, 20.33858768491816, -6.50424701863276),
-                    new Vector3d(16.63615878532068, 50.57191612320137, -12.06761383401334),
-                    new Vector3d(33.40069287750917, 18.84683697635966, -10.08064243441448),
-                    new Vector3d(28.51398289270829, 6.76137522934074, -10.87977080190303),
-                    new Vector3d(23.20275936881065, -2.86982877248511, -6.19093166820300),
-                    new Vector3d(5.54437962045907, 7.41329971064899, -10.72970574362746),
-                    new Vector3d(9.02038626074753, -45.05246689397292, -22.36111877174218),
-                    new Vector3d(13.14891745812575, -45.88809863690447, 11.33762684393734),
-                    new Vector3d(7.40819587266796, -40.96782790544938, 16.32163349237148),
-                    new Vector3d(13.20568812319173, -57.49710601099155, 26.34411322609910),
-                    new Vector3d(-8.10917597950887, 51.22778911255953, 11.08291380171875),
-                    new Vector3d(-27.98616301037951, 27.99330174056509, 27.78688818565374),
-                    new Vector3d(-29.05765690395745, 15.56529423706512, 18.02800981908302),
-                    new Vector3d(-30.61720514666504, 14.05022817530428, 7.52655920061638),
-                    new Vector3d(-8.51051647368866, 9.61890097118558, 2.92178520737523),
-                    new Vector3d(-17.80006789741399, -43.02131565925771, -4.34343761549769),
-                    new Vector3d(-6.42424058040320, -78.75298102911852, -9.32209870188370),
-                    new Vector3d(1.30620203461824, -84.66816760854316, -15.45280429582461),
-                    new Vector3d(-20.35025388637320, -85.45138341860664, -14.06234328382806),
-                    new Vector3d(-29.99812227943226, 20.29471249401121, 19.15224614154812),
-                    new Vector3d(22.48641556129381, -4.36487770462993, -10.27475952110705),
-                }
+                "\"skeletons\": [{\"x\": 4.6822, \"y\": 70.8798, \"z\": -4.5058}, {\"x\": -3.1378, \"y\": 70.2310, \"z\": 3.2622}, {\"x\": -2.2059, \"y\": 20.3386, \"z\": -6.5042}, {\"x\": 16.6362, \"y\": 50.5719, \"z\": -12.0676}, {\"x\": 33.4007, \"y\": 18.8468, \"z\": -10.0806}, {\"x\": 28.5140, \"y\": 6.7614, \"z\": -10.8798}, {\"x\": 23.2028, \"y\": -2.8698, \"z\": -6.1909}, {\"x\": 5.5444, \"y\": 7.4133, \"z\": -10.7297}, {\"x\": 9.0204, \"y\": -45.0525, \"z\": -22.3611}, {\"x\": 13.1489, \"y\": -45.8881, \"z\": 11.3376}, {\"x\": 7.4082, \"y\": -40.9678, \"z\": 16.3216}, {\"x\": 13.2057, \"y\": -57.4971, \"z\": 26.3441}, {\"x\": -8.1092, \"y\": 51.2278, \"z\": 11.0829}, {\"x\": -27.9862, \"y\": 27.9933, \"z\": 27.7869}, {\"x\": -29.0577, \"y\": 15.5653, \"z\": 18.0280}, {\"x\": -30.6172, \"y\": 14.0502, \"z\": 7.5266}, {\"x\": -8.5105, \"y\": 9.6189, \"z\": 2.9218}, {\"x\": -17.8001, \"y\": -43.0213, \"z\": -4.3434}, {\"x\": -6.4242, \"y\": -78.7530, \"z\": -9.3221}, {\"x\": 1.3062, \"y\": -84.6682, \"z\": -15.4528}, {\"x\": -20.3503, \"y\": -85.4514, \"z\": -14.0623}, {\"x\": -29.9981, \"y\": 20.2947, \"z\": 19.1522}, {\"x\": 22.4864, \"y\": -4.3649, \"z\": -10.2748}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame62() {
         return new MovesDoubleFrame(
                 new Vector3d(44.47349354380013, 91.27964269375842, -5.47316192619680),
-                new Vector3d[] {
-                    new Vector3d(4.39683582117726, 69.77919082191553, -4.70099674327732),
-                    new Vector3d(-3.37472427030511, 69.14446516805921, 3.11665101142055),
-                    new Vector3d(-2.38519973876140, 19.32389829372004, -6.34046495856002),
-                    new Vector3d(15.82854168036869, 49.73330003293136, -12.65063085883584),
-                    new Vector3d(34.04951462970983, 18.90248107268896, -11.91300925890706),
-                    new Vector3d(29.25064702307115, 6.71888947957042, -12.12403746265618),
-                    new Vector3d(24.09237824321135, -2.75985806372630, -6.97087097041392),
-                    new Vector3d(5.14575951820670, 6.34272370043753, -10.89985807478679),
-                    new Vector3d(8.39600596485922, -44.82380091799332, -25.42414671405616),
-                    new Vector3d(11.88493865424871, -42.54907283802779, 8.11636877545038),
-                    new Vector3d(5.98348297342066, -37.26837246802319, 12.13808228946767),
-                    new Vector3d(11.74582400666784, -51.98614179062168, 24.39810957210602),
-                    new Vector3d(-7.35627909807889, 50.43594308465245, 11.43872411180456),
-                    new Vector3d(-26.71052717554796, 28.81636211929962, 30.69561711201290),
-                    new Vector3d(-28.97742116757759, 15.91755709281740, 21.78764569497543),
-                    new Vector3d(-31.07768745448015, 13.91463508442729, 11.39537834064600),
-                    new Vector3d(-8.10572897092996, 8.57613692251861, 3.48991999071540),
-                    new Vector3d(-18.00023744364985, -43.99617857080454, -3.38081100547625),
-                    new Vector3d(-5.85872574356223, -79.43825115759073, -8.41233370757145),
-                    new Vector3d(1.94406939889597, -85.36591162689447, -14.55870620773054),
-                    new Vector3d(-19.74840424737792, -86.11511730175667, -13.11859438107528),
-                    new Vector3d(-29.57165593815883, 20.73119210197115, 22.61559302760143),
-                    new Vector3d(23.10764315108650, -4.37553672571330, -11.08771063407961),
-                }
+                "\"skeletons\": [{\"x\": 4.3968, \"y\": 69.7792, \"z\": -4.7010}, {\"x\": -3.3747, \"y\": 69.1445, \"z\": 3.1167}, {\"x\": -2.3852, \"y\": 19.3239, \"z\": -6.3405}, {\"x\": 15.8285, \"y\": 49.7333, \"z\": -12.6506}, {\"x\": 34.0495, \"y\": 18.9025, \"z\": -11.9130}, {\"x\": 29.2506, \"y\": 6.7189, \"z\": -12.1240}, {\"x\": 24.0924, \"y\": -2.7599, \"z\": -6.9709}, {\"x\": 5.1458, \"y\": 6.3427, \"z\": -10.8999}, {\"x\": 8.3960, \"y\": -44.8238, \"z\": -25.4241}, {\"x\": 11.8849, \"y\": -42.5491, \"z\": 8.1164}, {\"x\": 5.9835, \"y\": -37.2684, \"z\": 12.1381}, {\"x\": 11.7458, \"y\": -51.9861, \"z\": 24.3981}, {\"x\": -7.3563, \"y\": 50.4359, \"z\": 11.4387}, {\"x\": -26.7105, \"y\": 28.8164, \"z\": 30.6956}, {\"x\": -28.9774, \"y\": 15.9176, \"z\": 21.7876}, {\"x\": -31.0777, \"y\": 13.9146, \"z\": 11.3954}, {\"x\": -8.1057, \"y\": 8.5761, \"z\": 3.4899}, {\"x\": -18.0002, \"y\": -43.9962, \"z\": -3.3808}, {\"x\": -5.8587, \"y\": -79.4383, \"z\": -8.4123}, {\"x\": 1.9441, \"y\": -85.3659, \"z\": -14.5587}, {\"x\": -19.7484, \"y\": -86.1151, \"z\": -13.1186}, {\"x\": -29.5717, \"y\": 20.7312, \"z\": 22.6156}, {\"x\": 23.1076, \"y\": -4.3755, \"z\": -11.0877}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame63() {
         return new MovesDoubleFrame(
                 new Vector3d(43.97593209850620, 91.82594720744960, -6.32542086717253),
-                new Vector3d[] {
-                    new Vector3d(4.02426120625839, 68.75101073611535, -4.86889613738262),
-                    new Vector3d(-3.65647569688202, 68.11394922552736, 3.04397137607322),
-                    new Vector3d(-2.73063533915176, 18.30039460227490, -6.02855043345453),
-                    new Vector3d(14.86002596070433, 48.95255621051914, -13.21269149212537),
-                    new Vector3d(34.40763820114429, 19.06171983613592, -13.95098253987413),
-                    new Vector3d(29.90899350285071, 6.72991570116470, -13.70059528786961),
-                    new Vector3d(25.09688011237990, -2.70307219460009, -7.85141002689614),
-                    new Vector3d(4.59700860744570, 5.41394231891757, -11.01483748018818),
-                    new Vector3d(7.70199791023147, -44.38721413667453, -28.17765112861282),
-                    new Vector3d(11.03306191362374, -39.59164834077610, 4.97062762978755),
-                    new Vector3d(5.18217160343665, -34.05889302108038, 8.13207803089293),
-                    new Vector3d(10.87491693264101, -47.05649193015727, 22.04594088670379),
-                    new Vector3d(-6.63539415391327, 49.70303870949119, 11.79309580517366),
-                    new Vector3d(-25.07189341827902, 29.62698376500104, 33.44609524140155),
-                    new Vector3d(-28.75135219706192, 16.32523912324530, 25.67001367433997),
-                    new Vector3d(-31.39874547387883, 13.69023417618526, 15.43583872509552),
-                    new Vector3d(-7.77352683149345, 7.56819695116470, 4.11220804581440),
-                    new Vector3d(-18.34596809318650, -44.86607380721318, -2.48704656735924),
-                    new Vector3d(-5.40658845130226, -79.98387711981597, -7.53809809869919),
-                    new Vector3d(2.43589571168089, -85.92678919144555, -13.71256106963360),
-                    new Vector3d(-19.24824390142047, -86.62978941069025, -12.17246081135852),
-                    new Vector3d(-28.94887593652532, 21.23679436327407, 26.16613766083514),
-                    new Vector3d(23.86427175891567, -4.45081550000717, -11.85035837509206),
-                }
+                "\"skeletons\": [{\"x\": 4.0243, \"y\": 68.7510, \"z\": -4.8689}, {\"x\": -3.6565, \"y\": 68.1139, \"z\": 3.0440}, {\"x\": -2.7306, \"y\": 18.3004, \"z\": -6.0286}, {\"x\": 14.8600, \"y\": 48.9526, \"z\": -13.2127}, {\"x\": 34.4076, \"y\": 19.0617, \"z\": -13.9510}, {\"x\": 29.9090, \"y\": 6.7299, \"z\": -13.7006}, {\"x\": 25.0969, \"y\": -2.7031, \"z\": -7.8514}, {\"x\": 4.5970, \"y\": 5.4139, \"z\": -11.0148}, {\"x\": 7.7020, \"y\": -44.3872, \"z\": -28.1777}, {\"x\": 11.0331, \"y\": -39.5916, \"z\": 4.9706}, {\"x\": 5.1822, \"y\": -34.0589, \"z\": 8.1321}, {\"x\": 10.8749, \"y\": -47.0565, \"z\": 22.0459}, {\"x\": -6.6354, \"y\": 49.7030, \"z\": 11.7931}, {\"x\": -25.0719, \"y\": 29.6270, \"z\": 33.4461}, {\"x\": -28.7514, \"y\": 16.3252, \"z\": 25.6700}, {\"x\": -31.3987, \"y\": 13.6902, \"z\": 15.4358}, {\"x\": -7.7735, \"y\": 7.5682, \"z\": 4.1122}, {\"x\": -18.3460, \"y\": -44.8661, \"z\": -2.4870}, {\"x\": -5.4066, \"y\": -79.9839, \"z\": -7.5381}, {\"x\": 2.4359, \"y\": -85.9268, \"z\": -13.7126}, {\"x\": -19.2482, \"y\": -86.6298, \"z\": -12.1725}, {\"x\": -28.9489, \"y\": 21.2368, \"z\": 26.1661}, {\"x\": 23.8643, \"y\": -4.4508, \"z\": -11.8504}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame64() {
         return new MovesDoubleFrame(
                 new Vector3d(43.62348931216547, 92.20437628249755, -7.17912763575629),
-                new Vector3d[] {
-                    new Vector3d(3.54328312965074, 67.82817407227121, -4.99264295148605),
-                    new Vector3d(-4.05119552533022, 67.18238340235914, 2.99564580923698),
-                    new Vector3d(-3.28883093465431, 17.39005665348010, -5.59370899492870),
-                    new Vector3d(13.70017250350653, 48.22267477409903, -13.67179551333348),
-                    new Vector3d(34.36722580264794, 19.28599674479726, -16.13070198819983),
-                    new Vector3d(30.33172663908962, 6.78723731876636, -15.44328600714612),
-                    new Vector3d(26.14204469344180, -2.69584171671296, -9.00200181981011),
-                    new Vector3d(3.92608744191456, 4.61694986765567, -11.01236461224347),
-                    new Vector3d(6.96082861460948, -43.64872744819255, -30.86470850182887),
-                    new Vector3d(10.56796408328605, -37.22855328689820, 1.93201978577475),
-                    new Vector3d(4.89239807016976, -31.33264053137659, 4.34617982944816),
-                    new Vector3d(10.66696483528813, -43.14222139117992, 19.39335569552976),
-                    new Vector3d(-5.99235402460575, 49.06952539063060, 12.19579800239248),
-                    new Vector3d(-23.16419406706420, 30.40765336437354, 36.04932556863780),
-                    new Vector3d(-28.25664574680065, 16.87038289633332, 29.58922050441779),
-                    new Vector3d(-31.55234064773400, 13.59083433927172, 19.73792339644400),
-                    new Vector3d(-7.58245237075188, 6.58653126897391, 4.83056430452515),
-                    new Vector3d(-18.72415986137174, -45.66036039714206, -1.62639887009881),
-                    new Vector3d(-5.09134951442895, -80.37869040948983, -6.74084285321027),
-                    new Vector3d(2.82629303401981, -86.27577507156157, -12.92363079000171),
-                    new Vector3d(-18.85499227535347, -87.01772645136148, -11.26168071064071),
-                    new Vector3d(-28.08661571413842, 21.79249541334362, 29.66121171787930),
-                    new Vector3d(24.57820047443481, -4.58259077013264, -12.73398197772443),
-                }
+                "\"skeletons\": [{\"x\": 3.5433, \"y\": 67.8282, \"z\": -4.9926}, {\"x\": -4.0512, \"y\": 67.1824, \"z\": 2.9956}, {\"x\": -3.2888, \"y\": 17.3901, \"z\": -5.5937}, {\"x\": 13.7002, \"y\": 48.2227, \"z\": -13.6718}, {\"x\": 34.3672, \"y\": 19.2860, \"z\": -16.1307}, {\"x\": 30.3317, \"y\": 6.7872, \"z\": -15.4433}, {\"x\": 26.1420, \"y\": -2.6958, \"z\": -9.0020}, {\"x\": 3.9261, \"y\": 4.6169, \"z\": -11.0124}, {\"x\": 6.9608, \"y\": -43.6487, \"z\": -30.8647}, {\"x\": 10.5680, \"y\": -37.2286, \"z\": 1.9320}, {\"x\": 4.8924, \"y\": -31.3326, \"z\": 4.3462}, {\"x\": 10.6670, \"y\": -43.1422, \"z\": 19.3934}, {\"x\": -5.9924, \"y\": 49.0695, \"z\": 12.1958}, {\"x\": -23.1642, \"y\": 30.4077, \"z\": 36.0493}, {\"x\": -28.2566, \"y\": 16.8704, \"z\": 29.5892}, {\"x\": -31.5523, \"y\": 13.5908, \"z\": 19.7379}, {\"x\": -7.5825, \"y\": 6.5865, \"z\": 4.8306}, {\"x\": -18.7242, \"y\": -45.6604, \"z\": -1.6264}, {\"x\": -5.0913, \"y\": -80.3787, \"z\": -6.7408}, {\"x\": 2.8263, \"y\": -86.2758, \"z\": -12.9236}, {\"x\": -18.8550, \"y\": -87.0177, \"z\": -11.2617}, {\"x\": -28.0866, \"y\": 21.7925, \"z\": 29.6612}, {\"x\": 24.5782, \"y\": -4.5826, \"z\": -12.7340}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame65() {
         return new MovesDoubleFrame(
                 new Vector3d(43.37767376093186, 92.37366002524304, -8.03535241702634),
-                new Vector3d[] {
-                    new Vector3d(2.99323758726285, 67.06070952901371, -5.07951882460770),
-                    new Vector3d(-4.49896049445879, 66.43156436997354, 2.97422483419904),
-                    new Vector3d(-3.95419670280803, 16.64453643636999, -5.11481447024264),
-                    new Vector3d(12.38160882970000, 47.60745355582878, -14.09124701765655),
-                    new Vector3d(33.91330365208311, 19.64252010403523, -18.47063513945028),
-                    new Vector3d(30.49702958373351, 6.99241395793267, -17.48195111860716),
-                    new Vector3d(27.15486912123693, -2.66454976332114, -10.52028856225289),
-                    new Vector3d(3.11085013823256, 4.03557075434265, -10.96584729379092),
-                    new Vector3d(6.02162300392952, -42.48043268657166, -33.48235013402901),
-                    new Vector3d(10.62353204288432, -35.73609282538304, -0.98014046251134),
-                    new Vector3d(4.87670123600873, -29.92874091900578, 1.39395192444665),
-                    new Vector3d(11.24998295103849, -41.35050310339741, 16.62145597395335),
-                    new Vector3d(-5.46683535510284, 48.54521645061457, 12.63680416364907),
-                    new Vector3d(-21.14327921897395, 31.20870185479886, 38.48655123774757),
-                    new Vector3d(-27.46283749691672, 17.62506695578375, 33.56946478993859),
-                    new Vector3d(-31.48599086029036, 13.67994973768968, 24.10591904661299),
-                    new Vector3d(-7.45274377544568, 5.74781027648786, 5.52128317264875),
-                    new Vector3d(-19.37339300135469, -46.29703540399753, -0.75819532944555),
-                    new Vector3d(-4.92313190397012, -80.58338264837496, -6.01405630680961),
-                    new Vector3d(3.12504450629382, -86.43061155476263, -12.15396145527036),
-                    new Vector3d(-18.60952319041377, -87.16238266248648, -10.35185257971845),
-                    new Vector3d(-26.93041697379190, 22.49266279474639, 33.15406245353117),
-                    new Vector3d(25.28236181078551, -4.65169422206322, -13.97109346146381),
-                }
+                "\"skeletons\": [{\"x\": 2.9932, \"y\": 67.0607, \"z\": -5.0795}, {\"x\": -4.4990, \"y\": 66.4316, \"z\": 2.9742}, {\"x\": -3.9542, \"y\": 16.6445, \"z\": -5.1148}, {\"x\": 12.3816, \"y\": 47.6075, \"z\": -14.0912}, {\"x\": 33.9133, \"y\": 19.6425, \"z\": -18.4706}, {\"x\": 30.4970, \"y\": 6.9924, \"z\": -17.4820}, {\"x\": 27.1549, \"y\": -2.6645, \"z\": -10.5203}, {\"x\": 3.1109, \"y\": 4.0356, \"z\": -10.9658}, {\"x\": 6.0216, \"y\": -42.4804, \"z\": -33.4824}, {\"x\": 10.6235, \"y\": -35.7361, \"z\": -0.9801}, {\"x\": 4.8767, \"y\": -29.9287, \"z\": 1.3940}, {\"x\": 11.2500, \"y\": -41.3505, \"z\": 16.6215}, {\"x\": -5.4668, \"y\": 48.5452, \"z\": 12.6368}, {\"x\": -21.1433, \"y\": 31.2087, \"z\": 38.4866}, {\"x\": -27.4628, \"y\": 17.6251, \"z\": 33.5695}, {\"x\": -31.4860, \"y\": 13.6799, \"z\": 24.1059}, {\"x\": -7.4527, \"y\": 5.7478, \"z\": 5.5213}, {\"x\": -19.3734, \"y\": -46.2970, \"z\": -0.7582}, {\"x\": -4.9231, \"y\": -80.5834, \"z\": -6.0141}, {\"x\": 3.1250, \"y\": -86.4306, \"z\": -12.1540}, {\"x\": -18.6095, \"y\": -87.1624, \"z\": -10.3519}, {\"x\": -26.9304, \"y\": 22.4927, \"z\": 33.1541}, {\"x\": 25.2824, \"y\": -4.6517, \"z\": -13.9711}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame66() {
         return new MovesDoubleFrame(
                 new Vector3d(43.22297761512419, 92.29853471265940, -8.92343582548658),
-                new Vector3d[] {
-                    new Vector3d(2.43056680653787, 66.51956620369400, -5.11566926144950),
-                    new Vector3d(-5.03644742016047, 65.91555926863174, 2.99684149212472),
-                    new Vector3d(-4.65080854498791, 16.13520533815123, -4.51613934831447),
-                    new Vector3d(10.92234833096663, 47.19196720742401, -14.40555915494545),
-                    new Vector3d(32.96505628187416, 20.13737240743576, -20.84619574244690),
-                    new Vector3d(30.19043217583269, 7.28831900305077, -19.71947659319438),
-                    new Vector3d(27.95010379292474, -2.54554259032475, -12.56763784027571),
-                    new Vector3d(2.21416826624182, 3.67084596865816, -10.79148363621546),
-                    new Vector3d(4.95687669900587, -40.77451267483781, -36.09725068693703),
-                    new Vector3d(11.17803566025174, -35.39048032069805, -3.67981274775925),
-                    new Vector3d(5.51469135588731, -29.87360607331200, -0.79744732454240),
-                    new Vector3d(12.83521435833973, -41.95380447887180, 13.75386511488136),
-                    new Vector3d(-5.04697856598769, 48.27721643278233, 13.03479960499915),
-                    new Vector3d(-18.88847758483609, 32.04433188376329, 40.71504911316132),
-                    new Vector3d(-26.41857738764205, 18.61402558823933, 37.51332504208886),
-                    new Vector3d(-31.14964867050924, 13.99056954823698, 28.66702371519374),
-                    new Vector3d(-7.49054871878667, 5.10416877763372, 6.21558656770549),
-                    new Vector3d(-19.94178135359635, -46.60489921094123, -0.09497659961915),
-                    new Vector3d(-4.88877039296724, -80.54924248528003, -5.26391271095462),
-                    new Vector3d(3.30911104463555, -86.34685069304004, -11.35081776732724),
-                    new Vector3d(-18.44321489961962, -87.07363435656744, -9.40442670039600),
-                    new Vector3d(-25.54694819755563, 23.32886805328867, 36.56406272996701),
-                    new Vector3d(25.70026085519711, -4.62204022326208, -15.64299834924466),
-                }
+                "\"skeletons\": [{\"x\": 2.4306, \"y\": 66.5196, \"z\": -5.1157}, {\"x\": -5.0364, \"y\": 65.9156, \"z\": 2.9968}, {\"x\": -4.6508, \"y\": 16.1352, \"z\": -4.5161}, {\"x\": 10.9223, \"y\": 47.1920, \"z\": -14.4056}, {\"x\": 32.9651, \"y\": 20.1374, \"z\": -20.8462}, {\"x\": 30.1904, \"y\": 7.2883, \"z\": -19.7195}, {\"x\": 27.9501, \"y\": -2.5455, \"z\": -12.5676}, {\"x\": 2.2142, \"y\": 3.6708, \"z\": -10.7915}, {\"x\": 4.9569, \"y\": -40.7745, \"z\": -36.0973}, {\"x\": 11.1780, \"y\": -35.3905, \"z\": -3.6798}, {\"x\": 5.5147, \"y\": -29.8736, \"z\": -0.7974}, {\"x\": 12.8352, \"y\": -41.9538, \"z\": 13.7539}, {\"x\": -5.0470, \"y\": 48.2772, \"z\": 13.0348}, {\"x\": -18.8885, \"y\": 32.0443, \"z\": 40.7150}, {\"x\": -26.4186, \"y\": 18.6140, \"z\": 37.5133}, {\"x\": -31.1496, \"y\": 13.9906, \"z\": 28.6670}, {\"x\": -7.4905, \"y\": 5.1042, \"z\": 6.2156}, {\"x\": -19.9418, \"y\": -46.6049, \"z\": -0.0950}, {\"x\": -4.8888, \"y\": -80.5492, \"z\": -5.2639}, {\"x\": 3.3091, \"y\": -86.3469, \"z\": -11.3508}, {\"x\": -18.4432, \"y\": -87.0736, \"z\": -9.4044}, {\"x\": -25.5469, \"y\": 23.3289, \"z\": 36.5641}, {\"x\": 25.7003, \"y\": -4.6220, \"z\": -15.6430}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame67() {
         return new MovesDoubleFrame(
                 new Vector3d(43.11892145323472, 91.95901282216219, -9.80939801400808),
-                new Vector3d[] {
-                    new Vector3d(1.77126952026226, 66.16748533852274, -5.09885964012939),
-                    new Vector3d(-5.62600255626083, 65.61269707697531, 3.04076874296213),
-                    new Vector3d(-5.45183334569781, 15.78954901211100, -3.83433665645408),
-                    new Vector3d(9.37996763043639, 46.95543075749006, -14.67901453806300),
-                    new Vector3d(31.53523761080724, 20.73775644475510, -23.24863176502933),
-                    new Vector3d(29.46194898151916, 7.75665315858558, -22.20530118669139),
-                    new Vector3d(28.46264524885988, -2.31833028237768, -15.04541764452298),
-                    new Vector3d(1.32523781119834, 3.55593802235633, -10.52415924874719),
-                    new Vector3d(3.68915513471955, -38.70001812166585, -38.45677294469969),
-                    new Vector3d(12.21269982102025, -36.24209536066175, -6.21261212761793),
-                    new Vector3d(6.59013259974440, -31.45747712256161, -2.04677200546196),
-                    new Vector3d(15.28051832357545, -44.75515546147529, 10.61732709913969),
-                    new Vector3d(-4.73435117132879, 48.18260073321061, 13.42325007943624),
-                    new Vector3d(-16.56243145045680, 33.06383112241604, 42.64103748408219),
-                    new Vector3d(-24.98567399170065, 19.88498261871049, 41.39087406589314),
-                    new Vector3d(-30.53842986859074, 14.58885513875572, 33.38136084956374),
-                    new Vector3d(-7.60402578510933, 4.64483705062769, 6.93356137793806),
-                    new Vector3d(-20.70387257004040, -46.79943258188866, 0.47310146972991),
-                    new Vector3d(-4.83092396317168, -80.23958555373477, -4.61401353075348),
-                    new Vector3d(3.37032898609603, -86.04349867592624, -10.49012333039908),
-                    new Vector3d(-18.32080646437708, -86.71952619092652, -8.47339515436818),
-                    new Vector3d(-23.93297015148794, 24.37220835823019, 39.85245082884545),
-                    new Vector3d(25.75525963547338, -4.44552073317508, -17.68588324945328),
-                }
+                "\"skeletons\": [{\"x\": 1.7713, \"y\": 66.1675, \"z\": -5.0989}, {\"x\": -5.6260, \"y\": 65.6127, \"z\": 3.0408}, {\"x\": -5.4518, \"y\": 15.7895, \"z\": -3.8343}, {\"x\": 9.3800, \"y\": 46.9554, \"z\": -14.6790}, {\"x\": 31.5352, \"y\": 20.7378, \"z\": -23.2486}, {\"x\": 29.4619, \"y\": 7.7567, \"z\": -22.2053}, {\"x\": 28.4626, \"y\": -2.3183, \"z\": -15.0454}, {\"x\": 1.3252, \"y\": 3.5559, \"z\": -10.5242}, {\"x\": 3.6892, \"y\": -38.7000, \"z\": -38.4568}, {\"x\": 12.2127, \"y\": -36.2421, \"z\": -6.2126}, {\"x\": 6.5901, \"y\": -31.4575, \"z\": -2.0468}, {\"x\": 15.2805, \"y\": -44.7552, \"z\": 10.6173}, {\"x\": -4.7344, \"y\": 48.1826, \"z\": 13.4233}, {\"x\": -16.5624, \"y\": 33.0638, \"z\": 42.6410}, {\"x\": -24.9857, \"y\": 19.8850, \"z\": 41.3909}, {\"x\": -30.5384, \"y\": 14.5889, \"z\": 33.3814}, {\"x\": -7.6040, \"y\": 4.6448, \"z\": 6.9336}, {\"x\": -20.7039, \"y\": -46.7994, \"z\": 0.4731}, {\"x\": -4.8309, \"y\": -80.2396, \"z\": -4.6140}, {\"x\": 3.3703, \"y\": -86.0435, \"z\": -10.4901}, {\"x\": -18.3208, \"y\": -86.7195, \"z\": -8.4734}, {\"x\": -23.9330, \"y\": 24.3722, \"z\": 39.8525}, {\"x\": 25.7553, \"y\": -4.4455, \"z\": -17.6859}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame68() {
         return new MovesDoubleFrame(
                 new Vector3d(43.05782125437928, 91.38268058157045, -10.75079219694701),
-                new Vector3d[] {
-                    new Vector3d(1.10778769521026, 66.03499749423429, -5.01900830662362),
-                    new Vector3d(-6.24487240887685, 65.52176025379434, 3.19619785491364),
-                    new Vector3d(-6.26324087796217, 15.73514572247092, -3.04344330597962),
-                    new Vector3d(7.76479484091267, 46.86063571698846, -14.78373292047300),
-                    new Vector3d(29.64337428512868, 21.30728725795022, -25.62302950329968),
-                    new Vector3d(28.28301868421232, 8.20368583189975, -24.75696857614047),
-                    new Vector3d(28.55825356248465, -2.00389726616524, -17.70269263512827),
-                    new Vector3d(0.43316909227594, 3.68776660879316, -10.11424359581248),
-                    new Vector3d(2.35065730897246, -36.45165222026192, -40.31828883846622),
-                    new Vector3d(13.54833205308369, -38.25137350834537, -8.77258011475262),
-                    new Vector3d(8.22657208676164, -34.42693422104019, -3.09790421296203),
-                    new Vector3d(18.64830008228754, -49.59485524430145, 6.03092865502608),
-                    new Vector3d(-4.50119531452966, 48.31297628520586, 13.85147451435093),
-                    new Vector3d(-14.18403202208226, 34.15497505042946, 44.42053354402807),
-                    new Vector3d(-23.18945843181080, 21.36388212952857, 45.20340313255015),
-                    new Vector3d(-29.50136672159347, 15.41657182189916, 38.18390647678720),
-                    new Vector3d(-7.80965813723584, 4.42151677859021, 7.68243242129624),
-                    new Vector3d(-21.47636959361115, -46.64640717405263, 1.03124947417328),
-                    new Vector3d(-4.88602429983472, -79.74911787689616, -3.89508100427504),
-                    new Vector3d(3.40302568719339, -85.46775125615119, -9.61640899772057),
-                    new Vector3d(-18.23844022505427, -86.16226894342051, -7.48255088441974),
-                    new Vector3d(-22.07228069322911, 25.56463050620759, 43.08396624993835),
-                    new Vector3d(25.46888396692593, -4.21935290507942, -19.88925234189029),
-                }
+                "\"skeletons\": [{\"x\": 1.1078, \"y\": 66.0350, \"z\": -5.0190}, {\"x\": -6.2449, \"y\": 65.5218, \"z\": 3.1962}, {\"x\": -6.2632, \"y\": 15.7351, \"z\": -3.0434}, {\"x\": 7.7648, \"y\": 46.8606, \"z\": -14.7837}, {\"x\": 29.6434, \"y\": 21.3073, \"z\": -25.6230}, {\"x\": 28.2830, \"y\": 8.2037, \"z\": -24.7570}, {\"x\": 28.5583, \"y\": -2.0039, \"z\": -17.7027}, {\"x\": 0.4332, \"y\": 3.6878, \"z\": -10.1142}, {\"x\": 2.3507, \"y\": -36.4517, \"z\": -40.3183}, {\"x\": 13.5483, \"y\": -38.2514, \"z\": -8.7726}, {\"x\": 8.2266, \"y\": -34.4269, \"z\": -3.0979}, {\"x\": 18.6483, \"y\": -49.5949, \"z\": 6.0309}, {\"x\": -4.5012, \"y\": 48.3130, \"z\": 13.8515}, {\"x\": -14.1840, \"y\": 34.1550, \"z\": 44.4205}, {\"x\": -23.1895, \"y\": 21.3639, \"z\": 45.2034}, {\"x\": -29.5014, \"y\": 15.4166, \"z\": 38.1839}, {\"x\": -7.8097, \"y\": 4.4215, \"z\": 7.6824}, {\"x\": -21.4764, \"y\": -46.6464, \"z\": 1.0312}, {\"x\": -4.8860, \"y\": -79.7491, \"z\": -3.8951}, {\"x\": 3.4030, \"y\": -85.4678, \"z\": -9.6164}, {\"x\": -18.2384, \"y\": -86.1623, \"z\": -7.4826}, {\"x\": -22.0723, \"y\": 25.5646, \"z\": 43.0840}, {\"x\": 25.4689, \"y\": -4.2194, \"z\": -19.8893}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame69() {
         return new MovesDoubleFrame(
                 new Vector3d(43.00437984693910, 90.60674164585078, -11.78153237469278),
-                new Vector3d[] {
-                    new Vector3d(0.43366997426920, 66.05674579283873, -4.80017744547377),
-                    new Vector3d(-6.88610855989580, 65.58007393435952, 3.41040202797869),
-                    new Vector3d(-6.99669005972692, 15.76986963638313, -2.05666752760508),
-                    new Vector3d(6.17234524521023, 46.91060546337737, -14.74049975641623),
-                    new Vector3d(27.45874909051687, 21.93718540199345, -27.85726804126407),
-                    new Vector3d(26.74196547804329, 8.81872580084213, -27.40463437427188),
-                    new Vector3d(28.29643790942691, -1.56316761525428, -20.82832794658155),
-                    new Vector3d(-0.53228839011710, 3.98485796627770, -9.51696209336517),
-                    new Vector3d(1.20659204843656, -34.35862506227760, -41.49198667378288),
-                    new Vector3d(15.09296952930912, -41.22184708981955, -11.49886671262508),
-                    new Vector3d(10.18759403001401, -39.13514772880714, -4.02766207826699),
-                    new Vector3d(22.35140702013088, -55.07127069766727, -0.64176589172514),
-                    new Vector3d(-4.33534130667976, 48.61288358911163, 14.37566702811406),
-                    new Vector3d(-11.80671285842291, 35.35625801639076, 46.02984025529516),
-                    new Vector3d(-21.02349539245574, 22.98573244403703, 48.84370838356259),
-                    new Vector3d(-27.98924561778102, 16.43229185097723, 43.07683955132573),
-                    new Vector3d(-8.05134057150442, 4.33579297439123, 8.60862746236084),
-                    new Vector3d(-22.29259484167079, -46.39385336129661, 1.67809606671398),
-                    new Vector3d(-4.96382884632967, -78.92470539945782, -2.95436952529033),
-                    new Vector3d(3.43910068055150, -84.65648805166022, -8.67127169740763),
-                    new Vector3d(-18.22139308697890, -85.40026626607902, -6.51381758391345),
-                    new Vector3d(-20.01895327544447, 26.87712570685716, 46.18013017228733),
-                    new Vector3d(24.81888120180092, -3.82120651897108, -22.48143362643059),
-                }
+                "\"skeletons\": [{\"x\": 0.4337, \"y\": 66.0567, \"z\": -4.8002}, {\"x\": -6.8861, \"y\": 65.5801, \"z\": 3.4104}, {\"x\": -6.9967, \"y\": 15.7699, \"z\": -2.0567}, {\"x\": 6.1723, \"y\": 46.9106, \"z\": -14.7405}, {\"x\": 27.4587, \"y\": 21.9372, \"z\": -27.8573}, {\"x\": 26.7420, \"y\": 8.8187, \"z\": -27.4046}, {\"x\": 28.2964, \"y\": -1.5632, \"z\": -20.8283}, {\"x\": -0.5323, \"y\": 3.9849, \"z\": -9.5170}, {\"x\": 1.2066, \"y\": -34.3586, \"z\": -41.4920}, {\"x\": 15.0930, \"y\": -41.2218, \"z\": -11.4989}, {\"x\": 10.1876, \"y\": -39.1351, \"z\": -4.0277}, {\"x\": 22.3514, \"y\": -55.0713, \"z\": -0.6418}, {\"x\": -4.3353, \"y\": 48.6129, \"z\": 14.3757}, {\"x\": -11.8067, \"y\": 35.3563, \"z\": 46.0298}, {\"x\": -21.0235, \"y\": 22.9857, \"z\": 48.8437}, {\"x\": -27.9892, \"y\": 16.4323, \"z\": 43.0768}, {\"x\": -8.0513, \"y\": 4.3358, \"z\": 8.6086}, {\"x\": -22.2926, \"y\": -46.3939, \"z\": 1.6781}, {\"x\": -4.9638, \"y\": -78.9247, \"z\": -2.9544}, {\"x\": 3.4391, \"y\": -84.6565, \"z\": -8.6713}, {\"x\": -18.2214, \"y\": -85.4003, \"z\": -6.5138}, {\"x\": -20.0190, \"y\": 26.8771, \"z\": 46.1801}, {\"x\": 24.8189, \"y\": -3.8212, \"z\": -22.4814}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame70() {
         return new MovesDoubleFrame(
                 new Vector3d(42.92500301845878, 89.70448855529445, -12.91358016401363),
-                new Vector3d[] {
-                    new Vector3d(-0.22793131392890, 66.16002913847612, -4.45912560343385),
-                    new Vector3d(-7.48639260693192, 65.75827336048133, 3.80673799918766),
-                    new Vector3d(-7.78194373297701, 15.91385807727819, -0.91817698994916),
-                    new Vector3d(4.62707378304204, 46.93023188227407, -14.54445698819306),
-                    new Vector3d(24.96262922437977, 22.62642500179163, -29.86250808211438),
-                    new Vector3d(24.74834003766787, 9.49099312987551, -30.02772152312658),
-                    new Vector3d(27.65757760148708, -1.00325848273757, -24.35025522095758),
-                    new Vector3d(-1.39512906676435, 4.43173832630163, -8.70280473706658),
-                    new Vector3d(0.45961735357727, -32.67723807129637, -41.92279068559574),
-                    new Vector3d(16.65462526673173, -45.02687255637380, -14.66810993158669),
-                    new Vector3d(12.55320796615607, -44.84616667943781, -6.10120000769860),
-                    new Vector3d(25.23876694110810, -60.68260397170412, -8.44093078911992),
-                    new Vector3d(-4.18536127341012, 49.05114381175599, 14.97045481734465),
-                    new Vector3d(-9.53559165435517, 36.54555170649283, 47.49648791098114),
-                    new Vector3d(-18.55197766638231, 24.80239974394486, 52.36341055052678),
-                    new Vector3d(-26.14703191806987, 17.70742208067046, 47.96675645496072),
-                    new Vector3d(-8.23110573098962, 4.43739044946844, 9.64833398520258),
-                    new Vector3d(-23.06833506148750, -45.95652306050278, 2.44759678324420),
-                    new Vector3d(-5.05224027817301, -78.08881870248554, -2.00592391463391),
-                    new Vector3d(3.48971287895076, -83.74365905807423, -7.58975082963871),
-                    new Vector3d(-18.19012627199668, -84.54082688628276, -5.37460832861075),
-                    new Vector3d(-17.69953540349853, 28.30503314323900, 49.17524687351198),
-                    new Vector3d(23.84559784588469, -3.30794657167329, -25.39084119058135),
-                }
+                "\"skeletons\": [{\"x\": -0.2279, \"y\": 66.1600, \"z\": -4.4591}, {\"x\": -7.4864, \"y\": 65.7583, \"z\": 3.8067}, {\"x\": -7.7819, \"y\": 15.9139, \"z\": -0.9182}, {\"x\": 4.6271, \"y\": 46.9302, \"z\": -14.5445}, {\"x\": 24.9626, \"y\": 22.6264, \"z\": -29.8625}, {\"x\": 24.7483, \"y\": 9.4910, \"z\": -30.0277}, {\"x\": 27.6576, \"y\": -1.0033, \"z\": -24.3503}, {\"x\": -1.3951, \"y\": 4.4317, \"z\": -8.7028}, {\"x\": 0.4596, \"y\": -32.6772, \"z\": -41.9228}, {\"x\": 16.6546, \"y\": -45.0269, \"z\": -14.6681}, {\"x\": 12.5532, \"y\": -44.8462, \"z\": -6.1012}, {\"x\": 25.2388, \"y\": -60.6826, \"z\": -8.4409}, {\"x\": -4.1854, \"y\": 49.0511, \"z\": 14.9705}, {\"x\": -9.5356, \"y\": 36.5456, \"z\": 47.4965}, {\"x\": -18.5520, \"y\": 24.8024, \"z\": 52.3634}, {\"x\": -26.1470, \"y\": 17.7074, \"z\": 47.9668}, {\"x\": -8.2311, \"y\": 4.4374, \"z\": 9.6483}, {\"x\": -23.0683, \"y\": -45.9565, \"z\": 2.4476}, {\"x\": -5.0522, \"y\": -78.0888, \"z\": -2.0059}, {\"x\": 3.4897, \"y\": -83.7437, \"z\": -7.5898}, {\"x\": -18.1901, \"y\": -84.5408, \"z\": -5.3746}, {\"x\": -17.6995, \"y\": 28.3050, \"z\": 49.1752}, {\"x\": 23.8456, \"y\": -3.3079, \"z\": -25.3908}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame71() {
         return new MovesDoubleFrame(
                 new Vector3d(42.81685467175599, 88.75946577456783, -14.17976232206073),
-                new Vector3d[] {
-                    new Vector3d(-0.85760553190808, 66.27618385059371, -3.98817169316073),
-                    new Vector3d(-8.04543478904139, 65.94796134731402, 4.36612858734093),
-                    new Vector3d(-8.47030435507684, 16.11177161455928, 0.36866797681499),
-                    new Vector3d(3.15858476607198, 46.98718442025515, -14.06992237552307),
-                    new Vector3d(22.24442055610859, 23.28933148102231, -31.59020324891016),
-                    new Vector3d(22.43252555371001, 10.13640529654255, -32.47704786288650),
-                    new Vector3d(26.53141280938583, -0.30098300453239, -28.17738211832490),
-                    new Vector3d(-2.19863962807379, 4.82489912939129, -7.74839889939807),
-                    new Vector3d(0.30346026812056, -31.54771037288002, -41.76378205523994),
-                    new Vector3d(18.33665362596585, -49.09106019488376, -18.55659366648240),
-                    new Vector3d(15.12872673476324, -50.91840779208722, -9.50472221233434),
-                    new Vector3d(27.14134547032284, -65.52514896830046, -17.14157353405906),
-                    new Vector3d(-4.05727412554182, 49.46969039833512, 15.69872609951202),
-                    new Vector3d(-7.27996288938258, 37.73076159439167, 48.81368005554238),
-                    new Vector3d(-16.03645527849746, 26.82028811454950, 55.71318608379661),
-                    new Vector3d(-23.77082880998242, 19.22873531898636, 52.72649130424519),
-                    new Vector3d(-8.45314051958479, 4.55856531083611, 10.83273141399719),
-                    new Vector3d(-23.65306603833773, -45.42993653000868, 3.49731988020169),
-                    new Vector3d(-5.03466186215631, -77.16822554707650, -0.88434452785826),
-                    new Vector3d(3.58593269216161, -82.80202288622668, -6.35104466443015),
-                    new Vector3d(-18.06737612079485, -83.64890713997477, -4.12361887644946),
-                    new Vector3d(-15.35039801038822, 29.84968946827561, 52.04900280608328),
-                    new Vector3d(22.51347525768186, -2.66046358464478, -28.51996711934062),
-                }
+                "\"skeletons\": [{\"x\": -0.8576, \"y\": 66.2762, \"z\": -3.9882}, {\"x\": -8.0454, \"y\": 65.9480, \"z\": 4.3661}, {\"x\": -8.4703, \"y\": 16.1118, \"z\": 0.3687}, {\"x\": 3.1586, \"y\": 46.9872, \"z\": -14.0699}, {\"x\": 22.2444, \"y\": 23.2893, \"z\": -31.5902}, {\"x\": 22.4325, \"y\": 10.1364, \"z\": -32.4770}, {\"x\": 26.5314, \"y\": -0.3010, \"z\": -28.1774}, {\"x\": -2.1986, \"y\": 4.8249, \"z\": -7.7484}, {\"x\": 0.3035, \"y\": -31.5477, \"z\": -41.7638}, {\"x\": 18.3367, \"y\": -49.0911, \"z\": -18.5566}, {\"x\": 15.1287, \"y\": -50.9184, \"z\": -9.5047}, {\"x\": 27.1413, \"y\": -65.5251, \"z\": -17.1416}, {\"x\": -4.0573, \"y\": 49.4697, \"z\": 15.6987}, {\"x\": -7.2800, \"y\": 37.7308, \"z\": 48.8137}, {\"x\": -16.0365, \"y\": 26.8203, \"z\": 55.7132}, {\"x\": -23.7708, \"y\": 19.2287, \"z\": 52.7265}, {\"x\": -8.4531, \"y\": 4.5586, \"z\": 10.8327}, {\"x\": -23.6531, \"y\": -45.4299, \"z\": 3.4973}, {\"x\": -5.0347, \"y\": -77.1682, \"z\": -0.8843}, {\"x\": 3.5859, \"y\": -82.8020, \"z\": -6.3510}, {\"x\": -18.0674, \"y\": -83.6489, \"z\": -4.1236}, {\"x\": -15.3504, \"y\": 29.8497, \"z\": 52.0490}, {\"x\": 22.5135, \"y\": -2.6605, \"z\": -28.5200}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame72() {
         return new MovesDoubleFrame(
                 new Vector3d(42.62573245853193, 87.82384382136345, -15.51511761591716),
-                new Vector3d[] {
-                    new Vector3d(-1.42213814177691, 66.36482011447711, -3.42360550509491),
-                    new Vector3d(-8.51891157331106, 66.09597420208874, 5.02771288296203),
-                    new Vector3d(-9.15191781404106, 16.25870755830643, 1.63030952157700),
-                    new Vector3d(1.79918580942801, 47.06582223831699, -13.49627934572523),
-                    new Vector3d(19.39220572799886, 23.80178626336986, -32.88091296499068),
-                    new Vector3d(19.82652207917954, 10.74420886344917, -34.76197196625360),
-                    new Vector3d(25.11040111117114, 0.39994424071068, -32.12615878522976),
-                    new Vector3d(-2.84373079681538, 5.14101819329233, -6.66368423757828),
-                    new Vector3d(0.65236034886498, -31.04355239455424, -41.16251772609999),
-                    new Vector3d(19.80568490629126, -53.05308005128150, -22.82835100283431),
-                    new Vector3d(17.35051325523980, -56.66571820642277, -14.02342597052698),
-                    new Vector3d(27.98898109843177, -69.51969314391910, -25.83621721836091),
-                    new Vector3d(-3.89707507593970, 49.84918901096150, 16.44016618733884),
-                    new Vector3d(-5.10966605503540, 38.74961653240182, 49.97083805562727),
-                    new Vector3d(-13.29630490863913, 28.88085047051860, 58.69584737151953),
-                    new Vector3d(-21.21301956974257, 20.87219559358016, 57.29763721600379),
-                    new Vector3d(-8.66274545075981, 4.74413250066722, 12.09141205957826),
-                    new Vector3d(-24.13813823264127, -45.09378728812361, 4.61984662441251),
-                    new Vector3d(-4.93808778685518, -76.29555791571187, 0.39222499235997),
-                    new Vector3d(3.75774078145280, -81.86090468660792, -5.04811855755486),
-                    new Vector3d(-17.90116469528225, -82.74771206665319, -2.80942258973002),
-                    new Vector3d(-12.87777206530032, 31.32584366028011, 54.63444492589131),
-                    new Vector3d(21.14883061235329, -2.20353604814623, -31.79662954067059),
-                }
+                "\"skeletons\": [{\"x\": -1.4221, \"y\": 66.3648, \"z\": -3.4236}, {\"x\": -8.5189, \"y\": 66.0960, \"z\": 5.0277}, {\"x\": -9.1519, \"y\": 16.2587, \"z\": 1.6303}, {\"x\": 1.7992, \"y\": 47.0658, \"z\": -13.4963}, {\"x\": 19.3922, \"y\": 23.8018, \"z\": -32.8809}, {\"x\": 19.8265, \"y\": 10.7442, \"z\": -34.7620}, {\"x\": 25.1104, \"y\": 0.3999, \"z\": -32.1262}, {\"x\": -2.8437, \"y\": 5.1410, \"z\": -6.6637}, {\"x\": 0.6524, \"y\": -31.0436, \"z\": -41.1625}, {\"x\": 19.8057, \"y\": -53.0531, \"z\": -22.8284}, {\"x\": 17.3505, \"y\": -56.6657, \"z\": -14.0234}, {\"x\": 27.9890, \"y\": -69.5197, \"z\": -25.8362}, {\"x\": -3.8971, \"y\": 49.8492, \"z\": 16.4402}, {\"x\": -5.1097, \"y\": 38.7496, \"z\": 49.9708}, {\"x\": -13.2963, \"y\": 28.8809, \"z\": 58.6958}, {\"x\": -21.2130, \"y\": 20.8722, \"z\": 57.2976}, {\"x\": -8.6627, \"y\": 4.7441, \"z\": 12.0914}, {\"x\": -24.1381, \"y\": -45.0938, \"z\": 4.6198}, {\"x\": -4.9381, \"y\": -76.2956, \"z\": 0.3922}, {\"x\": 3.7577, \"y\": -81.8609, \"z\": -5.0481}, {\"x\": -17.9012, \"y\": -82.7477, \"z\": -2.8094}, {\"x\": -12.8778, \"y\": 31.3258, \"z\": 54.6344}, {\"x\": 21.1488, \"y\": -2.2035, \"z\": -31.7966}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame73() {
         return new MovesDoubleFrame(
                 new Vector3d(42.37536193485752, 86.99970856720257, -16.85988095347080),
-                new Vector3d[] {
-                    new Vector3d(-1.90556270380871, 66.39259702588170, -2.80010107289945),
-                    new Vector3d(-8.94850882185039, 66.19642389958450, 5.72016066868138),
-                    new Vector3d(-9.67691972337177, 16.34418510251860, 2.91746742070700),
-                    new Vector3d(0.47735604937308, 47.01670936972960, -12.84829553174860),
-                    new Vector3d(16.54606532102634, 24.15927877542155, -33.85078674513362),
-                    new Vector3d(17.10973949058108, 11.37259875750568, -36.83841024571857),
-                    new Vector3d(23.31225611233566, 1.33383980415306, -36.06706713115727),
-                    new Vector3d(-3.30627447851524, 5.31144497277530, -5.50987864296903),
-                    new Vector3d(1.51785058863872, -31.06801603937422, -40.23238329173694),
-                    new Vector3d(20.86082450903541, -56.58973030581424, -27.58399351082713),
-                    new Vector3d(19.08559702687787, -61.74574413876697, -19.22944763839459),
-                    new Vector3d(27.92717445066194, -72.60581274442418, -34.14698190680486),
-                    new Vector3d(-3.75721604523111, 50.09856317416256, 17.16601677553032),
-                    new Vector3d(-2.99170200225012, 39.76722439019090, 50.97824978968487),
-                    new Vector3d(-10.46630073816463, 30.93509049710859, 61.31325840803250),
-                    new Vector3d(-18.21593585424462, 22.64548320862370, 61.52027776459040),
-                    new Vector3d(-8.82694900189033, 4.91439858483278, 13.33439880585246),
-                    new Vector3d(-24.45432318533479, -44.67119520616326, 6.01340756173952),
-                    new Vector3d(-4.81637189230730, -75.49653409469012, 1.73667376557920),
-                    new Vector3d(4.00043686083777, -80.99166947800926, -3.73888383034543),
-                    new Vector3d(-17.64977136618119, -81.95538880153322, -1.36888934033623),
-                    new Vector3d(-10.36660312223760, 32.85599682787691, 56.98600432923198),
-                    new Vector3d(19.64870058655833, -1.53095382512277, -35.10811589717632),
-                }
+                "\"skeletons\": [{\"x\": -1.9056, \"y\": 66.3926, \"z\": -2.8001}, {\"x\": -8.9485, \"y\": 66.1964, \"z\": 5.7202}, {\"x\": -9.6769, \"y\": 16.3442, \"z\": 2.9175}, {\"x\": 0.4774, \"y\": 47.0167, \"z\": -12.8483}, {\"x\": 16.5461, \"y\": 24.1593, \"z\": -33.8508}, {\"x\": 17.1097, \"y\": 11.3726, \"z\": -36.8384}, {\"x\": 23.3123, \"y\": 1.3338, \"z\": -36.0671}, {\"x\": -3.3063, \"y\": 5.3114, \"z\": -5.5099}, {\"x\": 1.5179, \"y\": -31.0680, \"z\": -40.2324}, {\"x\": 20.8608, \"y\": -56.5897, \"z\": -27.5840}, {\"x\": 19.0856, \"y\": -61.7457, \"z\": -19.2294}, {\"x\": 27.9272, \"y\": -72.6058, \"z\": -34.1470}, {\"x\": -3.7572, \"y\": 50.0986, \"z\": 17.1660}, {\"x\": -2.9917, \"y\": 39.7672, \"z\": 50.9782}, {\"x\": -10.4663, \"y\": 30.9351, \"z\": 61.3133}, {\"x\": -18.2159, \"y\": 22.6455, \"z\": 61.5203}, {\"x\": -8.8269, \"y\": 4.9144, \"z\": 13.3344}, {\"x\": -24.4543, \"y\": -44.6712, \"z\": 6.0134}, {\"x\": -4.8164, \"y\": -75.4965, \"z\": 1.7367}, {\"x\": 4.0004, \"y\": -80.9917, \"z\": -3.7389}, {\"x\": -17.6498, \"y\": -81.9554, \"z\": -1.3689}, {\"x\": -10.3666, \"y\": 32.8560, \"z\": 56.9860}, {\"x\": 19.6487, \"y\": -1.5310, \"z\": -35.1081}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame74() {
         return new MovesDoubleFrame(
                 new Vector3d(42.04234214515483, 86.28615310685736, -18.20169477847963),
-                new Vector3d[] {
-                    new Vector3d(-2.29381615947530, 66.31382887323936, -2.18496719085104),
-                    new Vector3d(-9.30818183134540, 66.20541402202443, 6.35744636581436),
-                    new Vector3d(-10.07413694128822, 16.33772783879291, 4.15520619488380),
-                    new Vector3d(-0.66564846545998, 46.84913169939657, -12.19589761406178),
-                    new Vector3d(13.75042964026577, 24.46368024727995, -34.50466936032196),
-                    new Vector3d(14.29179801481543, 11.98220535032074, -38.74949248533419),
-                    new Vector3d(21.09767675585748, 2.41070102034298, -39.85633558184499),
-                    new Vector3d(-3.53384273577322, 5.41618990888514, -4.32501785041316),
-                    new Vector3d(2.63124733085453, -31.48992228015681, -38.97983278615951),
-                    new Vector3d(21.50422015292436, -59.59076868786308, -32.25963456263437),
-                    new Vector3d(20.16293020625592, -65.71126966641420, -24.67845854672790),
-                    new Vector3d(27.29277300172116, -74.88387981880935, -41.49159546923435),
-                    new Vector3d(-3.71353335254342, 50.26728597179633, 17.80563921136446),
-                    new Vector3d(-0.95865744665320, 40.52094073859613, 51.72736568334189),
-                    new Vector3d(-7.47325717840446, 32.87644060275848, 63.44472401294274),
-                    new Vector3d(-14.84809676225790, 24.32719832592381, 65.14180714435525),
-                    new Vector3d(-8.88458563229063, 4.97814091371654, 14.56939856333621),
-                    new Vector3d(-24.57927034211206, -44.37254794221234, 7.33886427463824),
-                    new Vector3d(-4.54185674739529, -74.81134227951128, 3.08334846714465),
-                    new Vector3d(4.28187975603369, -80.27519678768418, -2.43914163032191),
-                    new Vector3d(-17.32336363427190, -81.27072722545003, 0.04027302417321),
-                    new Vector3d(-7.72255363732520, 34.18333650462252, 58.93740380966354),
-                    new Vector3d(17.88929020415106, -0.80376393691100, -38.53044589118769),
-                }
+                "\"skeletons\": [{\"x\": -2.2938, \"y\": 66.3138, \"z\": -2.1850}, {\"x\": -9.3082, \"y\": 66.2054, \"z\": 6.3574}, {\"x\": -10.0741, \"y\": 16.3377, \"z\": 4.1552}, {\"x\": -0.6656, \"y\": 46.8491, \"z\": -12.1959}, {\"x\": 13.7504, \"y\": 24.4637, \"z\": -34.5047}, {\"x\": 14.2918, \"y\": 11.9822, \"z\": -38.7495}, {\"x\": 21.0977, \"y\": 2.4107, \"z\": -39.8563}, {\"x\": -3.5338, \"y\": 5.4162, \"z\": -4.3250}, {\"x\": 2.6312, \"y\": -31.4899, \"z\": -38.9798}, {\"x\": 21.5042, \"y\": -59.5908, \"z\": -32.2596}, {\"x\": 20.1629, \"y\": -65.7113, \"z\": -24.6785}, {\"x\": 27.2928, \"y\": -74.8839, \"z\": -41.4916}, {\"x\": -3.7135, \"y\": 50.2673, \"z\": 17.8056}, {\"x\": -0.9587, \"y\": 40.5209, \"z\": 51.7274}, {\"x\": -7.4733, \"y\": 32.8764, \"z\": 63.4447}, {\"x\": -14.8481, \"y\": 24.3272, \"z\": 65.1418}, {\"x\": -8.8846, \"y\": 4.9781, \"z\": 14.5694}, {\"x\": -24.5793, \"y\": -44.3725, \"z\": 7.3389}, {\"x\": -4.5419, \"y\": -74.8113, \"z\": 3.0833}, {\"x\": 4.2819, \"y\": -80.2752, \"z\": -2.4391}, {\"x\": -17.3234, \"y\": -81.2707, \"z\": 0.0403}, {\"x\": -7.7226, \"y\": 34.1833, \"z\": 58.9374}, {\"x\": 17.8893, \"y\": -0.8038, \"z\": -38.5304}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame75() {
         return new MovesDoubleFrame(
                 new Vector3d(41.62699485147807, 85.72053508426254, -19.48447399186624),
-                new Vector3d[] {
-                    new Vector3d(-2.61510816301619, 66.08109941886541, -1.64178097469750),
-                    new Vector3d(-9.54517343850961, 66.09802850610988, 6.90459922178063),
-                    new Vector3d(-10.27463414471849, 16.19482338025814, 5.31380121522096),
-                    new Vector3d(-1.73705018696032, 46.55984059859696, -11.58141802546958),
-                    new Vector3d(11.06912248654474, 24.65922969634131, -35.07188848720741),
-                    new Vector3d(11.53119482743113, 12.64147713928950, -40.40581219417991),
-                    new Vector3d(18.33300160572941, 3.72737478287356, -43.51684383976114),
-                    new Vector3d(-3.59724454951467, 5.34351261585934, -3.21960455051326),
-                    new Vector3d(4.04004132263641, -32.07873123381611, -37.70880328396493),
-                    new Vector3d(21.87903913913812, -61.84948295748562, -36.41277033966569),
-                    new Vector3d(20.23339920617584, -68.64619705183404, -29.75767043934114),
-                    new Vector3d(26.37893914244228, -76.38354271434542, -47.71733480564018),
-                    new Vector3d(-3.68935105173212, 50.34393804925485, 18.36182959682675),
-                    new Vector3d(0.94192230683519, 41.17969712467778, 52.25947155963821),
-                    new Vector3d(-4.43266385874356, 34.55287488108051, 65.06951639753251),
-                    new Vector3d(-11.32459284273308, 25.93302321945574, 68.16617051221985),
-                    new Vector3d(-8.69845671689600, 4.92658451527341, 15.69623792451739),
-                    new Vector3d(-24.77842457706767, -44.15415297297847, 8.57688322616415),
-                    new Vector3d(-4.17841499730161, -74.23921863395709, 4.38577775787306),
-                    new Vector3d(4.68793141071060, -79.70220658249664, -1.16648264242579),
-                    new Vector3d(-16.88566123560856, -80.74086438613968, 1.34497356462015),
-                    new Vector3d(-5.02436811404123, 35.38171899453797, 60.49499491545206),
-                    new Vector3d(15.69819041087215, 0.20430420512304, -41.93356217215218),
-                }
+                "\"skeletons\": [{\"x\": -2.6151, \"y\": 66.0811, \"z\": -1.6418}, {\"x\": -9.5452, \"y\": 66.0980, \"z\": 6.9046}, {\"x\": -10.2746, \"y\": 16.1948, \"z\": 5.3138}, {\"x\": -1.7371, \"y\": 46.5598, \"z\": -11.5814}, {\"x\": 11.0691, \"y\": 24.6592, \"z\": -35.0719}, {\"x\": 11.5312, \"y\": 12.6415, \"z\": -40.4058}, {\"x\": 18.3330, \"y\": 3.7274, \"z\": -43.5168}, {\"x\": -3.5972, \"y\": 5.3435, \"z\": -3.2196}, {\"x\": 4.0400, \"y\": -32.0787, \"z\": -37.7088}, {\"x\": 21.8790, \"y\": -61.8495, \"z\": -36.4128}, {\"x\": 20.2334, \"y\": -68.6462, \"z\": -29.7577}, {\"x\": 26.3789, \"y\": -76.3835, \"z\": -47.7173}, {\"x\": -3.6894, \"y\": 50.3439, \"z\": 18.3618}, {\"x\": 0.9419, \"y\": 41.1797, \"z\": 52.2595}, {\"x\": -4.4327, \"y\": 34.5529, \"z\": 65.0695}, {\"x\": -11.3246, \"y\": 25.9330, \"z\": 68.1662}, {\"x\": -8.6985, \"y\": 4.9266, \"z\": 15.6962}, {\"x\": -24.7784, \"y\": -44.1542, \"z\": 8.5769}, {\"x\": -4.1784, \"y\": -74.2392, \"z\": 4.3858}, {\"x\": 4.6879, \"y\": -79.7022, \"z\": -1.1665}, {\"x\": -16.8857, \"y\": -80.7409, \"z\": 1.3450}, {\"x\": -5.0244, \"y\": 35.3817, \"z\": 60.4950}, {\"x\": 15.6982, \"y\": 0.2043, \"z\": -41.9336}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame76() {
         return new MovesDoubleFrame(
                 new Vector3d(41.14007793253723, 85.26792199271064, -20.68727974321230),
-                new Vector3d[] {
-                    new Vector3d(-2.87145043881513, 65.79493985857282, -1.23580960208392),
-                    new Vector3d(-9.78531254005211, 65.93187397548134, 7.38039497758730),
-                    new Vector3d(-10.35148685645836, 15.91578917730424, 6.35736519606410),
-                    new Vector3d(-2.69071298880583, 46.13930340721497, -11.05329308626128),
-                    new Vector3d(8.42217734555059, 24.81564501807804, -35.54159947693279),
-                    new Vector3d(8.55671946562127, 13.24597861880348, -41.82934071112176),
-                    new Vector3d(15.23881959815475, 5.15171577816920, -46.66664815973597),
-                    new Vector3d(-3.55299340756513, 5.20534911382768, -2.18033133350599),
-                    new Vector3d(5.60695416032921, -32.84448333013624, -36.40219285490898),
-                    new Vector3d(22.02793761108256, -63.42023580641971, -40.09638376125196),
-                    new Vector3d(20.19524863461307, -70.42549987066357, -34.17868690834086),
-                    new Vector3d(25.02467688052081, -77.32443128313335, -52.88112119382264),
-                    new Vector3d(-3.71510132934713, 50.34767394292923, 18.81925137948491),
-                    new Vector3d(2.70400529035153, 41.73572035289948, 52.54025099274727),
-                    new Vector3d(-1.51531647827292, 36.07914715721493, 66.19330224193347),
-                    new Vector3d(-7.61854545602125, 27.38994921729678, 70.53978509105455),
-                    new Vector3d(-8.46208546601937, 4.78999223254978, 16.80967708425931),
-                    new Vector3d(-24.73232116344776, -44.10194996425082, 9.64248059247290),
-                    new Vector3d(-3.77963627052086, -73.81271409534271, 5.54583716276215),
-                    new Vector3d(5.15800672613093, -79.22131511143274, 0.02275606447811),
-                    new Vector3d(-16.33007448841055, -80.41815250941683, 2.57442319617454),
-                    new Vector3d(-2.44605341965592, 36.42032612391881, 61.66543860319184),
-                    new Vector3d(13.23623722975817, 1.30382221766882, -44.96770101618128),
-                }
+                "\"skeletons\": [{\"x\": -2.8715, \"y\": 65.7949, \"z\": -1.2358}, {\"x\": -9.7853, \"y\": 65.9319, \"z\": 7.3804}, {\"x\": -10.3515, \"y\": 15.9158, \"z\": 6.3574}, {\"x\": -2.6907, \"y\": 46.1393, \"z\": -11.0533}, {\"x\": 8.4222, \"y\": 24.8156, \"z\": -35.5416}, {\"x\": 8.5567, \"y\": 13.2460, \"z\": -41.8293}, {\"x\": 15.2388, \"y\": 5.1517, \"z\": -46.6666}, {\"x\": -3.5530, \"y\": 5.2053, \"z\": -2.1803}, {\"x\": 5.6070, \"y\": -32.8445, \"z\": -36.4022}, {\"x\": 22.0279, \"y\": -63.4202, \"z\": -40.0964}, {\"x\": 20.1952, \"y\": -70.4255, \"z\": -34.1787}, {\"x\": 25.0247, \"y\": -77.3244, \"z\": -52.8811}, {\"x\": -3.7151, \"y\": 50.3477, \"z\": 18.8193}, {\"x\": 2.7040, \"y\": 41.7357, \"z\": 52.5403}, {\"x\": -1.5153, \"y\": 36.0791, \"z\": 66.1933}, {\"x\": -7.6185, \"y\": 27.3899, \"z\": 70.5398}, {\"x\": -8.4621, \"y\": 4.7900, \"z\": 16.8097}, {\"x\": -24.7323, \"y\": -44.1019, \"z\": 9.6425}, {\"x\": -3.7796, \"y\": -73.8127, \"z\": 5.5458}, {\"x\": 5.1580, \"y\": -79.2213, \"z\": 0.0228}, {\"x\": -16.3301, \"y\": -80.4182, \"z\": 2.5744}, {\"x\": -2.4461, \"y\": 36.4203, \"z\": 61.6654}, {\"x\": 13.2362, \"y\": 1.3038, \"z\": -44.9677}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame77() {
         return new MovesDoubleFrame(
                 new Vector3d(40.59762407334686, 84.91930090121136, -21.80646321978587),
-                new Vector3d[] {
-                    new Vector3d(-3.15719055776468, 65.36274276997834, -0.94284658770710),
-                    new Vector3d(-9.97872345303693, 65.56450218866665, 7.69436446570616),
-                    new Vector3d(-10.17044493088010, 15.52134321242969, 7.35236631523201),
-                    new Vector3d(-3.54923561563030, 45.67925203018941, -10.54000803800949),
-                    new Vector3d(5.93098974329927, 24.96486807836650, -35.93524510069795),
-                    new Vector3d(5.64759371508175, 13.94373171083634, -43.02791178021411),
-                    new Vector3d(11.88723628999438, 6.61116517180809, -49.35342827683897),
-                    new Vector3d(-3.28718130611996, 4.91273768371532, -1.15548075797163),
-                    new Vector3d(7.10140862650579, -33.68074617087966, -35.01409984559242),
-                    new Vector3d(22.02856343521948, -64.27975044119901, -43.43693823734814),
-                    new Vector3d(20.49560391544837, -71.20739583336595, -37.84954338914365),
-                    new Vector3d(23.17407906450266, -78.07518015279184, -57.01571170911350),
-                    new Vector3d(-3.72348402657465, 50.25273000613512, 19.16588358791353),
-                    new Vector3d(4.29134746285448, 42.17103455657373, 52.63457440656631),
-                    new Vector3d(1.18535525608020, 37.51371579886402, 66.87071760575078),
-                    new Vector3d(-4.06961305917816, 28.75877805472339, 72.23132364202066),
-                    new Vector3d(-8.03056623289919, 4.54009085668681, 17.82240601083791),
-                    new Vector3d(-24.71482153171446, -44.00102986656909, 10.65478380266091),
-                    new Vector3d(-3.38044455074887, -73.44680893750693, 6.61108502668349),
-                    new Vector3d(5.67380472753718, -78.85391714400492, 1.11803553895048),
-                    new Vector3d(-15.90761301206328, -80.05090101680338, 3.68923984824667),
-                    new Vector3d(0.05006617430595, 37.38691012195202, 62.42740229385043),
-                    new Vector3d(10.53441718856037, 2.47922504622560, -47.62757844259760),
-                }
+                "\"skeletons\": [{\"x\": -3.1572, \"y\": 65.3627, \"z\": -0.9428}, {\"x\": -9.9787, \"y\": 65.5645, \"z\": 7.6944}, {\"x\": -10.1704, \"y\": 15.5213, \"z\": 7.3524}, {\"x\": -3.5492, \"y\": 45.6793, \"z\": -10.5400}, {\"x\": 5.9310, \"y\": 24.9649, \"z\": -35.9352}, {\"x\": 5.6476, \"y\": 13.9437, \"z\": -43.0279}, {\"x\": 11.8872, \"y\": 6.6112, \"z\": -49.3534}, {\"x\": -3.2872, \"y\": 4.9127, \"z\": -1.1555}, {\"x\": 7.1014, \"y\": -33.6807, \"z\": -35.0141}, {\"x\": 22.0286, \"y\": -64.2798, \"z\": -43.4369}, {\"x\": 20.4956, \"y\": -71.2074, \"z\": -37.8495}, {\"x\": 23.1741, \"y\": -78.0752, \"z\": -57.0157}, {\"x\": -3.7235, \"y\": 50.2527, \"z\": 19.1659}, {\"x\": 4.2913, \"y\": 42.1710, \"z\": 52.6346}, {\"x\": 1.1854, \"y\": 37.5137, \"z\": 66.8707}, {\"x\": -4.0696, \"y\": 28.7588, \"z\": 72.2313}, {\"x\": -8.0306, \"y\": 4.5401, \"z\": 17.8224}, {\"x\": -24.7148, \"y\": -44.0010, \"z\": 10.6548}, {\"x\": -3.3804, \"y\": -73.4468, \"z\": 6.6111}, {\"x\": 5.6738, \"y\": -78.8539, \"z\": 1.1180}, {\"x\": -15.9076, \"y\": -80.0509, \"z\": 3.6892}, {\"x\": 0.0501, \"y\": 37.3869, \"z\": 62.4274}, {\"x\": 10.5344, \"y\": 2.4792, \"z\": -47.6276}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame78() {
         return new MovesDoubleFrame(
                 new Vector3d(40.03071481385363, 84.64400729031254, -22.85214572467870),
-                new Vector3d[] {
-                    new Vector3d(-3.48415947974810, 64.82592633280777, -0.77867024308189),
-                    new Vector3d(-10.22159596073634, 65.18050603462579, 7.89618602314061),
-                    new Vector3d(-9.94487114966998, 15.08964838972006, 8.17679784149723),
-                    new Vector3d(-4.40576015425541, 45.12138926381692, -10.07088295450216),
-                    new Vector3d(3.39517836452691, 25.05158275902957, -36.31389408492831),
-                    new Vector3d(2.79403478138693, 14.54993710436556, -44.06681271267443),
-                    new Vector3d(8.59877300251960, 8.04566253243769, -51.52481875836727),
-                    new Vector3d(-2.94999204517045, 4.58282305306299, -0.32769329050758),
-                    new Vector3d(8.42527803539595, -34.56760944756112, -33.79434415725270),
-                    new Vector3d(21.93568776485878, -64.58115404360936, -46.05848811394616),
-                    new Vector3d(20.72745164416152, -71.57004025296820, -40.70858448524550),
-                    new Vector3d(21.41431724566529, -78.23271514966734, -60.12705473313084),
-                    new Vector3d(-3.77616613441578, 50.03559320017150, 19.40427532962062),
-                    new Vector3d(5.62378703372184, 42.52245641533830, 52.51993866589405),
-                    new Vector3d(3.52057006796760, 38.74300080304095, 67.24262678725947),
-                    new Vector3d(-0.52436933743066, 29.93658031762331, 73.48927503935944),
-                    new Vector3d(-7.46825290919881, 4.18359737350767, 18.71821034989530),
-                    new Vector3d(-24.58826463322628, -43.99988442516627, 11.43238005722944),
-                    new Vector3d(-2.91664178184735, -73.11329779562857, 7.60136961448133),
-                    new Vector3d(6.21368307662451, -78.55136200082693, 2.13339244346541),
-                    new Vector3d(-15.45252971946483, -79.82497965779282, 4.71277476768416),
-                    new Vector3d(2.21773675176695, 38.17236426601969, 62.89888472641889),
-                    new Vector3d(7.79660179156374, 3.73938334570131, -49.94876663617948),
-                }
+                "\"skeletons\": [{\"x\": -3.4842, \"y\": 64.8259, \"z\": -0.7787}, {\"x\": -10.2216, \"y\": 65.1805, \"z\": 7.8962}, {\"x\": -9.9449, \"y\": 15.0896, \"z\": 8.1768}, {\"x\": -4.4058, \"y\": 45.1214, \"z\": -10.0709}, {\"x\": 3.3952, \"y\": 25.0516, \"z\": -36.3139}, {\"x\": 2.7940, \"y\": 14.5499, \"z\": -44.0668}, {\"x\": 8.5988, \"y\": 8.0457, \"z\": -51.5248}, {\"x\": -2.9500, \"y\": 4.5828, \"z\": -0.3277}, {\"x\": 8.4253, \"y\": -34.5676, \"z\": -33.7943}, {\"x\": 21.9357, \"y\": -64.5812, \"z\": -46.0585}, {\"x\": 20.7275, \"y\": -71.5700, \"z\": -40.7086}, {\"x\": 21.4143, \"y\": -78.2327, \"z\": -60.1271}, {\"x\": -3.7762, \"y\": 50.0356, \"z\": 19.4043}, {\"x\": 5.6238, \"y\": 42.5225, \"z\": 52.5199}, {\"x\": 3.5206, \"y\": 38.7430, \"z\": 67.2426}, {\"x\": -0.5244, \"y\": 29.9366, \"z\": 73.4893}, {\"x\": -7.4683, \"y\": 4.1836, \"z\": 18.7182}, {\"x\": -24.5883, \"y\": -43.9999, \"z\": 11.4324}, {\"x\": -2.9166, \"y\": -73.1133, \"z\": 7.6014}, {\"x\": 6.2137, \"y\": -78.5514, \"z\": 2.1334}, {\"x\": -15.4525, \"y\": -79.8250, \"z\": 4.7128}, {\"x\": 2.2177, \"y\": 38.1724, \"z\": 62.8989}, {\"x\": 7.7966, \"y\": 3.7394, \"z\": -49.9488}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame79() {
         return new MovesDoubleFrame(
                 new Vector3d(39.50844395857466, 84.40910101764118, -23.81846288712160),
-                new Vector3d[] {
-                    new Vector3d(-3.87711541596569, 64.20892497385125, -0.69831774816718),
-                    new Vector3d(-10.53844388706103, 64.65517542664337, 8.05570375636166),
-                    new Vector3d(-9.65052959755308, 14.53331653441768, 8.92854931573280),
-                    new Vector3d(-5.20767271283334, 44.56274819156349, -9.77100283498395),
-                    new Vector3d(0.91575314612559, 25.22189391965323, -36.66353285846795),
-                    new Vector3d(0.07368539893780, 15.21582655091400, -45.08901107427112),
-                    new Vector3d(5.46688761988324, 9.55579838295992, -53.41794726821056),
-                    new Vector3d(-2.54981280733229, 4.07338284857955, 0.43410529896787),
-                    new Vector3d(9.54331246954397, -35.48140370734884, -32.61902772050097),
-                    new Vector3d(21.86394387441113, -64.64376837450992, -47.92616315858346),
-                    new Vector3d(21.06543441717428, -71.79509559851473, -42.83996417112458),
-                    new Vector3d(20.26503906539152, -77.68732756124935, -62.56462269548724),
-                    new Vector3d(-3.94452573252858, 49.77054514977934, 19.54844102785460),
-                    new Vector3d(6.67351293255453, 42.76494814946605, 52.34282537567943),
-                    new Vector3d(5.60710490809884, 39.83530536268953, 67.30287061894505),
-                    new Vector3d(2.68639233718180, 31.11080100181175, 74.31363459324237),
-                    new Vector3d(-6.91085299821784, 3.79123970079309, 19.48327703784341),
-                    new Vector3d(-24.30479227030246, -43.99552175851925, 12.14629428736905),
-                    new Vector3d(-2.47346487114662, -72.79785403765766, 8.44023359960838),
-                    new Vector3d(6.69919150887815, -78.21425835162708, 3.00946538344420),
-                    new Vector3d(-14.92750933747601, -79.67697058933653, 5.66104318047583),
-                    new Vector3d(4.21837119484844, 38.87496115806175, 63.10229937806821),
-                    new Vector3d(5.07111399851291, 5.08894120706119, -52.12727213218935),
-                }
+                "\"skeletons\": [{\"x\": -3.8771, \"y\": 64.2089, \"z\": -0.6983}, {\"x\": -10.5384, \"y\": 64.6552, \"z\": 8.0557}, {\"x\": -9.6505, \"y\": 14.5333, \"z\": 8.9285}, {\"x\": -5.2077, \"y\": 44.5627, \"z\": -9.7710}, {\"x\": 0.9158, \"y\": 25.2219, \"z\": -36.6635}, {\"x\": 0.0737, \"y\": 15.2158, \"z\": -45.0890}, {\"x\": 5.4669, \"y\": 9.5558, \"z\": -53.4179}, {\"x\": -2.5498, \"y\": 4.0734, \"z\": 0.4341}, {\"x\": 9.5433, \"y\": -35.4814, \"z\": -32.6190}, {\"x\": 21.8639, \"y\": -64.6438, \"z\": -47.9262}, {\"x\": 21.0654, \"y\": -71.7951, \"z\": -42.8400}, {\"x\": 20.2650, \"y\": -77.6873, \"z\": -62.5646}, {\"x\": -3.9445, \"y\": 49.7705, \"z\": 19.5484}, {\"x\": 6.6735, \"y\": 42.7649, \"z\": 52.3428}, {\"x\": 5.6071, \"y\": 39.8353, \"z\": 67.3029}, {\"x\": 2.6864, \"y\": 31.1108, \"z\": 74.3136}, {\"x\": -6.9109, \"y\": 3.7912, \"z\": 19.4833}, {\"x\": -24.3048, \"y\": -43.9955, \"z\": 12.1463}, {\"x\": -2.4735, \"y\": -72.7979, \"z\": 8.4402}, {\"x\": 6.6992, \"y\": -78.2143, \"z\": 3.0095}, {\"x\": -14.9275, \"y\": -79.6770, \"z\": 5.6610}, {\"x\": 4.2184, \"y\": 38.8750, \"z\": 63.1023}, {\"x\": 5.0711, \"y\": 5.0889, \"z\": -52.1273}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame80() {
         return new MovesDoubleFrame(
                 new Vector3d(39.04255654844361, 84.18014124339743, -24.67451862979615),
-                new Vector3d[] {
-                    new Vector3d(-4.32946669490349, 63.58833942176648, -0.69679332853595),
-                    new Vector3d(-10.96452774956347, 64.07444951817449, 8.06348583311329),
-                    new Vector3d(-9.31498249972011, 13.98343971369502, 9.58755861501310),
-                    new Vector3d(-5.98744115222600, 43.86214813483330, -9.49149330097071),
-                    new Vector3d(-1.35683720706034, 25.29920360309380, -36.98871031965266),
-                    new Vector3d(-2.52736144857232, 15.86190091950495, -45.90460598533052),
-                    new Vector3d(2.37532498935477, 11.05417254553045, -55.04622833649651),
-                    new Vector3d(-2.13600169007576, 3.55573229971330, 1.01840413855095),
-                    new Vector3d(10.60607888749731, -36.35878210519547, -31.59822554754173),
-                    new Vector3d(21.87220961501191, -64.56915830738919, -49.22158443609611),
-                    new Vector3d(21.67166247078415, -71.82006785550570, -44.37040636579828),
-                    new Vector3d(19.29376486115951, -77.25795508647681, -64.13632116806275),
-                    new Vector3d(-4.10738865740252, 49.46792053091140, 19.57401589858764),
-                    new Vector3d(7.57204800187261, 42.99600000694523, 52.01479856700490),
-                    new Vector3d(7.49787819472534, 40.85685152233037, 67.08814049497546),
-                    new Vector3d(5.86888977671987, 32.23977833704782, 74.70626540854724),
-                    new Vector3d(-6.23363328126076, 3.38303982634236, 20.12406611061597),
-                    new Vector3d(-24.12121432493440, -43.87012834952945, 12.84544071268281),
-                    new Vector3d(-2.06768531120745, -72.57351984294193, 9.25514418584325),
-                    new Vector3d(7.16536963909555, -77.97295985876825, 3.86575546134646),
-                    new Vector3d(-14.52043686859824, -79.40793142388098, 6.49950708436152),
-                    new Vector3d(5.98490345134834, 39.52840141451688, 63.04358869723772),
-                    new Vector3d(2.23119414298225, 6.50485645286960, -54.08162751865601),
-                }
+                "\"skeletons\": [{\"x\": -4.3295, \"y\": 63.5883, \"z\": -0.6968}, {\"x\": -10.9645, \"y\": 64.0744, \"z\": 8.0635}, {\"x\": -9.3150, \"y\": 13.9834, \"z\": 9.5876}, {\"x\": -5.9874, \"y\": 43.8621, \"z\": -9.4915}, {\"x\": -1.3568, \"y\": 25.2992, \"z\": -36.9887}, {\"x\": -2.5274, \"y\": 15.8619, \"z\": -45.9046}, {\"x\": 2.3753, \"y\": 11.0542, \"z\": -55.0462}, {\"x\": -2.1360, \"y\": 3.5557, \"z\": 1.0184}, {\"x\": 10.6061, \"y\": -36.3588, \"z\": -31.5982}, {\"x\": 21.8722, \"y\": -64.5692, \"z\": -49.2216}, {\"x\": 21.6717, \"y\": -71.8201, \"z\": -44.3704}, {\"x\": 19.2938, \"y\": -77.2580, \"z\": -64.1363}, {\"x\": -4.1074, \"y\": 49.4679, \"z\": 19.5740}, {\"x\": 7.5720, \"y\": 42.9960, \"z\": 52.0148}, {\"x\": 7.4979, \"y\": 40.8569, \"z\": 67.0881}, {\"x\": 5.8689, \"y\": 32.2398, \"z\": 74.7063}, {\"x\": -6.2336, \"y\": 3.3830, \"z\": 20.1241}, {\"x\": -24.1212, \"y\": -43.8701, \"z\": 12.8454}, {\"x\": -2.0677, \"y\": -72.5735, \"z\": 9.2551}, {\"x\": 7.1654, \"y\": -77.9730, \"z\": 3.8658}, {\"x\": -14.5204, \"y\": -79.4079, \"z\": 6.4995}, {\"x\": 5.9849, \"y\": 39.5284, \"z\": 63.0436}, {\"x\": 2.2312, \"y\": 6.5049, \"z\": -54.0816}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame81() {
         return new MovesDoubleFrame(
                 new Vector3d(38.60151518768027, 83.92731721865111, -25.43666595477872),
-                new Vector3d[] {
-                    new Vector3d(-4.81776143837781, 62.99473560934172, -0.81335077252537),
-                    new Vector3d(-11.33532862408805, 63.50241892590952, 8.04801212645181),
-                    new Vector3d(-8.95024210560680, 13.43817504135683, 10.06012409429867),
-                    new Vector3d(-6.79773919955320, 43.20436966457257, -9.33058843149212),
-                    new Vector3d(-3.58487918391350, 25.34520521291609, -37.26885699260438),
-                    new Vector3d(-5.14132289022517, 16.53814032474350, -46.68469630401767),
-                    new Vector3d(-0.72316533278787, 12.49011527095913, -56.36509048098841),
-                    new Vector3d(-1.76228932685511, 3.05242232185054, 1.44150320889424),
-                    new Vector3d(11.59456536862993, -37.14487978656992, -30.67246297717029),
-                    new Vector3d(21.92336723933454, -64.56791088650606, -49.95869174794977),
-                    new Vector3d(22.23120351092171, -71.77529548072781, -45.30127854636670),
-                    new Vector3d(18.54709555120308, -77.19988475542823, -64.87015433385791),
-                    new Vector3d(-4.33028642607899, 49.17494108213013, 19.52307946016083),
-                    new Vector3d(8.25661928424172, 43.28022975547366, 51.63075782049037),
-                    new Vector3d(9.32459379357412, 41.83901326515116, 66.70202658765365),
-                    new Vector3d(8.79732362994483, 33.45831216853756, 74.70068286197592),
-                    new Vector3d(-5.48589008442531, 3.02802822197683, 20.69485034330512),
-                    new Vector3d(-23.70514965914335, -43.77954943034489, 13.48059862428207),
-                    new Vector3d(-1.60252233659504, -72.34891857005206, 9.97777392413448),
-                    new Vector3d(7.60791272475218, -77.72827214923625, 4.62650230483966),
-                    new Vector3d(-14.07712015851189, -79.18454252488239, 7.25806305638895),
-                    new Vector3d(7.66930557914156, 40.25831501378544, 62.85203990754395),
-                    new Vector3d(-0.58786322941543, 7.87380137678767, -55.70732483579633),
-                }
+                "\"skeletons\": [{\"x\": -4.8178, \"y\": 62.9947, \"z\": -0.8134}, {\"x\": -11.3353, \"y\": 63.5024, \"z\": 8.0480}, {\"x\": -8.9502, \"y\": 13.4382, \"z\": 10.0601}, {\"x\": -6.7977, \"y\": 43.2044, \"z\": -9.3306}, {\"x\": -3.5849, \"y\": 25.3452, \"z\": -37.2689}, {\"x\": -5.1413, \"y\": 16.5381, \"z\": -46.6847}, {\"x\": -0.7232, \"y\": 12.4901, \"z\": -56.3651}, {\"x\": -1.7623, \"y\": 3.0524, \"z\": 1.4415}, {\"x\": 11.5946, \"y\": -37.1449, \"z\": -30.6725}, {\"x\": 21.9234, \"y\": -64.5679, \"z\": -49.9587}, {\"x\": 22.2312, \"y\": -71.7753, \"z\": -45.3013}, {\"x\": 18.5471, \"y\": -77.1999, \"z\": -64.8702}, {\"x\": -4.3303, \"y\": 49.1749, \"z\": 19.5231}, {\"x\": 8.2566, \"y\": 43.2802, \"z\": 51.6308}, {\"x\": 9.3246, \"y\": 41.8390, \"z\": 66.7020}, {\"x\": 8.7973, \"y\": 33.4583, \"z\": 74.7007}, {\"x\": -5.4859, \"y\": 3.0280, \"z\": 20.6949}, {\"x\": -23.7051, \"y\": -43.7795, \"z\": 13.4806}, {\"x\": -1.6025, \"y\": -72.3489, \"z\": 9.9778}, {\"x\": 7.6079, \"y\": -77.7283, \"z\": 4.6265}, {\"x\": -14.0771, \"y\": -79.1845, \"z\": 7.2581}, {\"x\": 7.6693, \"y\": 40.2583, \"z\": 62.8520}, {\"x\": -0.5879, \"y\": 7.8738, \"z\": -55.7073}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame82() {
         return new MovesDoubleFrame(
                 new Vector3d(38.16794158480367, 83.64620558151488, -26.11827826072333),
-                new Vector3d[] {
-                    new Vector3d(-5.27757244295490, 62.40841035897112, -1.04676006751915),
-                    new Vector3d(-11.78918839116588, 63.01402986121796, 7.85273556257782),
-                    new Vector3d(-8.55893748810563, 12.96201336061585, 10.38556708252454),
-                    new Vector3d(-7.46295803370178, 42.57829864168963, -9.23987606674573),
-                    new Vector3d(-5.68375961804593, 25.46080116264044, -37.50719327027701),
-                    new Vector3d(-7.59726860260449, 17.16485476894624, -47.32304890362307),
-                    new Vector3d(-3.76713493790685, 13.84268993608772, -57.47096674051266),
-                    new Vector3d(-1.35133436240197, 2.55381798356237, 1.79283448618689),
-                    new Vector3d(12.42592121550765, -37.79167744599051, -29.86510816860684),
-                    new Vector3d(21.90936837405344, -64.74437882529325, -50.18265709157343),
-                    new Vector3d(22.52893798900879, -71.89780488426086, -45.49058659856845),
-                    new Vector3d(17.88749505672692, -77.67265669522291, -64.80601601072188),
-                    new Vector3d(-4.66608991736603, 48.94400771417554, 19.43956376857561),
-                    new Vector3d(9.00776075545860, 43.55521410539772, 51.11492724325658),
-                    new Vector3d(11.03750453323801, 42.83124033735945, 66.07016230815270),
-                    new Vector3d(11.52785982362460, 34.71071467322353, 74.40341813525097),
-                    new Vector3d(-4.62189294001359, 2.77157029586168, 21.04476153835252),
-                    new Vector3d(-23.38768536411278, -43.55008578066998, 14.07806075261284),
-                    new Vector3d(-1.16446015631791, -72.06270256203379, 10.66707738255133),
-                    new Vector3d(8.04079490179858, -77.46933855394533, 5.33702655892856),
-                    new Vector3d(-13.62793222149060, -78.89928032980986, 7.92715468839529),
-                    new Vector3d(9.29180043687650, 40.99478838288831, 62.37838047395906),
-                    new Vector3d(-3.40066238674746, 9.20454247392645, -57.14102354298025),
-                }
+                "\"skeletons\": [{\"x\": -5.2776, \"y\": 62.4084, \"z\": -1.0468}, {\"x\": -11.7892, \"y\": 63.0140, \"z\": 7.8527}, {\"x\": -8.5589, \"y\": 12.9620, \"z\": 10.3856}, {\"x\": -7.4630, \"y\": 42.5783, \"z\": -9.2399}, {\"x\": -5.6838, \"y\": 25.4608, \"z\": -37.5072}, {\"x\": -7.5973, \"y\": 17.1649, \"z\": -47.3230}, {\"x\": -3.7671, \"y\": 13.8427, \"z\": -57.4710}, {\"x\": -1.3513, \"y\": 2.5538, \"z\": 1.7928}, {\"x\": 12.4259, \"y\": -37.7917, \"z\": -29.8651}, {\"x\": 21.9094, \"y\": -64.7444, \"z\": -50.1827}, {\"x\": 22.5289, \"y\": -71.8978, \"z\": -45.4906}, {\"x\": 17.8875, \"y\": -77.6727, \"z\": -64.8060}, {\"x\": -4.6661, \"y\": 48.9440, \"z\": 19.4396}, {\"x\": 9.0078, \"y\": 43.5552, \"z\": 51.1149}, {\"x\": 11.0375, \"y\": 42.8312, \"z\": 66.0702}, {\"x\": 11.5279, \"y\": 34.7107, \"z\": 74.4034}, {\"x\": -4.6219, \"y\": 2.7716, \"z\": 21.0448}, {\"x\": -23.3877, \"y\": -43.5501, \"z\": 14.0781}, {\"x\": -1.1645, \"y\": -72.0627, \"z\": 10.6671}, {\"x\": 8.0408, \"y\": -77.4693, \"z\": 5.3370}, {\"x\": -13.6279, \"y\": -78.8993, \"z\": 7.9272}, {\"x\": 9.2918, \"y\": 40.9948, \"z\": 62.3784}, {\"x\": -3.4007, \"y\": 9.2045, \"z\": -57.1410}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame83() {
         return new MovesDoubleFrame(
                 new Vector3d(37.81184023128350, 83.39352052843553, -26.70549552329733),
-                new Vector3d[] {
-                    new Vector3d(-5.82259174997281, 61.84306981828087, -1.34207140733491),
-                    new Vector3d(-12.23654802929722, 62.52496331851094, 7.64522613262705),
-                    new Vector3d(-8.19608651058650, 12.54110598535873, 10.63128444667083),
-                    new Vector3d(-8.12725937148019, 41.94120933210449, -9.24910349867165),
-                    new Vector3d(-7.71187894807059, 25.47861779466715, -37.75866550488347),
-                    new Vector3d(-10.02874355067818, 17.75124407778217, -47.88396760596136),
-                    new Vector3d(-6.71818014341124, 15.05094341462525, -58.34865772022408),
-                    new Vector3d(-0.86238804858066, 2.16680876923492, 2.07841725328148),
-                    new Vector3d(13.19724846947229, -38.52400677823972, -29.09261760314671),
-                    new Vector3d(22.13823226134944, -65.18075347285712, -49.79566261496826),
-                    new Vector3d(22.94802609407579, -72.19235924471781, -45.11546053812086),
-                    new Vector3d(18.03267310589244, -77.91393342189812, -64.44593133792310),
-                    new Vector3d(-4.96611738076121, 48.66086405974392, 19.14584362599120),
-                    new Vector3d(9.67703631035134, 43.90021662205789, 50.39810469744731),
-                    new Vector3d(12.53059241129706, 43.81825015498691, 65.15134542714019),
-                    new Vector3d(13.90203709814847, 36.04489619207668, 73.71416474120294),
-                    new Vector3d(-3.90279369870756, 2.60914004603531, 21.38100908384819),
-                    new Vector3d(-22.96308035399018, -43.42369880310169, 14.64563290173182),
-                    new Vector3d(-0.79710364463867, -71.80744729404951, 11.29801447937894),
-                    new Vector3d(8.41927706696700, -77.24294614210653, 5.93054375101384),
-                    new Vector3d(-13.27219735425451, -78.64667423618360, 8.56108933035526),
-                    new Vector3d(10.68928527841359, 41.79118953774555, 61.65416222637094),
-                    new Vector3d(-6.21363985821950, 10.38300131205438, -58.31760010334251),
-                }
+                "\"skeletons\": [{\"x\": -5.8226, \"y\": 61.8431, \"z\": -1.3421}, {\"x\": -12.2365, \"y\": 62.5250, \"z\": 7.6452}, {\"x\": -8.1961, \"y\": 12.5411, \"z\": 10.6313}, {\"x\": -8.1273, \"y\": 41.9412, \"z\": -9.2491}, {\"x\": -7.7119, \"y\": 25.4786, \"z\": -37.7587}, {\"x\": -10.0287, \"y\": 17.7512, \"z\": -47.8840}, {\"x\": -6.7182, \"y\": 15.0509, \"z\": -58.3487}, {\"x\": -0.8624, \"y\": 2.1668, \"z\": 2.0784}, {\"x\": 13.1972, \"y\": -38.5240, \"z\": -29.0926}, {\"x\": 22.1382, \"y\": -65.1808, \"z\": -49.7957}, {\"x\": 22.9480, \"y\": -72.1924, \"z\": -45.1155}, {\"x\": 18.0327, \"y\": -77.9139, \"z\": -64.4459}, {\"x\": -4.9661, \"y\": 48.6609, \"z\": 19.1458}, {\"x\": 9.6770, \"y\": 43.9002, \"z\": 50.3981}, {\"x\": 12.5306, \"y\": 43.8183, \"z\": 65.1513}, {\"x\": 13.9020, \"y\": 36.0449, \"z\": 73.7142}, {\"x\": -3.9028, \"y\": 2.6091, \"z\": 21.3810}, {\"x\": -22.9631, \"y\": -43.4237, \"z\": 14.6456}, {\"x\": -0.7971, \"y\": -71.8074, \"z\": 11.2980}, {\"x\": 8.4193, \"y\": -77.2429, \"z\": 5.9305}, {\"x\": -13.2722, \"y\": -78.6467, \"z\": 8.5611}, {\"x\": 10.6893, \"y\": 41.7912, \"z\": 61.6542}, {\"x\": -6.2136, \"y\": 10.3830, \"z\": -58.3176}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame84() {
         return new MovesDoubleFrame(
                 new Vector3d(37.53332461747646, 83.17305277725239, -27.22030384861918),
-                new Vector3d[] {
-                    new Vector3d(-6.43118196225442, 61.32482448426076, -1.72433879054097),
-                    new Vector3d(-12.77052703093503, 62.10025590644413, 7.27988885774234),
-                    new Vector3d(-7.94894026142948, 12.13012795748238, 10.81664093615002),
-                    new Vector3d(-8.81309451493740, 41.34281700584793, -9.34036268741083),
-                    new Vector3d(-9.68111032625524, 25.49702393430187, -38.02984488441946),
-                    new Vector3d(-12.41358978310659, 18.23174651345484, -48.32172303254858),
-                    new Vector3d(-9.56815581511471, 16.06891387185327, -59.05939200356010),
-                    new Vector3d(-0.39484628816931, 1.86978169540385, 2.34812038015187),
-                    new Vector3d(14.12045410117074, -39.09329974476885, -28.24556657695647),
-                    new Vector3d(22.87497584253587, -65.62920656657188, -49.07044097302967),
-                    new Vector3d(23.55511693011811, -72.78856803443527, -44.38184876497046),
-                    new Vector3d(18.61706664999887, -77.95289099794910, -63.93015841238000),
-                    new Vector3d(-5.36812670295138, 48.46110827846307, 18.81384038619114),
-                    new Vector3d(10.17305435944583, 44.25353542176076, 49.58910781654681),
-                    new Vector3d(13.94942901572153, 44.71408807903872, 64.10597480166709),
-                    new Vector3d(16.05467362214114, 37.21686228750912, 72.81619827064837),
-                    new Vector3d(-3.23623800216499, 2.48763672727063, 21.65665501238293),
-                    new Vector3d(-22.65406701378094, -43.20048888308094, 15.16230711881861),
-                    new Vector3d(-0.50002753045960, -71.58629575981563, 11.89697902273000),
-                    new Vector3d(8.69282798326367, -77.05459432051026, 6.50281438521458),
-                    new Vector3d(-12.97771500476059, -78.44603165025430, 9.10487375957210),
-                    new Vector3d(11.92180699359467, 42.55012837509135, 60.78963785869320),
-                    new Vector3d(-8.99322516229553, 11.44597316590138, -59.32891361643016),
-                }
+                "\"skeletons\": [{\"x\": -6.4312, \"y\": 61.3248, \"z\": -1.7243}, {\"x\": -12.7705, \"y\": 62.1003, \"z\": 7.2799}, {\"x\": -7.9489, \"y\": 12.1301, \"z\": 10.8166}, {\"x\": -8.8131, \"y\": 41.3428, \"z\": -9.3404}, {\"x\": -9.6811, \"y\": 25.4970, \"z\": -38.0298}, {\"x\": -12.4136, \"y\": 18.2317, \"z\": -48.3217}, {\"x\": -9.5682, \"y\": 16.0689, \"z\": -59.0594}, {\"x\": -0.3948, \"y\": 1.8698, \"z\": 2.3481}, {\"x\": 14.1205, \"y\": -39.0933, \"z\": -28.2456}, {\"x\": 22.8750, \"y\": -65.6292, \"z\": -49.0704}, {\"x\": 23.5551, \"y\": -72.7886, \"z\": -44.3818}, {\"x\": 18.6171, \"y\": -77.9529, \"z\": -63.9302}, {\"x\": -5.3681, \"y\": 48.4611, \"z\": 18.8138}, {\"x\": 10.1731, \"y\": 44.2535, \"z\": 49.5891}, {\"x\": 13.9494, \"y\": 44.7141, \"z\": 64.1060}, {\"x\": 16.0547, \"y\": 37.2169, \"z\": 72.8162}, {\"x\": -3.2362, \"y\": 2.4876, \"z\": 21.6567}, {\"x\": -22.6541, \"y\": -43.2005, \"z\": 15.1623}, {\"x\": -0.5000, \"y\": -71.5863, \"z\": 11.8970}, {\"x\": 8.6928, \"y\": -77.0546, \"z\": 6.5028}, {\"x\": -12.9777, \"y\": -78.4460, \"z\": 9.1049}, {\"x\": 11.9218, \"y\": 42.5501, \"z\": 60.7896}, {\"x\": -8.9932, \"y\": 11.4460, \"z\": -59.3289}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame85() {
         return new MovesDoubleFrame(
                 new Vector3d(37.27931710243284, 83.01692161933155, -27.72717211331750),
-                new Vector3d[] {
-                    new Vector3d(-7.00686468155520, 60.84778638480967, -2.14957307913139),
-                    new Vector3d(-13.25385541698447, 61.67989376813613, 6.91856258442937),
-                    new Vector3d(-7.74840968136858, 11.78542216891102, 10.98292678396017),
-                    new Vector3d(-9.49159207544887, 40.78837595688437, -9.49321542627121),
-                    new Vector3d(-11.61496236029184, 25.43325769247334, -38.22673510039549),
-                    new Vector3d(-14.64507757676931, 18.54733374564338, -48.68637377532989),
-                    new Vector3d(-12.33390272993848, 16.80303552297488, -59.51739228535006),
-                    new Vector3d(0.16062347777745, 1.66255277772064, 2.69034578311823),
-                    new Vector3d(15.21114368393249, -39.46591775163008, -27.35540426170208),
-                    new Vector3d(23.77275618075070, -65.94886592100372, -48.31832549606239),
-                    new Vector3d(24.40013560342850, -73.16269138776204, -43.76806211177159),
-                    new Vector3d(19.16017640673070, -77.90902311081510, -63.34568570566844),
-                    new Vector3d(-5.80812735591077, 48.21760864553961, 18.36833742742063),
-                    new Vector3d(10.67431169765576, 44.56493206272513, 48.72875016275017),
-                    new Vector3d(15.19227508987043, 45.54972121455981, 62.95547314008486),
-                    new Vector3d(17.92200650382402, 38.44578430930839, 71.80154618172828),
-                    new Vector3d(-2.72476827384893, 2.42597948719453, 22.04801503454345),
-                    new Vector3d(-22.27150149331116, -43.02900975440313, 15.53581204123177),
-                    new Vector3d(-0.27667381360775, -71.40520056521616, 12.45395146786231),
-                    new Vector3d(8.94146428218104, -76.89856585729923, 7.04644710744344),
-                    new Vector3d(-12.73126758104637, -78.30274064095330, 9.62735989585368),
-                    new Vector3d(13.06427793098812, 43.24196323318058, 59.85036535031625),
-                    new Vector3d(-11.67142163133321, 12.18084135805820, -59.94909022832763),
-                }
+                "\"skeletons\": [{\"x\": -7.0069, \"y\": 60.8478, \"z\": -2.1496}, {\"x\": -13.2539, \"y\": 61.6799, \"z\": 6.9186}, {\"x\": -7.7484, \"y\": 11.7854, \"z\": 10.9829}, {\"x\": -9.4916, \"y\": 40.7884, \"z\": -9.4932}, {\"x\": -11.6150, \"y\": 25.4333, \"z\": -38.2267}, {\"x\": -14.6451, \"y\": 18.5473, \"z\": -48.6864}, {\"x\": -12.3339, \"y\": 16.8030, \"z\": -59.5174}, {\"x\": 0.1606, \"y\": 1.6626, \"z\": 2.6903}, {\"x\": 15.2111, \"y\": -39.4659, \"z\": -27.3554}, {\"x\": 23.7728, \"y\": -65.9489, \"z\": -48.3183}, {\"x\": 24.4001, \"y\": -73.1627, \"z\": -43.7681}, {\"x\": 19.1602, \"y\": -77.9090, \"z\": -63.3457}, {\"x\": -5.8081, \"y\": 48.2176, \"z\": 18.3683}, {\"x\": 10.6743, \"y\": 44.5649, \"z\": 48.7288}, {\"x\": 15.1923, \"y\": 45.5497, \"z\": 62.9555}, {\"x\": 17.9220, \"y\": 38.4458, \"z\": 71.8015}, {\"x\": -2.7248, \"y\": 2.4260, \"z\": 22.0480}, {\"x\": -22.2715, \"y\": -43.0290, \"z\": 15.5358}, {\"x\": -0.2767, \"y\": -71.4052, \"z\": 12.4540}, {\"x\": 8.9415, \"y\": -76.8986, \"z\": 7.0464}, {\"x\": -12.7313, \"y\": -78.3027, \"z\": 9.6274}, {\"x\": 13.0643, \"y\": 43.2420, \"z\": 59.8504}, {\"x\": -11.6714, \"y\": 12.1808, \"z\": -59.9491}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame86() {
         return new MovesDoubleFrame(
                 new Vector3d(37.03629010945123, 82.94665594881540, -28.24750831876715),
-                new Vector3d[] {
-                    new Vector3d(-7.55238424646613, 60.27297385995946, -2.56130334127284),
-                    new Vector3d(-13.73144236348414, 61.18130447042118, 6.51776740153266),
-                    new Vector3d(-7.50375577832312, 11.47246147823611, 11.19342320057616),
-                    new Vector3d(-10.17390201488620, 40.14969791191064, -9.63372663660223),
-                    new Vector3d(-13.35037500048129, 25.36040981128798, -38.40082152072414),
-                    new Vector3d(-16.82245794832943, 18.85846522203164, -48.94582734583381),
-                    new Vector3d(-14.85543338274983, 17.44855277612193, -59.87803181177160),
-                    new Vector3d(0.69861412960098, 1.43980899283561, 3.26985031993401),
-                    new Vector3d(16.37325288255025, -39.63942559265155, -26.44238104698120),
-                    new Vector3d(24.80265686736581, -65.89730220251116, -47.75197571235557),
-                    new Vector3d(25.28213487451748, -73.23615505478038, -43.30564952395978),
-                    new Vector3d(19.83259542224911, -77.80672720850760, -62.82545538627181),
-                    new Vector3d(-6.27548827117634, 47.98675105502232, 17.95266814521315),
-                    new Vector3d(11.01468338599392, 44.78980360828047, 47.76997422397818),
-                    new Vector3d(16.27091550376393, 46.24423313913885, 61.67345422984000),
-                    new Vector3d(19.56892654546731, 39.39867132811717, 70.56760015908573),
-                    new Vector3d(-2.34035131838176, 2.38476309103275, 22.52472815229414),
-                    new Vector3d(-22.04251993266650, -42.64778190977493, 15.95538122865723),
-                    new Vector3d(-0.10356663817539, -71.24501180473327, 13.02711195279117),
-                    new Vector3d(9.15457474035639, -76.79792379452373, 7.62126704113459),
-                    new Vector3d(-12.51126697269087, -78.25572184169702, 10.12001416070353),
-                    new Vector3d(14.01682439678506, 43.84207901114309, 58.74205062852103),
-                    new Vector3d(-14.21085888995350, 12.77836877118773, -60.49233223415324),
-                }
+                "\"skeletons\": [{\"x\": -7.5524, \"y\": 60.2730, \"z\": -2.5613}, {\"x\": -13.7314, \"y\": 61.1813, \"z\": 6.5178}, {\"x\": -7.5038, \"y\": 11.4725, \"z\": 11.1934}, {\"x\": -10.1739, \"y\": 40.1497, \"z\": -9.6337}, {\"x\": -13.3504, \"y\": 25.3604, \"z\": -38.4008}, {\"x\": -16.8225, \"y\": 18.8585, \"z\": -48.9458}, {\"x\": -14.8554, \"y\": 17.4486, \"z\": -59.8780}, {\"x\": 0.6986, \"y\": 1.4398, \"z\": 3.2699}, {\"x\": 16.3733, \"y\": -39.6394, \"z\": -26.4424}, {\"x\": 24.8027, \"y\": -65.8973, \"z\": -47.7520}, {\"x\": 25.2821, \"y\": -73.2362, \"z\": -43.3056}, {\"x\": 19.8326, \"y\": -77.8067, \"z\": -62.8255}, {\"x\": -6.2755, \"y\": 47.9868, \"z\": 17.9527}, {\"x\": 11.0147, \"y\": 44.7898, \"z\": 47.7700}, {\"x\": 16.2709, \"y\": 46.2442, \"z\": 61.6735}, {\"x\": 19.5689, \"y\": 39.3987, \"z\": 70.5676}, {\"x\": -2.3404, \"y\": 2.3848, \"z\": 22.5247}, {\"x\": -22.0425, \"y\": -42.6478, \"z\": 15.9554}, {\"x\": -0.1036, \"y\": -71.2450, \"z\": 13.0271}, {\"x\": 9.1546, \"y\": -76.7979, \"z\": 7.6213}, {\"x\": -12.5113, \"y\": -78.2557, \"z\": 10.1200}, {\"x\": 14.0168, \"y\": 43.8421, \"z\": 58.7421}, {\"x\": -14.2109, \"y\": 12.7784, \"z\": -60.4923}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame87() {
         return new MovesDoubleFrame(
                 new Vector3d(36.80126852556347, 82.89508215615493, -28.75362005111341),
-                new Vector3d[] {
-                    new Vector3d(-8.13388348734536, 59.62839577389968, -3.00042771555056),
-                    new Vector3d(-14.26992408742649, 60.65537817741825, 6.20026759190142),
-                    new Vector3d(-7.35248622282174, 11.10739754621379, 11.45308062423812),
-                    new Vector3d(-10.75062887253685, 39.49864122701001, -9.79312707335058),
-                    new Vector3d(-14.98716400079328, 25.24976666022195, -38.55490550471953),
-                    new Vector3d(-18.76982437181360, 19.06354087236363, -49.14979066684359),
-                    new Vector3d(-17.28405736296763, 17.97894017995878, -60.20283510502644),
-                    new Vector3d(1.28426832223230, 1.26709541301212, 3.82495133915713),
-                    new Vector3d(17.43419693863414, -39.60840177111029, -25.66842795831446),
-                    new Vector3d(25.77233840435900, -65.70968837384761, -47.31372522247094),
-                    new Vector3d(26.29410780894957, -73.07193441826469, -42.88863394508314),
-                    new Vector3d(20.52061987463625, -77.61670523698935, -62.37928189063060),
-                    new Vector3d(-6.77661718315715, 47.73208684055560, 17.51386138320340),
-                    new Vector3d(11.35859881704844, 45.06580137591743, 46.83407183288107),
-                    new Vector3d(17.18709787536317, 46.89566271138499, 60.45353931720467),
-                    new Vector3d(21.01013614578287, 40.32985332096560, 69.33318240609755),
-                    new Vector3d(-1.99049003820738, 2.35563730148574, 23.09017885630663),
-                    new Vector3d(-21.71085205469880, -42.32142793545916, 16.24787877110981),
-                    new Vector3d(0.08159059978898, -71.14948931892881, 13.55910277495181),
-                    new Vector3d(9.40373307603575, -76.72601860238068, 8.17605203133251),
-                    new Vector3d(-12.29446849784524, -78.21872805908977, 10.58712585082998),
-                    new Vector3d(14.86144431733480, 44.38710787703350, 57.68567144730409),
-                    new Vector3d(-16.69166561891328, 13.35071458667872, -61.03767537189234),
-                }
+                "\"skeletons\": [{\"x\": -8.1339, \"y\": 59.6284, \"z\": -3.0004}, {\"x\": -14.2699, \"y\": 60.6554, \"z\": 6.2003}, {\"x\": -7.3525, \"y\": 11.1074, \"z\": 11.4531}, {\"x\": -10.7506, \"y\": 39.4986, \"z\": -9.7931}, {\"x\": -14.9872, \"y\": 25.2498, \"z\": -38.5549}, {\"x\": -18.7698, \"y\": 19.0635, \"z\": -49.1498}, {\"x\": -17.2841, \"y\": 17.9789, \"z\": -60.2028}, {\"x\": 1.2843, \"y\": 1.2671, \"z\": 3.8250}, {\"x\": 17.4342, \"y\": -39.6084, \"z\": -25.6684}, {\"x\": 25.7723, \"y\": -65.7097, \"z\": -47.3137}, {\"x\": 26.2941, \"y\": -73.0719, \"z\": -42.8886}, {\"x\": 20.5206, \"y\": -77.6167, \"z\": -62.3793}, {\"x\": -6.7766, \"y\": 47.7321, \"z\": 17.5139}, {\"x\": 11.3586, \"y\": 45.0658, \"z\": 46.8341}, {\"x\": 17.1871, \"y\": 46.8957, \"z\": 60.4535}, {\"x\": 21.0101, \"y\": 40.3299, \"z\": 69.3332}, {\"x\": -1.9905, \"y\": 2.3556, \"z\": 23.0902}, {\"x\": -21.7109, \"y\": -42.3214, \"z\": 16.2479}, {\"x\": 0.0816, \"y\": -71.1495, \"z\": 13.5591}, {\"x\": 9.4037, \"y\": -76.7260, \"z\": 8.1761}, {\"x\": -12.2945, \"y\": -78.2187, \"z\": 10.5871}, {\"x\": 14.8614, \"y\": 44.3871, \"z\": 57.6857}, {\"x\": -16.6917, \"y\": 13.3507, \"z\": -61.0377}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame88() {
         return new MovesDoubleFrame(
                 new Vector3d(36.56189383059000, 82.83131228426615, -29.25880835974039),
-                new Vector3d[] {
-                    new Vector3d(-8.65915467526761, 58.96576194427395, -3.38769065451889),
-                    new Vector3d(-14.71921035875734, 60.04100889955279, 5.74871390783609),
-                    new Vector3d(-7.19109054253894, 10.74703438501937, 11.80074752772872),
-                    new Vector3d(-11.27083970296136, 38.78941231776627, -9.84362222385972),
-                    new Vector3d(-16.40707834797476, 25.14167214825069, -38.69472605001446),
-                    new Vector3d(-20.58165411157199, 19.23583570350111, -49.32836234105945),
-                    new Vector3d(-19.44620641678876, 18.42203472920258, -60.43588487817618),
-                    new Vector3d(1.80725333006677, 1.03368666176837, 4.58079539328800),
-                    new Vector3d(18.40178541757925, -39.53954668404734, -24.91394814700500),
-                    new Vector3d(26.58010934017872, -65.36719578574446, -46.99439970314143),
-                    new Vector3d(27.00675658573401, -72.73268686979308, -42.60966696675946),
-                    new Vector3d(20.98218227153053, -77.44718118969929, -61.88844001020792),
-                    new Vector3d(-7.22011356816636, 47.41337817723918, 17.08482205196044),
-                    new Vector3d(11.68675149488188, 45.32234783649474, 45.87174028290157),
-                    new Vector3d(18.05612751060477, 47.54330885415119, 59.11576997765236),
-                    new Vector3d(22.27724904001424, 41.25571981012999, 68.04597767615888),
-                    new Vector3d(-1.58871961162585, 2.35131913712179, 23.67692270927771),
-                    new Vector3d(-21.22997318577729, -42.08637811045272, 16.49439802436214),
-                    new Vector3d(0.28304614079843, -71.01513656818152, 14.10940017130054),
-                    new Vector3d(9.74083118262663, -76.65717491734267, 8.66463930903134),
-                    new Vector3d(-12.05424025527599, -78.13639129075760, 11.07994543858251),
-                    new Vector3d(15.64541972612894, 44.93167743490482, 56.52528109828842),
-                    new Vector3d(-18.89507442306238, 13.81048212791176, -61.41163956488073),
-                }
+                "\"skeletons\": [{\"x\": -8.6592, \"y\": 58.9658, \"z\": -3.3877}, {\"x\": -14.7192, \"y\": 60.0410, \"z\": 5.7487}, {\"x\": -7.1911, \"y\": 10.7470, \"z\": 11.8007}, {\"x\": -11.2708, \"y\": 38.7894, \"z\": -9.8436}, {\"x\": -16.4071, \"y\": 25.1417, \"z\": -38.6947}, {\"x\": -20.5817, \"y\": 19.2358, \"z\": -49.3284}, {\"x\": -19.4462, \"y\": 18.4220, \"z\": -60.4359}, {\"x\": 1.8073, \"y\": 1.0337, \"z\": 4.5808}, {\"x\": 18.4018, \"y\": -39.5395, \"z\": -24.9139}, {\"x\": 26.5801, \"y\": -65.3672, \"z\": -46.9944}, {\"x\": 27.0068, \"y\": -72.7327, \"z\": -42.6097}, {\"x\": 20.9822, \"y\": -77.4472, \"z\": -61.8884}, {\"x\": -7.2201, \"y\": 47.4134, \"z\": 17.0848}, {\"x\": 11.6868, \"y\": 45.3223, \"z\": 45.8717}, {\"x\": 18.0561, \"y\": 47.5433, \"z\": 59.1158}, {\"x\": 22.2772, \"y\": 41.2557, \"z\": 68.0460}, {\"x\": -1.5887, \"y\": 2.3513, \"z\": 23.6769}, {\"x\": -21.2300, \"y\": -42.0864, \"z\": 16.4944}, {\"x\": 0.2830, \"y\": -71.0151, \"z\": 14.1094}, {\"x\": 9.7408, \"y\": -76.6572, \"z\": 8.6646}, {\"x\": -12.0542, \"y\": -78.1364, \"z\": 11.0799}, {\"x\": 15.6454, \"y\": 44.9317, \"z\": 56.5253}, {\"x\": -18.8951, \"y\": 13.8105, \"z\": -61.4116}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame89() {
         return new MovesDoubleFrame(
                 new Vector3d(36.32343990060795, 82.73667873163606, -29.74159726811486),
-                new Vector3d[] {
-                    new Vector3d(-9.14704808106275, 58.18901538647173, -3.82589298308686),
-                    new Vector3d(-15.15770362999979, 59.40754700604800, 5.38974175538590),
-                    new Vector3d(-6.92788711292280, 10.34946789408353, 12.15546726262017),
-                    new Vector3d(-11.71610301591575, 38.02307734801621, -9.98580559726391),
-                    new Vector3d(-17.71623146509044, 25.00251449679635, -38.80728736412002),
-                    new Vector3d(-22.24568232001094, 19.52189548405454, -49.49019407853790),
-                    new Vector3d(-21.36513469277941, 18.91932707419934, -60.63657119840055),
-                    new Vector3d(2.45262586270780, 0.91373181774766, 5.20712666740349),
-                    new Vector3d(19.15928696660891, -39.48520433488979, -24.22234374285984),
-                    new Vector3d(27.13366951722373, -65.11139427568416, -46.65294505693605),
-                    new Vector3d(27.50228184393896, -72.47503008984420, -42.24807215691255),
-                    new Vector3d(21.28775599685054, -77.23867212607185, -61.48734018782969),
-                    new Vector3d(-7.82017390786731, 47.06301410396858, 16.68972698036546),
-                    new Vector3d(11.94394402857536, 45.54720991453993, 44.92006299802191),
-                    new Vector3d(18.87231220548736, 48.14638875458437, 57.78676183817038),
-                    new Vector3d(23.40945654950169, 42.17509086569711, 66.75266226122510),
-                    new Vector3d(-1.11071923710227, 2.34486051228674, 24.25074953711974),
-                    new Vector3d(-20.77591556456032, -41.66961371496841, 16.90372984106335),
-                    new Vector3d(0.55170167341989, -70.92806979550789, 14.63470087674582),
-                    new Vector3d(9.99707505560582, -76.55806861973980, 9.18607936492794),
-                    new Vector3d(-11.79806368923602, -78.00912385774173, 11.53752160348943),
-                    new Vector3d(16.31499503866895, 45.48424935151127, 55.39889561193585),
-                    new Vector3d(-20.91918786885620, 14.30858550622911, -61.74828975718764),
-                }
+                "\"skeletons\": [{\"x\": -9.1470, \"y\": 58.1890, \"z\": -3.8259}, {\"x\": -15.1577, \"y\": 59.4075, \"z\": 5.3897}, {\"x\": -6.9279, \"y\": 10.3495, \"z\": 12.1555}, {\"x\": -11.7161, \"y\": 38.0231, \"z\": -9.9858}, {\"x\": -17.7162, \"y\": 25.0025, \"z\": -38.8073}, {\"x\": -22.2457, \"y\": 19.5219, \"z\": -49.4902}, {\"x\": -21.3651, \"y\": 18.9193, \"z\": -60.6366}, {\"x\": 2.4526, \"y\": 0.9137, \"z\": 5.2071}, {\"x\": 19.1593, \"y\": -39.4852, \"z\": -24.2223}, {\"x\": 27.1337, \"y\": -65.1114, \"z\": -46.6529}, {\"x\": 27.5023, \"y\": -72.4750, \"z\": -42.2481}, {\"x\": 21.2878, \"y\": -77.2387, \"z\": -61.4873}, {\"x\": -7.8202, \"y\": 47.0630, \"z\": 16.6897}, {\"x\": 11.9439, \"y\": 45.5472, \"z\": 44.9201}, {\"x\": 18.8723, \"y\": 48.1464, \"z\": 57.7868}, {\"x\": 23.4095, \"y\": 42.1751, \"z\": 66.7527}, {\"x\": -1.1107, \"y\": 2.3449, \"z\": 24.2507}, {\"x\": -20.7759, \"y\": -41.6696, \"z\": 16.9037}, {\"x\": 0.5517, \"y\": -70.9281, \"z\": 14.6347}, {\"x\": 9.9971, \"y\": -76.5581, \"z\": 9.1861}, {\"x\": -11.7981, \"y\": -78.0091, \"z\": 11.5375}, {\"x\": 16.3150, \"y\": 45.4842, \"z\": 55.3989}, {\"x\": -20.9192, \"y\": 14.3086, \"z\": -61.7483}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame90() {
         return new MovesDoubleFrame(
                 new Vector3d(36.08092110509853, 82.56963512554269, -30.17641330575060),
-                new Vector3d[] {
-                    new Vector3d(-9.57147395856092, 57.47561748657843, -4.23886371354936),
-                    new Vector3d(-15.56498445867289, 58.76596828728626, 4.95771585105429),
-                    new Vector3d(-6.62596013432749, 10.03026386815738, 12.50135761117052),
-                    new Vector3d(-12.10394440354851, 37.23848897499185, -10.07995770906672),
-                    new Vector3d(-18.88050030670361, 24.83015992482738, -38.86736115420299),
-                    new Vector3d(-23.86491979238375, 19.81565966967288, -49.61576093172297),
-                    new Vector3d(-23.19919420484006, 19.44735205982796, -60.74242691614203),
-                    new Vector3d(3.06126815023584, 0.77589749109412, 5.75902633437012),
-                    new Vector3d(19.80871356507299, -39.50057724218684, -23.63089301547238),
-                    new Vector3d(27.53647689735389, -65.05606586303094, -46.16179754730978),
-                    new Vector3d(27.96060386516404, -72.30010695024605, -41.88963770128358),
-                    new Vector3d(21.60785604407323, -77.11281855695294, -61.05477143711242),
-                    new Vector3d(-8.39465371696266, 46.75905121433043, 16.24126372143214),
-                    new Vector3d(12.03114045138056, 45.83885738870190, 43.98106755765234),
-                    new Vector3d(19.38000088371139, 48.71636230822727, 56.53146769931815),
-                    new Vector3d(24.30156744966239, 42.95444136206303, 65.45915446804355),
-                    new Vector3d(-0.52919173360462, 2.39453186848045, 24.72616963981161),
-                    new Vector3d(-20.16419068040398, -41.35187472111365, 17.34912027688326),
-                    new Vector3d(0.85566639636999, -70.75662973838706, 15.11526788467227),
-                    new Vector3d(10.21094075169188, -76.44001792496374, 9.70466999024748),
-                    new Vector3d(-11.55952334954020, -77.82346446780399, 12.00074259592550),
-                    new Vector3d(16.76607991184813, 45.97683300400969, 54.31315340658252),
-                    new Vector3d(-22.84649992144787, 14.88122221189269, -62.00709371007999),
-                }
+                "\"skeletons\": [{\"x\": -9.5715, \"y\": 57.4756, \"z\": -4.2389}, {\"x\": -15.5650, \"y\": 58.7660, \"z\": 4.9577}, {\"x\": -6.6260, \"y\": 10.0303, \"z\": 12.5014}, {\"x\": -12.1039, \"y\": 37.2385, \"z\": -10.0800}, {\"x\": -18.8805, \"y\": 24.8302, \"z\": -38.8674}, {\"x\": -23.8649, \"y\": 19.8157, \"z\": -49.6158}, {\"x\": -23.1992, \"y\": 19.4474, \"z\": -60.7424}, {\"x\": 3.0613, \"y\": 0.7759, \"z\": 5.7590}, {\"x\": 19.8087, \"y\": -39.5006, \"z\": -23.6309}, {\"x\": 27.5365, \"y\": -65.0561, \"z\": -46.1618}, {\"x\": 27.9606, \"y\": -72.3001, \"z\": -41.8896}, {\"x\": 21.6079, \"y\": -77.1128, \"z\": -61.0548}, {\"x\": -8.3947, \"y\": 46.7591, \"z\": 16.2413}, {\"x\": 12.0311, \"y\": 45.8389, \"z\": 43.9811}, {\"x\": 19.3800, \"y\": 48.7164, \"z\": 56.5315}, {\"x\": 24.3016, \"y\": 42.9544, \"z\": 65.4592}, {\"x\": -0.5292, \"y\": 2.3945, \"z\": 24.7262}, {\"x\": -20.1642, \"y\": -41.3519, \"z\": 17.3491}, {\"x\": 0.8557, \"y\": -70.7566, \"z\": 15.1153}, {\"x\": 10.2109, \"y\": -76.4400, \"z\": 9.7047}, {\"x\": -11.5595, \"y\": -77.8235, \"z\": 12.0007}, {\"x\": 16.7661, \"y\": 45.9768, \"z\": 54.3132}, {\"x\": -22.8465, \"y\": 14.8812, \"z\": -62.0071}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame91() {
         return new MovesDoubleFrame(
                 new Vector3d(35.87401107997020, 82.34414633137574, -30.57743611123554),
-                new Vector3d[] {
-                    new Vector3d(-10.02304312396262, 56.76595541530053, -4.63172614912115),
-                    new Vector3d(-15.96400709662316, 58.18304408117910, 4.57199006203051),
-                    new Vector3d(-6.24733918516055, 9.75577410876269, 12.78456093509022),
-                    new Vector3d(-12.54952626487460, 36.53375487305134, -10.15729428470058),
-                    new Vector3d(-20.01361449065756, 24.65433207288687, -38.91141105245004),
-                    new Vector3d(-25.18175144872961, 19.88025348958780, -49.66268379607668),
-                    new Vector3d(-24.88945538378392, 19.83676883189866, -60.83236013842180),
-                    new Vector3d(3.65262479606632, 0.64513295050818, 6.11142641574743),
-                    new Vector3d(20.41963312575896, -39.55495844160738, -23.02757969365755),
-                    new Vector3d(27.89355323181022, -65.02717127655119, -45.74198142063123),
-                    new Vector3d(28.30701308995167, -72.22216457339191, -41.46001409692646),
-                    new Vector3d(21.88124886554789, -76.95707334323369, -60.65127761032422),
-                    new Vector3d(-8.96333822626611, 46.45841757350364, 15.82896886998178),
-                    new Vector3d(12.03125850267782, 46.09018005465770, 43.11920455670225),
-                    new Vector3d(19.69965856778199, 49.28477255397238, 55.41331288393206),
-                    new Vector3d(24.93133913333160, 43.75152381322404, 64.29173177624035),
-                    new Vector3d(0.17952877170365, 2.52158456997430, 25.12793389242022),
-                    new Vector3d(-19.57841000146829, -40.88455481718989, 17.88797744488583),
-                    new Vector3d(1.15371558532585, -70.51253191401520, 15.55296907129071),
-                    new Vector3d(10.44341906154570, -76.22467216798570, 10.12415108133903),
-                    new Vector3d(-11.31671828897171, -77.57973382955539, 12.39949386869682),
-                    new Vector3d(17.09740412185272, 46.48147794048553, 53.29648628106320),
-                    new Vector3d(-24.53042529934125, 15.29344597091319, -62.22545138705119),
-                }
+                "\"skeletons\": [{\"x\": -10.0230, \"y\": 56.7660, \"z\": -4.6317}, {\"x\": -15.9640, \"y\": 58.1830, \"z\": 4.5720}, {\"x\": -6.2473, \"y\": 9.7558, \"z\": 12.7846}, {\"x\": -12.5495, \"y\": 36.5338, \"z\": -10.1573}, {\"x\": -20.0136, \"y\": 24.6543, \"z\": -38.9114}, {\"x\": -25.1818, \"y\": 19.8803, \"z\": -49.6627}, {\"x\": -24.8895, \"y\": 19.8368, \"z\": -60.8324}, {\"x\": 3.6526, \"y\": 0.6451, \"z\": 6.1114}, {\"x\": 20.4196, \"y\": -39.5550, \"z\": -23.0276}, {\"x\": 27.8936, \"y\": -65.0272, \"z\": -45.7420}, {\"x\": 28.3070, \"y\": -72.2222, \"z\": -41.4600}, {\"x\": 21.8812, \"y\": -76.9571, \"z\": -60.6513}, {\"x\": -8.9633, \"y\": 46.4584, \"z\": 15.8290}, {\"x\": 12.0313, \"y\": 46.0902, \"z\": 43.1192}, {\"x\": 19.6997, \"y\": 49.2848, \"z\": 55.4133}, {\"x\": 24.9313, \"y\": 43.7515, \"z\": 64.2917}, {\"x\": 0.1795, \"y\": 2.5216, \"z\": 25.1279}, {\"x\": -19.5784, \"y\": -40.8846, \"z\": 17.8880}, {\"x\": 1.1537, \"y\": -70.5125, \"z\": 15.5530}, {\"x\": 10.4434, \"y\": -76.2247, \"z\": 10.1242}, {\"x\": -11.3167, \"y\": -77.5797, \"z\": 12.3995}, {\"x\": 17.0974, \"y\": 46.4815, \"z\": 53.2965}, {\"x\": -24.5304, \"y\": 15.2934, \"z\": -62.2255}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame92() {
         return new MovesDoubleFrame(
                 new Vector3d(35.68100448336503, 82.07127526695596, -30.94515734684264),
-                new Vector3d[] {
-                    new Vector3d(-10.43725458088360, 56.10251427893024, -5.03365274219219),
-                    new Vector3d(-16.34000785727832, 57.58490057303465, 4.19126628105868),
-                    new Vector3d(-5.89266249267664, 9.52817589084578, 12.99314779300505),
-                    new Vector3d(-12.98607574764633, 35.84899177026602, -10.23881027790771),
-                    new Vector3d(-21.05045860190722, 24.42731651890519, -38.95463193654648),
-                    new Vector3d(-26.51672974087525, 19.96787899993686, -49.74084377351195),
-                    new Vector3d(-26.37033323871745, 20.07712976509439, -60.86174071955136),
-                    new Vector3d(4.19436083652038, 0.49618341882099, 6.46839585349441),
-                    new Vector3d(20.98353791511163, -39.59495582149171, -22.49070128166221),
-                    new Vector3d(28.30015208236570, -64.93593395346716, -45.35393235739843),
-                    new Vector3d(28.58825074699603, -72.19301161274903, -41.10930196733636),
-                    new Vector3d(22.16070076241544, -76.79689763720501, -60.28350066292788),
-                    new Vector3d(-9.52024507523165, 46.21341038516262, 15.48023044982716),
-                    new Vector3d(11.99878081820678, 46.32366937002712, 42.29265089187773),
-                    new Vector3d(19.93624286627127, 49.76529409223303, 54.34538346947651),
-                    new Vector3d(25.47944473538497, 44.43576861839218, 63.18412833999938),
-                    new Vector3d(0.90242919084735, 2.70135854994714, 25.49230995880697),
-                    new Vector3d(-18.99943953660482, -40.36766744674626, 18.48230215741644),
-                    new Vector3d(1.42291075364106, -70.28424125087021, 15.95340500150175),
-                    new Vector3d(10.65162341205712, -75.96091048112817, 10.54286411528964),
-                    new Vector3d(-11.12801101106734, -77.29812422873113, 12.79419403157205),
-                    new Vector3d(17.28981142664927, 46.90956327348693, 52.35479303503163),
-                    new Vector3d(-26.04691155489209, 15.55749353921474, -62.36193692692771),
-                }
+                "\"skeletons\": [{\"x\": -10.4373, \"y\": 56.1025, \"z\": -5.0337}, {\"x\": -16.3400, \"y\": 57.5849, \"z\": 4.1913}, {\"x\": -5.8927, \"y\": 9.5282, \"z\": 12.9931}, {\"x\": -12.9861, \"y\": 35.8490, \"z\": -10.2388}, {\"x\": -21.0505, \"y\": 24.4273, \"z\": -38.9546}, {\"x\": -26.5167, \"y\": 19.9679, \"z\": -49.7408}, {\"x\": -26.3703, \"y\": 20.0771, \"z\": -60.8617}, {\"x\": 4.1944, \"y\": 0.4962, \"z\": 6.4684}, {\"x\": 20.9835, \"y\": -39.5950, \"z\": -22.4907}, {\"x\": 28.3002, \"y\": -64.9359, \"z\": -45.3539}, {\"x\": 28.5883, \"y\": -72.1930, \"z\": -41.1093}, {\"x\": 22.1607, \"y\": -76.7969, \"z\": -60.2835}, {\"x\": -9.5202, \"y\": 46.2134, \"z\": 15.4802}, {\"x\": 11.9988, \"y\": 46.3237, \"z\": 42.2927}, {\"x\": 19.9362, \"y\": 49.7653, \"z\": 54.3454}, {\"x\": 25.4794, \"y\": 44.4358, \"z\": 63.1841}, {\"x\": 0.9024, \"y\": 2.7014, \"z\": 25.4923}, {\"x\": -18.9994, \"y\": -40.3677, \"z\": 18.4823}, {\"x\": 1.4229, \"y\": -70.2842, \"z\": 15.9534}, {\"x\": 10.6516, \"y\": -75.9609, \"z\": 10.5429}, {\"x\": -11.1280, \"y\": -77.2981, \"z\": 12.7942}, {\"x\": 17.2898, \"y\": 46.9096, \"z\": 52.3548}, {\"x\": -26.0469, \"y\": 15.5575, \"z\": -62.3619}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame93() {
         return new MovesDoubleFrame(
                 new Vector3d(35.51297667206219, 81.76630126754449, -31.28780349529972),
-                new Vector3d[] {
-                    new Vector3d(-10.83541852460309, 55.44715647960661, -5.41200136429188),
-                    new Vector3d(-16.73516579660695, 57.02475602656971, 3.83150180471768),
-                    new Vector3d(-5.55883375021289, 9.30016174973992, 13.21410176011153),
-                    new Vector3d(-13.39391777910225, 35.14256746189631, -10.36514051022189),
-                    new Vector3d(-22.00619511550967, 24.19272725468882, -39.01964770410994),
-                    new Vector3d(-27.67031707889592, 19.96265569211540, -49.75902308959514),
-                    new Vector3d(-27.76561466715825, 20.23649485392372, -60.87389219442508),
-                    new Vector3d(4.74442325552166, 0.46230691979397, 6.77149241769420),
-                    new Vector3d(21.58784982655740, -39.52225237884326, -21.96332221325879),
-                    new Vector3d(28.77417776799302, -64.77924223507564, -45.03730664332811),
-                    new Vector3d(28.88450225474702, -72.04978260157110, -40.76010694547507),
-                    new Vector3d(22.44022239616502, -76.48500986517230, -60.01354882348553),
-                    new Vector3d(-10.04354602681504, 45.89877781199028, 15.10663919691950),
-                    new Vector3d(11.98715161649367, 46.52490948639113, 41.57146636302507),
-                    new Vector3d(20.09998074742647, 50.16940576737679, 53.39036887060629),
-                    new Vector3d(25.80421238823503, 44.99914411470997, 62.18209143071444),
-                    new Vector3d(1.56280228338306, 2.89983938774362, 25.79089146835659),
-                    new Vector3d(-18.44770655937202, -40.06131799943771, 19.06093824027372),
-                    new Vector3d(1.73254121353314, -70.06524514709506, 16.34609789768752),
-                    new Vector3d(10.85447346267406, -75.67210902940367, 10.92012147286081),
-                    new Vector3d(-10.95287559463106, -76.97018123915628, 13.12037348380859),
-                    new Vector3d(17.44806697404037, 47.26370682764465, 51.47359498130845),
-                    new Vector3d(-27.51531992299652, 15.74500129611564, -62.44619905257387),
-                }
+                "\"skeletons\": [{\"x\": -10.8354, \"y\": 55.4472, \"z\": -5.4120}, {\"x\": -16.7352, \"y\": 57.0248, \"z\": 3.8315}, {\"x\": -5.5588, \"y\": 9.3002, \"z\": 13.2141}, {\"x\": -13.3939, \"y\": 35.1426, \"z\": -10.3651}, {\"x\": -22.0062, \"y\": 24.1927, \"z\": -39.0196}, {\"x\": -27.6703, \"y\": 19.9627, \"z\": -49.7590}, {\"x\": -27.7656, \"y\": 20.2365, \"z\": -60.8739}, {\"x\": 4.7444, \"y\": 0.4623, \"z\": 6.7715}, {\"x\": 21.5878, \"y\": -39.5223, \"z\": -21.9633}, {\"x\": 28.7742, \"y\": -64.7792, \"z\": -45.0373}, {\"x\": 28.8845, \"y\": -72.0498, \"z\": -40.7601}, {\"x\": 22.4402, \"y\": -76.4850, \"z\": -60.0135}, {\"x\": -10.0435, \"y\": 45.8988, \"z\": 15.1066}, {\"x\": 11.9872, \"y\": 46.5249, \"z\": 41.5715}, {\"x\": 20.1000, \"y\": 50.1694, \"z\": 53.3904}, {\"x\": 25.8042, \"y\": 44.9991, \"z\": 62.1821}, {\"x\": 1.5628, \"y\": 2.8998, \"z\": 25.7909}, {\"x\": -18.4477, \"y\": -40.0613, \"z\": 19.0609}, {\"x\": 1.7325, \"y\": -70.0652, \"z\": 16.3461}, {\"x\": 10.8545, \"y\": -75.6721, \"z\": 10.9201}, {\"x\": -10.9529, \"y\": -76.9702, \"z\": 13.1204}, {\"x\": 17.4481, \"y\": 47.2637, \"z\": 51.4736}, {\"x\": -27.5153, \"y\": 15.7450, \"z\": -62.4462}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame94() {
         return new MovesDoubleFrame(
                 new Vector3d(35.32855808064629, 81.44840227030652, -31.59291073346576),
-                new Vector3d[] {
-                    new Vector3d(-11.21075474892220, 54.76736659827609, -5.81693497531914),
-                    new Vector3d(-17.08323162306097, 56.41550170655458, 3.47274489375663),
-                    new Vector3d(-5.21367035932883, 9.08510384299921, 13.37781860747512),
-                    new Vector3d(-13.74463575423088, 34.48443314464688, -10.52101229584825),
-                    new Vector3d(-22.84273342111231, 23.93261267550528, -39.06747090299845),
-                    new Vector3d(-28.82201988361409, 19.92304023671788, -49.73795390371313),
-                    new Vector3d(-29.10561349068244, 20.23440987021323, -60.83989362851340),
-                    new Vector3d(5.32209421537697, 0.49453430238743, 7.12008743605598),
-                    new Vector3d(22.24174247237200, -39.35343432829573, -21.56351577898236),
-                    new Vector3d(29.22581835421527, -64.56036800617942, -44.66213788356020),
-                    new Vector3d(29.36056331292553, -71.80180494393700, -40.43765480085344),
-                    new Vector3d(22.76652611115646, -76.17895978802507, -59.71315681883785),
-                    new Vector3d(-10.53801759674610, 45.61111266693894, 14.76230554541629),
-                    new Vector3d(11.88451012759404, 46.64687727988733, 40.84721248248248),
-                    new Vector3d(20.11835676812114, 50.47117692059064, 52.50665860029471),
-                    new Vector3d(26.03428879484322, 45.40411687545828, 61.22650995980310),
-                    new Vector3d(2.16857074682399, 3.12214178086143, 26.13636992542148),
-                    new Vector3d(-18.00348019198543, -39.57311268220052, 19.66855874440803),
-                    new Vector3d(2.01586778810273, -69.78460115259831, 16.72240362845347),
-                    new Vector3d(11.06000519307758, -75.37236709053734, 11.25471541836526),
-                    new Vector3d(-10.76942780638275, -76.63001426691180, 13.45590521383783),
-                    new Vector3d(17.48315865014554, 47.51192585714100, 50.64786403086332),
-                    new Vector3d(-28.95790966069962, 15.74125279080818, -62.45813729676607),
-                }
+                "\"skeletons\": [{\"x\": -11.2108, \"y\": 54.7674, \"z\": -5.8169}, {\"x\": -17.0832, \"y\": 56.4155, \"z\": 3.4727}, {\"x\": -5.2137, \"y\": 9.0851, \"z\": 13.3778}, {\"x\": -13.7446, \"y\": 34.4844, \"z\": -10.5210}, {\"x\": -22.8427, \"y\": 23.9326, \"z\": -39.0675}, {\"x\": -28.8220, \"y\": 19.9230, \"z\": -49.7380}, {\"x\": -29.1056, \"y\": 20.2344, \"z\": -60.8399}, {\"x\": 5.3221, \"y\": 0.4945, \"z\": 7.1201}, {\"x\": 22.2417, \"y\": -39.3534, \"z\": -21.5635}, {\"x\": 29.2258, \"y\": -64.5604, \"z\": -44.6621}, {\"x\": 29.3606, \"y\": -71.8018, \"z\": -40.4377}, {\"x\": 22.7665, \"y\": -76.1790, \"z\": -59.7132}, {\"x\": -10.5380, \"y\": 45.6111, \"z\": 14.7623}, {\"x\": 11.8845, \"y\": 46.6469, \"z\": 40.8472}, {\"x\": 20.1184, \"y\": 50.4712, \"z\": 52.5067}, {\"x\": 26.0343, \"y\": 45.4041, \"z\": 61.2265}, {\"x\": 2.1686, \"y\": 3.1221, \"z\": 26.1364}, {\"x\": -18.0035, \"y\": -39.5731, \"z\": 19.6686}, {\"x\": 2.0159, \"y\": -69.7846, \"z\": 16.7224}, {\"x\": 11.0600, \"y\": -75.3724, \"z\": 11.2547}, {\"x\": -10.7694, \"y\": -76.6300, \"z\": 13.4559}, {\"x\": 17.4832, \"y\": 47.5119, \"z\": 50.6479}, {\"x\": -28.9579, \"y\": 15.7413, \"z\": -62.4581}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame95() {
         return new MovesDoubleFrame(
                 new Vector3d(35.13777809287059, 81.11802717246522, -31.87198684949353),
-                new Vector3d[] {
-                    new Vector3d(-11.58912137493439, 54.05074578837928, -6.17784944549810),
-                    new Vector3d(-17.40123523674499, 55.82747453651916, 3.07029021747159),
-                    new Vector3d(-4.89707214862766, 8.90348074466648, 13.56515145695028),
-                    new Vector3d(-14.05174983940612, 33.80211268523567, -10.64672405894211),
-                    new Vector3d(-23.66035263568821, 23.59449317258687, -39.07491198328176),
-                    new Vector3d(-29.92855104862882, 19.86623302331232, -49.68238443026837),
-                    new Vector3d(-30.31808096711782, 20.12689630107459, -60.79659515850498),
-                    new Vector3d(5.87724294972614, 0.58490236971298, 7.52259335002832),
-                    new Vector3d(22.84665300134444, -39.07376375054371, -21.16852915915602),
-                    new Vector3d(29.78903988285485, -64.25304536675466, -44.44282463906674),
-                    new Vector3d(29.92052908253864, -71.38774715915375, -40.12776348765305),
-                    new Vector3d(23.09960826548135, -75.82147102666096, -59.42068864111287),
-                    new Vector3d(-11.03680327423220, 45.27339651615086, 14.39970211467675),
-                    new Vector3d(11.72065900022837, 46.67848568560770, 40.15018084101837),
-                    new Vector3d(20.09416392954384, 50.64900861157496, 51.65641002367043),
-                    new Vector3d(26.19393577431691, 45.72826130874758, 60.34732632121973),
-                    new Vector3d(2.64315474229961, 3.34997442026172, 26.45809085194657),
-                    new Vector3d(-17.43312888516505, -39.10335635540793, 20.17997856760412),
-                    new Vector3d(2.26871343196200, -69.42125865701460, 17.10747697633040),
-                    new Vector3d(11.25693437341475, -75.06089149058627, 11.55102192726976),
-                    new Vector3d(-10.58201397631088, -76.28436911756846, 13.77811412523293),
-                    new Vector3d(17.47587285579013, 47.67909080558539, 49.85550161709492),
-                    new Vector3d(-30.31216993930032, 15.62880452163821, -62.43867163264932),
-                }
+                "\"skeletons\": [{\"x\": -11.5891, \"y\": 54.0507, \"z\": -6.1778}, {\"x\": -17.4012, \"y\": 55.8275, \"z\": 3.0703}, {\"x\": -4.8971, \"y\": 8.9035, \"z\": 13.5652}, {\"x\": -14.0517, \"y\": 33.8021, \"z\": -10.6467}, {\"x\": -23.6604, \"y\": 23.5945, \"z\": -39.0749}, {\"x\": -29.9286, \"y\": 19.8662, \"z\": -49.6824}, {\"x\": -30.3181, \"y\": 20.1269, \"z\": -60.7966}, {\"x\": 5.8772, \"y\": 0.5849, \"z\": 7.5226}, {\"x\": 22.8467, \"y\": -39.0738, \"z\": -21.1685}, {\"x\": 29.7890, \"y\": -64.2530, \"z\": -44.4428}, {\"x\": 29.9205, \"y\": -71.3877, \"z\": -40.1278}, {\"x\": 23.0996, \"y\": -75.8215, \"z\": -59.4207}, {\"x\": -11.0368, \"y\": 45.2734, \"z\": 14.3997}, {\"x\": 11.7207, \"y\": 46.6785, \"z\": 40.1502}, {\"x\": 20.0942, \"y\": 50.6490, \"z\": 51.6564}, {\"x\": 26.1939, \"y\": 45.7283, \"z\": 60.3473}, {\"x\": 2.6432, \"y\": 3.3500, \"z\": 26.4581}, {\"x\": -17.4331, \"y\": -39.1034, \"z\": 20.1800}, {\"x\": 2.2687, \"y\": -69.4213, \"z\": 17.1075}, {\"x\": 11.2569, \"y\": -75.0609, \"z\": 11.5510}, {\"x\": -10.5820, \"y\": -76.2844, \"z\": 13.7781}, {\"x\": 17.4759, \"y\": 47.6791, \"z\": 49.8555}, {\"x\": -30.3122, \"y\": 15.6288, \"z\": -62.4387}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame96() {
         return new MovesDoubleFrame(
                 new Vector3d(34.94639387265403, 80.77430940736834, -32.13190410833675),
-                new Vector3d[] {
-                    new Vector3d(-11.90451761753258, 53.36151662316210, -6.57352904164636),
-                    new Vector3d(-17.66310308418995, 55.21482165392750, 2.67615440158085),
-                    new Vector3d(-4.53877989179429, 8.74441886319822, 13.74718393846628),
-                    new Vector3d(-14.31515093988265, 33.10646415128416, -10.73214584044879),
-                    new Vector3d(-24.39042267252847, 23.26023649106916, -39.04245139712612),
-                    new Vector3d(-31.17741520163030, 19.97975365250302, -49.62600164236814),
-                    new Vector3d(-31.46233898813782, 20.00233363150325, -60.70071062398967),
-                    new Vector3d(6.42136124282632, 0.67397362320615, 7.89252250460819),
-                    new Vector3d(23.43165448921745, -38.79624833366357, -20.87622531556480),
-                    new Vector3d(30.18123632956050, -63.94435206773019, -44.19122656380259),
-                    new Vector3d(30.30907942056438, -71.09895233449511, -39.95583613154518),
-                    new Vector3d(23.37436294492704, -75.47174297369840, -59.14521335267418),
-                    new Vector3d(-11.53744956057989, 44.90405340028557, 14.07867757428923),
-                    new Vector3d(11.60458356177678, 46.69513483311569, 39.48835030424033),
-                    new Vector3d(20.11805808212306, 50.76436939718700, 50.83456928530200),
-                    new Vector3d(26.35034014990237, 45.96695274459360, 59.48077957000117),
-                    new Vector3d(3.12899000635502, 3.56763234581834, 26.81660378639925),
-                    new Vector3d(-17.00455247181918, -38.56155418404391, 20.70168084701266),
-                    new Vector3d(2.51847491093825, -69.07366342137063, 17.46990457367245),
-                    new Vector3d(11.45572739731777, -74.73709802220070, 11.83105144032027),
-                    new Vector3d(-10.38703967279280, -75.91063528657288, 14.04071001286859),
-                    new Vector3d(17.48992484467152, 47.76379360161897, 49.10131480243039),
-                    new Vector3d(-31.64471280153751, 15.50251742533843, -62.34560696059535),
-                }
+                "\"skeletons\": [{\"x\": -11.9045, \"y\": 53.3615, \"z\": -6.5735}, {\"x\": -17.6631, \"y\": 55.2148, \"z\": 2.6762}, {\"x\": -4.5388, \"y\": 8.7444, \"z\": 13.7472}, {\"x\": -14.3152, \"y\": 33.1065, \"z\": -10.7321}, {\"x\": -24.3904, \"y\": 23.2602, \"z\": -39.0425}, {\"x\": -31.1774, \"y\": 19.9798, \"z\": -49.6260}, {\"x\": -31.4623, \"y\": 20.0023, \"z\": -60.7007}, {\"x\": 6.4214, \"y\": 0.6740, \"z\": 7.8925}, {\"x\": 23.4317, \"y\": -38.7962, \"z\": -20.8762}, {\"x\": 30.1812, \"y\": -63.9444, \"z\": -44.1912}, {\"x\": 30.3091, \"y\": -71.0990, \"z\": -39.9558}, {\"x\": 23.3744, \"y\": -75.4717, \"z\": -59.1452}, {\"x\": -11.5374, \"y\": 44.9041, \"z\": 14.0787}, {\"x\": 11.6046, \"y\": 46.6951, \"z\": 39.4884}, {\"x\": 20.1181, \"y\": 50.7644, \"z\": 50.8346}, {\"x\": 26.3503, \"y\": 45.9670, \"z\": 59.4808}, {\"x\": 3.1290, \"y\": 3.5676, \"z\": 26.8166}, {\"x\": -17.0046, \"y\": -38.5616, \"z\": 20.7017}, {\"x\": 2.5185, \"y\": -69.0737, \"z\": 17.4699}, {\"x\": 11.4557, \"y\": -74.7371, \"z\": 11.8311}, {\"x\": -10.3870, \"y\": -75.9106, \"z\": 14.0407}, {\"x\": 17.4899, \"y\": 47.7638, \"z\": 49.1013}, {\"x\": -31.6447, \"y\": 15.5025, \"z\": -62.3456}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame97() {
         return new MovesDoubleFrame(
                 new Vector3d(34.75081699880734, 80.40858251654554, -32.36818047240234),
-                new Vector3d[] {
-                    new Vector3d(-12.18806119037145, 52.72940942069503, -6.93021951545181),
-                    new Vector3d(-17.96881766032747, 54.65467395226321, 2.29330294426193),
-                    new Vector3d(-4.25896450953668, 8.63722644096788, 13.91812939561369),
-                    new Vector3d(-14.52843112384160, 32.47590540614205, -10.86689530756270),
-                    new Vector3d(-25.06952088590545, 22.87829507783103, -39.00978097173535),
-                    new Vector3d(-32.07210854372875, 19.76503278085323, -49.57649089840749),
-                    new Vector3d(-32.58366279219916, 19.82558972130006, -60.55239020324918),
-                    new Vector3d(6.94323277329748, 0.77178072982723, 8.15025287906598),
-                    new Vector3d(23.93078669915828, -38.50156498798292, -20.53719823926941),
-                    new Vector3d(30.56435722826424, -63.55398185779417, -43.98486899085540),
-                    new Vector3d(30.62773125476116, -70.77288294848782, -39.72819674689100),
-                    new Vector3d(23.63359208297916, -75.09761837389674, -58.87156205713928),
-                    new Vector3d(-12.04175184018324, 44.68213142039643, 13.80456703206322),
-                    new Vector3d(11.41204905915985, 46.61816195694288, 38.91306868628422),
-                    new Vector3d(20.08183060684008, 50.79267800475283, 50.09278768478450),
-                    new Vector3d(26.44012939182745, 46.05253658981411, 58.66519743650450),
-                    new Vector3d(3.58921825473178, 3.83994385920830, 27.05794637724242),
-                    new Vector3d(-16.49352564190556, -37.95077342013508, 21.16384982729287),
-                    new Vector3d(2.75669215340669, -68.71728377025966, 17.76849137692194),
-                    new Vector3d(11.63542720667708, -74.41586418086564, 12.10585937501165),
-                    new Vector3d(-10.17562318159218, -75.51389331608925, 14.29819369209709),
-                    new Vector3d(17.46335850036540, 47.77912656328294, 48.40719306583662),
-                    new Vector3d(-32.92041371747359, 15.33710751419537, -62.19271043283927),
-                }
+                "\"skeletons\": [{\"x\": -12.1881, \"y\": 52.7294, \"z\": -6.9302}, {\"x\": -17.9688, \"y\": 54.6547, \"z\": 2.2933}, {\"x\": -4.2590, \"y\": 8.6372, \"z\": 13.9181}, {\"x\": -14.5284, \"y\": 32.4759, \"z\": -10.8669}, {\"x\": -25.0695, \"y\": 22.8783, \"z\": -39.0098}, {\"x\": -32.0721, \"y\": 19.7650, \"z\": -49.5765}, {\"x\": -32.5837, \"y\": 19.8256, \"z\": -60.5524}, {\"x\": 6.9432, \"y\": 0.7718, \"z\": 8.1503}, {\"x\": 23.9308, \"y\": -38.5016, \"z\": -20.5372}, {\"x\": 30.5644, \"y\": -63.5540, \"z\": -43.9849}, {\"x\": 30.6277, \"y\": -70.7729, \"z\": -39.7282}, {\"x\": 23.6336, \"y\": -75.0976, \"z\": -58.8716}, {\"x\": -12.0418, \"y\": 44.6821, \"z\": 13.8046}, {\"x\": 11.4120, \"y\": 46.6182, \"z\": 38.9131}, {\"x\": 20.0818, \"y\": 50.7927, \"z\": 50.0928}, {\"x\": 26.4401, \"y\": 46.0525, \"z\": 58.6652}, {\"x\": 3.5892, \"y\": 3.8399, \"z\": 27.0579}, {\"x\": -16.4935, \"y\": -37.9508, \"z\": 21.1638}, {\"x\": 2.7567, \"y\": -68.7173, \"z\": 17.7685}, {\"x\": 11.6354, \"y\": -74.4159, \"z\": 12.1059}, {\"x\": -10.1756, \"y\": -75.5139, \"z\": 14.2982}, {\"x\": 17.4634, \"y\": 47.7791, \"z\": 48.4072}, {\"x\": -32.9204, \"y\": 15.3371, \"z\": -62.1927}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame98() {
         return new MovesDoubleFrame(
                 new Vector3d(34.55915010708951, 80.01140605533129, -32.58440444556168),
-                new Vector3d[] {
-                    new Vector3d(-12.42508552975261, 52.17980670251547, -7.28564932426939),
-                    new Vector3d(-18.19838703914132, 54.14191757662459, 1.92811445147246),
-                    new Vector3d(-3.95180121996386, 8.57343409680687, 14.11931721079691),
-                    new Vector3d(-14.69940825367668, 31.85305842006620, -11.00607133954317),
-                    new Vector3d(-25.74538686674377, 22.47240474425068, -38.92291302719737),
-                    new Vector3d(-32.98096576512344, 19.49594996594750, -49.37025510676151),
-                    new Vector3d(-33.64339694539144, 19.58856401602632, -60.36709509185609),
-                    new Vector3d(7.43002734245476, 0.92213940193982, 8.41684592944411),
-                    new Vector3d(24.36998357917694, -38.19983432510239, -20.22628056163405),
-                    new Vector3d(30.91943736806812, -63.21945118493998, -43.78412090223163),
-                    new Vector3d(30.90629253699629, -70.57244091711344, -39.58687315946162),
-                    new Vector3d(23.86395491192776, -74.69704980356448, -58.61920123306359),
-                    new Vector3d(-12.50160104874418, 44.42571381343242, 13.48785477900638),
-                    new Vector3d(11.23521543781523, 46.53254611023889, 38.32601858317776),
-                    new Vector3d(20.00821535857661, 50.77245624935622, 49.40875393929112),
-                    new Vector3d(26.54539786868489, 46.09583956727014, 57.91120856982498),
-                    new Vector3d(4.07120829777274, 4.15551385369421, 27.29223928161804),
-                    new Vector3d(-15.99723342114858, -37.49596255461172, 21.49673460453149),
-                    new Vector3d(3.02574096121847, -68.30157291688214, 18.04882226118839),
-                    new Vector3d(11.78948147399945, -74.08840731244135, 12.38778314300720),
-                    new Vector3d(-9.99308964266551, -75.07384926988165, 14.51883274424418),
-                    new Vector3d(17.38109786697162, 47.75081339710840, 47.78058618791194),
-                    new Vector3d(-34.09980441584361, 15.11314924466187, -62.00568483709319),
-                }
+                "\"skeletons\": [{\"x\": -12.4251, \"y\": 52.1798, \"z\": -7.2856}, {\"x\": -18.1984, \"y\": 54.1419, \"z\": 1.9281}, {\"x\": -3.9518, \"y\": 8.5734, \"z\": 14.1193}, {\"x\": -14.6994, \"y\": 31.8531, \"z\": -11.0061}, {\"x\": -25.7454, \"y\": 22.4724, \"z\": -38.9229}, {\"x\": -32.9810, \"y\": 19.4959, \"z\": -49.3703}, {\"x\": -33.6434, \"y\": 19.5886, \"z\": -60.3671}, {\"x\": 7.4300, \"y\": 0.9221, \"z\": 8.4168}, {\"x\": 24.3700, \"y\": -38.1998, \"z\": -20.2263}, {\"x\": 30.9194, \"y\": -63.2195, \"z\": -43.7841}, {\"x\": 30.9063, \"y\": -70.5724, \"z\": -39.5869}, {\"x\": 23.8640, \"y\": -74.6970, \"z\": -58.6192}, {\"x\": -12.5016, \"y\": 44.4257, \"z\": 13.4879}, {\"x\": 11.2352, \"y\": 46.5325, \"z\": 38.3260}, {\"x\": 20.0082, \"y\": 50.7725, \"z\": 49.4088}, {\"x\": 26.5454, \"y\": 46.0958, \"z\": 57.9112}, {\"x\": 4.0712, \"y\": 4.1555, \"z\": 27.2922}, {\"x\": -15.9972, \"y\": -37.4960, \"z\": 21.4967}, {\"x\": 3.0257, \"y\": -68.3016, \"z\": 18.0488}, {\"x\": 11.7895, \"y\": -74.0884, \"z\": 12.3878}, {\"x\": -9.9931, \"y\": -75.0738, \"z\": 14.5188}, {\"x\": 17.3811, \"y\": 47.7508, \"z\": 47.7806}, {\"x\": -34.0998, \"y\": 15.1131, \"z\": -62.0057}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame99() {
         return new MovesDoubleFrame(
                 new Vector3d(34.37409200242479, 79.61132044642646, -32.77625747060155),
-                new Vector3d[] {
-                    new Vector3d(-12.58861999874616, 51.63586482326634, -7.65148001352013),
-                    new Vector3d(-18.36858238640475, 53.65721638943761, 1.53449540399705),
-                    new Vector3d(-3.64438234276233, 8.59139309401644, 14.24935377604717),
-                    new Vector3d(-14.86039488732258, 31.24923239441589, -11.14739693365861),
-                    new Vector3d(-26.36289580284992, 22.00285783680604, -38.81779288661473),
-                    new Vector3d(-33.83970154859856, 19.17699480887488, -49.18081283272024),
-                    new Vector3d(-34.73480586095751, 19.24884472939151, -60.13342802854672),
-                    new Vector3d(7.83119715277522, 1.07005249581685, 8.65362428661314),
-                    new Vector3d(24.72893607558273, -37.92951548541554, -19.93879618526664),
-                    new Vector3d(31.21225314817143, -62.96225228805446, -43.52647681261627),
-                    new Vector3d(31.18865475399262, -70.25183665011316, -39.37948942532479),
-                    new Vector3d(24.06953753345103, -74.31331886306896, -58.40733338825947),
-                    new Vector3d(-12.88883806175646, 44.14955987326926, 13.22180099784618),
-                    new Vector3d(11.07858163571108, 46.45988234081508, 37.78480016389025),
-                    new Vector3d(19.93645496435740, 50.73063080621688, 48.79060422004352),
-                    new Vector3d(26.57104780938501, 46.10796859037453, 57.20817539254264),
-                    new Vector3d(4.52032009134724, 4.50757498245336, 27.49544601020694),
-                    new Vector3d(-15.46823480725180, -36.97832332655158, 21.80214196982874),
-                    new Vector3d(3.25481716165974, -67.90184285688376, 18.28953776836133),
-                    new Vector3d(12.01517189064529, -73.66548915907111, 12.57045363529918),
-                    new Vector3d(-9.75956578438335, -74.65421381743485, 14.74573588847852),
-                    new Vector3d(17.30313825889747, 47.69156940760315, 47.17712778374403),
-                    new Vector3d(-35.25862137397320, 14.78554257599777, -61.77912449933795),
-                }
+                "\"skeletons\": [{\"x\": -12.5886, \"y\": 51.6359, \"z\": -7.6515}, {\"x\": -18.3686, \"y\": 53.6572, \"z\": 1.5345}, {\"x\": -3.6444, \"y\": 8.5914, \"z\": 14.2494}, {\"x\": -14.8604, \"y\": 31.2492, \"z\": -11.1474}, {\"x\": -26.3629, \"y\": 22.0029, \"z\": -38.8178}, {\"x\": -33.8397, \"y\": 19.1770, \"z\": -49.1808}, {\"x\": -34.7348, \"y\": 19.2488, \"z\": -60.1334}, {\"x\": 7.8312, \"y\": 1.0701, \"z\": 8.6536}, {\"x\": 24.7289, \"y\": -37.9295, \"z\": -19.9388}, {\"x\": 31.2123, \"y\": -62.9623, \"z\": -43.5265}, {\"x\": 31.1887, \"y\": -70.2518, \"z\": -39.3795}, {\"x\": 24.0695, \"y\": -74.3133, \"z\": -58.4073}, {\"x\": -12.8888, \"y\": 44.1496, \"z\": 13.2218}, {\"x\": 11.0786, \"y\": 46.4599, \"z\": 37.7848}, {\"x\": 19.9365, \"y\": 50.7306, \"z\": 48.7906}, {\"x\": 26.5710, \"y\": 46.1080, \"z\": 57.2082}, {\"x\": 4.5203, \"y\": 4.5076, \"z\": 27.4954}, {\"x\": -15.4682, \"y\": -36.9783, \"z\": 21.8021}, {\"x\": 3.2548, \"y\": -67.9018, \"z\": 18.2895}, {\"x\": 12.0152, \"y\": -73.6655, \"z\": 12.5705}, {\"x\": -9.7596, \"y\": -74.6542, \"z\": 14.7457}, {\"x\": 17.3031, \"y\": 47.6916, \"z\": 47.1771}, {\"x\": -35.2586, \"y\": 14.7855, \"z\": -61.7791}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame100() {
         return new MovesDoubleFrame(
                 new Vector3d(34.18660372790122, 79.21879017893616, -32.95236415423480),
-                new Vector3d[] {
-                    new Vector3d(-12.72868644323447, 51.11218679964310, -8.00431341692087),
-                    new Vector3d(-18.56662119730256, 53.23564279375437, 1.14814399384849),
-                    new Vector3d(-3.35948914464437, 8.56823796882583, 14.36009864702195),
-                    new Vector3d(-14.99924812040714, 30.69255162161014, -11.30416517721149),
-                    new Vector3d(-26.98268944313535, 21.59016490224825, -38.70561213108299),
-                    new Vector3d(-34.62423181849197, 18.82117487652476, -48.94736501181998),
-                    new Vector3d(-35.73932915533278, 18.82617418356923, -59.85818177234924),
-                    new Vector3d(8.15406104820531, 1.20738967346584, 8.85907477271521),
-                    new Vector3d(25.09202598236076, -37.67299853766256, -19.63403733532896),
-                    new Vector3d(31.56001047300632, -62.57916583426099, -43.34265130800478),
-                    new Vector3d(31.45163946308406, -69.96438474281472, -39.21754421348626),
-                    new Vector3d(24.27974967085446, -73.93483235767096, -58.20923208183878),
-                    new Vector3d(-13.19836553522103, 43.93852963426874, 12.92226739745026),
-                    new Vector3d(10.94891304254051, 46.42375230398012, 37.32703334062852),
-                    new Vector3d(19.83563847734333, 50.69645982963020, 48.27246776944348),
-                    new Vector3d(26.59678537840948, 46.10288996747479, 56.59313228091136),
-                    new Vector3d(4.89558923466878, 4.81395758402594, 27.68975960380385),
-                    new Vector3d(-15.12914222976501, -36.40474761861690, 22.09988941575286),
-                    new Vector3d(3.51107725739895, -67.51170405657153, 18.52401880814252),
-                    new Vector3d(12.24216813767581, -73.25423068889482, 12.71525822871543),
-                    new Vector3d(-9.56608638535051, -74.23968670621933, 14.94290749103138),
-                    new Vector3d(17.21561495356808, 47.63991829880116, 46.64896505437333),
-                    new Vector3d(-36.35712351176257, 14.37327606149402, -61.48318451051790),
-                }
+                "\"skeletons\": [{\"x\": -12.7287, \"y\": 51.1122, \"z\": -8.0043}, {\"x\": -18.5666, \"y\": 53.2356, \"z\": 1.1481}, {\"x\": -3.3595, \"y\": 8.5682, \"z\": 14.3601}, {\"x\": -14.9992, \"y\": 30.6926, \"z\": -11.3042}, {\"x\": -26.9827, \"y\": 21.5902, \"z\": -38.7056}, {\"x\": -34.6242, \"y\": 18.8212, \"z\": -48.9474}, {\"x\": -35.7393, \"y\": 18.8262, \"z\": -59.8582}, {\"x\": 8.1541, \"y\": 1.2074, \"z\": 8.8591}, {\"x\": 25.0920, \"y\": -37.6730, \"z\": -19.6340}, {\"x\": 31.5600, \"y\": -62.5792, \"z\": -43.3427}, {\"x\": 31.4516, \"y\": -69.9644, \"z\": -39.2175}, {\"x\": 24.2797, \"y\": -73.9348, \"z\": -58.2092}, {\"x\": -13.1984, \"y\": 43.9385, \"z\": 12.9223}, {\"x\": 10.9489, \"y\": 46.4238, \"z\": 37.3270}, {\"x\": 19.8356, \"y\": 50.6965, \"z\": 48.2725}, {\"x\": 26.5968, \"y\": 46.1029, \"z\": 56.5931}, {\"x\": 4.8956, \"y\": 4.8140, \"z\": 27.6898}, {\"x\": -15.1291, \"y\": -36.4047, \"z\": 22.0999}, {\"x\": 3.5111, \"y\": -67.5117, \"z\": 18.5240}, {\"x\": 12.2422, \"y\": -73.2542, \"z\": 12.7153}, {\"x\": -9.5661, \"y\": -74.2397, \"z\": 14.9429}, {\"x\": 17.2156, \"y\": 47.6399, \"z\": 46.6490}, {\"x\": -36.3571, \"y\": 14.3733, \"z\": -61.4832}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame101() {
         return new MovesDoubleFrame(
                 new Vector3d(34.00548438741392, 78.82733803243130, -33.11624021998274),
-                new Vector3d[] {
-                    new Vector3d(-12.82781646654363, 50.60086027094432, -8.38125678409361),
-                    new Vector3d(-18.65195286210559, 52.83568361164473, 0.78521291416938),
-                    new Vector3d(-3.18832795377306, 8.54599156230750, 14.46087986474895),
-                    new Vector3d(-15.11649971488665, 30.16274340284635, -11.44345340953784),
-                    new Vector3d(-27.57525458278455, 21.12583091594061, -38.54426077921937),
-                    new Vector3d(-35.40672053026318, 18.44051137012784, -48.69873534453891),
-                    new Vector3d(-36.64152562985087, 18.36387854202486, -59.60582556459590),
-                    new Vector3d(8.45214691542203, 1.34343231537424, 9.07065772546213),
-                    new Vector3d(25.46064881057128, -37.39562308680307, -19.39946756755251),
-                    new Vector3d(31.80368941072890, -62.25161308315626, -43.12689682795938),
-                    new Vector3d(31.69693658200181, -69.70579433745472, -39.02856146623965),
-                    new Vector3d(24.49872466732743, -73.54576472584330, -58.03281196063971),
-                    new Vector3d(-13.44027714552379, 43.72572981785849, 12.62685283397622),
-                    new Vector3d(10.85474782764522, 46.38722654674124, 36.82455041081933),
-                    new Vector3d(19.81097627412763, 50.70281149911239, 47.73977926741517),
-                    new Vector3d(26.64530184941840, 46.16436837592357, 56.04842762973026),
-                    new Vector3d(5.25132788557813, 5.08975355518029, 27.84341829930580),
-                    new Vector3d(-14.73485821030734, -35.96387195604650, 22.36375057836772),
-                    new Vector3d(3.75019405429582, -67.10064236603448, 18.74240267965977),
-                    new Vector3d(12.41291171575905, -72.86806585812194, 12.88992348974161),
-                    new Vector3d(-9.37183491797617, -73.82213049454361, 15.12137434741558),
-                    new Vector3d(17.19522998396374, 47.62750060224132, 46.15096954895092),
-                    new Vector3d(-37.43872915714846, 13.92757034140857, -61.17159440258443),
-                }
+                "\"skeletons\": [{\"x\": -12.8278, \"y\": 50.6009, \"z\": -8.3813}, {\"x\": -18.6520, \"y\": 52.8357, \"z\": 0.7852}, {\"x\": -3.1883, \"y\": 8.5460, \"z\": 14.4609}, {\"x\": -15.1165, \"y\": 30.1627, \"z\": -11.4435}, {\"x\": -27.5753, \"y\": 21.1258, \"z\": -38.5443}, {\"x\": -35.4067, \"y\": 18.4405, \"z\": -48.6987}, {\"x\": -36.6415, \"y\": 18.3639, \"z\": -59.6058}, {\"x\": 8.4521, \"y\": 1.3434, \"z\": 9.0707}, {\"x\": 25.4606, \"y\": -37.3956, \"z\": -19.3995}, {\"x\": 31.8037, \"y\": -62.2516, \"z\": -43.1269}, {\"x\": 31.6969, \"y\": -69.7058, \"z\": -39.0286}, {\"x\": 24.4987, \"y\": -73.5458, \"z\": -58.0328}, {\"x\": -13.4403, \"y\": 43.7257, \"z\": 12.6269}, {\"x\": 10.8547, \"y\": 46.3872, \"z\": 36.8246}, {\"x\": 19.8110, \"y\": 50.7028, \"z\": 47.7398}, {\"x\": 26.6453, \"y\": 46.1644, \"z\": 56.0484}, {\"x\": 5.2513, \"y\": 5.0898, \"z\": 27.8434}, {\"x\": -14.7349, \"y\": -35.9639, \"z\": 22.3638}, {\"x\": 3.7502, \"y\": -67.1006, \"z\": 18.7424}, {\"x\": 12.4129, \"y\": -72.8681, \"z\": 12.8899}, {\"x\": -9.3718, \"y\": -73.8221, \"z\": 15.1214}, {\"x\": 17.1952, \"y\": 47.6275, \"z\": 46.1510}, {\"x\": -37.4387, \"y\": 13.9276, \"z\": -61.1716}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame102() {
         return new MovesDoubleFrame(
                 new Vector3d(33.83328290922192, 78.43333779850423, -33.27449565511789),
-                new Vector3d[] {
-                    new Vector3d(-12.94221324172126, 50.07452596184883, -8.74756640845780),
-                    new Vector3d(-18.74170219561998, 52.39751207703913, 0.38550499762699),
-                    new Vector3d(-2.99749199685188, 8.51013274767323, 14.57624060663853),
-                    new Vector3d(-15.23766960456746, 29.63201075353996, -11.57804386629306),
-                    new Vector3d(-28.08445824613139, 20.61939593402046, -38.39936899919367),
-                    new Vector3d(-36.17737773060689, 18.02850274646172, -48.43040179664140),
-                    new Vector3d(-37.62672196837186, 17.87911676931180, -59.30013423320155),
-                    new Vector3d(8.74158873338558, 1.48370252875435, 9.28510257287921),
-                    new Vector3d(25.85138290264662, -37.13436146821316, -19.14974374587483),
-                    new Vector3d(32.03247090708153, -61.99545756783722, -42.90137834078496),
-                    new Vector3d(31.91652604614991, -69.41449714064619, -38.81447969769285),
-                    new Vector3d(24.71255128074519, -73.16090648083781, -57.86195816559112),
-                    new Vector3d(-13.72095020520847, 43.51474340303478, 12.32999018444046),
-                    new Vector3d(10.82101887612524, 46.32218611259188, 36.34933584798440),
-                    new Vector3d(19.86227762067338, 50.73508440140471, 47.13789215199822),
-                    new Vector3d(26.72005575971605, 46.26643118572392, 55.42144209607991),
-                    new Vector3d(5.56726053312418, 5.40002700082319, 28.01118741111539),
-                    new Vector3d(-14.36526692581247, -35.47001742634580, 22.55190483434647),
-                    new Vector3d(3.94951446966230, -66.70415636255350, 18.92987063813818),
-                    new Vector3d(12.57875946477949, -72.47543068540746, 13.05347760247897),
-                    new Vector3d(-9.18988391873423, -73.39923811352365, 15.28386066233197),
-                    new Vector3d(17.24021193170119, 47.65156063532449, 45.60726606724746),
-                    new Vector3d(-38.57867077960893, 13.45592217087724, -60.82139190619262),
-                }
+                "\"skeletons\": [{\"x\": -12.9422, \"y\": 50.0745, \"z\": -8.7476}, {\"x\": -18.7417, \"y\": 52.3975, \"z\": 0.3855}, {\"x\": -2.9975, \"y\": 8.5101, \"z\": 14.5762}, {\"x\": -15.2377, \"y\": 29.6320, \"z\": -11.5780}, {\"x\": -28.0845, \"y\": 20.6194, \"z\": -38.3994}, {\"x\": -36.1774, \"y\": 18.0285, \"z\": -48.4304}, {\"x\": -37.6267, \"y\": 17.8791, \"z\": -59.3001}, {\"x\": 8.7416, \"y\": 1.4837, \"z\": 9.2851}, {\"x\": 25.8514, \"y\": -37.1344, \"z\": -19.1497}, {\"x\": 32.0325, \"y\": -61.9955, \"z\": -42.9014}, {\"x\": 31.9165, \"y\": -69.4145, \"z\": -38.8145}, {\"x\": 24.7126, \"y\": -73.1609, \"z\": -57.8620}, {\"x\": -13.7210, \"y\": 43.5147, \"z\": 12.3300}, {\"x\": 10.8210, \"y\": 46.3222, \"z\": 36.3493}, {\"x\": 19.8623, \"y\": 50.7351, \"z\": 47.1379}, {\"x\": 26.7201, \"y\": 46.2664, \"z\": 55.4214}, {\"x\": 5.5673, \"y\": 5.4000, \"z\": 28.0112}, {\"x\": -14.3653, \"y\": -35.4700, \"z\": 22.5519}, {\"x\": 3.9495, \"y\": -66.7042, \"z\": 18.9299}, {\"x\": 12.5788, \"y\": -72.4754, \"z\": 13.0535}, {\"x\": -9.1899, \"y\": -73.3992, \"z\": 15.2839}, {\"x\": 17.2402, \"y\": 47.6516, \"z\": 45.6073}, {\"x\": -38.5787, \"y\": 13.4559, \"z\": -60.8214}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame103() {
         return new MovesDoubleFrame(
                 new Vector3d(33.65931626619589, 78.04252224571293, -33.40826542423672),
-                new Vector3d[] {
-                    new Vector3d(-13.04906572720498, 49.56650916765938, -9.08025826459351),
-                    new Vector3d(-18.79067693161523, 52.03542492629423, 0.03566076347594),
-                    new Vector3d(-2.79174342249606, 8.50437807852295, 14.70053155480362),
-                    new Vector3d(-15.36505751369329, 29.08359394809190, -11.70913941598884),
-                    new Vector3d(-28.64108776973041, 20.13839528860138, -38.20560206920392),
-                    new Vector3d(-36.96477079521481, 17.59877303961955, -48.09570074423623),
-                    new Vector3d(-38.69162466207877, 17.33911345364290, -58.91260121073450),
-                    new Vector3d(9.01187405396486, 1.64639323451597, 9.45292426104126),
-                    new Vector3d(26.21846129232444, -36.85205259471776, -18.87920303328403),
-                    new Vector3d(32.32994761922567, -61.71374708362558, -42.73124238765140),
-                    new Vector3d(32.23373427703230, -69.06599782767320, -38.61858470584923),
-                    new Vector3d(24.94082226372266, -72.77393297258045, -57.71382821623654),
-                    new Vector3d(-13.96487002944923, 43.31046416318040, 12.08727546842067),
-                    new Vector3d(10.76967850772623, 46.27528542654389, 35.86940911388229),
-                    new Vector3d(19.91922850347365, 50.75918501009750, 46.51101336674773),
-                    new Vector3d(26.87353245717504, 46.35024253366716, 54.76865694640764),
-                    new Vector3d(5.82939943479977, 5.67040415904408, 28.15500074847490),
-                    new Vector3d(-14.07311720607611, -34.95356652664231, 22.77205618394238),
-                    new Vector3d(4.14065056219100, -66.31852804848891, 19.06700670263413),
-                    new Vector3d(12.76313558486732, -72.08327438221110, 13.19388238258719),
-                    new Vector3d(-9.00179363347272, -72.97065555486931, 15.42734846738537),
-                    new Vector3d(17.28667564381596, 47.66459531013960, 45.03607106237076),
-                    new Vector3d(-39.80491850153581, 12.93779257025767, -60.40314905250690),
-                }
+                "\"skeletons\": [{\"x\": -13.0491, \"y\": 49.5665, \"z\": -9.0803}, {\"x\": -18.7907, \"y\": 52.0354, \"z\": 0.0357}, {\"x\": -2.7917, \"y\": 8.5044, \"z\": 14.7005}, {\"x\": -15.3651, \"y\": 29.0836, \"z\": -11.7091}, {\"x\": -28.6411, \"y\": 20.1384, \"z\": -38.2056}, {\"x\": -36.9648, \"y\": 17.5988, \"z\": -48.0957}, {\"x\": -38.6916, \"y\": 17.3391, \"z\": -58.9126}, {\"x\": 9.0119, \"y\": 1.6464, \"z\": 9.4529}, {\"x\": 26.2185, \"y\": -36.8521, \"z\": -18.8792}, {\"x\": 32.3299, \"y\": -61.7137, \"z\": -42.7312}, {\"x\": 32.2337, \"y\": -69.0660, \"z\": -38.6186}, {\"x\": 24.9408, \"y\": -72.7739, \"z\": -57.7138}, {\"x\": -13.9649, \"y\": 43.3105, \"z\": 12.0873}, {\"x\": 10.7697, \"y\": 46.2753, \"z\": 35.8694}, {\"x\": 19.9192, \"y\": 50.7592, \"z\": 46.5110}, {\"x\": 26.8735, \"y\": 46.3502, \"z\": 54.7687}, {\"x\": 5.8294, \"y\": 5.6704, \"z\": 28.1550}, {\"x\": -14.0731, \"y\": -34.9536, \"z\": 22.7721}, {\"x\": 4.1407, \"y\": -66.3185, \"z\": 19.0670}, {\"x\": 12.7631, \"y\": -72.0833, \"z\": 13.1939}, {\"x\": -9.0018, \"y\": -72.9707, \"z\": 15.4273}, {\"x\": 17.2867, \"y\": 47.6646, \"z\": 45.0361}, {\"x\": -39.8049, \"y\": 12.9378, \"z\": -60.4031}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame104() {
         return new MovesDoubleFrame(
                 new Vector3d(33.47733303923297, 77.65326462510205, -33.52467886490842),
-                new Vector3d[] {
-                    new Vector3d(-13.12747805700506, 49.09506097711151, -9.42678095759093),
-                    new Vector3d(-18.85085195959601, 51.66508882994671, -0.27609522608076),
-                    new Vector3d(-2.65117466003913, 8.52145560748626, 14.75802719124490),
-                    new Vector3d(-15.47374726587012, 28.58929144157833, -11.86306573462752),
-                    new Vector3d(-29.22548558899573, 19.64104801501876, -37.97069116722759),
-                    new Vector3d(-37.76521409593967, 17.17162731666644, -47.67252850899509),
-                    new Vector3d(-39.70369243528550, 16.77900258161104, -58.42817205052713),
-                    new Vector3d(9.29761895485748, 1.76638516159614, 9.59276906951540),
-                    new Vector3d(26.59994349561000, -36.57445769872850, -18.66360145197265),
-                    new Vector3d(32.67823861389888, -61.39603415038621, -42.54261003911433),
-                    new Vector3d(32.57419216660389, -68.70114481599677, -38.42282423121078),
-                    new Vector3d(25.19730790884034, -72.39357421178238, -57.57583318792875),
-                    new Vector3d(-14.24187713185588, 43.10965417703024, 11.87022174967773),
-                    new Vector3d(10.70651089371953, 46.25225023015132, 35.39514428192425),
-                    new Vector3d(19.97639148203113, 50.77304359234097, 45.88840901299441),
-                    new Vector3d(27.05755529855486, 46.42453164168798, 54.06893245848710),
-                    new Vector3d(6.04307720115070, 5.95309019015875, 28.27495173622704),
-                    new Vector3d(-13.72655671870142, -34.59982102617554, 22.91171529792517),
-                    new Vector3d(4.34181462240159, -65.92444737132001, 19.19300285022572),
-                    new Vector3d(12.95075091883113, -71.71390895366638, 13.32271120390411),
-                    new Vector3d(-8.81232408893975, -72.55801431614026, 15.56073019394513),
-                    new Vector3d(17.32817629379198, 47.67458135704081, 44.45456721684602),
-                    new Vector3d(-40.94481308540246, 12.37668768181271, -59.83682262135117),
-                }
+                "\"skeletons\": [{\"x\": -13.1275, \"y\": 49.0951, \"z\": -9.4268}, {\"x\": -18.8509, \"y\": 51.6651, \"z\": -0.2761}, {\"x\": -2.6512, \"y\": 8.5215, \"z\": 14.7580}, {\"x\": -15.4737, \"y\": 28.5893, \"z\": -11.8631}, {\"x\": -29.2255, \"y\": 19.6410, \"z\": -37.9707}, {\"x\": -37.7652, \"y\": 17.1716, \"z\": -47.6725}, {\"x\": -39.7037, \"y\": 16.7790, \"z\": -58.4282}, {\"x\": 9.2976, \"y\": 1.7664, \"z\": 9.5928}, {\"x\": 26.5999, \"y\": -36.5745, \"z\": -18.6636}, {\"x\": 32.6782, \"y\": -61.3960, \"z\": -42.5426}, {\"x\": 32.5742, \"y\": -68.7011, \"z\": -38.4228}, {\"x\": 25.1973, \"y\": -72.3936, \"z\": -57.5758}, {\"x\": -14.2419, \"y\": 43.1097, \"z\": 11.8702}, {\"x\": 10.7065, \"y\": 46.2523, \"z\": 35.3951}, {\"x\": 19.9764, \"y\": 50.7730, \"z\": 45.8884}, {\"x\": 27.0576, \"y\": 46.4245, \"z\": 54.0689}, {\"x\": 6.0431, \"y\": 5.9531, \"z\": 28.2750}, {\"x\": -13.7266, \"y\": -34.5998, \"z\": 22.9117}, {\"x\": 4.3418, \"y\": -65.9244, \"z\": 19.1930}, {\"x\": 12.9508, \"y\": -71.7139, \"z\": 13.3227}, {\"x\": -8.8123, \"y\": -72.5580, \"z\": 15.5607}, {\"x\": 17.3282, \"y\": 47.6746, \"z\": 44.4546}, {\"x\": -40.9448, \"y\": 12.3767, \"z\": -59.8368}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame105() {
         return new MovesDoubleFrame(
                 new Vector3d(33.28354424169342, 77.26549367941389, -33.62458204788482),
-                new Vector3d[] {
-                    new Vector3d(-13.22861288215137, 48.63979742615766, -9.70728239945789),
-                    new Vector3d(-18.90882929996593, 51.29178652977608, -0.59526337255103),
-                    new Vector3d(-2.48234088540230, 8.53503925387148, 14.81401642063616),
-                    new Vector3d(-15.59392013794650, 28.11903615714039, -11.95733195036764),
-                    new Vector3d(-29.81891648386806, 19.16714824338628, -37.68459089362423),
-                    new Vector3d(-38.61856163671294, 16.76657933148250, -47.22991977674511),
-                    new Vector3d(-40.77020180595700, 16.24775544681967, -57.89614693674717),
-                    new Vector3d(9.57455584632570, 1.92790938390848, 9.75363309576208),
-                    new Vector3d(26.94769804860263, -36.30117097690567, -18.49391706549922),
-                    new Vector3d(33.02102279418240, -61.10259012459790, -42.38632686196304),
-                    new Vector3d(32.90611062055987, -68.48257942738367, -38.31593565873524),
-                    new Vector3d(25.47857926776382, -72.01868794628530, -57.44172718834051),
-                    new Vector3d(-14.49812754825694, 42.89895109340683, 11.64914749363421),
-                    new Vector3d(10.68390988556810, 46.21124678625223, 34.91031230441720),
-                    new Vector3d(20.04568501277821, 50.81863171892081, 45.29778145054339),
-                    new Vector3d(27.24603211007467, 46.51305728172920, 53.38784049001065),
-                    new Vector3d(6.26173950753561, 6.21858096336982, 28.37871274262552),
-                    new Vector3d(-13.46518478638400, -34.18092866733536, 23.00844688231893),
-                    new Vector3d(4.55171480435922, -65.53326771923452, 19.30754167473515),
-                    new Vector3d(13.16123500378355, -71.32925807086126, 13.42938752241710),
-                    new Vector3d(-8.61207335867532, -72.16182315762757, 15.67065339155772),
-                    new Vector3d(17.39794347417829, 47.70047054755979, 43.88195128006256),
-                    new Vector3d(-42.12957595266946, 11.85795634885503, -59.23232167076238),
-                }
+                "\"skeletons\": [{\"x\": -13.2286, \"y\": 48.6398, \"z\": -9.7073}, {\"x\": -18.9088, \"y\": 51.2918, \"z\": -0.5953}, {\"x\": -2.4823, \"y\": 8.5350, \"z\": 14.8140}, {\"x\": -15.5939, \"y\": 28.1190, \"z\": -11.9573}, {\"x\": -29.8189, \"y\": 19.1671, \"z\": -37.6846}, {\"x\": -38.6186, \"y\": 16.7666, \"z\": -47.2299}, {\"x\": -40.7702, \"y\": 16.2478, \"z\": -57.8961}, {\"x\": 9.5746, \"y\": 1.9279, \"z\": 9.7536}, {\"x\": 26.9477, \"y\": -36.3012, \"z\": -18.4939}, {\"x\": 33.0210, \"y\": -61.1026, \"z\": -42.3863}, {\"x\": 32.9061, \"y\": -68.4826, \"z\": -38.3159}, {\"x\": 25.4786, \"y\": -72.0187, \"z\": -57.4417}, {\"x\": -14.4981, \"y\": 42.8990, \"z\": 11.6491}, {\"x\": 10.6839, \"y\": 46.2112, \"z\": 34.9103}, {\"x\": 20.0457, \"y\": 50.8186, \"z\": 45.2978}, {\"x\": 27.2460, \"y\": 46.5131, \"z\": 53.3878}, {\"x\": 6.2617, \"y\": 6.2186, \"z\": 28.3787}, {\"x\": -13.4652, \"y\": -34.1809, \"z\": 23.0084}, {\"x\": 4.5517, \"y\": -65.5333, \"z\": 19.3075}, {\"x\": 13.1612, \"y\": -71.3293, \"z\": 13.4294}, {\"x\": -8.6121, \"y\": -72.1618, \"z\": 15.6707}, {\"x\": 17.3979, \"y\": 47.7005, \"z\": 43.8820}, {\"x\": -42.1296, \"y\": 11.8580, \"z\": -59.2323}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame106() {
         return new MovesDoubleFrame(
                 new Vector3d(33.07143959643767, 76.90218806844797, -33.71232003964965),
-                new Vector3d[] {
-                    new Vector3d(-13.33024862538822, 48.20840807829096, -9.96421489892359),
-                    new Vector3d(-18.99370868812746, 50.91952993811631, -0.87525615486496),
-                    new Vector3d(-2.31727529316239, 8.51981040154294, 14.87643908895137),
-                    new Vector3d(-15.70339325989318, 27.65085132936298, -12.07252487751387),
-                    new Vector3d(-30.39190438029978, 18.74083030512269, -37.38886427183708),
-                    new Vector3d(-39.44743678698482, 16.38292960243824, -46.74508987307161),
-                    new Vector3d(-41.85852521897177, 15.74265571520551, -57.33689907747912),
-                    new Vector3d(9.81300370480861, 2.08946115960263, 9.87180386655700),
-                    new Vector3d(27.33611589813372, -36.05105330404673, -18.30969651908116),
-                    new Vector3d(33.38862528439233, -60.80439525037372, -42.26710742610948),
-                    new Vector3d(33.18983521840705, -68.24384304818246, -38.23163599606953),
-                    new Vector3d(25.78741851686316, -71.67672674343591, -57.34317831010658),
-                    new Vector3d(-14.75442885746254, 42.74498874198633, 11.38732874366065),
-                    new Vector3d(10.66666075086614, 46.16229739447692, 34.43511084741906),
-                    new Vector3d(20.14140900761641, 50.84622634833130, 44.71603544388289),
-                    new Vector3d(27.45112842028382, 46.61013580152972, 52.69926137293282),
-                    new Vector3d(6.45408340142564, 6.47689509172296, 28.46437699420798),
-                    new Vector3d(-13.22503556144785, -33.74829729139547, 23.11339421059642),
-                    new Vector3d(4.78208025819158, -65.16690350312230, 19.40653327583459),
-                    new Vector3d(13.37499680707110, -70.95167307188827, 13.51631401047760),
-                    new Vector3d(-8.39267308864597, -71.78262260950490, 15.76204915981334),
-                    new Vector3d(17.51644365539308, 47.71196168582052, 43.34799547281570),
-                    new Vector3d(-43.32891784673564, 11.35094929155361, -58.55893185106347),
-                }
+                "\"skeletons\": [{\"x\": -13.3302, \"y\": 48.2084, \"z\": -9.9642}, {\"x\": -18.9937, \"y\": 50.9195, \"z\": -0.8753}, {\"x\": -2.3173, \"y\": 8.5198, \"z\": 14.8764}, {\"x\": -15.7034, \"y\": 27.6509, \"z\": -12.0725}, {\"x\": -30.3919, \"y\": 18.7408, \"z\": -37.3889}, {\"x\": -39.4474, \"y\": 16.3829, \"z\": -46.7451}, {\"x\": -41.8585, \"y\": 15.7427, \"z\": -57.3369}, {\"x\": 9.8130, \"y\": 2.0895, \"z\": 9.8718}, {\"x\": 27.3361, \"y\": -36.0511, \"z\": -18.3097}, {\"x\": 33.3886, \"y\": -60.8044, \"z\": -42.2671}, {\"x\": 33.1898, \"y\": -68.2438, \"z\": -38.2316}, {\"x\": 25.7874, \"y\": -71.6767, \"z\": -57.3432}, {\"x\": -14.7544, \"y\": 42.7450, \"z\": 11.3873}, {\"x\": 10.6667, \"y\": 46.1623, \"z\": 34.4351}, {\"x\": 20.1414, \"y\": 50.8462, \"z\": 44.7160}, {\"x\": 27.4511, \"y\": 46.6101, \"z\": 52.6993}, {\"x\": 6.4541, \"y\": 6.4769, \"z\": 28.4644}, {\"x\": -13.2250, \"y\": -33.7483, \"z\": 23.1134}, {\"x\": 4.7821, \"y\": -65.1669, \"z\": 19.4065}, {\"x\": 13.3750, \"y\": -70.9517, \"z\": 13.5163}, {\"x\": -8.3927, \"y\": -71.7826, \"z\": 15.7620}, {\"x\": 17.5164, \"y\": 47.7120, \"z\": 43.3480}, {\"x\": -43.3289, \"y\": 11.3509, \"z\": -58.5589}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame107() {
         return new MovesDoubleFrame(
                 new Vector3d(32.85352642461107, 76.55331098763006, -33.79427201860699),
-                new Vector3d[] {
-                    new Vector3d(-13.39107196769852, 47.82249236658068, -10.24217056260801),
-                    new Vector3d(-19.05781504495037, 50.60778928808365, -1.14878488818636),
-                    new Vector3d(-2.14240728000884, 8.51878550573961, 14.86811641582440),
-                    new Vector3d(-15.79438706008647, 27.16793665050827, -12.19133062172186),
-                    new Vector3d(-30.93956795972326, 18.30915731692040, -37.04018101155142),
-                    new Vector3d(-40.32029251051062, 15.98942711372686, -46.20562668444948),
-                    new Vector3d(-42.96648625720645, 15.26776068875329, -56.70678598528948),
-                    new Vector3d(10.05702871078601, 2.23123111714360, 9.94287840166057),
-                    new Vector3d(27.64697285520468, -35.81248929839720, -18.14046536807260),
-                    new Vector3d(33.67904950679459, -60.54909008151344, -42.12173499416420),
-                    new Vector3d(33.52369940057201, -67.93933174172476, -38.12184439853449),
-                    new Vector3d(26.06190133546294, -71.35393312842362, -57.24359442178599),
-                    new Vector3d(-14.97710536478988, 42.56741162578826, 11.20823075884137),
-                    new Vector3d(10.67513528704111, 46.13151291906050, 33.96735229425730),
-                    new Vector3d(20.21961146772720, 50.84974699607434, 44.14771863104875),
-                    new Vector3d(27.63938407429244, 46.67700402720196, 52.06352943261932),
-                    new Vector3d(6.67081734038002, 6.69473718761763, 28.52922997987827),
-                    new Vector3d(-12.96991757644084, -33.36285856109252, 23.22514348399837),
-                    new Vector3d(5.01485633190179, -64.81384923127995, 19.49805129942010),
-                    new Vector3d(13.59012787715898, -70.60040769993847, 13.60594555822997),
-                    new Vector3d(-8.18212972072367, -71.43897619951076, 15.84902413326864),
-                    new Vector3d(17.60501109350062, 47.69930272438436, 42.81029533992604),
-                    new Vector3d(-44.54784443207784, 10.90677269325185, -57.85466376690172),
-                }
+                "\"skeletons\": [{\"x\": -13.3911, \"y\": 47.8225, \"z\": -10.2422}, {\"x\": -19.0578, \"y\": 50.6078, \"z\": -1.1488}, {\"x\": -2.1424, \"y\": 8.5188, \"z\": 14.8681}, {\"x\": -15.7944, \"y\": 27.1679, \"z\": -12.1913}, {\"x\": -30.9396, \"y\": 18.3092, \"z\": -37.0402}, {\"x\": -40.3203, \"y\": 15.9894, \"z\": -46.2056}, {\"x\": -42.9665, \"y\": 15.2678, \"z\": -56.7068}, {\"x\": 10.0570, \"y\": 2.2312, \"z\": 9.9429}, {\"x\": 27.6470, \"y\": -35.8125, \"z\": -18.1405}, {\"x\": 33.6790, \"y\": -60.5491, \"z\": -42.1217}, {\"x\": 33.5237, \"y\": -67.9393, \"z\": -38.1218}, {\"x\": 26.0619, \"y\": -71.3539, \"z\": -57.2436}, {\"x\": -14.9771, \"y\": 42.5674, \"z\": 11.2082}, {\"x\": 10.6751, \"y\": 46.1315, \"z\": 33.9674}, {\"x\": 20.2196, \"y\": 50.8497, \"z\": 44.1477}, {\"x\": 27.6394, \"y\": 46.6770, \"z\": 52.0635}, {\"x\": 6.6708, \"y\": 6.6947, \"z\": 28.5292}, {\"x\": -12.9699, \"y\": -33.3629, \"z\": 23.2251}, {\"x\": 5.0149, \"y\": -64.8138, \"z\": 19.4981}, {\"x\": 13.5901, \"y\": -70.6004, \"z\": 13.6059}, {\"x\": -8.1821, \"y\": -71.4390, \"z\": 15.8490}, {\"x\": 17.6050, \"y\": 47.6993, \"z\": 42.8103}, {\"x\": -44.5478, \"y\": 10.9068, \"z\": -57.8547}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame108() {
         return new MovesDoubleFrame(
                 new Vector3d(32.61429912012563, 76.21939917990599, -33.85834910527252),
-                new Vector3d[] {
-                    new Vector3d(-13.46477857307624, 47.44466965306512, -10.47439813759050),
-                    new Vector3d(-19.09487837875040, 50.28256918093753, -1.39406234556527),
-                    new Vector3d(-1.95966393023746, 8.54503373006670, 14.88287980572665),
-                    new Vector3d(-15.86189493155361, 26.70879263752824, -12.31640211910189),
-                    new Vector3d(-31.53558292630263, 17.87804386006701, -36.69399069809333),
-                    new Vector3d(-41.16240519463807, 15.60327024083827, -45.59923527009462),
-                    new Vector3d(-44.10021480177816, 14.82478593651055, -56.03661329156431),
-                    new Vector3d(10.28876598052272, 2.38868511010370, 9.98776310008315),
-                    new Vector3d(27.97209843810099, -35.58136161162003, -18.02691076681982),
-                    new Vector3d(33.96658012571847, -60.27887782494388, -42.00683644160248),
-                    new Vector3d(33.78359778277616, -67.71544331589598, -38.08298688546115),
-                    new Vector3d(26.33496285928578, -71.03147835282914, -57.17644047487904),
-                    new Vector3d(-15.17185185358280, 42.36435096694552, 11.01550862088283),
-                    new Vector3d(10.64397125827399, 46.11801867503410, 33.53739315762600),
-                    new Vector3d(20.28008163002857, 50.84916688858556, 43.60820735054849),
-                    new Vector3d(27.82688689850982, 46.70891580922701, 51.41424655840854),
-                    new Vector3d(6.89496192081290, 6.90786845971309, 28.55756817077379),
-                    new Vector3d(-12.67044386889942, -33.00474411114277, 23.32746866625994),
-                    new Vector3d(5.25878981406287, -64.47378326519549, 19.56331008177995),
-                    new Vector3d(13.82279621219932, -70.26870178727738, 13.68020048283140),
-                    new Vector3d(-7.94699900337869, -71.12376040569384, 15.92508489922517),
-                    new Vector3d(17.66507976226100, 47.68301946436093, 42.29737620602918),
-                    new Vector3d(-45.81011994431132, 10.50990783702600, -57.11661482432688),
-                }
+                "\"skeletons\": [{\"x\": -13.4648, \"y\": 47.4447, \"z\": -10.4744}, {\"x\": -19.0949, \"y\": 50.2826, \"z\": -1.3941}, {\"x\": -1.9597, \"y\": 8.5450, \"z\": 14.8829}, {\"x\": -15.8619, \"y\": 26.7088, \"z\": -12.3164}, {\"x\": -31.5356, \"y\": 17.8780, \"z\": -36.6940}, {\"x\": -41.1624, \"y\": 15.6033, \"z\": -45.5992}, {\"x\": -44.1002, \"y\": 14.8248, \"z\": -56.0366}, {\"x\": 10.2888, \"y\": 2.3887, \"z\": 9.9878}, {\"x\": 27.9721, \"y\": -35.5814, \"z\": -18.0269}, {\"x\": 33.9666, \"y\": -60.2789, \"z\": -42.0068}, {\"x\": 33.7836, \"y\": -67.7154, \"z\": -38.0830}, {\"x\": 26.3350, \"y\": -71.0315, \"z\": -57.1764}, {\"x\": -15.1719, \"y\": 42.3644, \"z\": 11.0155}, {\"x\": 10.6440, \"y\": 46.1180, \"z\": 33.5374}, {\"x\": 20.2801, \"y\": 50.8492, \"z\": 43.6082}, {\"x\": 27.8269, \"y\": 46.7089, \"z\": 51.4142}, {\"x\": 6.8950, \"y\": 6.9079, \"z\": 28.5576}, {\"x\": -12.6704, \"y\": -33.0047, \"z\": 23.3275}, {\"x\": 5.2588, \"y\": -64.4738, \"z\": 19.5633}, {\"x\": 13.8228, \"y\": -70.2687, \"z\": 13.6802}, {\"x\": -7.9470, \"y\": -71.1238, \"z\": 15.9251}, {\"x\": 17.6651, \"y\": 47.6830, \"z\": 42.2974}, {\"x\": -45.8101, \"y\": 10.5099, \"z\": -57.1166}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame109() {
         return new MovesDoubleFrame(
                 new Vector3d(32.35197370406927, 75.90569619447461, -33.91314156484951),
-                new Vector3d[] {
-                    new Vector3d(-13.49636330546840, 47.08492042275205, -10.70733184462632),
-                    new Vector3d(-19.10016941249469, 49.95452696474179, -1.61586440267550),
-                    new Vector3d(-1.76532776602776, 8.57314072172947, 14.90054755120517),
-                    new Vector3d(-15.97785661814155, 26.27414228722770, -12.40418763155459),
-                    new Vector3d(-32.20863723673266, 17.39102332649578, -36.30751426172866),
-                    new Vector3d(-42.01798553540541, 15.20742916347593, -44.98437892399468),
-                    new Vector3d(-45.23155233796325, 14.37265990543092, -55.31891047381650),
-                    new Vector3d(10.51308669396561, 2.52530353843921, 10.05432221996324),
-                    new Vector3d(28.30684761987046, -35.32953906581312, -17.96043226229648),
-                    new Vector3d(34.27222407370035, -59.98540994418091, -41.97215759002008),
-                    new Vector3d(34.04375346786446, -67.47454379144861, -38.08564765979903),
-                    new Vector3d(26.61339097104625, -70.73224110288822, -57.12628870638522),
-                    new Vector3d(-15.31451092174725, 42.18662059603682, 10.81096003987007),
-                    new Vector3d(10.62240795166920, 46.10339223093462, 33.11784588405531),
-                    new Vector3d(20.33119754191679, 50.88261047919198, 43.09869502808983),
-                    new Vector3d(28.01589061309571, 46.76862400543924, 50.80924739568026),
-                    new Vector3d(7.10932962826669, 7.14795166571541, 28.58174792189814),
-                    new Vector3d(-12.36342513844134, -32.65204126705598, 23.40327575194077),
-                    new Vector3d(5.49163924217574, -64.16312685188291, 19.60631844243777),
-                    new Vector3d(14.07282171342955, -69.94137721583753, 13.72418886311837),
-                    new Vector3d(-7.69920679993148, -70.87486406731222, 15.97402835518962),
-                    new Vector3d(17.70407474224182, 47.70113019767764, 41.79578100761843),
-                    new Vector3d(-47.05385375514910, 10.07219278762420, -56.28749139572577),
-                }
+                "\"skeletons\": [{\"x\": -13.4964, \"y\": 47.0849, \"z\": -10.7073}, {\"x\": -19.1002, \"y\": 49.9545, \"z\": -1.6159}, {\"x\": -1.7653, \"y\": 8.5731, \"z\": 14.9005}, {\"x\": -15.9779, \"y\": 26.2741, \"z\": -12.4042}, {\"x\": -32.2086, \"y\": 17.3910, \"z\": -36.3075}, {\"x\": -42.0180, \"y\": 15.2074, \"z\": -44.9844}, {\"x\": -45.2316, \"y\": 14.3727, \"z\": -55.3189}, {\"x\": 10.5131, \"y\": 2.5253, \"z\": 10.0543}, {\"x\": 28.3068, \"y\": -35.3295, \"z\": -17.9604}, {\"x\": 34.2722, \"y\": -59.9854, \"z\": -41.9722}, {\"x\": 34.0438, \"y\": -67.4745, \"z\": -38.0856}, {\"x\": 26.6134, \"y\": -70.7322, \"z\": -57.1263}, {\"x\": -15.3145, \"y\": 42.1866, \"z\": 10.8110}, {\"x\": 10.6224, \"y\": 46.1034, \"z\": 33.1178}, {\"x\": 20.3312, \"y\": 50.8826, \"z\": 43.0987}, {\"x\": 28.0159, \"y\": 46.7686, \"z\": 50.8092}, {\"x\": 7.1093, \"y\": 7.1480, \"z\": 28.5817}, {\"x\": -12.3634, \"y\": -32.6520, \"z\": 23.4033}, {\"x\": 5.4916, \"y\": -64.1631, \"z\": 19.6063}, {\"x\": 14.0728, \"y\": -69.9414, \"z\": 13.7242}, {\"x\": -7.6992, \"y\": -70.8749, \"z\": 15.9740}, {\"x\": 17.7041, \"y\": 47.7011, \"z\": 41.7958}, {\"x\": -47.0539, \"y\": 10.0722, \"z\": -56.2875}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame110() {
         return new MovesDoubleFrame(
                 new Vector3d(32.08214628096716, 75.62201439818833, -33.94944287888964),
-                new Vector3d[] {
-                    new Vector3d(-13.50080928101182, 46.73319876900702, -10.95129040726764),
-                    new Vector3d(-19.11417342945054, 49.65114555246957, -1.87840125231238),
-                    new Vector3d(-1.59007511106853, 8.59916670551086, 14.91030321683778),
-                    new Vector3d(-16.13650475711357, 25.80690026517908, -12.49642194338333),
-                    new Vector3d(-32.82349554402691, 16.95684848472698, -35.91008964994221),
-                    new Vector3d(-42.87296145366452, 14.80122174698418, -44.35160299446073),
-                    new Vector3d(-46.34431310588160, 13.86704905787616, -54.55411745168535),
-                    new Vector3d(10.72918587097642, 2.63164675512219, 10.11984248018781),
-                    new Vector3d(28.61150713357506, -35.07615060081648, -17.90944546134572),
-                    new Vector3d(34.56723963499462, -59.71318722695825, -41.94078061992086),
-                    new Vector3d(34.34251556285137, -67.20029494605458, -38.07286986096782),
-                    new Vector3d(26.90048782504984, -70.45808844618522, -57.09348952536318),
-                    new Vector3d(-15.46205088026447, 42.09372976568817, 10.57994375265609),
-                    new Vector3d(10.62393695079389, 46.11128454741788, 32.71396007550668),
-                    new Vector3d(20.38932948562829, 50.93383872032574, 42.61804849785649),
-                    new Vector3d(28.15187818755278, 46.87118273649408, 50.27902469169803),
-                    new Vector3d(7.33640963411963, 7.37837044453371, 28.57368758317201),
-                    new Vector3d(-12.11911475118445, -32.21421165004600, 23.46699869508112),
-                    new Vector3d(5.70874646297767, -63.85774018918254, 19.62048028227359),
-                    new Vector3d(14.33668833456337, -69.61695179680724, 13.74177260686558),
-                    new Vector3d(-7.45406151216037, -70.67711474499498, 16.01642923822059),
-                    new Vector3d(17.77089249731400, 47.73770389779578, 41.33369858116414),
-                    new Vector3d(-48.26425093377347, 9.58640741317603, -55.40309535757066),
-                }
+                "\"skeletons\": [{\"x\": -13.5008, \"y\": 46.7332, \"z\": -10.9513}, {\"x\": -19.1142, \"y\": 49.6511, \"z\": -1.8784}, {\"x\": -1.5901, \"y\": 8.5992, \"z\": 14.9103}, {\"x\": -16.1365, \"y\": 25.8069, \"z\": -12.4964}, {\"x\": -32.8235, \"y\": 16.9568, \"z\": -35.9101}, {\"x\": -42.8730, \"y\": 14.8012, \"z\": -44.3516}, {\"x\": -46.3443, \"y\": 13.8670, \"z\": -54.5541}, {\"x\": 10.7292, \"y\": 2.6316, \"z\": 10.1198}, {\"x\": 28.6115, \"y\": -35.0762, \"z\": -17.9094}, {\"x\": 34.5672, \"y\": -59.7132, \"z\": -41.9408}, {\"x\": 34.3425, \"y\": -67.2003, \"z\": -38.0729}, {\"x\": 26.9005, \"y\": -70.4581, \"z\": -57.0935}, {\"x\": -15.4621, \"y\": 42.0937, \"z\": 10.5799}, {\"x\": 10.6239, \"y\": 46.1113, \"z\": 32.7140}, {\"x\": 20.3893, \"y\": 50.9338, \"z\": 42.6180}, {\"x\": 28.1519, \"y\": 46.8712, \"z\": 50.2790}, {\"x\": 7.3364, \"y\": 7.3784, \"z\": 28.5737}, {\"x\": -12.1191, \"y\": -32.2142, \"z\": 23.4670}, {\"x\": 5.7087, \"y\": -63.8577, \"z\": 19.6205}, {\"x\": 14.3367, \"y\": -69.6170, \"z\": 13.7418}, {\"x\": -7.4541, \"y\": -70.6771, \"z\": 16.0164}, {\"x\": 17.7709, \"y\": 47.7377, \"z\": 41.3337}, {\"x\": -48.2643, \"y\": 9.5864, \"z\": -55.4031}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame111() {
         return new MovesDoubleFrame(
                 new Vector3d(31.81147057258513, 75.35638655881675, -33.97037502046072),
-                new Vector3d[] {
-                    new Vector3d(-13.54934171107894, 46.34140516169548, -11.20090520800350),
-                    new Vector3d(-19.15069032415827, 49.37906486270582, -2.16023337614114),
-                    new Vector3d(-1.41910509544623, 8.60399113866182, 14.90519093062798),
-                    new Vector3d(-16.24252351622352, 25.36267687736159, -12.54688533165247),
-                    new Vector3d(-33.39042455721137, 16.52370179989743, -35.48161362424677),
-                    new Vector3d(-43.72781285039878, 14.41248142718831, -43.66131521281290),
-                    new Vector3d(-47.46615540516521, 13.33979518735778, -53.72588207889169),
-                    new Vector3d(10.95921257831580, 2.77728743176273, 10.08520032224056),
-                    new Vector3d(28.91308712904199, -34.83839713487848, -17.87204459669741),
-                    new Vector3d(34.85792704254644, -59.45752806538468, -41.92810171642544),
-                    new Vector3d(34.64419982288597, -66.95021863504002, -38.07088676437245),
-                    new Vector3d(27.19069447749123, -70.19123049983844, -57.08333573347490),
-                    new Vector3d(-15.56945593286693, 41.92291224360925, 10.38384171637531),
-                    new Vector3d(10.62488765697315, 46.15190761411559, 32.33625624765285),
-                    new Vector3d(20.43874358968212, 51.04569510714014, 42.16448635546939),
-                    new Vector3d(28.25028557865724, 47.05185098450445, 49.79565032113918),
-                    new Vector3d(7.57127119776482, 7.58577065306060, 28.56355457407345),
-                    new Vector3d(-11.86128578061864, -31.89500559022094, 23.49111645878860),
-                    new Vector3d(5.94210787732382, -63.53195727768239, 19.62353657271783),
-                    new Vector3d(14.57576337379205, -69.32663303013572, 13.77271107222955),
-                    new Vector3d(-7.20008719470684, -70.45988482837828, 16.03140558760123),
-                    new Vector3d(17.83322058493514, 47.84412953243677, 40.89999933989579),
-                    new Vector3d(-49.54570567358223, 9.12473586393937, -54.46246161825523),
-                }
+                "\"skeletons\": [{\"x\": -13.5493, \"y\": 46.3414, \"z\": -11.2009}, {\"x\": -19.1507, \"y\": 49.3791, \"z\": -2.1602}, {\"x\": -1.4191, \"y\": 8.6040, \"z\": 14.9052}, {\"x\": -16.2425, \"y\": 25.3627, \"z\": -12.5469}, {\"x\": -33.3904, \"y\": 16.5237, \"z\": -35.4816}, {\"x\": -43.7278, \"y\": 14.4125, \"z\": -43.6613}, {\"x\": -47.4662, \"y\": 13.3398, \"z\": -53.7259}, {\"x\": 10.9592, \"y\": 2.7773, \"z\": 10.0852}, {\"x\": 28.9131, \"y\": -34.8384, \"z\": -17.8720}, {\"x\": 34.8579, \"y\": -59.4575, \"z\": -41.9281}, {\"x\": 34.6442, \"y\": -66.9502, \"z\": -38.0709}, {\"x\": 27.1907, \"y\": -70.1912, \"z\": -57.0833}, {\"x\": -15.5695, \"y\": 41.9229, \"z\": 10.3838}, {\"x\": 10.6249, \"y\": 46.1519, \"z\": 32.3363}, {\"x\": 20.4387, \"y\": 51.0457, \"z\": 42.1645}, {\"x\": 28.2503, \"y\": 47.0519, \"z\": 49.7957}, {\"x\": 7.5713, \"y\": 7.5858, \"z\": 28.5636}, {\"x\": -11.8613, \"y\": -31.8950, \"z\": 23.4911}, {\"x\": 5.9421, \"y\": -63.5320, \"z\": 19.6235}, {\"x\": 14.5758, \"y\": -69.3266, \"z\": 13.7727}, {\"x\": -7.2001, \"y\": -70.4599, \"z\": 16.0314}, {\"x\": 17.8332, \"y\": 47.8441, \"z\": 40.9000}, {\"x\": -49.5457, \"y\": 9.1247, \"z\": -54.4625}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame112() {
         return new MovesDoubleFrame(
                 new Vector3d(31.52852264489177, 75.09853881179752, -33.95000084618702),
-                new Vector3d[] {
-                    new Vector3d(-13.55872441962278, 45.97196161223621, -11.46016841393838),
-                    new Vector3d(-19.14209062627711, 49.09595463923731, -2.42310270049095),
-                    new Vector3d(-1.23728956876272, 8.65673719560381, 14.89502937209163),
-                    new Vector3d(-16.36555125538895, 24.95395302876581, -12.59042155992591),
-                    new Vector3d(-34.05740987494503, 16.01507256344235, -34.98702907603064),
-                    new Vector3d(-44.61460333658069, 13.97737821465534, -42.89465258120471),
-                    new Vector3d(-48.64510987216097, 12.77828110665096, -52.83372139887879),
-                    new Vector3d(11.21398357641100, 2.92852310569152, 10.06352194025826),
-                    new Vector3d(29.21820340791114, -34.63144083002668, -17.85428831910903),
-                    new Vector3d(35.16764788091003, -59.22195039862591, -41.95195217173375),
-                    new Vector3d(34.96821957687359, -66.73473714339616, -38.10936141138561),
-                    new Vector3d(27.48267709212167, -69.93424963847053, -57.11135940257942),
-                    new Vector3d(-15.68901394577581, 41.81639145821345, 10.18687095266661),
-                    new Vector3d(10.60889158465183, 46.21839897945797, 31.98351603350071),
-                    new Vector3d(20.45524759843506, 51.20998972695659, 41.73791486130447),
-                    new Vector3d(28.34318959469157, 47.26090193484448, 49.32836546271493),
-                    new Vector3d(7.77799516024118, 7.76708891872263, 28.56331363771021),
-                    new Vector3d(-11.60354456936237, -31.59619093924749, 23.40449660745604),
-                    new Vector3d(6.20342888462783, -63.23271882053518, 19.58255865825871),
-                    new Vector3d(14.82673333869513, -69.06891590733788, 13.77777500111781),
-                    new Vector3d(-6.92212372446448, -70.25922996266357, 15.99286738907011),
-                    new Vector3d(17.85912935406314, 47.98805936699908, 40.49966603623123),
-                    new Vector3d(-50.88949874695109, 8.64403620790507, -53.42999547028778),
-                }
+                "\"skeletons\": [{\"x\": -13.5587, \"y\": 45.9720, \"z\": -11.4602}, {\"x\": -19.1421, \"y\": 49.0960, \"z\": -2.4231}, {\"x\": -1.2373, \"y\": 8.6567, \"z\": 14.8950}, {\"x\": -16.3656, \"y\": 24.9540, \"z\": -12.5904}, {\"x\": -34.0574, \"y\": 16.0151, \"z\": -34.9870}, {\"x\": -44.6146, \"y\": 13.9774, \"z\": -42.8947}, {\"x\": -48.6451, \"y\": 12.7783, \"z\": -52.8337}, {\"x\": 11.2140, \"y\": 2.9285, \"z\": 10.0635}, {\"x\": 29.2182, \"y\": -34.6314, \"z\": -17.8543}, {\"x\": 35.1676, \"y\": -59.2220, \"z\": -41.9520}, {\"x\": 34.9682, \"y\": -66.7347, \"z\": -38.1094}, {\"x\": 27.4827, \"y\": -69.9342, \"z\": -57.1114}, {\"x\": -15.6890, \"y\": 41.8164, \"z\": 10.1869}, {\"x\": 10.6089, \"y\": 46.2184, \"z\": 31.9835}, {\"x\": 20.4552, \"y\": 51.2100, \"z\": 41.7379}, {\"x\": 28.3432, \"y\": 47.2609, \"z\": 49.3284}, {\"x\": 7.7780, \"y\": 7.7671, \"z\": 28.5633}, {\"x\": -11.6035, \"y\": -31.5962, \"z\": 23.4045}, {\"x\": 6.2034, \"y\": -63.2327, \"z\": 19.5826}, {\"x\": 14.8267, \"y\": -69.0689, \"z\": 13.7778}, {\"x\": -6.9221, \"y\": -70.2592, \"z\": 15.9929}, {\"x\": 17.8591, \"y\": 47.9881, \"z\": 40.4997}, {\"x\": -50.8895, \"y\": 8.6440, \"z\": -53.4300}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame113() {
         return new MovesDoubleFrame(
                 new Vector3d(31.24725242576037, 74.84699516207776, -33.90275945903052),
-                new Vector3d[] {
-                    new Vector3d(-13.58967952316697, 45.62490806094564, -11.69605077609097),
-                    new Vector3d(-19.14774285719938, 48.82841683287545, -2.70360412525367),
-                    new Vector3d(-1.06760288152013, 8.72668127755649, 14.86984865648093),
-                    new Vector3d(-16.54233811284796, 24.62312641567034, -12.65282261137988),
-                    new Vector3d(-34.72606710772895, 15.49838285510878, -34.43389311601061),
-                    new Vector3d(-45.52186524641673, 13.53494764048531, -42.07936930954621),
-                    new Vector3d(-49.83721939143809, 12.19508871582992, -51.84995158799624),
-                    new Vector3d(11.47776804931648, 3.03264317326254, 10.05205889513604),
-                    new Vector3d(29.55355597647079, -34.45002250582775, -17.84396134689053),
-                    new Vector3d(35.50890611328744, -58.99282626204447, -41.99183388162091),
-                    new Vector3d(35.29731966731411, -66.53578304020508, -38.17371552665146),
-                    new Vector3d(27.78451068257198, -69.67859112739387, -57.16949747725551),
-                    new Vector3d(-15.81645729829326, 41.73862513867412, 9.99303739232812),
-                    new Vector3d(10.60110332690254, 46.29655830165972, 31.64251426061579),
-                    new Vector3d(20.45071735602442, 51.37770503139911, 41.32530124229881),
-                    new Vector3d(28.40936785418755, 47.49281368009604, 48.87807966796962),
-                    new Vector3d(8.01392485521061, 7.94249517295172, 28.51105280592314),
-                    new Vector3d(-11.30282614016724, -31.35892939371398, 23.28975702228987),
-                    new Vector3d(6.47052212077442, -62.95792314349981, 19.51418485020621),
-                    new Vector3d(15.09588238881513, -68.82504656805853, 13.72975998188306),
-                    new Vector3d(-6.65253422691242, -70.02751492002976, 15.93777090732900),
-                    new Vector3d(17.84981986770523, 48.12904671874736, 40.11461037155965),
-                    new Vector3d(-52.20860643333788, 8.12082647636896, -52.29648248126947),
-                }
+                "\"skeletons\": [{\"x\": -13.5897, \"y\": 45.6249, \"z\": -11.6961}, {\"x\": -19.1477, \"y\": 48.8284, \"z\": -2.7036}, {\"x\": -1.0676, \"y\": 8.7267, \"z\": 14.8698}, {\"x\": -16.5423, \"y\": 24.6231, \"z\": -12.6528}, {\"x\": -34.7261, \"y\": 15.4984, \"z\": -34.4339}, {\"x\": -45.5219, \"y\": 13.5349, \"z\": -42.0794}, {\"x\": -49.8372, \"y\": 12.1951, \"z\": -51.8500}, {\"x\": 11.4778, \"y\": 3.0326, \"z\": 10.0521}, {\"x\": 29.5536, \"y\": -34.4500, \"z\": -17.8440}, {\"x\": 35.5089, \"y\": -58.9928, \"z\": -41.9918}, {\"x\": 35.2973, \"y\": -66.5358, \"z\": -38.1737}, {\"x\": 27.7845, \"y\": -69.6786, \"z\": -57.1695}, {\"x\": -15.8165, \"y\": 41.7386, \"z\": 9.9930}, {\"x\": 10.6011, \"y\": 46.2966, \"z\": 31.6425}, {\"x\": 20.4507, \"y\": 51.3777, \"z\": 41.3253}, {\"x\": 28.4094, \"y\": 47.4928, \"z\": 48.8781}, {\"x\": 8.0139, \"y\": 7.9425, \"z\": 28.5111}, {\"x\": -11.3028, \"y\": -31.3589, \"z\": 23.2898}, {\"x\": 6.4705, \"y\": -62.9579, \"z\": 19.5142}, {\"x\": 15.0959, \"y\": -68.8250, \"z\": 13.7298}, {\"x\": -6.6525, \"y\": -70.0275, \"z\": 15.9378}, {\"x\": 17.8498, \"y\": 48.1290, \"z\": 40.1146}, {\"x\": -52.2086, \"y\": 8.1208, \"z\": -52.2965}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame114() {
         return new MovesDoubleFrame(
                 new Vector3d(30.97487129583592, 74.60500004200155, -33.83603269663421),
-                new Vector3d[] {
-                    new Vector3d(-13.63761418306039, 45.31155269237346, -11.93824294685071),
-                    new Vector3d(-19.12062155959499, 48.59602098896944, -2.93960621066210),
-                    new Vector3d(-0.88020664042297, 8.76836508774176, 14.79740463615710),
-                    new Vector3d(-16.69416734250165, 24.28908652328863, -12.71838188902427),
-                    new Vector3d(-35.38327600033856, 15.03719007379087, -33.88575772607784),
-                    new Vector3d(-46.44137454813781, 13.05266422976186, -41.19919069203767),
-                    new Vector3d(-51.02061583754907, 11.54138624078306, -50.77960233057004),
-                    new Vector3d(11.68475329435660, 3.16434417884108, 9.98294431772796),
-                    new Vector3d(29.89396240952122, -34.26535029660534, -17.88244874867829),
-                    new Vector3d(35.86392875299221, -58.79832432178671, -42.05912285582114),
-                    new Vector3d(35.59612654177569, -66.32260290803809, -38.24690012981668),
-                    new Vector3d(28.08764003926452, -69.43673903169532, -57.24887766887917),
-                    new Vector3d(-15.93641086405578, 41.67932438601185, 9.81707713894727),
-                    new Vector3d(10.59431466956587, 46.41059182462791, 31.30577912280783),
-                    new Vector3d(20.45948343177290, 51.53652653444936, 40.93938535231746),
-                    new Vector3d(28.46622454679801, 47.75144352663684, 48.45261267884683),
-                    new Vector3d(8.24746255774946, 8.12120235057658, 28.42954430530295),
-                    new Vector3d(-11.03844464265512, -31.10459851786650, 23.22156692863756),
-                    new Vector3d(6.73234393156364, -62.70332964056460, 19.44303430098689),
-                    new Vector3d(15.37918841398551, -68.56187657877959, 13.63899660741825),
-                    new Vector3d(-6.38935254060433, -69.79316025710688, 15.86011193770564),
-                    new Vector3d(17.88441607511833, 48.28258366335560, 39.74299718943207),
-                    new Vector3d(-53.48959166762720, 7.52730325040918, -51.08972239544169),
-                }
+                "\"skeletons\": [{\"x\": -13.6376, \"y\": 45.3116, \"z\": -11.9382}, {\"x\": -19.1206, \"y\": 48.5960, \"z\": -2.9396}, {\"x\": -0.8802, \"y\": 8.7684, \"z\": 14.7974}, {\"x\": -16.6942, \"y\": 24.2891, \"z\": -12.7184}, {\"x\": -35.3833, \"y\": 15.0372, \"z\": -33.8858}, {\"x\": -46.4414, \"y\": 13.0527, \"z\": -41.1992}, {\"x\": -51.0206, \"y\": 11.5414, \"z\": -50.7796}, {\"x\": 11.6848, \"y\": 3.1643, \"z\": 9.9829}, {\"x\": 29.8940, \"y\": -34.2654, \"z\": -17.8824}, {\"x\": 35.8639, \"y\": -58.7983, \"z\": -42.0591}, {\"x\": 35.5961, \"y\": -66.3226, \"z\": -38.2469}, {\"x\": 28.0876, \"y\": -69.4367, \"z\": -57.2489}, {\"x\": -15.9364, \"y\": 41.6793, \"z\": 9.8171}, {\"x\": 10.5943, \"y\": 46.4106, \"z\": 31.3058}, {\"x\": 20.4595, \"y\": 51.5365, \"z\": 40.9394}, {\"x\": 28.4662, \"y\": 47.7514, \"z\": 48.4526}, {\"x\": 8.2475, \"y\": 8.1212, \"z\": 28.4295}, {\"x\": -11.0384, \"y\": -31.1046, \"z\": 23.2216}, {\"x\": 6.7323, \"y\": -62.7033, \"z\": 19.4430}, {\"x\": 15.3792, \"y\": -68.5619, \"z\": 13.6390}, {\"x\": -6.3894, \"y\": -69.7932, \"z\": 15.8601}, {\"x\": 17.8844, \"y\": 48.2826, \"z\": 39.7430}, {\"x\": -53.4896, \"y\": 7.5273, \"z\": -51.0897}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame115() {
         return new MovesDoubleFrame(
                 new Vector3d(30.70307931609124, 74.37315830105025, -33.74245158015416),
-                new Vector3d[] {
-                    new Vector3d(-13.66466162134932, 45.07744030239194, -12.17371827334310),
-                    new Vector3d(-19.08857823394098, 48.40820108802301, -3.14444575886600),
-                    new Vector3d(-0.66221695969977, 8.83837041392565, 14.68883132728199),
-                    new Vector3d(-16.87445179712904, 23.95254184408798, -12.76469208773137),
-                    new Vector3d(-36.10138700070041, 14.47771826475389, -33.27953837703862),
-                    new Vector3d(-47.33277059828232, 12.47927787361492, -40.27789721970191),
-                    new Vector3d(-52.17350580192252, 10.83953207815704, -49.67228505238177),
-                    new Vector3d(11.89679704182626, 3.33838119068444, 9.88211343315091),
-                    new Vector3d(30.19390361976402, -34.08836438419024, -17.96680263448399),
-                    new Vector3d(36.21826106794992, -58.60740284414017, -42.16750507417698),
-                    new Vector3d(35.87638652992027, -66.10550410964829, -38.33595620077276),
-                    new Vector3d(28.38068204348446, -69.20517448060590, -57.35070186620588),
-                    new Vector3d(-16.01525592919382, 41.61652082229521, 9.62023445056872),
-                    new Vector3d(10.58308806770027, 46.49665811621360, 31.02021531446017),
-                    new Vector3d(20.45537747576022, 51.69231204595985, 40.57105603071462),
-                    new Vector3d(28.53170986633749, 47.99089070696783, 48.04184702999091),
-                    new Vector3d(8.48055705526317, 8.29737693902747, 28.34916474511230),
-                    new Vector3d(-10.81393849528923, -30.82995158277753, 23.15282445141924),
-                    new Vector3d(6.99254761439415, -62.45748606764081, 19.35357776903946),
-                    new Vector3d(15.64783660897533, -68.31603775175985, 13.54815147212653),
-                    new Vector3d(-6.11982025367078, -69.56925823391924, 15.77043196201702),
-                    new Vector3d(17.91074258454658, 48.42873106592186, 39.40020141873224),
-                    new Vector3d(-54.76436493828883, 6.89932307328402, -49.81519855715199),
-                }
+                "\"skeletons\": [{\"x\": -13.6647, \"y\": 45.0774, \"z\": -12.1737}, {\"x\": -19.0886, \"y\": 48.4082, \"z\": -3.1444}, {\"x\": -0.6622, \"y\": 8.8384, \"z\": 14.6888}, {\"x\": -16.8745, \"y\": 23.9525, \"z\": -12.7647}, {\"x\": -36.1014, \"y\": 14.4777, \"z\": -33.2795}, {\"x\": -47.3328, \"y\": 12.4793, \"z\": -40.2779}, {\"x\": -52.1735, \"y\": 10.8395, \"z\": -49.6723}, {\"x\": 11.8968, \"y\": 3.3384, \"z\": 9.8821}, {\"x\": 30.1939, \"y\": -34.0884, \"z\": -17.9668}, {\"x\": 36.2183, \"y\": -58.6074, \"z\": -42.1675}, {\"x\": 35.8764, \"y\": -66.1055, \"z\": -38.3360}, {\"x\": 28.3807, \"y\": -69.2052, \"z\": -57.3507}, {\"x\": -16.0153, \"y\": 41.6165, \"z\": 9.6202}, {\"x\": 10.5831, \"y\": 46.4967, \"z\": 31.0202}, {\"x\": 20.4554, \"y\": 51.6923, \"z\": 40.5711}, {\"x\": 28.5317, \"y\": 47.9909, \"z\": 48.0418}, {\"x\": 8.4806, \"y\": 8.2974, \"z\": 28.3492}, {\"x\": -10.8139, \"y\": -30.8300, \"z\": 23.1528}, {\"x\": 6.9925, \"y\": -62.4575, \"z\": 19.3536}, {\"x\": 15.6478, \"y\": -68.3160, \"z\": 13.5482}, {\"x\": -6.1198, \"y\": -69.5693, \"z\": 15.7704}, {\"x\": 17.9107, \"y\": 48.4287, \"z\": 39.4002}, {\"x\": -54.7644, \"y\": 6.8993, \"z\": -49.8152}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame116() {
         return new MovesDoubleFrame(
                 new Vector3d(30.42602265115049, 74.13945328104838, -33.62872490858680),
-                new Vector3d[] {
-                    new Vector3d(-13.72105452136864, 44.89287846384119, -12.38450111530472),
-                    new Vector3d(-19.09746886101261, 48.27446230625974, -3.34542622470909),
-                    new Vector3d(-0.45550765669414, 8.93574252860514, 14.54496668299046),
-                    new Vector3d(-17.05391700633166, 23.65207171980825, -12.82638751235814),
-                    new Vector3d(-36.81316811949665, 13.89710950041700, -32.64903666453546),
-                    new Vector3d(-48.21644036872324, 11.84812227099090, -39.31752023613535),
-                    new Vector3d(-53.33959190601372, 10.06354174772228, -48.50091568306568),
-                    new Vector3d(12.11408101071413, 3.52413299176255, 9.76616491936509),
-                    new Vector3d(30.45582454496479, -33.88340955387155, -18.07725538944833),
-                    new Vector3d(36.48876413270367, -58.39021489348401, -42.29592566131941),
-                    new Vector3d(36.15775132847631, -65.87365465591499, -38.45177221740689),
-                    new Vector3d(28.65737287991350, -68.98253643181165, -57.47465988090157),
-                    new Vector3d(-16.04799814499986, 41.54776002198459, 9.45635003983533),
-                    new Vector3d(10.59073783985975, 46.59041206224148, 30.75013353651036),
-                    new Vector3d(20.48434576102986, 51.83331240391598, 40.23593392061119),
-                    new Vector3d(28.62490369119462, 48.17349593158281, 47.68454259535132),
-                    new Vector3d(8.70082152839016, 8.47324776018997, 28.24474571880249),
-                    new Vector3d(-10.51079045215324, -30.64760370012586, 23.06068292595994),
-                    new Vector3d(7.26309042083611, -62.21606414835031, 19.24552391752271),
-                    new Vector3d(15.91866449089897, -68.06258484041555, 13.43535135706272),
-                    new Vector3d(-5.84417891981287, -69.34792221491870, 15.66385034271656),
-                    new Vector3d(17.97126129969341, 48.55257583348600, 39.07935622664329),
-                    new Vector3d(-56.01257184885178, 6.17879494571971, -48.45294947696203),
-                }
+                "\"skeletons\": [{\"x\": -13.7211, \"y\": 44.8929, \"z\": -12.3845}, {\"x\": -19.0975, \"y\": 48.2745, \"z\": -3.3454}, {\"x\": -0.4555, \"y\": 8.9357, \"z\": 14.5450}, {\"x\": -17.0539, \"y\": 23.6521, \"z\": -12.8264}, {\"x\": -36.8132, \"y\": 13.8971, \"z\": -32.6490}, {\"x\": -48.2164, \"y\": 11.8481, \"z\": -39.3175}, {\"x\": -53.3396, \"y\": 10.0635, \"z\": -48.5009}, {\"x\": 12.1141, \"y\": 3.5241, \"z\": 9.7662}, {\"x\": 30.4558, \"y\": -33.8834, \"z\": -18.0773}, {\"x\": 36.4888, \"y\": -58.3902, \"z\": -42.2959}, {\"x\": 36.1578, \"y\": -65.8737, \"z\": -38.4518}, {\"x\": 28.6574, \"y\": -68.9825, \"z\": -57.4747}, {\"x\": -16.0480, \"y\": 41.5478, \"z\": 9.4564}, {\"x\": 10.5907, \"y\": 46.5904, \"z\": 30.7501}, {\"x\": 20.4843, \"y\": 51.8333, \"z\": 40.2359}, {\"x\": 28.6249, \"y\": 48.1735, \"z\": 47.6845}, {\"x\": 8.7008, \"y\": 8.4732, \"z\": 28.2447}, {\"x\": -10.5108, \"y\": -30.6476, \"z\": 23.0607}, {\"x\": 7.2631, \"y\": -62.2161, \"z\": 19.2455}, {\"x\": 15.9187, \"y\": -68.0626, \"z\": 13.4354}, {\"x\": -5.8442, \"y\": -69.3479, \"z\": 15.6639}, {\"x\": 17.9713, \"y\": 48.5526, \"z\": 39.0794}, {\"x\": -56.0126, \"y\": 6.1788, \"z\": -48.4529}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame117() {
         return new MovesDoubleFrame(
                 new Vector3d(30.15306130330016, 73.92458539606343, -33.48282054381350),
-                new Vector3d[] {
-                    new Vector3d(-13.75529916533501, 44.78762429687008, -12.57992608640341),
-                    new Vector3d(-19.10665415154014, 48.19397865321994, -3.52143552253035),
-                    new Vector3d(-0.27496721095259, 9.04978243115842, 14.41632951575200),
-                    new Vector3d(-17.22050289081998, 23.45324539612701, -12.92720129116947),
-                    new Vector3d(-37.46141889772567, 13.30337687411396, -31.97964054053801),
-                    new Vector3d(-49.08984246518926, 11.17215059981003, -38.27903096912412),
-                    new Vector3d(-54.48135106380371, 9.19198025665479, -47.24449257388064),
-                    new Vector3d(12.31734853171218, 3.70763781638664, 9.61642027686499),
-                    new Vector3d(30.67608633385915, -33.66281045241769, -18.19731572520378),
-                    new Vector3d(36.67914488355369, -58.16281679686157, -42.42403590700594),
-                    new Vector3d(36.41995381506216, -65.65157168885229, -38.59297406049513),
-                    new Vector3d(28.91220427764440, -68.77013575534481, -57.60621465098502),
-                    new Vector3d(-16.08631658352954, 41.52275337934188, 9.30412011537423),
-                    new Vector3d(10.63613503807819, 46.67690009867928, 30.45799174054311),
-                    new Vector3d(20.54864988384740, 51.93722596216613, 39.91609530481267),
-                    new Vector3d(28.72929159738417, 48.29832242891894, 47.31209441590216),
-                    new Vector3d(8.91562511458782, 8.69115798001593, 28.11039412645555),
-                    new Vector3d(-10.20956174247794, -30.46113978710696, 22.95802245889477),
-                    new Vector3d(7.53446379912877, -61.99859994790018, 19.10983633310361),
-                    new Vector3d(16.18652972444010, -67.85431666469522, 13.28917798633948),
-                    new Vector3d(-5.57571541936424, -69.14013764146881, 15.52574122289156),
-                    new Vector3d(18.03712116887148, 48.65504767709799, 38.75551718944980),
-                    new Vector3d(-57.18901862825317, 5.33595367745043, -47.03195046880105),
-                }
+                "\"skeletons\": [{\"x\": -13.7553, \"y\": 44.7876, \"z\": -12.5799}, {\"x\": -19.1067, \"y\": 48.1940, \"z\": -3.5214}, {\"x\": -0.2750, \"y\": 9.0498, \"z\": 14.4163}, {\"x\": -17.2205, \"y\": 23.4532, \"z\": -12.9272}, {\"x\": -37.4614, \"y\": 13.3034, \"z\": -31.9796}, {\"x\": -49.0898, \"y\": 11.1722, \"z\": -38.2790}, {\"x\": -54.4814, \"y\": 9.1920, \"z\": -47.2445}, {\"x\": 12.3173, \"y\": 3.7076, \"z\": 9.6164}, {\"x\": 30.6761, \"y\": -33.6628, \"z\": -18.1973}, {\"x\": 36.6791, \"y\": -58.1628, \"z\": -42.4240}, {\"x\": 36.4200, \"y\": -65.6516, \"z\": -38.5930}, {\"x\": 28.9122, \"y\": -68.7701, \"z\": -57.6062}, {\"x\": -16.0863, \"y\": 41.5228, \"z\": 9.3041}, {\"x\": 10.6361, \"y\": 46.6769, \"z\": 30.4580}, {\"x\": 20.5486, \"y\": 51.9372, \"z\": 39.9161}, {\"x\": 28.7293, \"y\": 48.2983, \"z\": 47.3121}, {\"x\": 8.9156, \"y\": 8.6912, \"z\": 28.1104}, {\"x\": -10.2096, \"y\": -30.4611, \"z\": 22.9580}, {\"x\": 7.5345, \"y\": -61.9986, \"z\": 19.1098}, {\"x\": 16.1865, \"y\": -67.8543, \"z\": 13.2892}, {\"x\": -5.5757, \"y\": -69.1401, \"z\": 15.5257}, {\"x\": 18.0371, \"y\": 48.6550, \"z\": 38.7555}, {\"x\": -57.1890, \"y\": 5.3360, \"z\": -47.0320}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame118() {
         return new MovesDoubleFrame(
                 new Vector3d(29.89542901091415, 73.74208004138414, -33.30774215998120),
-                new Vector3d[] {
-                    new Vector3d(-13.77041374352051, 44.73480582256772, -12.77246269327744),
-                    new Vector3d(-19.14375544442576, 48.14674194338735, -3.72700975122994),
-                    new Vector3d(-0.10412569272794, 9.25368736939133, 14.31941371863858),
-                    new Vector3d(-17.39516296111558, 23.27716677560951, -12.98497586402168),
-                    new Vector3d(-38.06751140998128, 12.70547156162239, -31.22035845655037),
-                    new Vector3d(-49.87783763868475, 10.42838553601149, -37.18936699168214),
-                    new Vector3d(-55.51374519856957, 8.22797946100953, -45.92223541762982),
-                    new Vector3d(12.52307675285440, 3.91588555130852, 9.43156193853831),
-                    new Vector3d(30.85732465364275, -33.45581874911539, -18.33185986632480),
-                    new Vector3d(36.85329917857813, -57.94229075799501, -42.55185891484943),
-                    new Vector3d(36.65667347430280, -65.44060016830056, -38.70539486960449),
-                    new Vector3d(29.13672137236827, -68.57738477584604, -57.74615206655194),
-                    new Vector3d(-16.18415203153945, 41.61303803946250, 9.10716587873242),
-                    new Vector3d(10.67927142731521, 46.74040357243556, 30.16100846631099),
-                    new Vector3d(20.61621898266599, 51.99773510316669, 39.60457042468134),
-                    new Vector3d(28.84317032556180, 48.36049004349602, 46.92431539237860),
-                    new Vector3d(9.11519181758532, 8.93595666414922, 27.94793407950397),
-                    new Vector3d(-9.92535637984307, -30.24554907162577, 22.86607649527010),
-                    new Vector3d(7.79584790268332, -61.82088431563484, 18.94459318341380),
-                    new Vector3d(16.44711377794275, -67.66737395759405, 13.10494930442923),
-                    new Vector3d(-5.32076536969440, -68.96296125825077, 15.35722944937166),
-                    new Vector3d(18.11541130704383, 48.70988706510278, 38.43865169012369),
-                    new Vector3d(-58.23686816482921, 4.41770205851893, -45.53902387926242),
-                }
+                "\"skeletons\": [{\"x\": -13.7704, \"y\": 44.7348, \"z\": -12.7725}, {\"x\": -19.1438, \"y\": 48.1467, \"z\": -3.7270}, {\"x\": -0.1041, \"y\": 9.2537, \"z\": 14.3194}, {\"x\": -17.3952, \"y\": 23.2772, \"z\": -12.9850}, {\"x\": -38.0675, \"y\": 12.7055, \"z\": -31.2204}, {\"x\": -49.8778, \"y\": 10.4284, \"z\": -37.1894}, {\"x\": -55.5137, \"y\": 8.2280, \"z\": -45.9222}, {\"x\": 12.5231, \"y\": 3.9159, \"z\": 9.4316}, {\"x\": 30.8573, \"y\": -33.4558, \"z\": -18.3319}, {\"x\": 36.8533, \"y\": -57.9423, \"z\": -42.5519}, {\"x\": 36.6567, \"y\": -65.4406, \"z\": -38.7054}, {\"x\": 29.1367, \"y\": -68.5774, \"z\": -57.7462}, {\"x\": -16.1842, \"y\": 41.6130, \"z\": 9.1072}, {\"x\": 10.6793, \"y\": 46.7404, \"z\": 30.1610}, {\"x\": 20.6162, \"y\": 51.9977, \"z\": 39.6046}, {\"x\": 28.8432, \"y\": 48.3605, \"z\": 46.9243}, {\"x\": 9.1152, \"y\": 8.9360, \"z\": 27.9479}, {\"x\": -9.9254, \"y\": -30.2455, \"z\": 22.8661}, {\"x\": 7.7958, \"y\": -61.8209, \"z\": 18.9446}, {\"x\": 16.4471, \"y\": -67.6674, \"z\": 13.1049}, {\"x\": -5.3208, \"y\": -68.9630, \"z\": 15.3572}, {\"x\": 18.1154, \"y\": 48.7099, \"z\": 38.4387}, {\"x\": -58.2369, \"y\": 4.4177, \"z\": -45.5390}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame119() {
         return new MovesDoubleFrame(
                 new Vector3d(29.64456591787734, 73.57316668065226, -33.10369369431750),
-                new Vector3d[] {
-                    new Vector3d(-13.81962147191594, 44.70929170836226, -13.03471353438659),
-                    new Vector3d(-19.20222387913715, 48.15034224118846, -3.97931920444552),
-                    new Vector3d(0.04794243162496, 9.47173458159759, 14.16612125522416),
-                    new Vector3d(-17.53793752667839, 23.11432967865420, -13.07770969666729),
-                    new Vector3d(-38.66861140031207, 12.10600694616379, -30.38819548297143),
-                    new Vector3d(-50.60829561565694, 9.63303331335130, -35.98342563905010),
-                    new Vector3d(-56.46528791559012, 7.23751779114734, -44.49559305098815),
-                    new Vector3d(12.71106251401171, 4.14981016453687, 9.24272718923338),
-                    new Vector3d(31.01151821640857, -33.27456609899794, -18.47895925764248),
-                    new Vector3d(36.99318475458017, -57.78323705311664, -42.68024410122115),
-                    new Vector3d(36.80129011625095, -65.25422784644518, -38.82457779005750),
-                    new Vector3d(29.34751407458429, -68.41056709697629, -57.91919363264248),
-                    new Vector3d(-16.27863343989283, 41.75175322409005, 8.90874159620723),
-                    new Vector3d(10.72578116871120, 46.81126442885979, 29.88434410421676),
-                    new Vector3d(20.71339269172039, 52.01527968550727, 39.30167841652187),
-                    new Vector3d(28.99127114181290, 48.36512699053743, 46.56149666426678),
-                    new Vector3d(9.31819208950685, 9.21615066789488, 27.76539146013631),
-                    new Vector3d(-9.61910282701419, -30.05248796971477, 22.83685821725815),
-                    new Vector3d(8.05208560778741, -61.66421554036564, 18.74981196545922),
-                    new Vector3d(16.69906800824656, -67.49026812242045, 12.90343745374047),
-                    new Vector3d(-5.06759657037528, -68.79597305572079, 15.16371630944908),
-                    new Vector3d(18.22067991459936, 48.72245228007964, 38.12899978027213),
-                    new Vector3d(-59.21419000556237, 3.47072541347465, -43.96053574218880),
-                }
+                "\"skeletons\": [{\"x\": -13.8196, \"y\": 44.7093, \"z\": -13.0347}, {\"x\": -19.2022, \"y\": 48.1503, \"z\": -3.9793}, {\"x\": 0.0479, \"y\": 9.4717, \"z\": 14.1661}, {\"x\": -17.5379, \"y\": 23.1143, \"z\": -13.0777}, {\"x\": -38.6686, \"y\": 12.1060, \"z\": -30.3882}, {\"x\": -50.6083, \"y\": 9.6330, \"z\": -35.9834}, {\"x\": -56.4653, \"y\": 7.2375, \"z\": -44.4956}, {\"x\": 12.7111, \"y\": 4.1498, \"z\": 9.2427}, {\"x\": 31.0115, \"y\": -33.2746, \"z\": -18.4790}, {\"x\": 36.9932, \"y\": -57.7832, \"z\": -42.6802}, {\"x\": 36.8013, \"y\": -65.2542, \"z\": -38.8246}, {\"x\": 29.3475, \"y\": -68.4106, \"z\": -57.9192}, {\"x\": -16.2786, \"y\": 41.7518, \"z\": 8.9087}, {\"x\": 10.7258, \"y\": 46.8113, \"z\": 29.8843}, {\"x\": 20.7134, \"y\": 52.0153, \"z\": 39.3017}, {\"x\": 28.9913, \"y\": 48.3651, \"z\": 46.5615}, {\"x\": 9.3182, \"y\": 9.2162, \"z\": 27.7654}, {\"x\": -9.6191, \"y\": -30.0525, \"z\": 22.8369}, {\"x\": 8.0521, \"y\": -61.6642, \"z\": 18.7498}, {\"x\": 16.6991, \"y\": -67.4903, \"z\": 12.9034}, {\"x\": -5.0676, \"y\": -68.7960, \"z\": 15.1637}, {\"x\": 18.2207, \"y\": 48.7225, \"z\": 38.1290}, {\"x\": -59.2142, \"y\": 3.4707, \"z\": -43.9605}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame120() {
         return new MovesDoubleFrame(
                 new Vector3d(29.40097565034453, 73.43093950903659, -32.87411338572499),
-                new Vector3d[] {
-                    new Vector3d(-13.89424361888803, 44.76219279682572, -13.32860816271398),
-                    new Vector3d(-19.27476929535718, 48.22660829112789, -4.30328994238900),
-                    new Vector3d(0.24012808555772, 9.73381518929371, 14.00946429427689),
-                    new Vector3d(-17.66312464083223, 22.97934092226628, -13.17276053583427),
-                    new Vector3d(-39.25798974281142, 11.44313248124184, -29.50099877211100),
-                    new Vector3d(-51.34319387443259, 8.78377501164010, -34.68277445460337),
-                    new Vector3d(-57.42903964960660, 6.21492386766689, -42.93025473519988),
-                    new Vector3d(12.86591415412268, 4.39900069027761, 9.02140866210870),
-                    new Vector3d(31.10336628971068, -33.09271140092451, -18.65661198727783),
-                    new Vector3d(37.11892231539500, -57.61240033272667, -42.82771523673448),
-                    new Vector3d(36.86470992590077, -65.16525571107121, -39.01393799578052),
-                    new Vector3d(29.51709695120328, -68.24213320754679, -58.11290861263026),
-                    new Vector3d(-16.30276562102931, 41.88130625429753, 8.74756962076449),
-                    new Vector3d(10.80832048580884, 46.87737008330363, 29.62984141754312),
-                    new Vector3d(20.82151073376760, 52.00561687826957, 39.00449477772352),
-                    new Vector3d(29.15329396534508, 48.32163048406139, 46.19951097469865),
-                    new Vector3d(9.52310449707602, 9.51197651209534, 27.54283059653767),
-                    new Vector3d(-9.35908536402082, -29.87809924033505, 22.79103877873633),
-                    new Vector3d(8.29296023153546, -61.51830771554835, 18.52885219196912),
-                    new Vector3d(16.94838903333732, -67.33925576992654, 12.68456754924047),
-                    new Vector3d(-4.82560400131229, -68.67213268381465, 14.92701820025154),
-                    new Vector3d(18.33230085451625, 48.72054947342934, 37.81928539874247),
-                    new Vector3d(-60.15586910957855, 2.44511736287953, -42.24748562523013),
-                }
+                "\"skeletons\": [{\"x\": -13.8942, \"y\": 44.7622, \"z\": -13.3286}, {\"x\": -19.2748, \"y\": 48.2266, \"z\": -4.3033}, {\"x\": 0.2401, \"y\": 9.7338, \"z\": 14.0095}, {\"x\": -17.6631, \"y\": 22.9793, \"z\": -13.1728}, {\"x\": -39.2580, \"y\": 11.4431, \"z\": -29.5010}, {\"x\": -51.3432, \"y\": 8.7838, \"z\": -34.6828}, {\"x\": -57.4290, \"y\": 6.2149, \"z\": -42.9303}, {\"x\": 12.8659, \"y\": 4.3990, \"z\": 9.0214}, {\"x\": 31.1034, \"y\": -33.0927, \"z\": -18.6566}, {\"x\": 37.1189, \"y\": -57.6124, \"z\": -42.8277}, {\"x\": 36.8647, \"y\": -65.1653, \"z\": -39.0139}, {\"x\": 29.5171, \"y\": -68.2421, \"z\": -58.1129}, {\"x\": -16.3028, \"y\": 41.8813, \"z\": 8.7476}, {\"x\": 10.8083, \"y\": 46.8774, \"z\": 29.6298}, {\"x\": 20.8215, \"y\": 52.0056, \"z\": 39.0045}, {\"x\": 29.1533, \"y\": 48.3216, \"z\": 46.1995}, {\"x\": 9.5231, \"y\": 9.5120, \"z\": 27.5428}, {\"x\": -9.3591, \"y\": -29.8781, \"z\": 22.7910}, {\"x\": 8.2930, \"y\": -61.5183, \"z\": 18.5289}, {\"x\": 16.9484, \"y\": -67.3393, \"z\": 12.6846}, {\"x\": -4.8256, \"y\": -68.6721, \"z\": 14.9270}, {\"x\": 18.3323, \"y\": 48.7205, \"z\": 37.8193}, {\"x\": -60.1559, \"y\": 2.4451, \"z\": -42.2475}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame121() {
         return new MovesDoubleFrame(
                 new Vector3d(29.16751846440796, 73.33609576213328, -32.62610316721645),
-                new Vector3d[] {
-                    new Vector3d(-13.96833426370999, 44.86855799261491, -13.64851754288400),
-                    new Vector3d(-19.37163747078239, 48.37539292051082, -4.64581008683543),
-                    new Vector3d(0.42825685493287, 10.04374188588079, 13.78315267039945),
-                    new Vector3d(-17.80901207193141, 22.89536643828965, -13.28294274009333),
-                    new Vector3d(-39.84388760036737, 10.77231114992224, -28.50648275315088),
-                    new Vector3d(-52.02030058909223, 7.85335381395537, -33.24188631026143),
-                    new Vector3d(-58.36848841476603, 5.09111814666214, -41.19518385312983),
-                    new Vector3d(12.99145837680395, 4.68849532526538, 8.73360936136699),
-                    new Vector3d(31.17138968854277, -32.91362105730481, -18.85465793965228),
-                    new Vector3d(37.15099202996762, -57.42311473932480, -42.98257519066556),
-                    new Vector3d(36.88274700027915, -65.05630553491730, -39.18180648423151),
-                    new Vector3d(29.61205248750796, -68.08120730885287, -58.30122904882170),
-                    new Vector3d(-16.28976940808185, 42.12929403070819, 8.55583442819971),
-                    new Vector3d(10.94129044599059, 46.94104533279152, 29.36531607049974),
-                    new Vector3d(20.99530412704381, 51.96605484754520, 38.75145575471318),
-                    new Vector3d(29.36710147166269, 48.20988947072425, 45.85390365981146),
-                    new Vector3d(9.71455357130265, 9.82476098483667, 27.27353036902529),
-                    new Vector3d(-9.10003516570711, -29.73074997732214, 22.65665299530841),
-                    new Vector3d(8.51722526289124, -61.40229353844969, 18.27633361699813),
-                    new Vector3d(17.17683015433127, -67.20782134359641, 12.42810900196323),
-                    new Vector3d(-4.59921735580149, -68.58775029959234, 14.67615644677765),
-                    new Vector3d(18.50722948640168, 48.70004356690218, 37.55986786441323),
-                    new Vector3d(-61.03344177182201, 1.32306859774101, -40.35674521961979),
-                }
+                "\"skeletons\": [{\"x\": -13.9683, \"y\": 44.8686, \"z\": -13.6485}, {\"x\": -19.3716, \"y\": 48.3754, \"z\": -4.6458}, {\"x\": 0.4283, \"y\": 10.0437, \"z\": 13.7832}, {\"x\": -17.8090, \"y\": 22.8954, \"z\": -13.2829}, {\"x\": -39.8439, \"y\": 10.7723, \"z\": -28.5065}, {\"x\": -52.0203, \"y\": 7.8534, \"z\": -33.2419}, {\"x\": -58.3685, \"y\": 5.0911, \"z\": -41.1952}, {\"x\": 12.9915, \"y\": 4.6885, \"z\": 8.7336}, {\"x\": 31.1714, \"y\": -32.9136, \"z\": -18.8547}, {\"x\": 37.1510, \"y\": -57.4231, \"z\": -42.9826}, {\"x\": 36.8827, \"y\": -65.0563, \"z\": -39.1818}, {\"x\": 29.6121, \"y\": -68.0812, \"z\": -58.3012}, {\"x\": -16.2898, \"y\": 42.1293, \"z\": 8.5558}, {\"x\": 10.9413, \"y\": 46.9410, \"z\": 29.3653}, {\"x\": 20.9953, \"y\": 51.9661, \"z\": 38.7515}, {\"x\": 29.3671, \"y\": 48.2099, \"z\": 45.8539}, {\"x\": 9.7146, \"y\": 9.8248, \"z\": 27.2735}, {\"x\": -9.1000, \"y\": -29.7307, \"z\": 22.6567}, {\"x\": 8.5172, \"y\": -61.4023, \"z\": 18.2763}, {\"x\": 17.1768, \"y\": -67.2078, \"z\": 12.4281}, {\"x\": -4.5992, \"y\": -68.5878, \"z\": 14.6762}, {\"x\": 18.5072, \"y\": 48.7000, \"z\": 37.5599}, {\"x\": -61.0334, \"y\": 1.3231, \"z\": -40.3567}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame122() {
         return new MovesDoubleFrame(
                 new Vector3d(28.94132941944601, 73.28200756107742, -32.35705530199388),
-                new Vector3d[] {
-                    new Vector3d(-14.07593000094737, 45.04751531226805, -14.00408272679391),
-                    new Vector3d(-19.49806748414741, 48.59305370353430, -5.03891332211155),
-                    new Vector3d(0.53542415960048, 10.39757262259709, 13.51658785568340),
-                    new Vector3d(-17.94657581753046, 22.87474421215449, -13.40051020448472),
-                    new Vector3d(-40.36033041696545, 10.09280267924507, -27.47095028937713),
-                    new Vector3d(-52.64130207982620, 6.84636242088432, -31.70017643090282),
-                    new Vector3d(-59.23517030293525, 3.88802872807075, -39.29846967224592),
-                    new Vector3d(13.08010982166213, 4.97078900400471, 8.45613485474233),
-                    new Vector3d(31.20068075736320, -32.75692891903775, -19.05174131723975),
-                    new Vector3d(37.09001864982384, -57.35685026552531, -43.12657773078337),
-                    new Vector3d(36.84587060576350, -64.93710583035596, -39.33983706013703),
-                    new Vector3d(29.71308146433081, -67.97403441165112, -58.49491406845372),
-                    new Vector3d(-16.20760195809243, 42.48097521324119, 8.31745517251980),
-                    new Vector3d(11.13217913526596, 47.02600973558220, 29.10760256286150),
-                    new Vector3d(21.24430973489736, 51.91590636742058, 38.51406448889393),
-                    new Vector3d(29.62446331250594, 48.05979916521096, 45.53844954535374),
-                    new Vector3d(9.90337940614580, 10.15018660995807, 26.97445218154857),
-                    new Vector3d(-8.76791249012931, -29.64363537022431, 22.53017372885938),
-                    new Vector3d(8.71745067899345, -61.30462379404265, 17.99992693496425),
-                    new Vector3d(17.38643002738885, -67.13145642528048, 12.14785576277107),
-                    new Vector3d(-4.37943043217069, -68.53790919317126, 14.40316124755235),
-                    new Vector3d(18.73389413137440, 48.67770972530258, 37.28731859182552),
-                    new Vector3d(-61.87122085182334, 0.16737635097322, -38.28136004178550),
-                }
+                "\"skeletons\": [{\"x\": -14.0759, \"y\": 45.0475, \"z\": -14.0041}, {\"x\": -19.4981, \"y\": 48.5931, \"z\": -5.0389}, {\"x\": 0.5354, \"y\": 10.3976, \"z\": 13.5166}, {\"x\": -17.9466, \"y\": 22.8747, \"z\": -13.4005}, {\"x\": -40.3603, \"y\": 10.0928, \"z\": -27.4710}, {\"x\": -52.6413, \"y\": 6.8464, \"z\": -31.7002}, {\"x\": -59.2352, \"y\": 3.8880, \"z\": -39.2985}, {\"x\": 13.0801, \"y\": 4.9708, \"z\": 8.4561}, {\"x\": 31.2007, \"y\": -32.7569, \"z\": -19.0517}, {\"x\": 37.0900, \"y\": -57.3569, \"z\": -43.1266}, {\"x\": 36.8459, \"y\": -64.9371, \"z\": -39.3398}, {\"x\": 29.7131, \"y\": -67.9740, \"z\": -58.4949}, {\"x\": -16.2076, \"y\": 42.4810, \"z\": 8.3175}, {\"x\": 11.1322, \"y\": 47.0260, \"z\": 29.1076}, {\"x\": 21.2443, \"y\": 51.9159, \"z\": 38.5141}, {\"x\": 29.6245, \"y\": 48.0598, \"z\": 45.5384}, {\"x\": 9.9034, \"y\": 10.1502, \"z\": 26.9745}, {\"x\": -8.7679, \"y\": -29.6436, \"z\": 22.5302}, {\"x\": 8.7175, \"y\": -61.3046, \"z\": 17.9999}, {\"x\": 17.3864, \"y\": -67.1315, \"z\": 12.1479}, {\"x\": -4.3794, \"y\": -68.5379, \"z\": 14.4032}, {\"x\": 18.7339, \"y\": 48.6777, \"z\": 37.2873}, {\"x\": -61.8712, \"y\": 0.1674, \"z\": -38.2814}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame123() {
         return new MovesDoubleFrame(
                 new Vector3d(28.74174233119509, 73.27319492296016, -32.07924728540461),
-                new Vector3d[] {
-                    new Vector3d(-14.21823639609979, 45.29537931414628, -14.42400570485913),
-                    new Vector3d(-19.67445366571043, 48.93571928455570, -5.47139614216456),
-                    new Vector3d(0.68368416916836, 10.76891040903437, 13.23931216049823),
-                    new Vector3d(-18.10995318540276, 22.93142199653584, -13.50207506190654),
-                    new Vector3d(-40.84647141999987, 9.38314139818939, -26.42297870804582),
-                    new Vector3d(-53.20929793514026, 5.79777184638019, -30.10509164419479),
-                    new Vector3d(-60.05850679560930, 2.61439146702605, -37.32906104493051),
-                    new Vector3d(13.16652070462933, 5.22499800044944, 8.19057055168494),
-                    new Vector3d(31.16510957640594, -32.65072824907330, -19.25794607029910),
-                    new Vector3d(36.99817287123970, -57.32730992007821, -43.27123145049764),
-                    new Vector3d(36.78084737671726, -64.88233306181010, -39.45130998851749),
-                    new Vector3d(29.80998771719248, -67.94282641058426, -58.68922488990671),
-                    new Vector3d(-16.06684457655459, 42.90270417537160, 8.07436190300330),
-                    new Vector3d(11.38335775728294, 47.15564469317001, 28.83719200338547),
-                    new Vector3d(21.53023392750585, 51.88636855176669, 38.28634762731622),
-                    new Vector3d(29.89152389406043, 47.92103546502151, 45.24012776571917),
-                    new Vector3d(10.08079678178511, 10.49373161732854, 26.65724330418004),
-                    new Vector3d(-8.51315838582753, -29.60420394882071, 22.41626689742294),
-                    new Vector3d(8.90227044121444, -61.25373503361277, 17.71531037785865),
-                    new Vector3d(17.57903903812175, -67.10540505357999, 11.86039938822636),
-                    new Vector3d(-4.19079451946607, -68.54575384081602, 14.10749443602653),
-                    new Vector3d(18.99995560260425, 48.68044112027292, 37.00231648068591),
-                    new Vector3d(-62.63872584068904, -1.04883505784326, -36.14146841375541),
-                }
+                "\"skeletons\": [{\"x\": -14.2182, \"y\": 45.2954, \"z\": -14.4240}, {\"x\": -19.6745, \"y\": 48.9357, \"z\": -5.4714}, {\"x\": 0.6837, \"y\": 10.7689, \"z\": 13.2393}, {\"x\": -18.1100, \"y\": 22.9314, \"z\": -13.5021}, {\"x\": -40.8465, \"y\": 9.3831, \"z\": -26.4230}, {\"x\": -53.2093, \"y\": 5.7978, \"z\": -30.1051}, {\"x\": -60.0585, \"y\": 2.6144, \"z\": -37.3291}, {\"x\": 13.1665, \"y\": 5.2250, \"z\": 8.1906}, {\"x\": 31.1651, \"y\": -32.6507, \"z\": -19.2579}, {\"x\": 36.9982, \"y\": -57.3273, \"z\": -43.2712}, {\"x\": 36.7808, \"y\": -64.8823, \"z\": -39.4513}, {\"x\": 29.8100, \"y\": -67.9428, \"z\": -58.6892}, {\"x\": -16.0668, \"y\": 42.9027, \"z\": 8.0744}, {\"x\": 11.3834, \"y\": 47.1556, \"z\": 28.8372}, {\"x\": 21.5302, \"y\": 51.8864, \"z\": 38.2863}, {\"x\": 29.8915, \"y\": 47.9210, \"z\": 45.2401}, {\"x\": 10.0808, \"y\": 10.4937, \"z\": 26.6572}, {\"x\": -8.5132, \"y\": -29.6042, \"z\": 22.4163}, {\"x\": 8.9023, \"y\": -61.2537, \"z\": 17.7153}, {\"x\": 17.5790, \"y\": -67.1054, \"z\": 11.8604}, {\"x\": -4.1908, \"y\": -68.5458, \"z\": 14.1075}, {\"x\": 19.0000, \"y\": 48.6804, \"z\": 37.0023}, {\"x\": -62.6387, \"y\": -1.0488, \"z\": -36.1415}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame124() {
         return new MovesDoubleFrame(
                 new Vector3d(28.57897224362143, 73.33483146218832, -31.78226653714147),
-                new Vector3d[] {
-                    new Vector3d(-14.35313908027636, 45.61685980822403, -14.87439554194540),
-                    new Vector3d(-19.85010732261568, 49.32735701376230, -5.94576475324269),
-                    new Vector3d(0.79192484009127, 11.16806457949058, 12.93653164211888),
-                    new Vector3d(-18.30861027110897, 23.04924656123939, -13.63074861334460),
-                    new Vector3d(-41.30476223969927, 8.70733295459094, -25.25566809741857),
-                    new Vector3d(-53.69797418955682, 4.72879008557759, -28.34976058266000),
-                    new Vector3d(-60.75820542943018, 1.29807675898718, -35.21380222515735),
-                    new Vector3d(13.21408000522579, 5.51528007611789, 7.82299802933938),
-                    new Vector3d(31.09233864774273, -32.61005252724109, -19.46212139496907),
-                    new Vector3d(36.86725477411823, -57.33375269257141, -43.40909518319943),
-                    new Vector3d(36.68826434455311, -64.89512275055939, -39.55209747958981),
-                    new Vector3d(29.83901238469742, -67.97634764717441, -58.87430378270111),
-                    new Vector3d(-15.93444018287875, 43.41486764519929, 7.83959370821858),
-                    new Vector3d(11.66360631734397, 47.34799150098132, 28.54784607914376),
-                    new Vector3d(21.86394876434282, 51.90273823108784, 38.00317684991835),
-                    new Vector3d(30.20260096736012, 47.81194609572012, 44.89824372070096),
-                    new Vector3d(10.21949161698835, 10.84438427735584, 26.32921275773064),
-                    new Vector3d(-8.23342659773792, -29.67850851064442, 22.25658966452475),
-                    new Vector3d(9.06927096877969, -61.29511742528025, 17.41349922472591),
-                    new Vector3d(17.73238197811455, -67.15003034329459, 11.54458513346750),
-                    new Vector3d(-4.03055311153217, -68.62304720360638, 13.79424171893140),
-                    new Vector3d(19.31195884998172, 48.72591834323343, 36.70050241729290),
-                    new Vector3d(-63.26058437025147, -2.34691194109554, -33.84022260808489),
-                }
+                "\"skeletons\": [{\"x\": -14.3531, \"y\": 45.6169, \"z\": -14.8744}, {\"x\": -19.8501, \"y\": 49.3274, \"z\": -5.9458}, {\"x\": 0.7919, \"y\": 11.1681, \"z\": 12.9365}, {\"x\": -18.3086, \"y\": 23.0492, \"z\": -13.6307}, {\"x\": -41.3048, \"y\": 8.7073, \"z\": -25.2557}, {\"x\": -53.6980, \"y\": 4.7288, \"z\": -28.3498}, {\"x\": -60.7582, \"y\": 1.2981, \"z\": -35.2138}, {\"x\": 13.2141, \"y\": 5.5153, \"z\": 7.8230}, {\"x\": 31.0923, \"y\": -32.6101, \"z\": -19.4621}, {\"x\": 36.8673, \"y\": -57.3338, \"z\": -43.4091}, {\"x\": 36.6883, \"y\": -64.8951, \"z\": -39.5521}, {\"x\": 29.8390, \"y\": -67.9763, \"z\": -58.8743}, {\"x\": -15.9344, \"y\": 43.4149, \"z\": 7.8396}, {\"x\": 11.6636, \"y\": 47.3480, \"z\": 28.5478}, {\"x\": 21.8639, \"y\": 51.9027, \"z\": 38.0032}, {\"x\": 30.2026, \"y\": 47.8119, \"z\": 44.8982}, {\"x\": 10.2195, \"y\": 10.8444, \"z\": 26.3292}, {\"x\": -8.2334, \"y\": -29.6785, \"z\": 22.2566}, {\"x\": 9.0693, \"y\": -61.2951, \"z\": 17.4135}, {\"x\": 17.7324, \"y\": -67.1500, \"z\": 11.5446}, {\"x\": -4.0306, \"y\": -68.6230, \"z\": 13.7942}, {\"x\": 19.3120, \"y\": 48.7259, \"z\": 36.7005}, {\"x\": -63.2606, \"y\": -2.3469, \"z\": -33.8402}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame125() {
         return new MovesDoubleFrame(
                 new Vector3d(28.44450792117561, 73.46578105534995, -31.47970718205634),
-                new Vector3d[] {
-                    new Vector3d(-14.53631091594433, 46.00170810211402, -15.30819436502424),
-                    new Vector3d(-20.03067832589185, 49.73726802548202, -6.47098607941765),
-                    new Vector3d(0.84187552553932, 11.62635791481717, 12.65996899572443),
-                    new Vector3d(-18.44812609173935, 23.20611536049435, -13.74421375768314),
-                    new Vector3d(-41.70706338056382, 8.04957356961580, -23.95289686529349),
-                    new Vector3d(-54.08141150138467, 3.64146946230162, -26.43318488086465),
-                    new Vector3d(-61.27641175455055, -0.07440199582368, -32.92499195133624),
-                    new Vector3d(13.20006863863211, 5.82456718310508, 7.38538731600021),
-                    new Vector3d(30.96915041595139, -32.60629985570777, -19.66710855724308),
-                    new Vector3d(36.65564379478420, -57.39211673096476, -43.54295670116245),
-                    new Vector3d(36.51579137136728, -65.02134363734204, -39.65356438186322),
-                    new Vector3d(29.80452187988955, -68.08146981624601, -59.03669668160672),
-                    new Vector3d(-15.74592457545168, 43.95390772348190, 7.56638641982362),
-                    new Vector3d(11.99138158438761, 47.59240420271710, 28.19354484150496),
-                    new Vector3d(22.26915027062958, 51.98660757614088, 37.64985198165453),
-                    new Vector3d(30.57964699431135, 47.77847799926902, 44.51084246196755),
-                    new Vector3d(10.29972197347679, 11.16720844660317, 25.98270521908388),
-                    new Vector3d(-7.97196862845528, -29.79619823905628, 22.08287940208089),
-                    new Vector3d(9.19386209749900, -61.41659871419738, 17.08784909215997),
-                    new Vector3d(17.84465325997551, -67.26049283231279, 11.19943558402440),
-                    new Vector3d(-3.90425006905630, -68.77269839504775, 13.46520832658025),
-                    new Vector3d(19.69313646750605, 48.83442805507259, 36.35335430301732),
-                    new Vector3d(-63.64860622540787, -3.75538777784465, -31.37600647342025),
-                }
+                "\"skeletons\": [{\"x\": -14.5363, \"y\": 46.0017, \"z\": -15.3082}, {\"x\": -20.0307, \"y\": 49.7373, \"z\": -6.4710}, {\"x\": 0.8419, \"y\": 11.6264, \"z\": 12.6600}, {\"x\": -18.4481, \"y\": 23.2061, \"z\": -13.7442}, {\"x\": -41.7071, \"y\": 8.0496, \"z\": -23.9529}, {\"x\": -54.0814, \"y\": 3.6415, \"z\": -26.4332}, {\"x\": -61.2764, \"y\": -0.0744, \"z\": -32.9250}, {\"x\": 13.2001, \"y\": 5.8246, \"z\": 7.3854}, {\"x\": 30.9692, \"y\": -32.6063, \"z\": -19.6671}, {\"x\": 36.6556, \"y\": -57.3921, \"z\": -43.5430}, {\"x\": 36.5158, \"y\": -65.0213, \"z\": -39.6536}, {\"x\": 29.8045, \"y\": -68.0815, \"z\": -59.0367}, {\"x\": -15.7459, \"y\": 43.9539, \"z\": 7.5664}, {\"x\": 11.9914, \"y\": 47.5924, \"z\": 28.1935}, {\"x\": 22.2692, \"y\": 51.9866, \"z\": 37.6499}, {\"x\": 30.5796, \"y\": 47.7785, \"z\": 44.5108}, {\"x\": 10.2997, \"y\": 11.1672, \"z\": 25.9827}, {\"x\": -7.9720, \"y\": -29.7962, \"z\": 22.0829}, {\"x\": 9.1939, \"y\": -61.4166, \"z\": 17.0878}, {\"x\": 17.8447, \"y\": -67.2605, \"z\": 11.1994}, {\"x\": -3.9043, \"y\": -68.7727, \"z\": 13.4652}, {\"x\": 19.6931, \"y\": 48.8344, \"z\": 36.3534}, {\"x\": -63.6486, \"y\": -3.7554, \"z\": -31.3760}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame126() {
         return new MovesDoubleFrame(
                 new Vector3d(28.33929252159304, 73.67171974133160, -31.16805497097265),
-                new Vector3d[] {
-                    new Vector3d(-14.72259908512100, 46.40245371415770, -15.77657754920107),
-                    new Vector3d(-20.26934864181302, 50.20831951391099, -7.00236393900371),
-                    new Vector3d(0.87982557661573, 12.11196427645211, 12.38713191060566),
-                    new Vector3d(-18.55973588578661, 23.37529306962646, -13.87934846498541),
-                    new Vector3d(-41.99553216167836, 7.38135450311742, -22.56021362226339),
-                    new Vector3d(-54.33382778706385, 2.54817771960591, -24.40240561959070),
-                    new Vector3d(-61.73778816561030, -1.39680454807500, -30.45126763516430),
-                    new Vector3d(13.11676007786214, 6.04748834357795, 7.03764809937777),
-                    new Vector3d(30.78931401366600, -32.59807905850882, -19.92522570079955),
-                    new Vector3d(36.45561007914709, -57.47368378841219, -43.67875706644512),
-                    new Vector3d(36.23240579769150, -65.18015331420116, -39.76186414138344),
-                    new Vector3d(29.74256590254347, -68.27054744470716, -59.20154470264989),
-                    new Vector3d(-15.53698434866439, 44.51232181397268, 7.30566073847367),
-                    new Vector3d(12.34823510484610, 47.88898325517333, 27.78117415657092),
-                    new Vector3d(22.71949975328360, 52.15528542417004, 37.23222112031283),
-                    new Vector3d(31.03628634867833, 47.82175784912892, 44.04546746583285),
-                    new Vector3d(10.35382455989853, 11.45314694503764, 25.59503592318534),
-                    new Vector3d(-7.79071191021352, -29.79665163894673, 21.88884876530344),
-                    new Vector3d(9.28337127749207, -61.61935049309199, 16.73345598801109),
-                    new Vector3d(17.92133000487694, -67.44762788020907, 10.85312183659251),
-                    new Vector3d(-3.81970457314527, -68.99526929304444, 13.13466424317659),
-                    new Vector3d(20.11320959857554, 49.03303650352859, 35.94410503666575),
-                    new Vector3d(-63.96330600072544, -5.06817038637682, -28.75508409923708),
-                }
+                "\"skeletons\": [{\"x\": -14.7226, \"y\": 46.4025, \"z\": -15.7766}, {\"x\": -20.2693, \"y\": 50.2083, \"z\": -7.0024}, {\"x\": 0.8798, \"y\": 12.1120, \"z\": 12.3871}, {\"x\": -18.5597, \"y\": 23.3753, \"z\": -13.8793}, {\"x\": -41.9955, \"y\": 7.3814, \"z\": -22.5602}, {\"x\": -54.3338, \"y\": 2.5482, \"z\": -24.4024}, {\"x\": -61.7378, \"y\": -1.3968, \"z\": -30.4513}, {\"x\": 13.1168, \"y\": 6.0475, \"z\": 7.0376}, {\"x\": 30.7893, \"y\": -32.5981, \"z\": -19.9252}, {\"x\": 36.4556, \"y\": -57.4737, \"z\": -43.6788}, {\"x\": 36.2324, \"y\": -65.1802, \"z\": -39.7619}, {\"x\": 29.7426, \"y\": -68.2705, \"z\": -59.2015}, {\"x\": -15.5370, \"y\": 44.5123, \"z\": 7.3057}, {\"x\": 12.3482, \"y\": 47.8890, \"z\": 27.7812}, {\"x\": 22.7195, \"y\": 52.1553, \"z\": 37.2322}, {\"x\": 31.0363, \"y\": 47.8218, \"z\": 44.0455}, {\"x\": 10.3538, \"y\": 11.4531, \"z\": 25.5950}, {\"x\": -7.7907, \"y\": -29.7967, \"z\": 21.8888}, {\"x\": 9.2834, \"y\": -61.6194, \"z\": 16.7335}, {\"x\": 17.9213, \"y\": -67.4476, \"z\": 10.8531}, {\"x\": -3.8197, \"y\": -68.9953, \"z\": 13.1347}, {\"x\": 20.1132, \"y\": 49.0330, \"z\": 35.9441}, {\"x\": -63.9633, \"y\": -5.0682, \"z\": -28.7551}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame127() {
         return new MovesDoubleFrame(
                 new Vector3d(28.26819065437245, 73.95506381523317, -30.82795022544392),
-                new Vector3d[] {
-                    new Vector3d(-14.86914877630080, 46.86703383306236, -16.25050866668997),
-                    new Vector3d(-20.50017468434790, 50.73771927469378, -7.55247649213738),
-                    new Vector3d(0.87982134913180, 12.56460454206143, 12.05223042744428),
-                    new Vector3d(-18.67104718190649, 23.59052496445531, -14.02785415672733),
-                    new Vector3d(-42.22131496218176, 6.73286226828618, -21.05050520573658),
-                    new Vector3d(-54.46161654851454, 1.49051901391001, -22.17705448910126),
-                    new Vector3d(-62.14143909835838, -2.63362147647611, -27.70245556962239),
-                    new Vector3d(13.01254278781457, 6.30706474224450, 6.63018380813417),
-                    new Vector3d(30.53185467073231, -32.65386546871991, -20.23672202953435),
-                    new Vector3d(36.17772938253623, -57.69562641864110, -43.77839161793406),
-                    new Vector3d(35.93197984634224, -65.38459762404415, -39.91440109046793),
-                    new Vector3d(29.62031004684348, -68.49141572233705, -59.37638931297734),
-                    new Vector3d(-15.37121352756495, 45.14044231459334, 7.06494275024347),
-                    new Vector3d(12.71960610804140, 48.23514336164456, 27.33895694833636),
-                    new Vector3d(23.19087389237038, 52.39435713093107, 36.72565905373183),
-                    new Vector3d(31.50895848679101, 47.97847327456163, 43.46302878182021),
-                    new Vector3d(10.35790968788334, 11.70844311187463, 25.19278284302914),
-                    new Vector3d(-7.55474405110892, -29.96670736502562, 21.57182036450617),
-                    new Vector3d(9.34548577149447, -61.89399668245066, 16.32323896532953),
-                    new Vector3d(17.95684874313255, -67.72528480456563, 10.48982466480771),
-                    new Vector3d(-3.75808997083989, -69.28823520367284, 12.78104262746949),
-                    new Vector3d(20.54222569105655, 49.30513254358378, 35.44085241978016),
-                    new Vector3d(-64.17469050079023, -6.32958946957898, -25.86470559317982),
-                }
+                "\"skeletons\": [{\"x\": -14.8691, \"y\": 46.8670, \"z\": -16.2505}, {\"x\": -20.5002, \"y\": 50.7377, \"z\": -7.5525}, {\"x\": 0.8798, \"y\": 12.5646, \"z\": 12.0522}, {\"x\": -18.6710, \"y\": 23.5905, \"z\": -14.0279}, {\"x\": -42.2213, \"y\": 6.7329, \"z\": -21.0505}, {\"x\": -54.4616, \"y\": 1.4905, \"z\": -22.1771}, {\"x\": -62.1414, \"y\": -2.6336, \"z\": -27.7025}, {\"x\": 13.0125, \"y\": 6.3071, \"z\": 6.6302}, {\"x\": 30.5319, \"y\": -32.6539, \"z\": -20.2367}, {\"x\": 36.1777, \"y\": -57.6956, \"z\": -43.7784}, {\"x\": 35.9320, \"y\": -65.3846, \"z\": -39.9144}, {\"x\": 29.6203, \"y\": -68.4914, \"z\": -59.3764}, {\"x\": -15.3712, \"y\": 45.1404, \"z\": 7.0649}, {\"x\": 12.7196, \"y\": 48.2351, \"z\": 27.3390}, {\"x\": 23.1909, \"y\": 52.3944, \"z\": 36.7257}, {\"x\": 31.5090, \"y\": 47.9785, \"z\": 43.4630}, {\"x\": 10.3579, \"y\": 11.7084, \"z\": 25.1928}, {\"x\": -7.5547, \"y\": -29.9667, \"z\": 21.5718}, {\"x\": 9.3455, \"y\": -61.8940, \"z\": 16.3232}, {\"x\": 17.9568, \"y\": -67.7253, \"z\": 10.4898}, {\"x\": -3.7581, \"y\": -69.2882, \"z\": 12.7810}, {\"x\": 20.5422, \"y\": 49.3051, \"z\": 35.4409}, {\"x\": -64.1747, \"y\": -6.3296, \"z\": -25.8647}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame128() {
         return new MovesDoubleFrame(
                 new Vector3d(28.24628691620520, 74.30335273248319, -30.47974968770364),
-                new Vector3d[] {
-                    new Vector3d(-15.05059322756160, 47.37164474350656, -16.70943884454005),
-                    new Vector3d(-20.72246415305381, 51.27658674022199, -8.03939695285406),
-                    new Vector3d(0.85974256178665, 13.03016032567489, 11.66037099117594),
-                    new Vector3d(-18.77306083074314, 23.87882354867379, -14.19563726600877),
-                    new Vector3d(-42.36602236245633, 6.18010733675728, -19.45789976429552),
-                    new Vector3d(-54.50251710654923, 0.52536328363131, -19.76488985763189),
-                    new Vector3d(-62.37263081397453, -3.84610686512926, -24.73483872424423),
-                    new Vector3d(12.90959554583980, 6.60318414804820, 6.16099909111941),
-                    new Vector3d(30.21683955842865, -32.74487981373614, -20.53620235518434),
-                    new Vector3d(35.83604242705039, -57.94964144315147, -43.87955018857398),
-                    new Vector3d(35.60298552637586, -65.62979808207851, -40.02274834815750),
-                    new Vector3d(29.44775302373253, -68.78109533537409, -59.50738379541823),
-                    new Vector3d(-15.21682707045435, 45.74386788864970, 6.78960096078380),
-                    new Vector3d(13.07207297889387, 48.59948856876797, 26.87616633892031),
-                    new Vector3d(23.65560627884908, 52.67621594017501, 36.16471732100121),
-                    new Vector3d(31.99521628638134, 48.18970480148845, 42.80908325645829),
-                    new Vector3d(10.33501571705642, 11.95759162058697, 24.76426369469836),
-                    new Vector3d(-7.28274068337460, -30.25783482394231, 21.15555908615399),
-                    new Vector3d(9.39183400560616, -62.24788566898093, 15.90603381997034),
-                    new Vector3d(17.95671069776380, -68.07178940434015, 10.12590976945710),
-                    new Vector3d(-3.73738906121617, -69.65070248924509, 12.41243558946977),
-                    new Vector3d(20.97193438013868, 49.60800953549141, 34.90105189322202),
-                    new Vector3d(-64.13144749526516, -7.62463463597238, -22.78150735199035),
-                }
+                "\"skeletons\": [{\"x\": -15.0506, \"y\": 47.3716, \"z\": -16.7094}, {\"x\": -20.7225, \"y\": 51.2766, \"z\": -8.0394}, {\"x\": 0.8597, \"y\": 13.0302, \"z\": 11.6604}, {\"x\": -18.7731, \"y\": 23.8788, \"z\": -14.1956}, {\"x\": -42.3660, \"y\": 6.1801, \"z\": -19.4579}, {\"x\": -54.5025, \"y\": 0.5254, \"z\": -19.7649}, {\"x\": -62.3726, \"y\": -3.8461, \"z\": -24.7348}, {\"x\": 12.9096, \"y\": 6.6032, \"z\": 6.1610}, {\"x\": 30.2168, \"y\": -32.7449, \"z\": -20.5362}, {\"x\": 35.8360, \"y\": -57.9496, \"z\": -43.8796}, {\"x\": 35.6030, \"y\": -65.6298, \"z\": -40.0227}, {\"x\": 29.4478, \"y\": -68.7811, \"z\": -59.5074}, {\"x\": -15.2168, \"y\": 45.7439, \"z\": 6.7896}, {\"x\": 13.0721, \"y\": 48.5995, \"z\": 26.8762}, {\"x\": 23.6556, \"y\": 52.6762, \"z\": 36.1647}, {\"x\": 31.9952, \"y\": 48.1897, \"z\": 42.8091}, {\"x\": 10.3350, \"y\": 11.9576, \"z\": 24.7643}, {\"x\": -7.2827, \"y\": -30.2578, \"z\": 21.1556}, {\"x\": 9.3918, \"y\": -62.2479, \"z\": 15.9060}, {\"x\": 17.9567, \"y\": -68.0718, \"z\": 10.1259}, {\"x\": -3.7374, \"y\": -69.6507, \"z\": 12.4124}, {\"x\": 20.9719, \"y\": 49.6080, \"z\": 34.9011}, {\"x\": -64.1314, \"y\": -7.6246, \"z\": -22.7815}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame129() {
         return new MovesDoubleFrame(
                 new Vector3d(28.26900510097149, 74.71407216378316, -30.12416292796021),
-                new Vector3d[] {
-                    new Vector3d(-15.27263021638759, 47.88595651815116, -17.10825201748446),
-                    new Vector3d(-20.96472852919575, 51.79106763884842, -8.47185359879981),
-                    new Vector3d(0.82964863786780, 13.41884666588378, 11.27019504621972),
-                    new Vector3d(-18.94169524728147, 24.22163179643477, -14.38424064934243),
-                    new Vector3d(-42.43994177722633, 5.69489922403699, -17.88839342630438),
-                    new Vector3d(-54.34640557236482, -0.37015300920726, -17.38461417990959),
-                    new Vector3d(-62.35313520314342, -5.02910301177715, -21.79037936343727),
-                    new Vector3d(12.79092145262564, 6.89710277674198, 5.67541878366392),
-                    new Vector3d(29.96936003795004, -32.78728700019058, -20.86321401506875),
-                    new Vector3d(35.50095619447906, -58.16881259916115, -44.00482193348541),
-                    new Vector3d(35.30686031329661, -65.85187984636546, -40.01465552319699),
-                    new Vector3d(29.17009264338942, -69.17232124871472, -59.53803152912978),
-                    new Vector3d(-15.07098070113523, 46.29521426640363, 6.52249779252641),
-                    new Vector3d(13.38727858309218, 48.99292742136134, 26.38276918901996),
-                    new Vector3d(24.07734356258804, 52.98824552007492, 35.58514620862969),
-                    new Vector3d(32.44221903480741, 48.40963205526054, 42.16552520281850),
-                    new Vector3d(10.26493428928271, 12.19699497856000, 24.30267581096729),
-                    new Vector3d(-7.03585479662175, -30.48231011094598, 20.76906397413950),
-                    new Vector3d(9.42185917519745, -62.68474194890268, 15.51543634618595),
-                    new Vector3d(18.02522443802493, -68.48424306967796, 9.67781531989586),
-                    new Vector3d(-3.77300510647842, -70.07449093379167, 12.02728031003845),
-                    new Vector3d(21.37874093495573, 49.93018263826102, 34.34857471598281),
-                    new Vector3d(-63.91638384752048, -8.81796271902868, -19.65228479841142),
-                }
+                "\"skeletons\": [{\"x\": -15.2726, \"y\": 47.8860, \"z\": -17.1083}, {\"x\": -20.9647, \"y\": 51.7911, \"z\": -8.4719}, {\"x\": 0.8296, \"y\": 13.4188, \"z\": 11.2702}, {\"x\": -18.9417, \"y\": 24.2216, \"z\": -14.3842}, {\"x\": -42.4399, \"y\": 5.6949, \"z\": -17.8884}, {\"x\": -54.3464, \"y\": -0.3702, \"z\": -17.3846}, {\"x\": -62.3531, \"y\": -5.0291, \"z\": -21.7904}, {\"x\": 12.7909, \"y\": 6.8971, \"z\": 5.6754}, {\"x\": 29.9694, \"y\": -32.7873, \"z\": -20.8632}, {\"x\": 35.5010, \"y\": -58.1688, \"z\": -44.0048}, {\"x\": 35.3069, \"y\": -65.8519, \"z\": -40.0147}, {\"x\": 29.1701, \"y\": -69.1723, \"z\": -59.5380}, {\"x\": -15.0710, \"y\": 46.2952, \"z\": 6.5225}, {\"x\": 13.3873, \"y\": 48.9929, \"z\": 26.3828}, {\"x\": 24.0773, \"y\": 52.9882, \"z\": 35.5851}, {\"x\": 32.4422, \"y\": 48.4096, \"z\": 42.1655}, {\"x\": 10.2649, \"y\": 12.1970, \"z\": 24.3027}, {\"x\": -7.0359, \"y\": -30.4823, \"z\": 20.7691}, {\"x\": 9.4219, \"y\": -62.6847, \"z\": 15.5154}, {\"x\": 18.0252, \"y\": -68.4842, \"z\": 9.6778}, {\"x\": -3.7730, \"y\": -70.0745, \"z\": 12.0273}, {\"x\": 21.3787, \"y\": 49.9302, \"z\": 34.3486}, {\"x\": -63.9164, \"y\": -8.8180, \"z\": -19.6523}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame130() {
         return new MovesDoubleFrame(
                 new Vector3d(28.32995398535006, 75.18110262408319, -29.77474298410132),
-                new Vector3d[] {
-                    new Vector3d(-15.51554453815572, 48.43895781142940, -17.49651359515198),
-                    new Vector3d(-21.24935162211260, 52.33665675544471, -8.89482246623717),
-                    new Vector3d(0.70033851607563, 13.82674970938718, 10.87364731700084),
-                    new Vector3d(-19.09135756295863, 24.56507706464056, -14.56981794978858),
-                    new Vector3d(-42.33181560733104, 5.18082798980504, -16.28606511065953),
-                    new Vector3d(-54.01210775310074, -1.18002638612502, -15.02545185419073),
-                    new Vector3d(-62.09466800122471, -6.20769828804779, -18.90231628317702),
-                    new Vector3d(12.62199066891867, 7.19721045292083, 5.16770602257214),
-                    new Vector3d(29.71048847517137, -32.84376479556415, -21.18945089445493),
-                    new Vector3d(35.23528736509638, -58.47129721915241, -44.06595036303605),
-                    new Vector3d(34.98294408930435, -66.10738103334795, -39.98307722560263),
-                    new Vector3d(28.85809265407566, -69.60205194620289, -59.48744428338380),
-                    new Vector3d(-14.97947372739316, 46.87811909965974, 6.25435342148017),
-                    new Vector3d(13.70066740608017, 49.37134141325624, 25.88494721132894),
-                    new Vector3d(24.46269852529055, 53.30854123960432, 34.98291208324461),
-                    new Vector3d(32.88595477458689, 48.68381846770878, 41.50082371173829),
-                    new Vector3d(10.14085040982367, 12.42782249021621, 23.82223584507226),
-                    new Vector3d(-6.76273561976447, -30.72074072078981, 20.39401494941500),
-                    new Vector3d(9.44969957818524, -63.17767449236780, 15.12217456659761),
-                    new Vector3d(17.98382574137153, -68.99552920108478, 9.28903161629582),
-                    new Vector3d(-3.84581640675391, -70.52256069373395, 11.65956381226426),
-                    new Vector3d(21.71885776417756, 50.27177750103427, 33.76739327284810),
-                    new Vector3d(-63.44467358464127, -9.98244083900526, -16.57781050349955),
-                }
+                "\"skeletons\": [{\"x\": -15.5155, \"y\": 48.4390, \"z\": -17.4965}, {\"x\": -21.2494, \"y\": 52.3367, \"z\": -8.8948}, {\"x\": 0.7003, \"y\": 13.8267, \"z\": 10.8736}, {\"x\": -19.0914, \"y\": 24.5651, \"z\": -14.5698}, {\"x\": -42.3318, \"y\": 5.1808, \"z\": -16.2861}, {\"x\": -54.0121, \"y\": -1.1800, \"z\": -15.0255}, {\"x\": -62.0947, \"y\": -6.2077, \"z\": -18.9023}, {\"x\": 12.6220, \"y\": 7.1972, \"z\": 5.1677}, {\"x\": 29.7105, \"y\": -32.8438, \"z\": -21.1895}, {\"x\": 35.2353, \"y\": -58.4713, \"z\": -44.0660}, {\"x\": 34.9829, \"y\": -66.1074, \"z\": -39.9831}, {\"x\": 28.8581, \"y\": -69.6021, \"z\": -59.4874}, {\"x\": -14.9795, \"y\": 46.8781, \"z\": 6.2544}, {\"x\": 13.7007, \"y\": 49.3713, \"z\": 25.8849}, {\"x\": 24.4627, \"y\": 53.3085, \"z\": 34.9829}, {\"x\": 32.8860, \"y\": 48.6838, \"z\": 41.5008}, {\"x\": 10.1409, \"y\": 12.4278, \"z\": 23.8222}, {\"x\": -6.7627, \"y\": -30.7207, \"z\": 20.3940}, {\"x\": 9.4497, \"y\": -63.1777, \"z\": 15.1222}, {\"x\": 17.9838, \"y\": -68.9955, \"z\": 9.2890}, {\"x\": -3.8458, \"y\": -70.5226, \"z\": 11.6596}, {\"x\": 21.7189, \"y\": 50.2718, \"z\": 33.7674}, {\"x\": -63.4447, \"y\": -9.9824, \"z\": -16.5778}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame131() {
         return new MovesDoubleFrame(
                 new Vector3d(28.42879077199109, 75.67428477000649, -29.41487664307190),
-                new Vector3d[] {
-                    new Vector3d(-15.77334766842070, 49.00578347311106, -17.90471032636586),
-                    new Vector3d(-21.59807912628154, 52.90703677421047, -9.34573712202321),
-                    new Vector3d(0.56361969371786, 14.24772738317920, 10.43989215999837),
-                    new Vector3d(-19.26194537480672, 24.94587295462735, -14.80883030649196),
-                    new Vector3d(-42.16534150321979, 4.75701702574265, -14.70089423707038),
-                    new Vector3d(-53.51832053894388, -1.92670420971905, -12.67900991352960),
-                    new Vector3d(-61.65097390009945, -7.27521590032252, -15.99338093553653),
-                    new Vector3d(12.38228041259269, 7.47378711564024, 4.65288556957823),
-                    new Vector3d(29.46588774253253, -32.92187309353749, -21.49247927877618),
-                    new Vector3d(34.95921874153883, -58.80179069148744, -44.07594428130938),
-                    new Vector3d(34.64229274429475, -66.40134509469210, -39.90782617109243),
-                    new Vector3d(28.56768459305728, -70.08687808094344, -59.36846525659917),
-                    new Vector3d(-14.91571161872462, 47.42061746360487, 5.99349610814694),
-                    new Vector3d(13.93451303348206, 49.73660787909672, 25.38505374713271),
-                    new Vector3d(24.83252218982629, 53.61422864304272, 34.38020508190962),
-                    new Vector3d(33.27624063587427, 48.94417213886725, 40.81705591173917),
-                    new Vector3d(9.95761650367489, 12.69928813931759, 23.34301487165804),
-                    new Vector3d(-6.36365944162049, -31.10246857179612, 19.92014801547263),
-                    new Vector3d(9.44625621284160, -63.68928021493289, 14.72057051948657),
-                    new Vector3d(17.86709011216510, -69.52528786520787, 8.93529369445891),
-                    new Vector3d(-3.94407689302487, -70.99914487195967, 11.29405390675723),
-                    new Vector3d(22.06777751487598, 50.59212123524099, 33.18260396384576),
-                    new Vector3d(-62.69683808754561, -11.06662239507502, -13.56193897691072),
-                }
+                "\"skeletons\": [{\"x\": -15.7733, \"y\": 49.0058, \"z\": -17.9047}, {\"x\": -21.5981, \"y\": 52.9070, \"z\": -9.3457}, {\"x\": 0.5636, \"y\": 14.2477, \"z\": 10.4399}, {\"x\": -19.2619, \"y\": 24.9459, \"z\": -14.8088}, {\"x\": -42.1653, \"y\": 4.7570, \"z\": -14.7009}, {\"x\": -53.5183, \"y\": -1.9267, \"z\": -12.6790}, {\"x\": -61.6510, \"y\": -7.2752, \"z\": -15.9934}, {\"x\": 12.3823, \"y\": 7.4738, \"z\": 4.6529}, {\"x\": 29.4659, \"y\": -32.9219, \"z\": -21.4925}, {\"x\": 34.9592, \"y\": -58.8018, \"z\": -44.0759}, {\"x\": 34.6423, \"y\": -66.4013, \"z\": -39.9078}, {\"x\": 28.5677, \"y\": -70.0869, \"z\": -59.3685}, {\"x\": -14.9157, \"y\": 47.4206, \"z\": 5.9935}, {\"x\": 13.9345, \"y\": 49.7366, \"z\": 25.3851}, {\"x\": 24.8325, \"y\": 53.6142, \"z\": 34.3802}, {\"x\": 33.2762, \"y\": 48.9442, \"z\": 40.8171}, {\"x\": 9.9576, \"y\": 12.6993, \"z\": 23.3430}, {\"x\": -6.3637, \"y\": -31.1025, \"z\": 19.9201}, {\"x\": 9.4463, \"y\": -63.6893, \"z\": 14.7206}, {\"x\": 17.8671, \"y\": -69.5253, \"z\": 8.9353}, {\"x\": -3.9441, \"y\": -70.9991, \"z\": 11.2941}, {\"x\": 22.0678, \"y\": 50.5921, \"z\": 33.1826}, {\"x\": -62.6968, \"y\": -11.0666, \"z\": -13.5619}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame132() {
         return new MovesDoubleFrame(
                 new Vector3d(28.53614494649288, 76.21015314794388, -29.05583039078607),
-                new Vector3d[] {
-                    new Vector3d(-16.02859836244241, 49.56967124519226, -18.25842657272867),
-                    new Vector3d(-21.95022558432073, 53.47153919632007, -9.78523743533440),
-                    new Vector3d(0.36547278917626, 14.67927232767142, 9.96047391564436),
-                    new Vector3d(-19.43019798833821, 25.34131591778684, -15.05081936654182),
-                    new Vector3d(-41.88540996618934, 4.42124168435170, -13.20561367806528),
-                    new Vector3d(-52.85664291535303, -2.58892984738291, -10.43667885168048),
-                    new Vector3d(-61.01105602102369, -8.19074504669711, -13.20285993702324),
-                    new Vector3d(12.15411326893094, 7.74522317739092, 4.14842306326317),
-                    new Vector3d(29.19748056014481, -33.06119260418949, -21.70781528039873),
-                    new Vector3d(34.64716303965903, -59.19971571173251, -44.00867578431966),
-                    new Vector3d(34.27627800235875, -66.79606206926452, -39.76182781417458),
-                    new Vector3d(28.24352997934712, -70.61661253753725, -59.19042553834340),
-                    new Vector3d(-14.82839013159920, 47.93055564919543, 5.74179744465120),
-                    new Vector3d(14.13337499135222, 50.08691422752602, 24.91645125944025),
-                    new Vector3d(25.12945231234024, 53.89628752955552, 33.84070636666021),
-                    new Vector3d(33.57017306410980, 49.13970798560286, 40.20176926981348),
-                    new Vector3d(9.79173408871110, 12.94968464080288, 22.81981734257106),
-                    new Vector3d(-6.11359262835011, -31.33097726481566, 19.45375712863595),
-                    new Vector3d(9.39757257179014, -64.20453658846353, 14.33440952906145),
-                    new Vector3d(17.75948381198780, -70.07532526020086, 8.56927126148700),
-                    new Vector3d(-4.04634407024831, -71.52868805064558, 10.92825556765036),
-                    new Vector3d(22.33505453658983, 50.88432771363388, 32.66113789668767),
-                    new Vector3d(-61.79864494649289, -11.98016285849956, -10.68341741745528),
-                }
+                "\"skeletons\": [{\"x\": -16.0286, \"y\": 49.5697, \"z\": -18.2584}, {\"x\": -21.9502, \"y\": 53.4715, \"z\": -9.7852}, {\"x\": 0.3655, \"y\": 14.6793, \"z\": 9.9605}, {\"x\": -19.4302, \"y\": 25.3413, \"z\": -15.0508}, {\"x\": -41.8854, \"y\": 4.4212, \"z\": -13.2056}, {\"x\": -52.8566, \"y\": -2.5889, \"z\": -10.4367}, {\"x\": -61.0111, \"y\": -8.1907, \"z\": -13.2029}, {\"x\": 12.1541, \"y\": 7.7452, \"z\": 4.1484}, {\"x\": 29.1975, \"y\": -33.0612, \"z\": -21.7078}, {\"x\": 34.6472, \"y\": -59.1997, \"z\": -44.0087}, {\"x\": 34.2763, \"y\": -66.7961, \"z\": -39.7618}, {\"x\": 28.2435, \"y\": -70.6166, \"z\": -59.1904}, {\"x\": -14.8284, \"y\": 47.9306, \"z\": 5.7418}, {\"x\": 14.1334, \"y\": 50.0869, \"z\": 24.9165}, {\"x\": 25.1295, \"y\": 53.8963, \"z\": 33.8407}, {\"x\": 33.5702, \"y\": 49.1397, \"z\": 40.2018}, {\"x\": 9.7917, \"y\": 12.9497, \"z\": 22.8198}, {\"x\": -6.1136, \"y\": -31.3310, \"z\": 19.4538}, {\"x\": 9.3976, \"y\": -64.2045, \"z\": 14.3344}, {\"x\": 17.7595, \"y\": -70.0753, \"z\": 8.5693}, {\"x\": -4.0463, \"y\": -71.5287, \"z\": 10.9283}, {\"x\": 22.3351, \"y\": 50.8843, \"z\": 32.6611}, {\"x\": -61.7986, \"y\": -11.9802, \"z\": -10.6834}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame133() {
         return new MovesDoubleFrame(
                 new Vector3d(28.67493670180560, 76.77563942079621, -28.71382516070110),
-                new Vector3d[] {
-                    new Vector3d(-16.31459098850807, 50.10938865537565, -18.60512625531452),
-                    new Vector3d(-22.28509118353447, 53.99699444964649, -10.17483043825723),
-                    new Vector3d(0.20517219508567, 15.10026084775847, 9.51208871050579),
-                    new Vector3d(-19.60380836521706, 25.75782005186003, -15.27089367067911),
-                    new Vector3d(-41.52193733250222, 4.13870384092254, -11.79866568402548),
-                    new Vector3d(-52.08439409926655, -3.16925310894725, -8.30381603396039),
-                    new Vector3d(-60.18899767592671, -9.03446001812693, -10.53750642295780),
-                    new Vector3d(11.88458885157982, 8.05626162087045, 3.60901965939902),
-                    new Vector3d(28.88889386460065, -33.22040769065298, -21.92377046104369),
-                    new Vector3d(34.29812441473086, -59.64623217388866, -43.87169323122599),
-                    new Vector3d(33.92205833400170, -67.20392819846548, -39.55656668500202),
-                    new Vector3d(27.93408836329857, -71.20655474468943, -59.02081839398640),
-                    new Vector3d(-14.84076210056862, 48.48789817686003, 5.46513843381308),
-                    new Vector3d(14.26435468003033, 50.43233583962044, 24.49201755368613),
-                    new Vector3d(25.32675295476992, 54.15713035459441, 33.35704771522584),
-                    new Vector3d(33.78544741277773, 49.31323183571421, 39.65536009315553),
-                    new Vector3d(9.62122774725039, 13.18857058083139, 22.33820361935996),
-                    new Vector3d(-5.76738309259337, -31.58719439312694, 19.07504062497519),
-                    new Vector3d(9.33494895900169, -64.70493807598827, 13.97307605588339),
-                    new Vector3d(17.62631146713971, -70.65308413311718, 8.21891600135865),
-                    new Vector3d(-4.17756273940326, -72.08262540305532, 10.56061115109824),
-                    new Vector3d(22.49870831772564, 51.17482851540169, 32.17510522051555),
-                    new Vector3d(-60.70699846938374, -12.82233945334828, -7.93842907106978),
-                }
+                "\"skeletons\": [{\"x\": -16.3146, \"y\": 50.1094, \"z\": -18.6051}, {\"x\": -22.2851, \"y\": 53.9970, \"z\": -10.1748}, {\"x\": 0.2052, \"y\": 15.1003, \"z\": 9.5121}, {\"x\": -19.6038, \"y\": 25.7578, \"z\": -15.2709}, {\"x\": -41.5219, \"y\": 4.1387, \"z\": -11.7987}, {\"x\": -52.0844, \"y\": -3.1693, \"z\": -8.3038}, {\"x\": -60.1890, \"y\": -9.0345, \"z\": -10.5375}, {\"x\": 11.8846, \"y\": 8.0563, \"z\": 3.6090}, {\"x\": 28.8889, \"y\": -33.2204, \"z\": -21.9238}, {\"x\": 34.2981, \"y\": -59.6462, \"z\": -43.8717}, {\"x\": 33.9221, \"y\": -67.2039, \"z\": -39.5566}, {\"x\": 27.9341, \"y\": -71.2066, \"z\": -59.0208}, {\"x\": -14.8408, \"y\": 48.4879, \"z\": 5.4651}, {\"x\": 14.2644, \"y\": 50.4323, \"z\": 24.4920}, {\"x\": 25.3268, \"y\": 54.1571, \"z\": 33.3570}, {\"x\": 33.7854, \"y\": 49.3132, \"z\": 39.6554}, {\"x\": 9.6212, \"y\": 13.1886, \"z\": 22.3382}, {\"x\": -5.7674, \"y\": -31.5872, \"z\": 19.0750}, {\"x\": 9.3349, \"y\": -64.7049, \"z\": 13.9731}, {\"x\": 17.6263, \"y\": -70.6531, \"z\": 8.2189}, {\"x\": -4.1776, \"y\": -72.0826, \"z\": 10.5606}, {\"x\": 22.4987, \"y\": 51.1748, \"z\": 32.1751}, {\"x\": -60.7070, \"y\": -12.8223, \"z\": -7.9384}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame134() {
         return new MovesDoubleFrame(
                 new Vector3d(28.82750978202850, 77.35471733324583, -28.36971873422074),
-                new Vector3d[] {
-                    new Vector3d(-16.61896834214032, 50.65390647542133, -18.95322966231382),
-                    new Vector3d(-22.64766030809437, 54.48775098966102, -10.54577276093561),
-                    new Vector3d(0.03497355950405, 15.52412504399854, 9.10175318703673),
-                    new Vector3d(-19.81902122971509, 26.14012417114992, -15.47414589408587),
-                    new Vector3d(-41.09694254591454, 3.94726458076772, -10.47764079925654),
-                    new Vector3d(-51.24067658728629, -3.60185712486354, -6.33583557207727),
-                    new Vector3d(-59.23402544940129, -9.78427909164573, -8.09591187978992),
-                    new Vector3d(11.61122487581362, 8.33614958930958, 3.05549964424421),
-                    new Vector3d(28.57929317507129, -33.39050559540514, -22.17020251054156),
-                    new Vector3d(33.95333004336506, -60.08599299784066, -43.78132730739699),
-                    new Vector3d(33.56081053659032, -67.58470832444146, -39.34090340217494),
-                    new Vector3d(27.59327221446665, -71.79928771018457, -58.78215830334388),
-                    new Vector3d(-14.87084036419069, 49.02051977074461, 5.18721464149992),
-                    new Vector3d(14.36086968256315, 50.75083894636921, 24.11100278388347),
-                    new Vector3d(25.47570829276052, 54.38925188851464, 32.94782053722832),
-                    new Vector3d(33.93289227597295, 49.48686844271751, 39.21903183822403),
-                    new Vector3d(9.45415968552466, 13.41203510387725, 21.82183044785005),
-                    new Vector3d(-5.40645887901413, -31.88541511805208, 18.66214445489449),
-                    new Vector3d(9.25016714496917, -65.23701380509256, 13.63571792638449),
-                    new Vector3d(17.48573236875863, -71.24757538053997, 7.87307253957152),
-                    new Vector3d(-4.28548206717251, -72.64192392279404, 10.22989799095632),
-                    new Vector3d(22.62471345795622, 51.42544256968532, 31.76995229790442),
-                    new Vector3d(-59.50300099266008, -13.55429363606341, -5.42842702079184),
-                }
+                "\"skeletons\": [{\"x\": -16.6190, \"y\": 50.6539, \"z\": -18.9532}, {\"x\": -22.6477, \"y\": 54.4878, \"z\": -10.5458}, {\"x\": 0.0350, \"y\": 15.5241, \"z\": 9.1018}, {\"x\": -19.8190, \"y\": 26.1401, \"z\": -15.4741}, {\"x\": -41.0969, \"y\": 3.9473, \"z\": -10.4776}, {\"x\": -51.2407, \"y\": -3.6019, \"z\": -6.3358}, {\"x\": -59.2340, \"y\": -9.7843, \"z\": -8.0959}, {\"x\": 11.6112, \"y\": 8.3361, \"z\": 3.0555}, {\"x\": 28.5793, \"y\": -33.3905, \"z\": -22.1702}, {\"x\": 33.9533, \"y\": -60.0860, \"z\": -43.7813}, {\"x\": 33.5608, \"y\": -67.5847, \"z\": -39.3409}, {\"x\": 27.5933, \"y\": -71.7993, \"z\": -58.7822}, {\"x\": -14.8708, \"y\": 49.0205, \"z\": 5.1872}, {\"x\": 14.3609, \"y\": 50.7508, \"z\": 24.1110}, {\"x\": 25.4757, \"y\": 54.3893, \"z\": 32.9478}, {\"x\": 33.9329, \"y\": 49.4869, \"z\": 39.2190}, {\"x\": 9.4542, \"y\": 13.4120, \"z\": 21.8218}, {\"x\": -5.4065, \"y\": -31.8854, \"z\": 18.6621}, {\"x\": 9.2502, \"y\": -65.2370, \"z\": 13.6357}, {\"x\": 17.4857, \"y\": -71.2476, \"z\": 7.8731}, {\"x\": -4.2855, \"y\": -72.6419, \"z\": 10.2299}, {\"x\": 22.6247, \"y\": 51.4254, \"z\": 31.7700}, {\"x\": -59.5030, \"y\": -13.5543, \"z\": -5.4284}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame135() {
         return new MovesDoubleFrame(
                 new Vector3d(28.98973763361122, 77.93580762365421, -28.05049737181420),
-                new Vector3d[] {
-                    new Vector3d(-16.90822455717317, 51.17804318072486, -19.25471240326437),
-                    new Vector3d(-23.00909683753782, 54.99113769985962, -10.87723115207120),
-                    new Vector3d(-0.14633367541250, 15.86092876229355, 8.70557082165891),
-                    new Vector3d(-19.98589246465857, 26.56092704137748, -15.71460008710409),
-                    new Vector3d(-40.56911079108377, 3.79664903679573, -9.23235308012133),
-                    new Vector3d(-50.27893608597995, -3.93732285582645, -4.53193381907811),
-                    new Vector3d(-58.15362692914622, -10.34111823294112, -5.83373242876150),
-                    new Vector3d(11.34218727524907, 8.57198941104677, 2.52878841153203),
-                    new Vector3d(28.22433459530091, -33.54145277902312, -22.40277916058124),
-                    new Vector3d(33.59234932817802, -60.50275099450199, -43.68086689701217),
-                    new Vector3d(33.17281330550415, -68.00481847437416, -39.19229717558947),
-                    new Vector3d(27.21547853180232, -72.36718798591393, -58.55395213696753),
-                    new Vector3d(-14.86417974704300, 49.50092526080300, 5.00122248553233),
-                    new Vector3d(14.44369382253157, 51.04074156792825, 23.83759598535244),
-                    new Vector3d(25.60106081178204, 54.61179084945726, 32.63501451087615),
-                    new Vector3d(34.03948778895398, 49.66535323748299, 38.86951573720093),
-                    new Vector3d(9.30066908539577, 13.57184255954302, 21.33517230884015),
-                    new Vector3d(-5.13227936697295, -32.24313907025167, 18.20920311903136),
-                    new Vector3d(9.13329976487768, -65.80313024424684, 13.32786054522013),
-                    new Vector3d(17.33435161171890, -71.84770249794015, 7.55277519925634),
-                    new Vector3d(-4.42574449800120, -73.18609346207535, 9.89662778879905),
-                    new Vector3d(22.73314504305113, 51.66393199027317, 31.45636313428097),
-                    new Vector3d(-58.19454594191863, -14.09001684666292, -3.10114800750328),
-                }
+                "\"skeletons\": [{\"x\": -16.9082, \"y\": 51.1780, \"z\": -19.2547}, {\"x\": -23.0091, \"y\": 54.9911, \"z\": -10.8772}, {\"x\": -0.1463, \"y\": 15.8609, \"z\": 8.7056}, {\"x\": -19.9859, \"y\": 26.5609, \"z\": -15.7146}, {\"x\": -40.5691, \"y\": 3.7966, \"z\": -9.2324}, {\"x\": -50.2789, \"y\": -3.9373, \"z\": -4.5319}, {\"x\": -58.1536, \"y\": -10.3411, \"z\": -5.8337}, {\"x\": 11.3422, \"y\": 8.5720, \"z\": 2.5288}, {\"x\": 28.2243, \"y\": -33.5415, \"z\": -22.4028}, {\"x\": 33.5923, \"y\": -60.5028, \"z\": -43.6809}, {\"x\": 33.1728, \"y\": -68.0048, \"z\": -39.1923}, {\"x\": 27.2155, \"y\": -72.3672, \"z\": -58.5540}, {\"x\": -14.8642, \"y\": 49.5009, \"z\": 5.0012}, {\"x\": 14.4437, \"y\": 51.0407, \"z\": 23.8376}, {\"x\": 25.6011, \"y\": 54.6118, \"z\": 32.6350}, {\"x\": 34.0395, \"y\": 49.6654, \"z\": 38.8695}, {\"x\": 9.3007, \"y\": 13.5718, \"z\": 21.3352}, {\"x\": -5.1323, \"y\": -32.2431, \"z\": 18.2092}, {\"x\": 9.1333, \"y\": -65.8031, \"z\": 13.3279}, {\"x\": 17.3344, \"y\": -71.8477, \"z\": 7.5528}, {\"x\": -4.4257, \"y\": -73.1861, \"z\": 9.8966}, {\"x\": 22.7331, \"y\": 51.6639, \"z\": 31.4564}, {\"x\": -58.1945, \"y\": -14.0900, \"z\": -3.1011}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame136() {
         return new MovesDoubleFrame(
                 new Vector3d(29.16318600423922, 78.53042310790158, -27.75158049805371),
-                new Vector3d[] {
-                    new Vector3d(-17.19409576288112, 51.68493941033245, -19.53872580741333),
-                    new Vector3d(-23.33752660668852, 55.51181676913474, -11.16509804293377),
-                    new Vector3d(-0.32912690132752, 16.20349538278312, 8.30725561457120),
-                    new Vector3d(-20.11277929249832, 27.00046361819097, -15.95900839024370),
-                    new Vector3d(-39.95216866138258, 3.73942316916803, -8.08858336527896),
-                    new Vector3d(-49.29700584819116, -4.10956834342694, -2.84329637307924),
-                    new Vector3d(-57.01930907711920, -10.77003893213014, -3.76171092829663),
-                    new Vector3d(11.01425931040237, 8.78403720670327, 1.99646032342586),
-                    new Vector3d(27.82938558892828, -33.74218250211467, -22.64205032277277),
-                    new Vector3d(33.16543422186315, -60.93821559555995, -43.63571498063325),
-                    new Vector3d(32.74386496363457, -68.36794430958744, -39.01773691474098),
-                    new Vector3d(26.85112253321771, -72.95259355477071, -58.36667598911149),
-                    new Vector3d(-14.83892996390034, 49.95705443605593, 4.87606272412670),
-                    new Vector3d(14.50506941978226, 51.28141287854891, 23.63289829736614),
-                    new Vector3d(25.70959100052855, 54.79612010254150, 32.39789835100135),
-                    new Vector3d(34.13749976168927, 49.80000473783578, 38.59573696312997),
-                    new Vector3d(9.13368965353314, 13.66758981533667, 20.86447577478543),
-                    new Vector3d(-4.85356122665807, -32.60699506911566, 17.90698591643058),
-                    new Vector3d(9.02709646462826, -66.38190995069522, 13.03883086197009),
-                    new Vector3d(17.17561724931703, -72.45439543801886, 7.27034896157090),
-                    new Vector3d(-4.59254176133826, -73.76110269688870, 9.58487409734735),
-                    new Vector3d(22.83255846863731, 51.86851350364680, 31.22909695154094),
-                    new Vector3d(-56.81125804285629, -14.50463298562324, -1.00608957128472),
-                }
+                "\"skeletons\": [{\"x\": -17.1941, \"y\": 51.6849, \"z\": -19.5387}, {\"x\": -23.3375, \"y\": 55.5118, \"z\": -11.1651}, {\"x\": -0.3291, \"y\": 16.2035, \"z\": 8.3073}, {\"x\": -20.1128, \"y\": 27.0005, \"z\": -15.9590}, {\"x\": -39.9522, \"y\": 3.7394, \"z\": -8.0886}, {\"x\": -49.2970, \"y\": -4.1096, \"z\": -2.8433}, {\"x\": -57.0193, \"y\": -10.7700, \"z\": -3.7617}, {\"x\": 11.0143, \"y\": 8.7840, \"z\": 1.9965}, {\"x\": 27.8294, \"y\": -33.7422, \"z\": -22.6421}, {\"x\": 33.1654, \"y\": -60.9382, \"z\": -43.6357}, {\"x\": 32.7439, \"y\": -68.3679, \"z\": -39.0177}, {\"x\": 26.8511, \"y\": -72.9526, \"z\": -58.3667}, {\"x\": -14.8389, \"y\": 49.9571, \"z\": 4.8761}, {\"x\": 14.5051, \"y\": 51.2814, \"z\": 23.6329}, {\"x\": 25.7096, \"y\": 54.7961, \"z\": 32.3979}, {\"x\": 34.1375, \"y\": 49.8000, \"z\": 38.5957}, {\"x\": 9.1337, \"y\": 13.6676, \"z\": 20.8645}, {\"x\": -4.8536, \"y\": -32.6070, \"z\": 17.9070}, {\"x\": 9.0271, \"y\": -66.3819, \"z\": 13.0388}, {\"x\": 17.1756, \"y\": -72.4544, \"z\": 7.2703}, {\"x\": -4.5925, \"y\": -73.7611, \"z\": 9.5849}, {\"x\": 22.8326, \"y\": 51.8685, \"z\": 31.2291}, {\"x\": -56.8113, \"y\": -14.5046, \"z\": -1.0061}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame137() {
         return new MovesDoubleFrame(
                 new Vector3d(29.33245022041712, 79.11362391446853, -27.46232261233316),
-                new Vector3d[] {
-                    new Vector3d(-17.47012026126479, 52.20570438981266, -19.72743859105984),
-                    new Vector3d(-23.62582042774716, 56.02145435126415, -11.42693960188769),
-                    new Vector3d(-0.56755551791685, 16.47838093897366, 7.90525736276821),
-                    new Vector3d(-20.26509868461045, 27.47889118676108, -16.17683730681285),
-                    new Vector3d(-39.32838602856544, 3.77582514152104, -7.07257708350069),
-                    new Vector3d(-48.25991510378646, -4.24213557753735, -1.37082926761087),
-                    new Vector3d(-55.84485725270734, -11.07969032561359, -1.87326497189233),
-                    new Vector3d(10.70237991216531, 8.96013798968148, 1.49998714146912),
-                    new Vector3d(27.42914858555778, -33.95363065434069, -22.93724240127508),
-                    new Vector3d(32.78615418243572, -61.34304034724359, -43.61444315462330),
-                    new Vector3d(32.29123614699066, -68.75551062128685, -38.92839816238195),
-                    new Vector3d(26.44355164337322, -73.55900281697076, -58.19534952210450),
-                    new Vector3d(-14.79079851042315, 50.38149688313092, 4.76451488347733),
-                    new Vector3d(14.57928687837232, 51.51722879102566, 23.49777548229340),
-                    new Vector3d(25.79270470791933, 54.93563596924955, 32.29256102966938),
-                    new Vector3d(34.20564327381650, 49.86362894056944, 38.45822932935153),
-                    new Vector3d(8.93346031397550, 13.78978390470096, 20.39263168283427),
-                    new Vector3d(-4.61642078219756, -32.94609558895505, 17.60403131715491),
-                    new Vector3d(8.95677224064275, -66.95868135749933, 12.76630700339504),
-                    new Vector3d(17.01885904487256, -73.04374374682530, 7.00907138887657),
-                    new Vector3d(-4.75999998701502, -74.35263406611413, 9.31654425653155),
-                    new Vector3d(22.91158851105510, 52.03122734943339, 31.10403368437055),
-                    new Vector3d(-55.43255176211319, -14.78409779815236, 0.85685788545244),
-                }
+                "\"skeletons\": [{\"x\": -17.4701, \"y\": 52.2057, \"z\": -19.7274}, {\"x\": -23.6258, \"y\": 56.0215, \"z\": -11.4269}, {\"x\": -0.5676, \"y\": 16.4784, \"z\": 7.9053}, {\"x\": -20.2651, \"y\": 27.4789, \"z\": -16.1768}, {\"x\": -39.3284, \"y\": 3.7758, \"z\": -7.0726}, {\"x\": -48.2599, \"y\": -4.2421, \"z\": -1.3708}, {\"x\": -55.8449, \"y\": -11.0797, \"z\": -1.8733}, {\"x\": 10.7024, \"y\": 8.9601, \"z\": 1.5000}, {\"x\": 27.4291, \"y\": -33.9536, \"z\": -22.9372}, {\"x\": 32.7862, \"y\": -61.3430, \"z\": -43.6144}, {\"x\": 32.2912, \"y\": -68.7555, \"z\": -38.9284}, {\"x\": 26.4436, \"y\": -73.5590, \"z\": -58.1953}, {\"x\": -14.7908, \"y\": 50.3815, \"z\": 4.7645}, {\"x\": 14.5793, \"y\": 51.5172, \"z\": 23.4978}, {\"x\": 25.7927, \"y\": 54.9356, \"z\": 32.2926}, {\"x\": 34.2056, \"y\": 49.8636, \"z\": 38.4582}, {\"x\": 8.9335, \"y\": 13.7898, \"z\": 20.3926}, {\"x\": -4.6164, \"y\": -32.9461, \"z\": 17.6040}, {\"x\": 8.9568, \"y\": -66.9587, \"z\": 12.7663}, {\"x\": 17.0189, \"y\": -73.0437, \"z\": 7.0091}, {\"x\": -4.7600, \"y\": -74.3526, \"z\": 9.3165}, {\"x\": 22.9116, \"y\": 52.0312, \"z\": 31.1040}, {\"x\": -55.4326, \"y\": -14.7841, \"z\": 0.8569}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame138() {
         return new MovesDoubleFrame(
                 new Vector3d(29.50595337437332, 79.71522281002433, -27.19787110986785),
-                new Vector3d[] {
-                    new Vector3d(-17.66790732483939, 52.75438356369804, -19.86573503761144),
-                    new Vector3d(-23.87912083539572, 56.50969197021237, -11.60766110751643),
-                    new Vector3d(-0.74312364685629, 16.79180667316849, 7.52865701896127),
-                    new Vector3d(-20.37506433651684, 27.98447908142301, -16.40308805990717),
-                    new Vector3d(-38.73461429631625, 3.90511089166151, -6.17099412267153),
-                    new Vector3d(-47.15783843140679, -4.24987838817871, -0.08703104113958),
-                    new Vector3d(-54.67874235862903, -11.23301538411092, -0.17631990470169),
-                    new Vector3d(10.41644376303197, 9.09514320817055, 1.00868393523572),
-                    new Vector3d(26.99420421564665, -34.12593388336198, -23.19388508267650),
-                    new Vector3d(32.36220683327470, -61.78204876850575, -43.59045157979087),
-                    new Vector3d(31.89938568739242, -69.11848109497316, -38.82109090699070),
-                    new Vector3d(26.00117080509391, -74.13923977974814, -58.02332658346215),
-                    new Vector3d(-14.75741430590748, 50.80433120195874, 4.71458705592195),
-                    new Vector3d(14.65012538300596, 51.69371732596016, 23.43369592428426),
-                    new Vector3d(25.85553355676066, 54.97107167680308, 32.26917643789280),
-                    new Vector3d(34.26949153979197, 49.83522325141833, 38.39230453726263),
-                    new Vector3d(8.69451406084682, 13.84618677166915, 19.93567722785065),
-                    new Vector3d(-4.41772510564242, -33.31384311720097, 17.28731369138880),
-                    new Vector3d(8.88457637865916, -67.54063804412398, 12.52222048886956),
-                    new Vector3d(16.86344047768847, -73.64789348359547, 6.76841110349817),
-                    new Vector3d(-4.93191123625214, -74.96319214915127, 9.07445957275481),
-                    new Vector3d(22.96523578321302, 52.07626815493688, 31.03839020469354),
-                    new Vector3d(-54.08602260797371, -14.92200693647817, 2.54538891790720),
-                }
+                "\"skeletons\": [{\"x\": -17.6679, \"y\": 52.7544, \"z\": -19.8657}, {\"x\": -23.8791, \"y\": 56.5097, \"z\": -11.6077}, {\"x\": -0.7431, \"y\": 16.7918, \"z\": 7.5287}, {\"x\": -20.3751, \"y\": 27.9845, \"z\": -16.4031}, {\"x\": -38.7346, \"y\": 3.9051, \"z\": -6.1710}, {\"x\": -47.1578, \"y\": -4.2499, \"z\": -0.0870}, {\"x\": -54.6787, \"y\": -11.2330, \"z\": -0.1763}, {\"x\": 10.4164, \"y\": 9.0951, \"z\": 1.0087}, {\"x\": 26.9942, \"y\": -34.1259, \"z\": -23.1939}, {\"x\": 32.3622, \"y\": -61.7820, \"z\": -43.5905}, {\"x\": 31.8994, \"y\": -69.1185, \"z\": -38.8211}, {\"x\": 26.0012, \"y\": -74.1392, \"z\": -58.0233}, {\"x\": -14.7574, \"y\": 50.8043, \"z\": 4.7146}, {\"x\": 14.6501, \"y\": 51.6937, \"z\": 23.4337}, {\"x\": 25.8555, \"y\": 54.9711, \"z\": 32.2692}, {\"x\": 34.2695, \"y\": 49.8352, \"z\": 38.3923}, {\"x\": 8.6945, \"y\": 13.8462, \"z\": 19.9357}, {\"x\": -4.4177, \"y\": -33.3138, \"z\": 17.2873}, {\"x\": 8.8846, \"y\": -67.5406, \"z\": 12.5222}, {\"x\": 16.8634, \"y\": -73.6479, \"z\": 6.7684}, {\"x\": -4.9319, \"y\": -74.9632, \"z\": 9.0745}, {\"x\": 22.9652, \"y\": 52.0763, \"z\": 31.0384}, {\"x\": -54.0860, \"y\": -14.9220, \"z\": 2.5454}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame139() {
         return new MovesDoubleFrame(
                 new Vector3d(29.67910346178038, 80.31861088921399, -26.95058525421704),
-                new Vector3d[] {
-                    new Vector3d(-17.86491972993642, 53.35104217104898, -20.00460484887883),
-                    new Vector3d(-24.11231946114463, 57.03210355864883, -11.71138025220037),
-                    new Vector3d(-0.88249551735877, 17.05352318896241, 7.13260842547221),
-                    new Vector3d(-20.42234954505191, 28.50165388404730, -16.60857468481511),
-                    new Vector3d(-38.10577329913928, 4.11336177315483, -5.36755817258728),
-                    new Vector3d(-46.06696904936384, -4.15612009802703, 1.10171229361729),
-                    new Vector3d(-53.51139463320565, -11.24047354450945, 1.33846724595480),
-                    new Vector3d(10.14754302274759, 9.27302923710278, 0.51034101645589),
-                    new Vector3d(26.57104696922879, -34.32936204077453, -23.47938292336803),
-                    new Vector3d(31.91684080562642, -62.24684110602187, -43.51911984654757),
-                    new Vector3d(31.41072147287071, -69.50753774469804, -38.65709263190451),
-                    new Vector3d(25.66396366343011, -74.77393653070264, -57.82569386827181),
-                    new Vector3d(-14.72892166038357, 51.23693153129041, 4.67013976335365),
-                    new Vector3d(14.68336113323989, 51.79367599254119, 23.41106764458015),
-                    new Vector3d(25.91427291587030, 54.94531431992704, 32.27433180110336),
-                    new Vector3d(34.26081115936721, 49.73578743569987, 38.35036046624920),
-                    new Vector3d(8.46939136002145, 13.83277243665440, 19.52997527236467),
-                    new Vector3d(-4.25260145389200, -33.80249994076131, 17.02187515422952),
-                    new Vector3d(8.80932426494611, -68.10199911976963, 12.29598102360878),
-                    new Vector3d(16.68556746235614, -74.25355512235542, 6.52577586670407),
-                    new Vector3d(-5.09937939422624, -75.54127898007253, 8.80976164138247),
-                    new Vector3d(23.00521109964761, 52.06022012998440, 31.01690643359983),
-                    new Vector3d(-52.74369783574630, -14.89820754014306, 4.04835361233768),
-                }
+                "\"skeletons\": [{\"x\": -17.8649, \"y\": 53.3510, \"z\": -20.0046}, {\"x\": -24.1123, \"y\": 57.0321, \"z\": -11.7114}, {\"x\": -0.8825, \"y\": 17.0535, \"z\": 7.1326}, {\"x\": -20.4223, \"y\": 28.5017, \"z\": -16.6086}, {\"x\": -38.1058, \"y\": 4.1134, \"z\": -5.3676}, {\"x\": -46.0670, \"y\": -4.1561, \"z\": 1.1017}, {\"x\": -53.5114, \"y\": -11.2405, \"z\": 1.3385}, {\"x\": 10.1475, \"y\": 9.2730, \"z\": 0.5103}, {\"x\": 26.5710, \"y\": -34.3294, \"z\": -23.4794}, {\"x\": 31.9168, \"y\": -62.2468, \"z\": -43.5191}, {\"x\": 31.4107, \"y\": -69.5075, \"z\": -38.6571}, {\"x\": 25.6640, \"y\": -74.7739, \"z\": -57.8257}, {\"x\": -14.7289, \"y\": 51.2369, \"z\": 4.6701}, {\"x\": 14.6834, \"y\": 51.7937, \"z\": 23.4111}, {\"x\": 25.9143, \"y\": 54.9453, \"z\": 32.2743}, {\"x\": 34.2608, \"y\": 49.7358, \"z\": 38.3504}, {\"x\": 8.4694, \"y\": 13.8328, \"z\": 19.5300}, {\"x\": -4.2526, \"y\": -33.8025, \"z\": 17.0219}, {\"x\": 8.8093, \"y\": -68.1020, \"z\": 12.2960}, {\"x\": 16.6856, \"y\": -74.2536, \"z\": 6.5258}, {\"x\": -5.0994, \"y\": -75.5413, \"z\": 8.8098}, {\"x\": 23.0052, \"y\": 52.0602, \"z\": 31.0169}, {\"x\": -52.7437, \"y\": -14.8982, \"z\": 4.0484}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame140() {
         return new MovesDoubleFrame(
                 new Vector3d(29.84060515357635, 80.91794282279058, -26.72117161585523),
-                new Vector3d[] {
-                    new Vector3d(-18.03375368958923, 53.93885713609099, -20.11213055742465),
-                    new Vector3d(-24.34288622960607, 57.51032373594022, -11.78745859461969),
-                    new Vector3d(-1.11137992796043, 17.35663416074492, 6.81254025427868),
-                    new Vector3d(-20.48128227438740, 29.04316621812225, -16.85190609796056),
-                    new Vector3d(-37.44779227076813, 4.39784964911183, -4.66427230247331),
-                    new Vector3d(-45.02413149720642, -3.97384278081552, 2.12349389647132),
-                    new Vector3d(-52.33163372177724, -11.19203934185925, 2.72462049034553),
-                    new Vector3d(9.82305927941776, 9.43230629701822, 0.02515725171306),
-                    new Vector3d(26.17936833360841, -34.57206162504524, -23.70683131383228),
-                    new Vector3d(31.48229919897985, -62.67885735429758, -43.41294350287421),
-                    new Vector3d(31.16378670069312, -69.67163164843136, -38.39552631794412),
-                    new Vector3d(25.23716659207195, -75.33563609141594, -57.61543791333885),
-                    new Vector3d(-14.63911332586253, 51.60537539095668, 4.62934647194075),
-                    new Vector3d(14.70043381469394, 51.85222704768638, 23.42952441752952),
-                    new Vector3d(25.93104931676699, 54.85491773436404, 32.32175866095592),
-                    new Vector3d(34.28823856215830, 49.54099293824285, 38.38423202834581),
-                    new Vector3d(8.22984464875541, 13.81307684980400, 19.10877677768941),
-                    new Vector3d(-4.10755836423972, -34.22205707417834, 16.69511335190923),
-                    new Vector3d(8.71340051948081, -68.68217730540520, 11.99939047079286),
-                    new Vector3d(16.52143119339459, -74.85751311253625, 6.27987820058487),
-                    new Vector3d(-5.26356101123808, -76.13437970414039, 8.57369359921940),
-                    new Vector3d(23.00892177042310, 51.99992077541391, 31.02931261482941),
-                    new Vector3d(-51.39461208481435, -14.83019836092792, 5.39764093016272),
-                }
+                "\"skeletons\": [{\"x\": -18.0338, \"y\": 53.9389, \"z\": -20.1121}, {\"x\": -24.3429, \"y\": 57.5103, \"z\": -11.7875}, {\"x\": -1.1114, \"y\": 17.3566, \"z\": 6.8125}, {\"x\": -20.4813, \"y\": 29.0432, \"z\": -16.8519}, {\"x\": -37.4478, \"y\": 4.3978, \"z\": -4.6643}, {\"x\": -45.0241, \"y\": -3.9738, \"z\": 2.1235}, {\"x\": -52.3316, \"y\": -11.1920, \"z\": 2.7246}, {\"x\": 9.8231, \"y\": 9.4323, \"z\": 0.0252}, {\"x\": 26.1794, \"y\": -34.5721, \"z\": -23.7068}, {\"x\": 31.4823, \"y\": -62.6789, \"z\": -43.4129}, {\"x\": 31.1638, \"y\": -69.6716, \"z\": -38.3955}, {\"x\": 25.2372, \"y\": -75.3356, \"z\": -57.6154}, {\"x\": -14.6391, \"y\": 51.6054, \"z\": 4.6293}, {\"x\": 14.7004, \"y\": 51.8522, \"z\": 23.4295}, {\"x\": 25.9310, \"y\": 54.8549, \"z\": 32.3218}, {\"x\": 34.2882, \"y\": 49.5410, \"z\": 38.3842}, {\"x\": 8.2298, \"y\": 13.8131, \"z\": 19.1088}, {\"x\": -4.1076, \"y\": -34.2221, \"z\": 16.6951}, {\"x\": 8.7134, \"y\": -68.6822, \"z\": 11.9994}, {\"x\": 16.5214, \"y\": -74.8575, \"z\": 6.2799}, {\"x\": -5.2636, \"y\": -76.1344, \"z\": 8.5737}, {\"x\": 23.0089, \"y\": 51.9999, \"z\": 31.0293}, {\"x\": -51.3946, \"y\": -14.8302, \"z\": 5.3976}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame141() {
         return new MovesDoubleFrame(
                 new Vector3d(29.98559711793136, 81.49093334044795, -26.51397375040003),
-                new Vector3d[] {
-                    new Vector3d(-18.13080346035603, 54.53447270395993, -20.18211710846099),
-                    new Vector3d(-24.52217331979332, 57.99138482067752, -11.84603477616540),
-                    new Vector3d(-1.31326722818931, 17.60146436371235, 6.48062551775788),
-                    new Vector3d(-20.49346318431192, 29.55650841457437, -17.08832364959409),
-                    new Vector3d(-36.80090459170919, 4.73869596964368, -4.03883223765360),
-                    new Vector3d(-43.98187273434055, -3.72000961695465, 3.08603935906280),
-                    new Vector3d(-51.18430956869022, -11.00429767627531, 3.95847698962297),
-                    new Vector3d(9.51109030221813, 9.58887216850265, -0.36122480315855),
-                    new Vector3d(25.75112227454396, -34.78259593810420, -23.92173007214461),
-                    new Vector3d(31.08028216462561, -63.13782538898972, -43.32683577769266),
-                    new Vector3d(30.62388127470550, -70.19934195429825, -38.28458251575363),
-                    new Vector3d(24.84321721220550, -75.89814170999701, -57.39099258389273),
-                    new Vector3d(-14.50003060154274, 51.99819533451092, 4.58781763899114),
-                    new Vector3d(14.74823834046560, 51.88636525271463, 23.48446809960006),
-                    new Vector3d(25.95040111893277, 54.72723163987394, 32.44304168476613),
-                    new Vector3d(34.24372288618048, 49.29066240306121, 38.49455668318059),
-                    new Vector3d(7.98170950387829, 13.77776833622908, 18.74820555154061),
-                    new Vector3d(-3.94344077798482, -34.63639110870893, 16.27645121787242),
-                    new Vector3d(8.56543334365963, -69.24516632930742, 11.69876635936385),
-                    new Vector3d(16.39035998674439, -75.42660764641398, 6.04497730374751),
-                    new Vector3d(-5.38557148775485, -76.73961972793309, 8.34008585224889),
-                    new Vector3d(23.02377733137550, 51.91532592955321, 31.12112334492926),
-                    new Vector3d(-50.07810327422175, -14.66354190960033, 6.60149994274246),
-                }
+                "\"skeletons\": [{\"x\": -18.1308, \"y\": 54.5345, \"z\": -20.1821}, {\"x\": -24.5222, \"y\": 57.9914, \"z\": -11.8460}, {\"x\": -1.3133, \"y\": 17.6015, \"z\": 6.4806}, {\"x\": -20.4935, \"y\": 29.5565, \"z\": -17.0883}, {\"x\": -36.8009, \"y\": 4.7387, \"z\": -4.0388}, {\"x\": -43.9819, \"y\": -3.7200, \"z\": 3.0860}, {\"x\": -51.1843, \"y\": -11.0043, \"z\": 3.9585}, {\"x\": 9.5111, \"y\": 9.5889, \"z\": -0.3612}, {\"x\": 25.7511, \"y\": -34.7826, \"z\": -23.9217}, {\"x\": 31.0803, \"y\": -63.1378, \"z\": -43.3268}, {\"x\": 30.6239, \"y\": -70.1993, \"z\": -38.2846}, {\"x\": 24.8432, \"y\": -75.8981, \"z\": -57.3910}, {\"x\": -14.5000, \"y\": 51.9982, \"z\": 4.5878}, {\"x\": 14.7482, \"y\": 51.8864, \"z\": 23.4845}, {\"x\": 25.9504, \"y\": 54.7272, \"z\": 32.4430}, {\"x\": 34.2437, \"y\": 49.2907, \"z\": 38.4946}, {\"x\": 7.9817, \"y\": 13.7778, \"z\": 18.7482}, {\"x\": -3.9434, \"y\": -34.6364, \"z\": 16.2765}, {\"x\": 8.5654, \"y\": -69.2452, \"z\": 11.6988}, {\"x\": 16.3904, \"y\": -75.4266, \"z\": 6.0450}, {\"x\": -5.3856, \"y\": -76.7396, \"z\": 8.3401}, {\"x\": 23.0238, \"y\": 51.9153, \"z\": 31.1211}, {\"x\": -50.0781, \"y\": -14.6635, \"z\": 6.6015}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame142() {
         return new MovesDoubleFrame(
                 new Vector3d(30.12034201431671, 82.04309568947892, -26.31590268348845),
-                new Vector3d[] {
-                    new Vector3d(-18.19998912824105, 55.12209651160484, -20.25583745405634),
-                    new Vector3d(-24.63732209326010, 58.46065755961061, -11.93397085977523),
-                    new Vector3d(-1.47165094307170, 17.85163277750152, 6.17285606777314),
-                    new Vector3d(-20.51470024341607, 30.04800183582850, -17.29082451506213),
-                    new Vector3d(-36.18271773549527, 5.07561895908096, -3.45140472994259),
-                    new Vector3d(-42.96349610123995, -3.46824725246841, 3.93418718334282),
-                    new Vector3d(-50.09758208103624, -10.79024227297867, 5.07476348715471),
-                    new Vector3d(9.19429307652318, 9.68884748021289, -0.73953223521395),
-                    new Vector3d(25.34417485341414, -35.01237195325847, -24.06856538365206),
-                    new Vector3d(30.64670681809146, -63.55298137705601, -43.15303374143618),
-                    new Vector3d(30.19472814704861, -70.63989244133781, -38.06701204657401),
-                    new Vector3d(24.47297855211402, -76.47672981790605, -57.09510311775784),
-                    new Vector3d(-14.41297069218203, 52.41145884872207, 4.54602109322127),
-                    new Vector3d(14.76828919352467, 51.89573019603566, 23.56514320451070),
-                    new Vector3d(25.97431399827336, 54.55376461007368, 32.61463115597581),
-                    new Vector3d(34.20676086862306, 48.97741148054575, 38.61838785454597),
-                    new Vector3d(7.71327707904047, 13.76027010109616, 18.41086311656883),
-                    new Vector3d(-3.80195825584827, -35.03164242711156, 15.75721017967643),
-                    new Vector3d(8.41002214222944, -69.80265242968758, 11.39838366621871),
-                    new Vector3d(16.23025563306101, -75.98234832106550, 5.81842194015673),
-                    new Vector3d(-5.51749696146852, -77.27997966941012, 8.10543744492206),
-                    new Vector3d(23.03074260641481, 51.78618117700371, 31.25901494259079),
-                    new Vector3d(-48.85946421863120, -14.45212389047456, 7.60990705017910),
-                }
+                "\"skeletons\": [{\"x\": -18.2000, \"y\": 55.1221, \"z\": -20.2558}, {\"x\": -24.6373, \"y\": 58.4607, \"z\": -11.9340}, {\"x\": -1.4717, \"y\": 17.8516, \"z\": 6.1729}, {\"x\": -20.5147, \"y\": 30.0480, \"z\": -17.2908}, {\"x\": -36.1827, \"y\": 5.0756, \"z\": -3.4514}, {\"x\": -42.9635, \"y\": -3.4682, \"z\": 3.9342}, {\"x\": -50.0976, \"y\": -10.7902, \"z\": 5.0748}, {\"x\": 9.1943, \"y\": 9.6888, \"z\": -0.7395}, {\"x\": 25.3442, \"y\": -35.0124, \"z\": -24.0686}, {\"x\": 30.6467, \"y\": -63.5530, \"z\": -43.1530}, {\"x\": 30.1947, \"y\": -70.6399, \"z\": -38.0670}, {\"x\": 24.4730, \"y\": -76.4767, \"z\": -57.0951}, {\"x\": -14.4130, \"y\": 52.4115, \"z\": 4.5460}, {\"x\": 14.7683, \"y\": 51.8957, \"z\": 23.5651}, {\"x\": 25.9743, \"y\": 54.5538, \"z\": 32.6146}, {\"x\": 34.2068, \"y\": 48.9774, \"z\": 38.6184}, {\"x\": 7.7133, \"y\": 13.7603, \"z\": 18.4109}, {\"x\": -3.8020, \"y\": -35.0316, \"z\": 15.7572}, {\"x\": 8.4100, \"y\": -69.8027, \"z\": 11.3984}, {\"x\": 16.2303, \"y\": -75.9823, \"z\": 5.8184}, {\"x\": -5.5175, \"y\": -77.2800, \"z\": 8.1054}, {\"x\": 23.0307, \"y\": 51.7862, \"z\": 31.2590}, {\"x\": -48.8595, \"y\": -14.4521, \"z\": 7.6099}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame143() {
         return new MovesDoubleFrame(
                 new Vector3d(30.25634129084266, 82.57671224856568, -26.13372299174632),
-                new Vector3d[] {
-                    new Vector3d(-18.20842840063068, 55.67121829250867, -20.37777458994595),
-                    new Vector3d(-24.69686941139505, 58.92094580648406, -12.03992608532258),
-                    new Vector3d(-1.65480247064764, 18.12607135993064, 5.91285190916315),
-                    new Vector3d(-20.48542645874900, 30.52796439054185, -17.48329458117769),
-                    new Vector3d(-35.58396728828561, 5.44237601469500, -2.91619925344185),
-                    new Vector3d(-42.05957881389529, -3.12883841358761, 4.71412644254250),
-                    new Vector3d(-49.00914438010880, -10.55903368325592, 6.05995223635136),
-                    new Vector3d(8.89640028141073, 9.79676346341936, -1.11824151998161),
-                    new Vector3d(24.93124937466387, -35.26079723214279, -24.17470356169784),
-                    new Vector3d(30.25889851460357, -63.97823203542907, -42.94424388283760),
-                    new Vector3d(29.74719821282373, -71.07792978902940, -37.81248057564384),
-                    new Vector3d(24.08069201201899, -77.02599945087015, -56.77608388934803),
-                    new Vector3d(-14.26872129710221, 52.78411113557826, 4.52728697219304),
-                    new Vector3d(14.82117267687693, 51.88745200728881, 23.68639146283171),
-                    new Vector3d(26.00585723525775, 54.36360483748440, 32.81754272288263),
-                    new Vector3d(34.14513178271037, 48.66066901587472, 38.81292989725472),
-                    new Vector3d(7.45668593282564, 13.74982952395644, 18.03938855526755),
-                    new Vector3d(-3.62381967919636, -35.42424363654491, 15.25127385361167),
-                    new Vector3d(8.29418037617890, -70.30389464165167, 11.13700865646965),
-                    new Vector3d(16.09363964140740, -76.52452236853877, 5.62279098720493),
-                    new Vector3d(-5.63380637307339, -77.78568488213783, 7.86893799382059),
-                    new Vector3d(23.04731941120543, 51.62854717685333, 31.43202290641947),
-                    new Vector3d(-47.63788158261212, -14.21854738144181, 8.52125178840838),
-                }
+                "\"skeletons\": [{\"x\": -18.2084, \"y\": 55.6712, \"z\": -20.3778}, {\"x\": -24.6969, \"y\": 58.9209, \"z\": -12.0399}, {\"x\": -1.6548, \"y\": 18.1261, \"z\": 5.9129}, {\"x\": -20.4854, \"y\": 30.5280, \"z\": -17.4833}, {\"x\": -35.5840, \"y\": 5.4424, \"z\": -2.9162}, {\"x\": -42.0596, \"y\": -3.1288, \"z\": 4.7141}, {\"x\": -49.0091, \"y\": -10.5590, \"z\": 6.0600}, {\"x\": 8.8964, \"y\": 9.7968, \"z\": -1.1182}, {\"x\": 24.9312, \"y\": -35.2608, \"z\": -24.1747}, {\"x\": 30.2589, \"y\": -63.9782, \"z\": -42.9442}, {\"x\": 29.7472, \"y\": -71.0779, \"z\": -37.8125}, {\"x\": 24.0807, \"y\": -77.0260, \"z\": -56.7761}, {\"x\": -14.2687, \"y\": 52.7841, \"z\": 4.5273}, {\"x\": 14.8212, \"y\": 51.8875, \"z\": 23.6864}, {\"x\": 26.0059, \"y\": 54.3636, \"z\": 32.8175}, {\"x\": 34.1451, \"y\": 48.6607, \"z\": 38.8129}, {\"x\": 7.4567, \"y\": 13.7498, \"z\": 18.0394}, {\"x\": -3.6238, \"y\": -35.4242, \"z\": 15.2513}, {\"x\": 8.2942, \"y\": -70.3039, \"z\": 11.1370}, {\"x\": 16.0936, \"y\": -76.5245, \"z\": 5.6228}, {\"x\": -5.6338, \"y\": -77.7857, \"z\": 7.8689}, {\"x\": 23.0473, \"y\": 51.6285, \"z\": 31.4320}, {\"x\": -47.6379, \"y\": -14.2185, \"z\": 8.5213}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame144() {
         return new MovesDoubleFrame(
                 new Vector3d(30.39015699734978, 83.11321852960522, -25.95620461543416),
-                new Vector3d[] {
-                    new Vector3d(-18.26280151643864, 56.17291832131113, -20.55093156455439),
-                    new Vector3d(-24.72474077781057, 59.35969741810096, -12.19369237053050),
-                    new Vector3d(-1.83171760778394, 18.37813010412510, 5.67428096857898),
-                    new Vector3d(-20.48164854168608, 31.02477736956654, -17.61409058362306),
-                    new Vector3d(-35.03727426504447, 5.83019224342110, -2.43752741820218),
-                    new Vector3d(-41.16524766094419, -2.75897029916584, 5.38946882148150),
-                    new Vector3d(-48.06109508475579, -10.25485166517852, 7.01060979341818),
-                    new Vector3d(8.55916994090651, 9.94387368671439, -1.49425430698786),
-                    new Vector3d(24.50939960289105, -35.49402691959875, -24.27749791940636),
-                    new Vector3d(29.85639736156999, -64.42188339932957, -42.69259088099736),
-                    new Vector3d(29.37298910337567, -71.43404999478857, -37.52649912267087),
-                    new Vector3d(23.68829630754332, -77.57071667273679, -56.45103204310674),
-                    new Vector3d(-14.12116666568566, 53.21868147186330, 4.47513043569159),
-                    new Vector3d(14.92915581103838, 51.84847911049113, 23.79362644999263),
-                    new Vector3d(26.02185004050854, 54.11533133015158, 33.00156636661769),
-                    new Vector3d(34.05819601714447, 48.27862405292533, 39.02623477047263),
-                    new Vector3d(7.20965837130256, 13.74019505654522, 17.73679149771708),
-                    new Vector3d(-3.38063913837128, -35.78334014559588, 14.79455452998494),
-                    new Vector3d(8.20175577561045, -70.83400625483871, 10.91100551232972),
-                    new Vector3d(15.98113949950760, -77.07457577250494, 5.43550848882614),
-                    new Vector3d(-5.73546474762145, -78.29282386733614, 7.64857555361335),
-                    new Vector3d(23.03894052673387, 51.42495606949017, 31.54493028340199),
-                    new Vector3d(-46.59801729292514, -13.92862210507220, 9.37841012309980),
-                }
+                "\"skeletons\": [{\"x\": -18.2628, \"y\": 56.1729, \"z\": -20.5509}, {\"x\": -24.7247, \"y\": 59.3597, \"z\": -12.1937}, {\"x\": -1.8317, \"y\": 18.3781, \"z\": 5.6743}, {\"x\": -20.4816, \"y\": 31.0248, \"z\": -17.6141}, {\"x\": -35.0373, \"y\": 5.8302, \"z\": -2.4375}, {\"x\": -41.1652, \"y\": -2.7590, \"z\": 5.3895}, {\"x\": -48.0611, \"y\": -10.2549, \"z\": 7.0106}, {\"x\": 8.5592, \"y\": 9.9439, \"z\": -1.4943}, {\"x\": 24.5094, \"y\": -35.4940, \"z\": -24.2775}, {\"x\": 29.8564, \"y\": -64.4219, \"z\": -42.6926}, {\"x\": 29.3730, \"y\": -71.4340, \"z\": -37.5265}, {\"x\": 23.6883, \"y\": -77.5707, \"z\": -56.4510}, {\"x\": -14.1212, \"y\": 53.2187, \"z\": 4.4751}, {\"x\": 14.9292, \"y\": 51.8485, \"z\": 23.7936}, {\"x\": 26.0219, \"y\": 54.1153, \"z\": 33.0016}, {\"x\": 34.0582, \"y\": 48.2786, \"z\": 39.0262}, {\"x\": 7.2097, \"y\": 13.7402, \"z\": 17.7368}, {\"x\": -3.3806, \"y\": -35.7833, \"z\": 14.7946}, {\"x\": 8.2018, \"y\": -70.8340, \"z\": 10.9110}, {\"x\": 15.9811, \"y\": -77.0746, \"z\": 5.4355}, {\"x\": -5.7355, \"y\": -78.2928, \"z\": 7.6486}, {\"x\": 23.0389, \"y\": 51.4250, \"z\": 31.5449}, {\"x\": -46.5980, \"y\": -13.9286, \"z\": 9.3784}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame145() {
         return new MovesDoubleFrame(
                 new Vector3d(30.52042063802208, 83.64049677445111, -25.79853143571361),
-                new Vector3d[] {
-                    new Vector3d(-18.28110641963004, 56.63883730292985, -20.67491603795102),
-                    new Vector3d(-24.73765412101871, 59.81111294748557, -12.32761530243914),
-                    new Vector3d(-2.01247524697183, 18.62325454568272, 5.38630077819824),
-                    new Vector3d(-20.53812286975192, 31.49437736769135, -17.77573323597538),
-                    new Vector3d(-34.52303482137629, 6.22147195963997, -1.98304231831257),
-                    new Vector3d(-40.32523111659584, -2.41946014356727, 6.02893481384888),
-                    new Vector3d(-47.16244797427654, -9.92116160180270, 7.83635755313117),
-                    new Vector3d(8.24479269591089, 10.06367803788491, -1.85379080665990),
-                    new Vector3d(24.11893770656986, -35.67273730314100, -24.39521881668741),
-                    new Vector3d(29.54684339302722, -64.76416139330415, -42.47167898719426),
-                    new Vector3d(29.12158248685554, -71.72103611069150, -37.14903967100828),
-                    new Vector3d(23.29262803590884, -78.11918665271887, -56.04241018224732),
-                    new Vector3d(-13.96441496221147, 53.61665887101021, 4.43882741568429),
-                    new Vector3d(15.02420389327686, 51.79694625940305, 23.84591823280353),
-                    new Vector3d(26.07948193518339, 53.84576199380741, 33.19892736926162),
-                    new Vector3d(33.96235797905283, 47.87416861215994, 39.24363329941216),
-                    new Vector3d(6.98329183300534, 13.72582775115734, 17.42977174313194),
-                    new Vector3d(-3.18259322035683, -36.16743543610769, 14.39958312958452),
-                    new Vector3d(8.13163275137181, -71.37053516541143, 10.65519468502341),
-                    new Vector3d(15.85476164140696, -77.61811858815591, 5.26373357221942),
-                    new Vector3d(-5.87312887039501, -78.77898084779365, 7.45259652626592),
-                    new Vector3d(23.08373804359406, 51.21223025797371, 31.67082635548526),
-                    new Vector3d(-45.57753814033500, -13.60986751269810, 10.11734913272713),
-                }
+                "\"skeletons\": [{\"x\": -18.2811, \"y\": 56.6388, \"z\": -20.6749}, {\"x\": -24.7377, \"y\": 59.8111, \"z\": -12.3276}, {\"x\": -2.0125, \"y\": 18.6233, \"z\": 5.3863}, {\"x\": -20.5381, \"y\": 31.4944, \"z\": -17.7757}, {\"x\": -34.5230, \"y\": 6.2215, \"z\": -1.9830}, {\"x\": -40.3252, \"y\": -2.4195, \"z\": 6.0289}, {\"x\": -47.1624, \"y\": -9.9212, \"z\": 7.8364}, {\"x\": 8.2448, \"y\": 10.0637, \"z\": -1.8538}, {\"x\": 24.1189, \"y\": -35.6727, \"z\": -24.3952}, {\"x\": 29.5468, \"y\": -64.7642, \"z\": -42.4717}, {\"x\": 29.1216, \"y\": -71.7210, \"z\": -37.1490}, {\"x\": 23.2926, \"y\": -78.1192, \"z\": -56.0424}, {\"x\": -13.9644, \"y\": 53.6167, \"z\": 4.4388}, {\"x\": 15.0242, \"y\": 51.7969, \"z\": 23.8459}, {\"x\": 26.0795, \"y\": 53.8458, \"z\": 33.1989}, {\"x\": 33.9624, \"y\": 47.8742, \"z\": 39.2436}, {\"x\": 6.9833, \"y\": 13.7258, \"z\": 17.4298}, {\"x\": -3.1826, \"y\": -36.1674, \"z\": 14.3996}, {\"x\": 8.1316, \"y\": -71.3705, \"z\": 10.6552}, {\"x\": 15.8548, \"y\": -77.6181, \"z\": 5.2637}, {\"x\": -5.8731, \"y\": -78.7790, \"z\": 7.4526}, {\"x\": 23.0837, \"y\": 51.2122, \"z\": 31.6708}, {\"x\": -45.5775, \"y\": -13.6099, \"z\": 10.1173}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame146() {
         return new MovesDoubleFrame(
                 new Vector3d(30.65072523419974, 84.17537803992685, -25.64928261591560),
-                new Vector3d[] {
-                    new Vector3d(-18.27968654108482, 57.06527018096716, -20.83113195199833),
-                    new Vector3d(-24.76331142974633, 60.23106067955251, -12.48255305771060),
-                    new Vector3d(-2.19948564497705, 18.88376224241963, 5.14108774940056),
-                    new Vector3d(-20.56296289775561, 31.95351793046788, -17.91963856551699),
-                    new Vector3d(-34.06575917315021, 6.64775177557870, -1.61546439565630),
-                    new Vector3d(-39.58517541911027, -2.03729797648701, 6.59154635632130),
-                    new Vector3d(-46.30154087383901, -9.52920156357975, 8.58590609409040),
-                    new Vector3d(7.90000180312012, 10.19185428802437, -2.19456498297053),
-                    new Vector3d(23.79069937223823, -35.84941487762658, -24.49936427750202),
-                    new Vector3d(29.34306940253859, -65.19562604381719, -42.23526540880930),
-                    new Vector3d(28.85477689392330, -72.07232831470743, -36.79651357622491),
-                    new Vector3d(22.94767881119206, -78.65276490747873, -55.58321519354948),
-                    new Vector3d(-13.78246138916235, 53.95811600402089, 4.42073332979747),
-                    new Vector3d(15.09999455997563, 51.71690662681814, 23.91967935858098),
-                    new Vector3d(26.14668458826902, 53.55887212099791, 33.34054395283256),
-                    new Vector3d(33.89524716444825, 47.46190792400642, 39.39332227285825),
-                    new Vector3d(6.70266022835802, 13.70630677054904, 17.13183529105284),
-                    new Vector3d(-3.01438884115414, -36.52110173943441, 14.15303637363142),
-                    new Vector3d(8.05563928702764, -71.90926747772423, 10.44450431273578),
-                    new Vector3d(15.71463726108877, -78.15394737280495, 5.10155103950754),
-                    new Vector3d(-6.00693276581565, -79.29834159773189, 7.28239932415960),
-                    new Vector3d(23.13334113288986, 50.96369235334146, 31.80502058506791),
-                    new Vector3d(-44.64163311073312, -13.22992973287995, 10.79153157556447),
-                }
+                "\"skeletons\": [{\"x\": -18.2797, \"y\": 57.0653, \"z\": -20.8311}, {\"x\": -24.7633, \"y\": 60.2311, \"z\": -12.4826}, {\"x\": -2.1995, \"y\": 18.8838, \"z\": 5.1411}, {\"x\": -20.5630, \"y\": 31.9535, \"z\": -17.9196}, {\"x\": -34.0658, \"y\": 6.6478, \"z\": -1.6155}, {\"x\": -39.5852, \"y\": -2.0373, \"z\": 6.5915}, {\"x\": -46.3015, \"y\": -9.5292, \"z\": 8.5859}, {\"x\": 7.9000, \"y\": 10.1919, \"z\": -2.1946}, {\"x\": 23.7907, \"y\": -35.8494, \"z\": -24.4994}, {\"x\": 29.3431, \"y\": -65.1956, \"z\": -42.2353}, {\"x\": 28.8548, \"y\": -72.0723, \"z\": -36.7965}, {\"x\": 22.9477, \"y\": -78.6528, \"z\": -55.5832}, {\"x\": -13.7825, \"y\": 53.9581, \"z\": 4.4207}, {\"x\": 15.1000, \"y\": 51.7169, \"z\": 23.9197}, {\"x\": 26.1467, \"y\": 53.5589, \"z\": 33.3405}, {\"x\": 33.8952, \"y\": 47.4619, \"z\": 39.3933}, {\"x\": 6.7027, \"y\": 13.7063, \"z\": 17.1318}, {\"x\": -3.0144, \"y\": -36.5211, \"z\": 14.1530}, {\"x\": 8.0556, \"y\": -71.9093, \"z\": 10.4445}, {\"x\": 15.7146, \"y\": -78.1539, \"z\": 5.1016}, {\"x\": -6.0069, \"y\": -79.2983, \"z\": 7.2824}, {\"x\": 23.1333, \"y\": 50.9637, \"z\": 31.8050}, {\"x\": -44.6416, \"y\": -13.2299, \"z\": 10.7915}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame147() {
         return new MovesDoubleFrame(
                 new Vector3d(30.79429264815382, 84.71477670534888, -25.49035777831414),
-                new Vector3d[] {
-                    new Vector3d(-18.29895932793769, 57.49553952100803, -20.96088219907073),
-                    new Vector3d(-24.76423513506741, 60.66771616317496, -12.65689491686986),
-                    new Vector3d(-2.40187879606450, 19.07541526627941, 4.93178904469726),
-                    new Vector3d(-20.57068874704363, 32.45937008741427, -18.08892062552015),
-                    new Vector3d(-33.59014372317567, 7.08626089230736, -1.27251485737665),
-                    new Vector3d(-38.83772028615753, -1.59134177525020, 7.09888535335526),
-                    new Vector3d(-45.51083915854908, -9.15495839737191, 9.25128303112818),
-                    new Vector3d(7.49765424483549, 10.35874961686535, -2.56840984157175),
-                    new Vector3d(23.46751861829355, -35.94668395761040, -24.61054698756785),
-                    new Vector3d(29.20887025789058, -65.56388229938156, -41.88501967594161),
-                    new Vector3d(28.72689297581821, -72.41603254384344, -36.35443303171876),
-                    new Vector3d(22.62847185893910, -79.23590480770162, -54.95773150005758),
-                    new Vector3d(-13.59803731560859, 54.31567469781723, 4.38887639082442),
-                    new Vector3d(15.21252610313112, 51.60935723790770, 23.93185847218750),
-                    new Vector3d(26.22211247751435, 53.23990661856148, 33.40810137082737),
-                    new Vector3d(33.85806106021378, 46.99180995172348, 39.43407292402755),
-                    new Vector3d(6.41517775943252, 13.71169472377324, 16.82063733940712),
-                    new Vector3d(-2.75879701056131, -36.87969980105201, 13.96921271059724),
-                    new Vector3d(7.96731961156040, -72.39997463593585, 10.28723823935444),
-                    new Vector3d(15.56421420705794, -78.67963635661327, 4.94056361134765),
-                    new Vector3d(-6.15859246247845, -79.83845155982821, 7.11825911659025),
-                    new Vector3d(23.18799302207644, 50.68480825558862, 31.84526827748535),
-                    new Vector3d(-43.77429054404713, -12.85415980053803, 11.40416674148745),
-                }
+                "\"skeletons\": [{\"x\": -18.2990, \"y\": 57.4955, \"z\": -20.9609}, {\"x\": -24.7642, \"y\": 60.6677, \"z\": -12.6569}, {\"x\": -2.4019, \"y\": 19.0754, \"z\": 4.9318}, {\"x\": -20.5707, \"y\": 32.4594, \"z\": -18.0889}, {\"x\": -33.5901, \"y\": 7.0863, \"z\": -1.2725}, {\"x\": -38.8377, \"y\": -1.5913, \"z\": 7.0989}, {\"x\": -45.5108, \"y\": -9.1550, \"z\": 9.2513}, {\"x\": 7.4977, \"y\": 10.3587, \"z\": -2.5684}, {\"x\": 23.4675, \"y\": -35.9467, \"z\": -24.6105}, {\"x\": 29.2089, \"y\": -65.5639, \"z\": -41.8850}, {\"x\": 28.7269, \"y\": -72.4160, \"z\": -36.3544}, {\"x\": 22.6285, \"y\": -79.2359, \"z\": -54.9577}, {\"x\": -13.5980, \"y\": 54.3157, \"z\": 4.3889}, {\"x\": 15.2125, \"y\": 51.6094, \"z\": 23.9319}, {\"x\": 26.2221, \"y\": 53.2399, \"z\": 33.4081}, {\"x\": 33.8581, \"y\": 46.9918, \"z\": 39.4341}, {\"x\": 6.4152, \"y\": 13.7117, \"z\": 16.8206}, {\"x\": -2.7588, \"y\": -36.8797, \"z\": 13.9692}, {\"x\": 7.9673, \"y\": -72.4000, \"z\": 10.2872}, {\"x\": 15.5642, \"y\": -78.6796, \"z\": 4.9406}, {\"x\": -6.1586, \"y\": -79.8385, \"z\": 7.1183}, {\"x\": 23.1880, \"y\": 50.6848, \"z\": 31.8453}, {\"x\": -43.7743, \"y\": -12.8542, \"z\": 11.4042}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame148() {
         return new MovesDoubleFrame(
                 new Vector3d(30.94256810919858, 85.25258731787241, -25.34643127771482),
-                new Vector3d[] {
-                    new Vector3d(-18.30787664133979, 57.95329091836759, -21.13234446948398),
-                    new Vector3d(-24.79648614556146, 61.08978887101288, -12.79177719283288),
-                    new Vector3d(-2.65917724946563, 19.34165248543223, 4.69527323696781),
-                    new Vector3d(-20.62246052058593, 32.93585445917763, -18.28247347317608),
-                    new Vector3d(-33.16232022921420, 7.55752863974623, -0.97653959398347),
-                    new Vector3d(-38.16078278766415, -1.11165409798187, 7.53451673718258),
-                    new Vector3d(-44.71887701405196, -8.69802090917489, 9.93386419449468),
-                    new Vector3d(7.12131369461516, 10.52906573596580, -2.87675617318170),
-                    new Vector3d(23.17035321694393, -36.06957402138657, -24.70044086174026),
-                    new Vector3d(29.07822785348645, -65.90687425362610, -41.49894043709467),
-                    new Vector3d(28.61685977263981, -72.72692716108700, -35.84301159827398),
-                    new Vector3d(22.33924763621966, -79.76763881685913, -54.41282539974543),
-                    new Vector3d(-13.48250654400018, 54.71384980153745, 4.39215982638141),
-                    new Vector3d(15.23593270062628, 51.42572014512101, 23.96750669159322),
-                    new Vector3d(26.28463194048618, 52.85391832612036, 33.46856428892326),
-                    new Vector3d(33.86735769101974, 46.46245189759790, 39.41928311173714),
-                    new Vector3d(6.12358687175968, 13.71218688417323, 16.52224348986293),
-                    new Vector3d(-2.55091247169173, -37.32266861853618, 13.78829599887441),
-                    new Vector3d(7.87212112548481, -72.92627713284870, 10.15017953232351),
-                    new Vector3d(15.42497734134183, -79.21448591889768, 4.80534414291616),
-                    new Vector3d(-6.31359031115733, -80.38828432750158, 6.97750785144284),
-                    new Vector3d(23.22416317212975, 50.35685107302671, 31.85889992453634),
-                    new Vector3d(-42.88840157446882, -12.36844249230753, 12.02524725610684),
-                }
+                "\"skeletons\": [{\"x\": -18.3079, \"y\": 57.9533, \"z\": -21.1323}, {\"x\": -24.7965, \"y\": 61.0898, \"z\": -12.7918}, {\"x\": -2.6592, \"y\": 19.3417, \"z\": 4.6953}, {\"x\": -20.6225, \"y\": 32.9359, \"z\": -18.2825}, {\"x\": -33.1623, \"y\": 7.5575, \"z\": -0.9765}, {\"x\": -38.1608, \"y\": -1.1117, \"z\": 7.5345}, {\"x\": -44.7189, \"y\": -8.6980, \"z\": 9.9339}, {\"x\": 7.1213, \"y\": 10.5291, \"z\": -2.8768}, {\"x\": 23.1704, \"y\": -36.0696, \"z\": -24.7004}, {\"x\": 29.0782, \"y\": -65.9069, \"z\": -41.4989}, {\"x\": 28.6169, \"y\": -72.7269, \"z\": -35.8430}, {\"x\": 22.3392, \"y\": -79.7676, \"z\": -54.4128}, {\"x\": -13.4825, \"y\": 54.7138, \"z\": 4.3922}, {\"x\": 15.2359, \"y\": 51.4257, \"z\": 23.9675}, {\"x\": 26.2846, \"y\": 52.8539, \"z\": 33.4686}, {\"x\": 33.8674, \"y\": 46.4625, \"z\": 39.4193}, {\"x\": 6.1236, \"y\": 13.7122, \"z\": 16.5222}, {\"x\": -2.5509, \"y\": -37.3227, \"z\": 13.7883}, {\"x\": 7.8721, \"y\": -72.9263, \"z\": 10.1502}, {\"x\": 15.4250, \"y\": -79.2145, \"z\": 4.8053}, {\"x\": -6.3136, \"y\": -80.3883, \"z\": 6.9775}, {\"x\": 23.2242, \"y\": 50.3569, \"z\": 31.8589}, {\"x\": -42.8884, \"y\": -12.3684, \"z\": 12.0252}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame149() {
         return new MovesDoubleFrame(
                 new Vector3d(31.07917984476211, 85.78421358390327, -25.21308615995988),
-                new Vector3d[] {
-                    new Vector3d(-18.28890421079959, 58.40431751251452, -21.21318501954529),
-                    new Vector3d(-24.78278653621820, 61.53228782893056, -12.88137200464720),
-                    new Vector3d(-2.88179883998883, 19.54357950875269, 4.44004440755335),
-                    new Vector3d(-20.69628508879872, 33.42645814546898, -18.43972512851521),
-                    new Vector3d(-32.76054460404956, 8.04068658766823, -0.67632360560394),
-                    new Vector3d(-37.42591897270282, -0.65423811728262, 7.97366624863982),
-                    new Vector3d(-43.95464445481172, -8.18595389659907, 10.61198610261130),
-                    new Vector3d(6.74097196756901, 10.68594485204255, -3.23344321508295),
-                    new Vector3d(22.80434814329886, -36.20498246319379, -24.78129787140761),
-                    new Vector3d(28.88402074399004, -66.25545469403332, -41.18908358630521),
-                    new Vector3d(28.34972036291039, -73.21711810128498, -35.51207510134769),
-                    new Vector3d(22.07487824357396, -80.27530243579373, -53.87752937117754),
-                    new Vector3d(-13.36389633187223, 55.04034895158583, 4.35296619451893),
-                    new Vector3d(15.33916133441875, 51.25619939923818, 23.96822092341461),
-                    new Vector3d(26.38133709394696, 52.46332334924993, 33.52608162316623),
-                    new Vector3d(33.86384151172970, 45.91359878760166, 39.43119021602900),
-                    new Vector3d(5.83118689239327, 13.70706616729357, 16.20272534179967),
-                    new Vector3d(-2.18622577991249, -37.73635536719451, 13.71272540241416),
-                    new Vector3d(7.75791472271126, -73.44072477498216, 10.01108690676096),
-                    new Vector3d(15.28730090178198, -79.75306868980768, 4.68009224098887),
-                    new Vector3d(-6.44375283347780, -80.91731363941619, 6.85158232178167),
-                    new Vector3d(23.27564285040353, 50.01848885089466, 31.92946228436819),
-                    new Vector3d(-42.05208483788152, -11.89574606194897, 12.64388995701966),
-                }
+                "\"skeletons\": [{\"x\": -18.2889, \"y\": 58.4043, \"z\": -21.2132}, {\"x\": -24.7828, \"y\": 61.5323, \"z\": -12.8814}, {\"x\": -2.8818, \"y\": 19.5436, \"z\": 4.4400}, {\"x\": -20.6963, \"y\": 33.4265, \"z\": -18.4397}, {\"x\": -32.7605, \"y\": 8.0407, \"z\": -0.6763}, {\"x\": -37.4259, \"y\": -0.6542, \"z\": 7.9737}, {\"x\": -43.9546, \"y\": -8.1860, \"z\": 10.6120}, {\"x\": 6.7410, \"y\": 10.6859, \"z\": -3.2334}, {\"x\": 22.8043, \"y\": -36.2050, \"z\": -24.7813}, {\"x\": 28.8840, \"y\": -66.2555, \"z\": -41.1891}, {\"x\": 28.3497, \"y\": -73.2171, \"z\": -35.5121}, {\"x\": 22.0749, \"y\": -80.2753, \"z\": -53.8775}, {\"x\": -13.3639, \"y\": 55.0403, \"z\": 4.3530}, {\"x\": 15.3392, \"y\": 51.2562, \"z\": 23.9682}, {\"x\": 26.3813, \"y\": 52.4633, \"z\": 33.5261}, {\"x\": 33.8638, \"y\": 45.9136, \"z\": 39.4312}, {\"x\": 5.8312, \"y\": 13.7071, \"z\": 16.2027}, {\"x\": -2.1862, \"y\": -37.7364, \"z\": 13.7127}, {\"x\": 7.7579, \"y\": -73.4407, \"z\": 10.0111}, {\"x\": 15.2873, \"y\": -79.7531, \"z\": 4.6801}, {\"x\": -6.4438, \"y\": -80.9173, \"z\": 6.8516}, {\"x\": 23.2756, \"y\": 50.0185, \"z\": 31.9295}, {\"x\": -42.0521, \"y\": -11.8957, \"z\": 12.6439}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame150() {
         return new MovesDoubleFrame(
                 new Vector3d(31.21094063562624, 86.30186369710727, -25.09373549596555),
-                new Vector3d[] {
-                    new Vector3d(-18.24930475060271, 58.87335414792034, -21.23190334249413),
-                    new Vector3d(-24.78221406414163, 61.96581612255907, -12.94147049998135),
-                    new Vector3d(-3.16981084505484, 19.76415066588763, 4.24179084934534),
-                    new Vector3d(-20.73697159054650, 33.92493936401232, -18.55469615291985),
-                    new Vector3d(-32.32332656255408, 8.53352678104123, -0.36804173076216),
-                    new Vector3d(-36.71616168270500, -0.17387196484693, 8.44936870817698),
-                    new Vector3d(-43.19021626304929, -7.67286958860602, 11.28348084398525),
-                    new Vector3d(6.34166237611454, 10.77837314224454, -3.56794654115851),
-                    new Vector3d(22.46169450447010, -36.37708486923925, -24.89374731781940),
-                    new Vector3d(28.63960913969096, -66.55023420758144, -40.97435509489149),
-                    new Vector3d(28.19775008225734, -73.42476539562847, -35.17020631045481),
-                    new Vector3d(21.81061193354082, -80.83777296834749, -53.38687491984449),
-                    new Vector3d(-13.19679378779377, 55.32527721425318, 4.40973638992407),
-                    new Vector3d(15.40744939462517, 51.03808789696581, 24.02906570619954),
-                    new Vector3d(26.47997623173748, 51.99434303676845, 33.53933083999273),
-                    new Vector3d(33.87613009907184, 45.30437960279288, 39.40701020648451),
-                    new Vector3d(5.57815203776868, 13.71471255645389, 15.86417912116472),
-                    new Vector3d(-1.86395281236937, -38.01532545972915, 13.54391924964601),
-                    new Vector3d(7.72798150645993, -73.93856819792228, 9.93657187310224),
-                    new Vector3d(15.15820772202326, -80.26453639103386, 4.55780953757592),
-                    new Vector3d(-6.57480853443821, -81.42834992610750, 6.73288077202802),
-                    new Vector3d(23.34713605940724, 49.60382845074285, 31.92212774849323),
-                    new Vector3d(-41.25775692944306, -11.41434410160973, 13.22708978623222),
-                }
+                "\"skeletons\": [{\"x\": -18.2493, \"y\": 58.8734, \"z\": -21.2319}, {\"x\": -24.7822, \"y\": 61.9658, \"z\": -12.9415}, {\"x\": -3.1698, \"y\": 19.7642, \"z\": 4.2418}, {\"x\": -20.7370, \"y\": 33.9249, \"z\": -18.5547}, {\"x\": -32.3233, \"y\": 8.5335, \"z\": -0.3680}, {\"x\": -36.7162, \"y\": -0.1739, \"z\": 8.4494}, {\"x\": -43.1902, \"y\": -7.6729, \"z\": 11.2835}, {\"x\": 6.3417, \"y\": 10.7784, \"z\": -3.5679}, {\"x\": 22.4617, \"y\": -36.3771, \"z\": -24.8937}, {\"x\": 28.6396, \"y\": -66.5502, \"z\": -40.9744}, {\"x\": 28.1978, \"y\": -73.4248, \"z\": -35.1702}, {\"x\": 21.8106, \"y\": -80.8378, \"z\": -53.3869}, {\"x\": -13.1968, \"y\": 55.3253, \"z\": 4.4097}, {\"x\": 15.4074, \"y\": 51.0381, \"z\": 24.0291}, {\"x\": 26.4800, \"y\": 51.9943, \"z\": 33.5393}, {\"x\": 33.8761, \"y\": 45.3044, \"z\": 39.4070}, {\"x\": 5.5782, \"y\": 13.7147, \"z\": 15.8642}, {\"x\": -1.8640, \"y\": -38.0153, \"z\": 13.5439}, {\"x\": 7.7280, \"y\": -73.9386, \"z\": 9.9366}, {\"x\": 15.1582, \"y\": -80.2645, \"z\": 4.5578}, {\"x\": -6.5748, \"y\": -81.4283, \"z\": 6.7329}, {\"x\": 23.3471, \"y\": 49.6038, \"z\": 31.9221}, {\"x\": -41.2578, \"y\": -11.4143, \"z\": 13.2271}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame151() {
         return new MovesDoubleFrame(
                 new Vector3d(31.33455546655299, 86.78216294648264, -25.01113989721760),
-                new Vector3d[] {
-                    new Vector3d(-18.18135197079119, 59.34560638223466, -21.22176679043048),
-                    new Vector3d(-24.72515562076763, 62.36810065196659, -12.86761027716856),
-                    new Vector3d(-3.40513663979248, 19.97143781414695, 4.01759464416187),
-                    new Vector3d(-20.74737420697705, 34.45221520470586, -18.64604596752972),
-                    new Vector3d(-31.89392935680115, 9.04817027181700, -0.06292964171151),
-                    new Vector3d(-36.05841299053569, 0.35606060311399, 8.86607131221138),
-                    new Vector3d(-42.44652882799616, -7.13926915958620, 11.89002000841478),
-                    new Vector3d(5.97759261758558, 10.81509930552189, -3.92338403468246),
-                    new Vector3d(22.01344411002518, -36.57026633024724, -25.08147087929644),
-                    new Vector3d(28.20166019467039, -66.95849064851971, -40.84974640361749),
-                    new Vector3d(27.87730265470230, -73.64505474170556, -35.04246931502198),
-                    new Vector3d(21.57820816249032, -81.27523951569805, -53.23135300801913),
-                    new Vector3d(-12.99084363264694, 55.69092828990911, 4.52172270494492),
-                    new Vector3d(15.57221451014657, 50.76954704749645, 24.09059822234790),
-                    new Vector3d(26.61927858145766, 51.52160290736096, 33.66989822989316),
-                    new Vector3d(33.96518163866122, 44.70056208509043, 39.44229595049777),
-                    new Vector3d(5.23413638178123, 13.65332105006880, 15.54110582135870),
-                    new Vector3d(-1.61016980299224, -38.32086077289682, 13.39854402115966),
-                    new Vector3d(7.68094967355558, -74.38891689954156, 9.85498922849257),
-                    new Vector3d(15.03233070486922, -80.74013321433061, 4.49503471574585),
-                    new Vector3d(-6.68234626159480, -81.89561746596004, 6.66140741553120),
-                    new Vector3d(23.41655967175665, 49.18916117681388, 32.04741148247652),
-                    new Vector3d(-40.46669685900508, -10.89308238068828, 13.69620433443368),
-                }
+                "\"skeletons\": [{\"x\": -18.1814, \"y\": 59.3456, \"z\": -21.2218}, {\"x\": -24.7252, \"y\": 62.3681, \"z\": -12.8676}, {\"x\": -3.4051, \"y\": 19.9714, \"z\": 4.0176}, {\"x\": -20.7474, \"y\": 34.4522, \"z\": -18.6460}, {\"x\": -31.8939, \"y\": 9.0482, \"z\": -0.0629}, {\"x\": -36.0584, \"y\": 0.3561, \"z\": 8.8661}, {\"x\": -42.4465, \"y\": -7.1393, \"z\": 11.8900}, {\"x\": 5.9776, \"y\": 10.8151, \"z\": -3.9234}, {\"x\": 22.0134, \"y\": -36.5703, \"z\": -25.0815}, {\"x\": 28.2017, \"y\": -66.9585, \"z\": -40.8497}, {\"x\": 27.8773, \"y\": -73.6451, \"z\": -35.0425}, {\"x\": 21.5782, \"y\": -81.2752, \"z\": -53.2314}, {\"x\": -12.9908, \"y\": 55.6909, \"z\": 4.5217}, {\"x\": 15.5722, \"y\": 50.7695, \"z\": 24.0906}, {\"x\": 26.6193, \"y\": 51.5216, \"z\": 33.6699}, {\"x\": 33.9652, \"y\": 44.7006, \"z\": 39.4423}, {\"x\": 5.2341, \"y\": 13.6533, \"z\": 15.5411}, {\"x\": -1.6102, \"y\": -38.3209, \"z\": 13.3985}, {\"x\": 7.6809, \"y\": -74.3889, \"z\": 9.8550}, {\"x\": 15.0323, \"y\": -80.7401, \"z\": 4.4950}, {\"x\": -6.6823, \"y\": -81.8956, \"z\": 6.6614}, {\"x\": 23.4166, \"y\": 49.1892, \"z\": 32.0474}, {\"x\": -40.4667, \"y\": -10.8931, \"z\": 13.6962}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame152() {
         return new MovesDoubleFrame(
                 new Vector3d(31.44094041383433, 87.18852112622764, -24.94931643787300),
-                new Vector3d[] {
-                    new Vector3d(-18.04616584064447, 59.84910762888769, -21.10461909446982),
-                    new Vector3d(-24.62391648317118, 62.77932991311386, -12.73907402146015),
-                    new Vector3d(-3.53616005320375, 20.05759863637466, 3.74781181228009),
-                    new Vector3d(-20.75014048271687, 34.98834248054317, -18.68752467308310),
-                    new Vector3d(-31.51705964672165, 9.54430358080360, 0.17989781226846),
-                    new Vector3d(-35.43155079082815, 0.86541680392488, 9.23763547154115),
-                    new Vector3d(-41.79910880692400, -6.59275333302639, 12.47185098086500),
-                    new Vector3d(5.60296529847501, 10.79756620054877, -4.25393956973023),
-                    new Vector3d(21.53760253166419, -36.75407724369416, -25.29236229050311),
-                    new Vector3d(27.77704635606894, -67.17683834337329, -40.98398783110020),
-                    new Vector3d(27.53578659044394, -73.82086612599514, -35.08387041108533),
-                    new Vector3d(21.30450084128100, -81.72283163967863, -53.17764976608905),
-                    new Vector3d(-12.75097822656685, 55.87273085014883, 4.68526934198386),
-                    new Vector3d(15.75544863006448, 50.49050545022324, 24.25591086189367),
-                    new Vector3d(26.77861641280257, 51.04788547254468, 33.85776366716755),
-                    new Vector3d(34.07142908718873, 44.10125926346731, 39.58249594808040),
-                    new Vector3d(5.00166270651537, 13.61527845757071, 15.14614344534836),
-                    new Vector3d(-1.45107806264386, -38.55588097788315, 13.35089016398210),
-                    new Vector3d(7.62894658393352, -74.76807162410013, 9.78939284807575),
-                    new Vector3d(14.93474971939670, -81.13944150368648, 4.43202721261259),
-                    new Vector3d(-6.80150879646082, -82.31655722561612, 6.59907563964942),
-                    new Vector3d(23.56255486611358, 48.76691449040182, 32.20627811506097),
-                    new Vector3d(-39.79285898857625, -10.36812724601931, 14.20527274251399),
-                }
+                "\"skeletons\": [{\"x\": -18.0462, \"y\": 59.8491, \"z\": -21.1046}, {\"x\": -24.6239, \"y\": 62.7793, \"z\": -12.7391}, {\"x\": -3.5362, \"y\": 20.0576, \"z\": 3.7478}, {\"x\": -20.7501, \"y\": 34.9883, \"z\": -18.6875}, {\"x\": -31.5171, \"y\": 9.5443, \"z\": 0.1799}, {\"x\": -35.4316, \"y\": 0.8654, \"z\": 9.2376}, {\"x\": -41.7991, \"y\": -6.5928, \"z\": 12.4719}, {\"x\": 5.6030, \"y\": 10.7976, \"z\": -4.2539}, {\"x\": 21.5376, \"y\": -36.7541, \"z\": -25.2924}, {\"x\": 27.7770, \"y\": -67.1768, \"z\": -40.9840}, {\"x\": 27.5358, \"y\": -73.8209, \"z\": -35.0839}, {\"x\": 21.3045, \"y\": -81.7228, \"z\": -53.1776}, {\"x\": -12.7510, \"y\": 55.8727, \"z\": 4.6853}, {\"x\": 15.7554, \"y\": 50.4905, \"z\": 24.2559}, {\"x\": 26.7786, \"y\": 51.0479, \"z\": 33.8578}, {\"x\": 34.0714, \"y\": 44.1013, \"z\": 39.5825}, {\"x\": 5.0017, \"y\": 13.6153, \"z\": 15.1461}, {\"x\": -1.4511, \"y\": -38.5559, \"z\": 13.3509}, {\"x\": 7.6289, \"y\": -74.7681, \"z\": 9.7894}, {\"x\": 14.9347, \"y\": -81.1394, \"z\": 4.4320}, {\"x\": -6.8015, \"y\": -82.3166, \"z\": 6.5991}, {\"x\": 23.5626, \"y\": 48.7669, \"z\": 32.2063}, {\"x\": -39.7929, \"y\": -10.3681, \"z\": 14.2053}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame153() {
         return new MovesDoubleFrame(
                 new Vector3d(31.56022151641216, 87.52852064734658, -24.90834853739645),
-                new Vector3d[] {
-                    new Vector3d(-17.96538508776272, 60.30743910983444, -20.87596954617307),
-                    new Vector3d(-24.48760147269343, 63.24130692145336, -12.50048066833883),
-                    new Vector3d(-3.59297791454861, 20.10002203045386, 3.52927025889074),
-                    new Vector3d(-20.74373903556710, 35.49670275050350, -18.63294491229222),
-                    new Vector3d(-31.19636457008811, 10.05015789104039, 0.45663858930845),
-                    new Vector3d(-34.92023863895332, 1.37513021871015, 9.54557126340091),
-                    new Vector3d(-41.22789206034096, -6.10426011350466, 12.96958800653744),
-                    new Vector3d(5.25681310887787, 10.70759025215558, -4.59779872391478),
-                    new Vector3d(21.05980443959113, -36.92936320784941, -25.67967170700116),
-                    new Vector3d(27.46714352705589, -67.35655463383257, -41.32018048780326),
-                    new Vector3d(27.24412336067314, -73.93448027144345, -35.29068912634298),
-                    new Vector3d(21.05254800198834, -82.07575944326521, -53.30359227961189),
-                    new Vector3d(-12.46892434954480, 56.12189485062685, 4.96856839245401),
-                    new Vector3d(15.95816406240304, 50.25020194649152, 24.47161918260976),
-                    new Vector3d(27.00530357867419, 50.53908895894453, 34.09149001918319),
-                    new Vector3d(34.15327253059501, 43.44294638081955, 39.74773042794435),
-                    new Vector3d(4.76552189638008, 13.53647431381118, 14.85817998514118),
-                    new Vector3d(-1.48336205513690, -38.89537350948239, 13.27204257205892),
-                    new Vector3d(7.54886459914529, -75.05102068979585, 9.76655498950083),
-                    new Vector3d(14.79733507189700, -81.47000475445732, 4.39890591686808),
-                    new Vector3d(-6.89163110269476, -82.68095683922093, 6.55704713478103),
-                    new Vector3d(23.78985154221096, 48.30400301410196, 32.36609933108294),
-                    new Vector3d(-39.21688228186645, -9.89301544146079, 14.66454219460465),
-                }
+                "\"skeletons\": [{\"x\": -17.9654, \"y\": 60.3074, \"z\": -20.8760}, {\"x\": -24.4876, \"y\": 63.2413, \"z\": -12.5005}, {\"x\": -3.5930, \"y\": 20.1000, \"z\": 3.5293}, {\"x\": -20.7437, \"y\": 35.4967, \"z\": -18.6329}, {\"x\": -31.1964, \"y\": 10.0502, \"z\": 0.4566}, {\"x\": -34.9202, \"y\": 1.3751, \"z\": 9.5456}, {\"x\": -41.2279, \"y\": -6.1043, \"z\": 12.9696}, {\"x\": 5.2568, \"y\": 10.7076, \"z\": -4.5978}, {\"x\": 21.0598, \"y\": -36.9294, \"z\": -25.6797}, {\"x\": 27.4671, \"y\": -67.3566, \"z\": -41.3202}, {\"x\": 27.2441, \"y\": -73.9345, \"z\": -35.2907}, {\"x\": 21.0525, \"y\": -82.0758, \"z\": -53.3036}, {\"x\": -12.4689, \"y\": 56.1219, \"z\": 4.9686}, {\"x\": 15.9582, \"y\": 50.2502, \"z\": 24.4716}, {\"x\": 27.0053, \"y\": 50.5391, \"z\": 34.0915}, {\"x\": 34.1533, \"y\": 43.4429, \"z\": 39.7477}, {\"x\": 4.7655, \"y\": 13.5365, \"z\": 14.8582}, {\"x\": -1.4834, \"y\": -38.8954, \"z\": 13.2720}, {\"x\": 7.5489, \"y\": -75.0510, \"z\": 9.7666}, {\"x\": 14.7973, \"y\": -81.4700, \"z\": 4.3989}, {\"x\": -6.8916, \"y\": -82.6810, \"z\": 6.5570}, {\"x\": 23.7899, \"y\": 48.3040, \"z\": 32.3661}, {\"x\": -39.2169, \"y\": -9.8930, \"z\": 14.6645}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame154() {
         return new MovesDoubleFrame(
                 new Vector3d(31.67282362793264, 87.78605102682705, -24.88487835523661),
-                new Vector3d[] {
-                    new Vector3d(-17.77981865838598, 60.76789784070310, -20.59687130318068),
-                    new Vector3d(-24.32609488831967, 63.63382255544405, -12.20479733392527),
-                    new Vector3d(-3.76542406556542, 20.18026035098270, 3.28003344878101),
-                    new Vector3d(-20.66468235456796, 36.03705538422009, -18.57576189284454),
-                    new Vector3d(-30.86951782466716, 10.52896094462990, 0.62486042482097),
-                    new Vector3d(-34.41764248602912, 1.80972073595391, 9.80568866653731),
-                    new Vector3d(-40.73647894580803, -5.54893656556404, 13.35859286918260),
-                    new Vector3d(4.89266425712424, 10.52708668347653, -4.94472117918294),
-                    new Vector3d(20.53696683944674, -37.18735573360131, -26.05962323381904),
-                    new Vector3d(27.02784336853803, -67.53855884896419, -41.59192957033905),
-                    new Vector3d(26.98355604500458, -74.01170332667458, -35.57775966987990),
-                    new Vector3d(20.79936125933435, -82.40003736673077, -53.49831470431657),
-                    new Vector3d(-12.05996381497864, 56.33748541437361, 5.16797089417061),
-                    new Vector3d(16.28088929053295, 49.96601410303862, 24.74322249792455),
-                    new Vector3d(27.22532625727843, 50.02282969548654, 34.41945895403432),
-                    new Vector3d(34.28350753811725, 42.79025769541801, 39.98170645453759),
-                    new Vector3d(4.59259968835367, 13.39248911931465, 14.50701420022016),
-                    new Vector3d(-1.63849531447322, -39.10827879932226, 13.20677142485523),
-                    new Vector3d(7.40192211245592, -75.26183730955047, 9.72699156902670),
-                    new Vector3d(14.67380616065014, -81.71586656011371, 4.37053380856720),
-                    new Vector3d(-7.01404912820677, -82.94706768514155, 6.54604114991862),
-                    new Vector3d(23.96805343655474, 47.86618821385276, 32.69774678806795),
-                    new Vector3d(-38.69478481332105, -9.37570631739724, 14.93909285954547),
-                }
+                "\"skeletons\": [{\"x\": -17.7798, \"y\": 60.7679, \"z\": -20.5969}, {\"x\": -24.3261, \"y\": 63.6338, \"z\": -12.2048}, {\"x\": -3.7654, \"y\": 20.1803, \"z\": 3.2800}, {\"x\": -20.6647, \"y\": 36.0371, \"z\": -18.5758}, {\"x\": -30.8695, \"y\": 10.5290, \"z\": 0.6249}, {\"x\": -34.4176, \"y\": 1.8097, \"z\": 9.8057}, {\"x\": -40.7365, \"y\": -5.5489, \"z\": 13.3586}, {\"x\": 4.8927, \"y\": 10.5271, \"z\": -4.9447}, {\"x\": 20.5370, \"y\": -37.1874, \"z\": -26.0596}, {\"x\": 27.0278, \"y\": -67.5386, \"z\": -41.5919}, {\"x\": 26.9836, \"y\": -74.0117, \"z\": -35.5778}, {\"x\": 20.7994, \"y\": -82.4000, \"z\": -53.4983}, {\"x\": -12.0600, \"y\": 56.3375, \"z\": 5.1680}, {\"x\": 16.2809, \"y\": 49.9660, \"z\": 24.7432}, {\"x\": 27.2253, \"y\": 50.0228, \"z\": 34.4195}, {\"x\": 34.2835, \"y\": 42.7903, \"z\": 39.9817}, {\"x\": 4.5926, \"y\": 13.3925, \"z\": 14.5070}, {\"x\": -1.6385, \"y\": -39.1083, \"z\": 13.2068}, {\"x\": 7.4019, \"y\": -75.2618, \"z\": 9.7270}, {\"x\": 14.6738, \"y\": -81.7159, \"z\": 4.3705}, {\"x\": -7.0140, \"y\": -82.9471, \"z\": 6.5460}, {\"x\": 23.9681, \"y\": 47.8662, \"z\": 32.6977}, {\"x\": -38.6948, \"y\": -9.3757, \"z\": 14.9391}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame155() {
         return new MovesDoubleFrame(
                 new Vector3d(31.79910370902769, 87.95973290241075, -24.86225624760204),
-                new Vector3d[] {
-                    new Vector3d(-17.56768237844905, 61.27398710928842, -20.32867647895924),
-                    new Vector3d(-24.12533323247492, 64.04035965992770, -11.85162431715213),
-                    new Vector3d(-3.86125597881654, 20.24442189375936, 3.10568195053124),
-                    new Vector3d(-20.59379507879427, 36.63246506075888, -18.46296669133710),
-                    new Vector3d(-30.60310617496656, 10.95898401010981, 0.74364955401871),
-                    new Vector3d(-34.02939764550615, 2.25426502881869, 9.94777399705379),
-                    new Vector3d(-40.28416692056912, -5.14633673346054, 13.62429890842279),
-                    new Vector3d(4.53769104427403, 10.32297341324411, -5.29827576633172),
-                    new Vector3d(20.05756035102479, -37.34955688099735, -26.40674876921246),
-                    new Vector3d(26.61485671388017, -67.74988901397261, -41.86357150537415),
-                    new Vector3d(26.73462748480162, -74.12277506363044, -35.85014546896966),
-                    new Vector3d(20.63847225603145, -82.66371359541523, -53.66518157914255),
-                    new Vector3d(-11.65194891484619, 56.56913069946503, 5.53685469669719),
-                    new Vector3d(16.55342142552500, 49.61915734689416, 25.07643134734896),
-                    new Vector3d(27.49992603084934, 49.46380977997883, 34.74968123000280),
-                    new Vector3d(34.50909259349620, 42.11167636416389, 40.25027172697430),
-                    new Vector3d(4.41259262317245, 13.22685320702789, 14.14918093389052),
-                    new Vector3d(-2.02133115263671, -39.25792656007786, 13.00859946541831),
-                    new Vector3d(7.22030706919962, -75.38871377133110, 9.66630619409302),
-                    new Vector3d(14.54243418722662, -81.87205817302289, 4.34662298720495),
-                    new Vector3d(-7.15749012306082, -83.13911236990884, 6.53380269795644),
-                    new Vector3d(24.23609552563122, 47.35563584171521, 32.98478506185569),
-                    new Vector3d(-38.24067506180234, -9.03987221553732, 15.08943174172675),
-                }
+                "\"skeletons\": [{\"x\": -17.5677, \"y\": 61.2740, \"z\": -20.3287}, {\"x\": -24.1253, \"y\": 64.0404, \"z\": -11.8516}, {\"x\": -3.8613, \"y\": 20.2444, \"z\": 3.1057}, {\"x\": -20.5938, \"y\": 36.6325, \"z\": -18.4630}, {\"x\": -30.6031, \"y\": 10.9590, \"z\": 0.7436}, {\"x\": -34.0294, \"y\": 2.2543, \"z\": 9.9478}, {\"x\": -40.2842, \"y\": -5.1463, \"z\": 13.6243}, {\"x\": 4.5377, \"y\": 10.3230, \"z\": -5.2983}, {\"x\": 20.0576, \"y\": -37.3496, \"z\": -26.4067}, {\"x\": 26.6149, \"y\": -67.7499, \"z\": -41.8636}, {\"x\": 26.7346, \"y\": -74.1228, \"z\": -35.8501}, {\"x\": 20.6385, \"y\": -82.6637, \"z\": -53.6652}, {\"x\": -11.6519, \"y\": 56.5691, \"z\": 5.5369}, {\"x\": 16.5534, \"y\": 49.6192, \"z\": 25.0764}, {\"x\": 27.4999, \"y\": 49.4638, \"z\": 34.7497}, {\"x\": 34.5091, \"y\": 42.1117, \"z\": 40.2503}, {\"x\": 4.4126, \"y\": 13.2269, \"z\": 14.1492}, {\"x\": -2.0213, \"y\": -39.2579, \"z\": 13.0086}, {\"x\": 7.2203, \"y\": -75.3887, \"z\": 9.6663}, {\"x\": 14.5424, \"y\": -81.8721, \"z\": 4.3466}, {\"x\": -7.1575, \"y\": -83.1391, \"z\": 6.5338}, {\"x\": 24.2361, \"y\": 47.3556, \"z\": 32.9848}, {\"x\": -38.2407, \"y\": -9.0399, \"z\": 15.0894}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame156() {
         return new MovesDoubleFrame(
                 new Vector3d(31.92303835314259, 88.05708766225804, -24.81528084027577),
-                new Vector3d[] {
-                    new Vector3d(-17.34445110648439, 61.78628107452530, -20.00524921793250),
-                    new Vector3d(-23.87594854983413, 64.46429189748113, -11.52053185889159),
-                    new Vector3d(-3.92227676747677, 20.26390393416465, 2.95920644828689),
-                    new Vector3d(-20.48114982788965, 37.21354635075298, -18.31931980623798),
-                    new Vector3d(-30.33852640407667, 11.37476112474852, 0.78305816704606),
-                    new Vector3d(-33.71140812993291, 2.58426677669578, 9.93202224441478),
-                    new Vector3d(-39.90829215757174, -4.78266077319701, 13.62437650691735),
-                    new Vector3d(4.17403567653610, 10.18807025358870, -5.61063809448178),
-                    new Vector3d(19.58674810641450, -37.56629481557835, -26.68648491138365),
-                    new Vector3d(26.33798583513572, -67.97317677037380, -41.95660306259664),
-                    new Vector3d(26.40242445854972, -74.28653779056955, -35.95497406640010),
-                    new Vector3d(20.52055703975860, -82.89054108589434, -53.75907416038506),
-                    new Vector3d(-11.23144549847787, 56.79019053690197, 5.89221629720422),
-                    new Vector3d(16.88806173900672, 49.29157745757278, 25.37059894343504),
-                    new Vector3d(27.77235016545614, 48.88658129406832, 35.11290318822939),
-                    new Vector3d(34.68878590048463, 41.38044060665643, 40.54702463992993),
-                    new Vector3d(4.22998607652288, 13.06378126726791, 13.87005861092768),
-                    new Vector3d(-2.49132503664823, -39.38732294131261, 12.80205022536264),
-                    new Vector3d(6.98155968216785, -75.47113155341906, 9.56777957597611),
-                    new Vector3d(14.41319794377646, -81.95176296440502, 4.28013017751658),
-                    new Vector3d(-7.29357297751480, -83.24710385378361, 6.48523502260660),
-                    new Vector3d(24.48504311456475, 46.81770959088458, 33.32165732186976),
-                    new Vector3d(-37.82769401906369, -8.73638338998067, 14.95594080355372),
-                }
+                "\"skeletons\": [{\"x\": -17.3445, \"y\": 61.7863, \"z\": -20.0052}, {\"x\": -23.8759, \"y\": 64.4643, \"z\": -11.5205}, {\"x\": -3.9223, \"y\": 20.2639, \"z\": 2.9592}, {\"x\": -20.4811, \"y\": 37.2135, \"z\": -18.3193}, {\"x\": -30.3385, \"y\": 11.3748, \"z\": 0.7831}, {\"x\": -33.7114, \"y\": 2.5843, \"z\": 9.9320}, {\"x\": -39.9083, \"y\": -4.7827, \"z\": 13.6244}, {\"x\": 4.1740, \"y\": 10.1881, \"z\": -5.6106}, {\"x\": 19.5867, \"y\": -37.5663, \"z\": -26.6865}, {\"x\": 26.3380, \"y\": -67.9732, \"z\": -41.9566}, {\"x\": 26.4024, \"y\": -74.2865, \"z\": -35.9550}, {\"x\": 20.5206, \"y\": -82.8905, \"z\": -53.7591}, {\"x\": -11.2314, \"y\": 56.7902, \"z\": 5.8922}, {\"x\": 16.8881, \"y\": 49.2916, \"z\": 25.3706}, {\"x\": 27.7724, \"y\": 48.8866, \"z\": 35.1129}, {\"x\": 34.6888, \"y\": 41.3804, \"z\": 40.5470}, {\"x\": 4.2300, \"y\": 13.0638, \"z\": 13.8701}, {\"x\": -2.4913, \"y\": -39.3873, \"z\": 12.8021}, {\"x\": 6.9816, \"y\": -75.4711, \"z\": 9.5678}, {\"x\": 14.4132, \"y\": -81.9518, \"z\": 4.2801}, {\"x\": -7.2936, \"y\": -83.2471, \"z\": 6.4852}, {\"x\": 24.4850, \"y\": 46.8177, \"z\": 33.3217}, {\"x\": -37.8277, \"y\": -8.7364, \"z\": 14.9559}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame157() {
         return new MovesDoubleFrame(
                 new Vector3d(32.04164899817540, 88.09371635340938, -24.74446306137695),
-                new Vector3d[] {
-                    new Vector3d(-17.07514723446589, 62.27223401445364, -19.59078322312704),
-                    new Vector3d(-23.59171726691549, 64.91612878556109, -11.10974109831427),
-                    new Vector3d(-4.06042704528291, 20.38261944458168, 2.84679970781789),
-                    new Vector3d(-20.31968880709406, 37.84850593204056, -18.21760305361757),
-                    new Vector3d(-30.13808474725804, 11.71643087134194, 0.66521469708854),
-                    new Vector3d(-33.38685152542477, 2.79172342707209, 9.76052662344986),
-                    new Vector3d(-39.55913835306669, -4.58711082744849, 13.45252421271416),
-                    new Vector3d(3.82210565671134, 10.11103065969222, -5.85923885469863),
-                    new Vector3d(19.20812797110327, -37.72741027602108, -26.85799827690527),
-                    new Vector3d(26.09945830193524, -68.11032106327364, -42.00724372022550),
-                    new Vector3d(26.12687798640031, -74.39708098141004, -35.92793303200592),
-                    new Vector3d(20.42402564069228, -83.01589650720115, -53.85554649926782),
-                    new Vector3d(-10.75777106374583, 57.02518181363911, 6.23625965338186),
-                    new Vector3d(17.20468633784531, 48.91367988376560, 25.69967417279464),
-                    new Vector3d(28.11109835635595, 48.26425242106589, 35.40367319379417),
-                    new Vector3d(34.84145590458444, 40.59475770037744, 40.77886968416561),
-                    new Vector3d(3.95544814531811, 12.88198184900584, 13.62574867955907),
-                    new Vector3d(-3.04076340712256, -39.60817939853440, 12.52896472653533),
-                    new Vector3d(6.74981329250003, -75.44426218974093, 9.50458472861267),
-                    new Vector3d(14.29298260953039, -81.98331107347065, 4.18779885217842),
-                    new Vector3d(-7.45740450862510, -83.32060849870487, 6.35906932496072),
-                    new Vector3d(24.83405253899272, 46.23718863733898, 33.56519558153538),
-                    new Vector3d(-37.50006407597764, -8.56817350764751, 14.68837342207178),
-                }
+                "\"skeletons\": [{\"x\": -17.0751, \"y\": 62.2722, \"z\": -19.5908}, {\"x\": -23.5917, \"y\": 64.9161, \"z\": -11.1097}, {\"x\": -4.0604, \"y\": 20.3826, \"z\": 2.8468}, {\"x\": -20.3197, \"y\": 37.8485, \"z\": -18.2176}, {\"x\": -30.1381, \"y\": 11.7164, \"z\": 0.6652}, {\"x\": -33.3869, \"y\": 2.7917, \"z\": 9.7605}, {\"x\": -39.5591, \"y\": -4.5871, \"z\": 13.4525}, {\"x\": 3.8221, \"y\": 10.1110, \"z\": -5.8592}, {\"x\": 19.2081, \"y\": -37.7274, \"z\": -26.8580}, {\"x\": 26.0995, \"y\": -68.1103, \"z\": -42.0072}, {\"x\": 26.1269, \"y\": -74.3971, \"z\": -35.9279}, {\"x\": 20.4240, \"y\": -83.0159, \"z\": -53.8555}, {\"x\": -10.7578, \"y\": 57.0252, \"z\": 6.2363}, {\"x\": 17.2047, \"y\": 48.9137, \"z\": 25.6997}, {\"x\": 28.1111, \"y\": 48.2643, \"z\": 35.4037}, {\"x\": 34.8415, \"y\": 40.5948, \"z\": 40.7789}, {\"x\": 3.9554, \"y\": 12.8820, \"z\": 13.6257}, {\"x\": -3.0408, \"y\": -39.6082, \"z\": 12.5290}, {\"x\": 6.7498, \"y\": -75.4443, \"z\": 9.5046}, {\"x\": 14.2930, \"y\": -81.9833, \"z\": 4.1878}, {\"x\": -7.4574, \"y\": -83.3206, \"z\": 6.3591}, {\"x\": 24.8341, \"y\": 46.2372, \"z\": 33.5652}, {\"x\": -37.5001, \"y\": -8.5682, \"z\": 14.6884}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame158() {
         return new MovesDoubleFrame(
                 new Vector3d(32.15373888592300, 88.09103284498045, -24.68571334334369),
-                new Vector3d[] {
-                    new Vector3d(-16.81731398234020, 62.81824807827496, -19.20843347312987),
-                    new Vector3d(-23.30218172171886, 65.39667849880871, -10.73630396494167),
-                    new Vector3d(-4.18687800623048, 20.52508294498275, 2.75436618615935),
-                    new Vector3d(-20.11951486188892, 38.49909478733275, -18.03176952704028),
-                    new Vector3d(-29.89843052195354, 11.97442907336522, 0.43334134355051),
-                    new Vector3d(-33.10689847776990, 2.85874611291233, 9.35589754713932),
-                    new Vector3d(-39.24895983653486, -4.49884514611903, 13.04250667000600),
-                    new Vector3d(3.41678625811385, 10.12677025346390, -6.12705173126911),
-                    new Vector3d(18.90312499160530, -37.84146964407045, -26.94029549589307),
-                    new Vector3d(25.84724330588465, -68.24380222723735, -41.97490614666552),
-                    new Vector3d(25.95392937836566, -74.45190890062860, -35.91390629596454),
-                    new Vector3d(20.33417554125823, -83.04711025622095, -53.96023210193454),
-                    new Vector3d(-10.34579312583186, 57.24560758421755, 6.73586341487260),
-                    new Vector3d(17.54930865755728, 48.53333627484060, 26.09942818029607),
-                    new Vector3d(28.34779572758831, 47.51846040107418, 35.84607681171462),
-                    new Vector3d(35.00519947560582, 39.68443864012882, 41.11340078322635),
-                    new Vector3d(3.64018072756384, 12.81987806113005, 13.43972271541431),
-                    new Vector3d(-3.49450477923293, -39.71521089722776, 12.27892519950693),
-                    new Vector3d(6.57191376958051, -75.40701048745089, 9.40058344248069),
-                    new Vector3d(14.15677558996398, -81.98543418015890, 4.12446033824182),
-                    new Vector3d(-7.55621126101356, -83.33080075803394, 6.29621458729831),
-                    new Vector3d(25.04809616128975, 45.59341484651394, 33.95880747661081),
-                    new Vector3d(-37.18951406433993, -8.47252995322958, 14.20556032598891),
-                }
+                "\"skeletons\": [{\"x\": -16.8173, \"y\": 62.8182, \"z\": -19.2084}, {\"x\": -23.3022, \"y\": 65.3967, \"z\": -10.7363}, {\"x\": -4.1869, \"y\": 20.5251, \"z\": 2.7544}, {\"x\": -20.1195, \"y\": 38.4991, \"z\": -18.0318}, {\"x\": -29.8984, \"y\": 11.9744, \"z\": 0.4333}, {\"x\": -33.1069, \"y\": 2.8587, \"z\": 9.3559}, {\"x\": -39.2490, \"y\": -4.4988, \"z\": 13.0425}, {\"x\": 3.4168, \"y\": 10.1268, \"z\": -6.1271}, {\"x\": 18.9031, \"y\": -37.8415, \"z\": -26.9403}, {\"x\": 25.8472, \"y\": -68.2438, \"z\": -41.9749}, {\"x\": 25.9539, \"y\": -74.4519, \"z\": -35.9139}, {\"x\": 20.3342, \"y\": -83.0471, \"z\": -53.9602}, {\"x\": -10.3458, \"y\": 57.2456, \"z\": 6.7359}, {\"x\": 17.5493, \"y\": 48.5333, \"z\": 26.0994}, {\"x\": 28.3478, \"y\": 47.5185, \"z\": 35.8461}, {\"x\": 35.0052, \"y\": 39.6844, \"z\": 41.1134}, {\"x\": 3.6402, \"y\": 12.8199, \"z\": 13.4397}, {\"x\": -3.4945, \"y\": -39.7152, \"z\": 12.2789}, {\"x\": 6.5719, \"y\": -75.4070, \"z\": 9.4006}, {\"x\": 14.1568, \"y\": -81.9854, \"z\": 4.1245}, {\"x\": -7.5562, \"y\": -83.3308, \"z\": 6.2962}, {\"x\": 25.0481, \"y\": 45.5934, \"z\": 33.9588}, {\"x\": -37.1895, \"y\": -8.4725, \"z\": 14.2056}]}"
         );
     }
 
     private static MovesDoubleFrame getFrame159() {
         return new MovesDoubleFrame(
                 new Vector3d(32.25121686090007, 88.08662593498069, -24.62951194884557),
-                new Vector3d[] {
-                    new Vector3d(-16.46280816559307, 63.38907188500871, -18.80155330507905),
-                    new Vector3d(-22.93000699495714, 65.89686024629279, -10.24525262983747),
-                    new Vector3d(-4.28772300319366, 20.63999310284825, 2.68102985991047),
-                    new Vector3d(-19.86731685094170, 39.14851388600731, -17.88669747424830),
-                    new Vector3d(-29.70247821062830, 12.15541512653539, 0.11951690278927),
-                    new Vector3d(-32.79360995300533, 2.83840554631043, 8.80097539750630),
-                    new Vector3d(-38.91575301579766, -4.57989036130530, 12.37337982299109),
-                    new Vector3d(3.02887035053674, 10.17145736837045, -6.32145472412347),
-                    new Vector3d(18.55570780703198, -37.90084526779760, -26.97551468634592),
-                    new Vector3d(25.64892173020661, -68.28690915187302, -42.00878403219590),
-                    new Vector3d(25.75890070290692, -74.46926229348560, -35.95485189961836),
-                    new Vector3d(20.22541007019721, -83.02819611944453, -54.01875020128072),
-                    new Vector3d(-9.85400967820946, 57.49508260883979, 7.17637816070089),
-                    new Vector3d(17.82104552877774, 48.07440711027894, 26.46891855676742),
-                    new Vector3d(28.60155427286697, 46.77110460352376, 36.23981143355741),
-                    new Vector3d(35.04954456414693, 38.77499341490772, 41.49999618479555),
-                    new Vector3d(3.25744577163343, 12.72449671264178, 13.32921327525884),
-                    new Vector3d(-4.08732826520427, -39.74385922052610, 12.01018888953409),
-                    new Vector3d(6.38860828026095, -75.39989975062332, 9.29911811605804),
-                    new Vector3d(14.04916137350431, -81.98271112915968, 4.05439663599680),
-                    new Vector3d(-7.68041578135794, -83.33181903208808, 6.20570231795683),
-                    new Vector3d(25.25807438785169, 44.91053652683792, 34.33034398307849),
-                    new Vector3d(-36.84795417901072, -8.59849107757350, 13.45588004843110),
-                }
+                "\"skeletons\": [{\"x\": -16.4628, \"y\": 63.3891, \"z\": -18.8016}, {\"x\": -22.9300, \"y\": 65.8969, \"z\": -10.2453}, {\"x\": -4.2877, \"y\": 20.6400, \"z\": 2.6810}, {\"x\": -19.8673, \"y\": 39.1485, \"z\": -17.8867}, {\"x\": -29.7025, \"y\": 12.1554, \"z\": 0.1195}, {\"x\": -32.7936, \"y\": 2.8384, \"z\": 8.8010}, {\"x\": -38.9158, \"y\": -4.5799, \"z\": 12.3734}, {\"x\": 3.0289, \"y\": 10.1715, \"z\": -6.3215}, {\"x\": 18.5557, \"y\": -37.9008, \"z\": -26.9755}, {\"x\": 25.6489, \"y\": -68.2869, \"z\": -42.0088}, {\"x\": 25.7589, \"y\": -74.4693, \"z\": -35.9549}, {\"x\": 20.2254, \"y\": -83.0282, \"z\": -54.0188}, {\"x\": -9.8540, \"y\": 57.4951, \"z\": 7.1764}, {\"x\": 17.8210, \"y\": 48.0744, \"z\": 26.4689}, {\"x\": 28.6016, \"y\": 46.7711, \"z\": 36.2398}, {\"x\": 35.0495, \"y\": 38.7750, \"z\": 41.5000}, {\"x\": 3.2574, \"y\": 12.7245, \"z\": 13.3292}, {\"x\": -4.0873, \"y\": -39.7439, \"z\": 12.0102}, {\"x\": 6.3886, \"y\": -75.3999, \"z\": 9.2991}, {\"x\": 14.0492, \"y\": -81.9827, \"z\": 4.0544}, {\"x\": -7.6804, \"y\": -83.3318, \"z\": 6.2057}, {\"x\": 25.2581, \"y\": 44.9105, \"z\": 34.3303}, {\"x\": -36.8480, \"y\": -8.5985, \"z\": 13.4559}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame160() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.32816202181447, 88.09291247464573, -24.55532876180331),
+                "\"skeletons\": [{\"x\": -16.0968, \"y\": 63.9851, \"z\": -18.4064}, {\"x\": -22.5824, \"y\": 66.4082, \"z\": -9.8273}, {\"x\": -4.5404, \"y\": 20.8963, \"z\": 2.7410}, {\"x\": -19.5734, \"y\": 39.8477, \"z\": -17.7318}, {\"x\": -29.4647, \"y\": 12.3093, \"z\": -0.3845}, {\"x\": -32.5610, \"y\": 2.7514, \"z\": 8.0361}, {\"x\": -38.5914, \"y\": -4.7742, \"z\": 11.4831}, {\"x\": 2.7890, \"y\": 10.1785, \"z\": -6.2438}, {\"x\": 18.2836, \"y\": -37.8341, \"z\": -27.0465}, {\"x\": 25.4304, \"y\": -68.2173, \"z\": -42.0167}, {\"x\": 25.4963, \"y\": -74.4323, \"z\": -35.9778}, {\"x\": 20.0755, \"y\": -83.0116, \"z\": -54.0639}, {\"x\": -9.3999, \"y\": 57.7105, \"z\": 7.6331}, {\"x\": 18.0551, \"y\": 47.5221, \"z\": 26.8773}, {\"x\": 28.7816, \"y\": 45.9172, \"z\": 36.6703}, {\"x\": 35.0241, \"y\": 37.7382, \"z\": 41.7773}, {\"x\": 2.8728, \"y\": 12.6998, \"z\": 13.2990}, {\"x\": -4.4162, \"y\": -39.8565, \"z\": 11.8718}, {\"x\": 6.2830, \"y\": -75.4278, \"z\": 9.1966}, {\"x\": 13.9834, \"y\": -81.9843, \"z\": 3.9733}, {\"x\": -7.7683, \"y\": -83.3407, \"z\": 6.1082}, {\"x\": 25.4012, \"y\": 44.1440, \"z\": 34.7102}, {\"x\": -36.5433, \"y\": -8.8442, \"z\": 12.4104}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame161() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.36528530475875, 88.11526318012673, -24.47027725265431),
+                "\"skeletons\": [{\"x\": -15.6770, \"y\": 64.5705, \"z\": -17.9700}, {\"x\": -22.1475, \"y\": 66.9395, \"z\": -9.3515}, {\"x\": -4.6831, \"y\": 21.1007, \"z\": 2.8029}, {\"x\": -19.2016, \"y\": 40.4776, \"z\": -17.6514}, {\"x\": -29.1221, \"y\": 12.3633, \"z\": -0.9694}, {\"x\": -32.2431, \"y\": 2.5309, \"z\": 7.0941}, {\"x\": -38.2957, \"y\": -5.0213, \"z\": 10.2834}, {\"x\": 2.5355, \"y\": 10.3572, \"z\": -6.2230}, {\"x\": 17.8048, \"y\": -37.7764, \"z\": -27.0007}, {\"x\": 25.0101, \"y\": -68.1825, \"z\": -41.9546}, {\"x\": 25.0558, \"y\": -74.3953, \"z\": -35.8605}, {\"x\": 19.8589, \"y\": -82.9459, \"z\": -54.1236}, {\"x\": -9.0012, \"y\": 57.9906, \"z\": 8.0936}, {\"x\": 18.2184, \"y\": 46.9709, \"z\": 27.3191}, {\"x\": 28.9035, \"y\": 45.0490, \"z\": 37.0675}, {\"x\": 34.9734, \"y\": 36.6152, \"z\": 42.1112}, {\"x\": 2.4466, \"y\": 12.7679, \"z\": 13.4044}, {\"x\": -4.5877, \"y\": -39.8856, \"z\": 11.7963}, {\"x\": 6.2258, \"y\": -75.4840, \"z\": 9.1024}, {\"x\": 13.9339, \"y\": -82.0155, \"z\": 3.8865}, {\"x\": -7.8325, \"y\": -83.3979, \"z\": 6.0287}, {\"x\": 25.5054, \"y\": 43.3958, \"z\": 35.0840}, {\"x\": -36.2551, \"y\": -9.0840, \"z\": 11.1189}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame162() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.39564771580517, 88.13441123136923, -24.37871380121625),
+                "\"skeletons\": [{\"x\": -15.2345, \"y\": 65.1867, \"z\": -17.5432}, {\"x\": -21.7101, \"y\": 67.4702, \"z\": -8.8605}, {\"x\": -4.7656, \"y\": 21.3668, \"z\": 2.8786}, {\"x\": -18.8007, \"y\": 41.1977, \"z\": -17.5079}, {\"x\": -28.7938, \"y\": 12.4056, \"z\": -1.7857}, {\"x\": -31.9294, \"y\": 2.2659, \"z\": 5.8553}, {\"x\": -37.9701, \"y\": -5.4238, \"z\": 8.9178}, {\"x\": 2.3326, \"y\": 10.5788, \"z\": -6.2150}, {\"x\": 17.4481, \"y\": -37.7128, \"z\": -26.8841}, {\"x\": 24.5870, \"y\": -68.2164, \"z\": -41.7652}, {\"x\": 24.5080, \"y\": -74.4138, \"z\": -35.7246}, {\"x\": 19.6337, \"y\": -82.8605, \"z\": -54.0867}, {\"x\": -8.6099, \"y\": 58.2524, \"z\": 8.5389}, {\"x\": 18.2855, \"y\": 46.4583, \"z\": 27.7948}, {\"x\": 28.8661, \"y\": 44.1231, \"z\": 37.5504}, {\"x\": 34.7270, \"y\": 35.5175, \"z\": 42.5308}, {\"x\": 2.0674, \"y\": 12.8273, \"z\": 13.4778}, {\"x\": -4.6806, \"y\": -39.9053, \"z\": 11.7762}, {\"x\": 6.1962, \"y\": -75.5137, \"z\": 8.9981}, {\"x\": 13.9241, \"y\": -82.0384, \"z\": 3.7853}, {\"x\": -7.8390, \"y\": -83.4148, \"z\": 5.9142}, {\"x\": 25.4489, \"y\": 42.5827, \"z\": 35.5421}, {\"x\": -35.9195, \"y\": -9.5138, \"z\": 9.6404}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame163() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.42927423088101, 88.16522463820617, -24.30704196460294),
+                "\"skeletons\": [{\"x\": -14.8167, \"y\": 65.7777, \"z\": -17.1082}, {\"x\": -21.2810, \"y\": 68.0118, \"z\": -8.4860}, {\"x\": -4.9181, \"y\": 21.6419, \"z\": 3.0094}, {\"x\": -18.3876, \"y\": 41.8508, \"z\": -17.3555}, {\"x\": -28.4318, \"y\": 12.3615, \"z\": -2.7353}, {\"x\": -31.6062, \"y\": 1.8560, \"z\": 4.4467}, {\"x\": -37.5343, \"y\": -5.8714, \"z\": 7.2235}, {\"x\": 2.1483, \"y\": 10.8314, \"z\": -6.0565}, {\"x\": 17.1093, \"y\": -37.6252, \"z\": -26.7412}, {\"x\": 24.1495, \"y\": -68.1401, \"z\": -41.4789}, {\"x\": 23.9320, \"y\": -74.5139, \"z\": -35.5080}, {\"x\": 19.4588, \"y\": -82.7810, \"z\": -53.9650}, {\"x\": -8.2218, \"y\": 58.5566, \"z\": 9.0997}, {\"x\": 18.2856, \"y\": 45.9273, \"z\": 28.3568}, {\"x\": 28.7711, \"y\": 43.2286, \"z\": 38.1156}, {\"x\": 34.3826, \"y\": 34.4075, \"z\": 42.9631}, {\"x\": 1.6229, \"y\": 12.9465, \"z\": 13.5774}, {\"x\": -4.6542, \"y\": -39.9377, \"z\": 11.7687}, {\"x\": 6.1544, \"y\": -75.5595, \"z\": 8.9107}, {\"x\": 13.8789, \"y\": -82.0746, \"z\": 3.7048}, {\"x\": -7.8902, \"y\": -83.4529, \"z\": 5.8491}, {\"x\": 25.3371, \"y\": 41.7934, \"z\": 36.0780}, {\"x\": -35.4387, \"y\": -9.9245, \"z\": 7.8038}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame164() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.47375773215280, 88.20164262407954, -24.22588666626393),
+                "\"skeletons\": [{\"x\": -14.3872, \"y\": 66.3749, \"z\": -16.6974}, {\"x\": -20.8269, \"y\": 68.5393, \"z\": -8.0024}, {\"x\": -5.1007, \"y\": 22.0104, \"z\": 3.1605}, {\"x\": -17.9501, \"y\": 42.5320, \"z\": -17.2097}, {\"x\": -28.0531, \"y\": 12.3349, \"z\": -3.7446}, {\"x\": -31.1538, \"y\": 1.4802, \"z\": 2.8995}, {\"x\": -37.0677, \"y\": -6.3413, \"z\": 5.4055}, {\"x\": 1.8837, \"y\": 11.0686, \"z\": -5.9438}, {\"x\": 16.6870, \"y\": -37.5257, \"z\": -26.5493}, {\"x\": 23.7961, \"y\": -68.1142, \"z\": -41.1614}, {\"x\": 23.3957, \"y\": -74.5661, \"z\": -35.1647}, {\"x\": 19.2676, \"y\": -82.6717, \"z\": -53.7827}, {\"x\": -7.8715, \"y\": 58.8244, \"z\": 9.5298}, {\"x\": 18.2600, \"y\": 45.4219, \"z\": 28.9226}, {\"x\": 28.5422, \"y\": 42.3615, \"z\": 38.7262}, {\"x\": 33.9380, \"y\": 33.4041, \"z\": 43.5767}, {\"x\": 1.3007, \"y\": 12.9877, \"z\": 13.6794}, {\"x\": -4.5938, \"y\": -40.0335, \"z\": 11.7853}, {\"x\": 6.1278, \"y\": -75.6179, \"z\": 8.8004}, {\"x\": 13.8399, \"y\": -82.1099, \"z\": 3.6134}, {\"x\": -7.9366, \"y\": -83.4769, \"z\": 5.7617}, {\"x\": 25.0990, \"y\": 41.0283, \"z\": 36.6403}, {\"x\": -34.9247, \"y\": -10.3888, \"z\": 5.8682}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame165() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.50474440138994, 88.25783472115373, -24.16270312325530),
+                "\"skeletons\": [{\"x\": -13.9821, \"y\": 66.9487, \"z\": -16.2867}, {\"x\": -20.3770, \"y\": 69.0587, \"z\": -7.5899}, {\"x\": -5.2455, \"y\": 22.2220, \"z\": 3.3344}, {\"x\": -17.4500, \"y\": 43.2298, \"z\": -17.1064}, {\"x\": -27.6249, \"y\": 12.3574, \"z\": -4.9356}, {\"x\": -30.7013, \"y\": 1.1433, \"z\": 1.1682}, {\"x\": -36.5273, \"y\": -6.7742, \"z\": 3.3543}, {\"x\": 1.5833, \"y\": 11.2877, \"z\": -5.8156}, {\"x\": 16.4235, \"y\": -37.3762, \"z\": -26.2963}, {\"x\": 23.5133, \"y\": -68.0125, \"z\": -40.7846}, {\"x\": 23.0947, \"y\": -74.4139, \"z\": -34.7248}, {\"x\": 18.9993, \"y\": -82.6842, \"z\": -53.3466}, {\"x\": -7.4740, \"y\": 59.0985, \"z\": 9.9891}, {\"x\": 18.1373, \"y\": 44.9074, \"z\": 29.5121}, {\"x\": 28.2192, \"y\": 41.5064, \"z\": 39.4273}, {\"x\": 33.3755, \"y\": 32.3834, \"z\": 44.2291}, {\"x\": 0.9069, \"y\": 13.1072, \"z\": 13.8587}, {\"x\": -4.5352, \"y\": -40.1199, \"z\": 11.7306}, {\"x\": 6.1407, \"y\": -75.7227, \"z\": 8.6878}, {\"x\": 13.8116, \"y\": -82.1737, \"z\": 3.5169}, {\"x\": -7.9268, \"y\": -83.5248, \"z\": 5.6681}, {\"x\": 24.7622, \"y\": 40.2637, \"z\": 37.2911}, {\"x\": -34.3332, \"y\": -10.7905, \"z\": 3.7524}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame166() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.54361399453473, 88.32773333086101, -24.09921226978331),
+                "\"skeletons\": [{\"x\": -13.5251, \"y\": 67.5420, \"z\": -15.9240}, {\"x\": -19.9587, \"y\": 69.5370, \"z\": -7.1706}, {\"x\": -5.4210, \"y\": 22.5221, \"z\": 3.5696}, {\"x\": -17.0044, \"y\": 43.8289, \"z\": -16.9450}, {\"x\": -27.1124, \"y\": 12.2753, \"z\": -6.2302}, {\"x\": -30.1773, \"y\": 0.8000, \"z\": -0.7093}, {\"x\": -35.9408, \"y\": -7.2285, \"z\": 1.0937}, {\"x\": 1.2922, \"y\": 11.5751, \"z\": -5.7156}, {\"x\": 16.0830, \"y\": -37.2296, \"z\": -26.0486}, {\"x\": 23.2712, \"y\": -67.9998, \"z\": -40.2848}, {\"x\": 22.8165, \"y\": -74.3281, \"z\": -34.1775}, {\"x\": 18.6597, \"y\": -82.7379, \"z\": -52.7583}, {\"x\": -7.0768, \"y\": 59.3778, \"z\": 10.4639}, {\"x\": 17.9074, \"y\": 44.3818, \"z\": 30.1407}, {\"x\": 27.7796, \"y\": 40.6662, \"z\": 40.1612}, {\"x\": 32.6455, \"y\": 31.3915, \"z\": 44.9262}, {\"x\": 0.6119, \"y\": 13.1715, \"z\": 13.9773}, {\"x\": -4.4319, \"y\": -40.1679, \"z\": 11.7343}, {\"x\": 6.1446, \"y\": -75.8268, \"z\": 8.6180}, {\"x\": 13.7623, \"y\": -82.2499, \"z\": 3.4409}, {\"x\": -7.9936, \"y\": -83.5960, \"z\": 5.6263}, {\"x\": 24.3536, \"y\": 39.5154, \"z\": 37.9284}, {\"x\": -33.6744, \"y\": -11.1905, \"z\": 1.5745}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame167() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.59104960358692, 88.42733732687906, -24.05534028726552),
+                "\"skeletons\": [{\"x\": -13.1046, \"y\": 68.0784, \"z\": -15.5744}, {\"x\": -19.5277, \"y\": 70.0265, \"z\": -6.8178}, {\"x\": -5.6359, \"y\": 22.8297, \"z\": 3.7380}, {\"x\": -16.5608, \"y\": 44.4341, \"z\": -16.8807}, {\"x\": -26.4973, \"y\": 12.2415, \"z\": -7.5679}, {\"x\": -29.5423, \"y\": 0.5233, \"z\": -2.6770}, {\"x\": -35.1361, \"y\": -7.6278, \"z\": -1.2399}, {\"x\": 0.9677, \"y\": 11.8681, \"z\": -5.5748}, {\"x\": 15.8013, \"y\": -37.0425, \"z\": -25.7270}, {\"x\": 22.9796, \"y\": -67.9870, \"z\": -39.6990}, {\"x\": 22.5745, \"y\": -74.2887, \"z\": -33.5363}, {\"x\": 18.3820, \"y\": -82.8047, \"z\": -52.0128}, {\"x\": -6.7666, \"y\": 59.6364, \"z\": 10.8790}, {\"x\": 17.6470, \"y\": 43.9015, \"z\": 30.7543}, {\"x\": 27.2529, \"y\": 39.8287, \"z\": 40.9013}, {\"x\": 31.8217, \"y\": 30.3780, \"z\": 45.5681}, {\"x\": 0.2065, \"y\": 13.2725, \"z\": 14.0962}, {\"x\": -4.1953, \"y\": -40.2270, \"z\": 11.8517}, {\"x\": 6.1905, \"y\": -75.9583, \"z\": 8.6237}, {\"x\": 13.7142, \"y\": -82.3520, \"z\": 3.4080}, {\"x\": -8.0104, \"y\": -83.6832, \"z\": 5.5751}, {\"x\": 23.8367, \"y\": 38.7918, \"z\": 38.5869}, {\"x\": -32.7813, \"y\": -11.5038, \"z\": -0.7840}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame168() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.63936046005367, 88.59619588594839, -23.99619422515947),
+                "\"skeletons\": [{\"x\": -12.7227, \"y\": 68.5746, \"z\": -15.2033}, {\"x\": -19.1166, \"y\": 70.4601, \"z\": -6.4605}, {\"x\": -5.8554, \"y\": 23.0847, \"z\": 3.8863}, {\"x\": -16.0403, \"y\": 45.0637, \"z\": -16.8044}, {\"x\": -25.8403, \"y\": 12.3396, \"z\": -8.8771}, {\"x\": -28.7533, \"y\": 0.3571, \"z\": -4.6153}, {\"x\": -34.1641, \"y\": -7.8921, \"z\": -3.5265}, {\"x\": 0.6939, \"y\": 12.1473, \"z\": -5.4587}, {\"x\": 15.5043, \"y\": -36.9158, \"z\": -25.4575}, {\"x\": 22.6532, \"y\": -68.0078, \"z\": -39.0272}, {\"x\": 22.1428, \"y\": -74.2691, \"z\": -32.8400}, {\"x\": 18.0353, \"y\": -82.9334, \"z\": -51.3038}, {\"x\": -6.5591, \"y\": 59.8923, \"z\": 11.2591}, {\"x\": 17.2828, \"y\": 43.3745, \"z\": 31.3105}, {\"x\": 26.6673, \"y\": 38.9757, \"z\": 41.5030}, {\"x\": 30.9251, \"y\": 29.3989, \"z\": 46.1629}, {\"x\": -0.2010, \"y\": 13.3892, \"z\": 14.2279}, {\"x\": -3.8798, \"y\": -40.2262, \"z\": 11.9243}, {\"x\": 6.2341, \"y\": -76.1426, \"z\": 8.6084}, {\"x\": 13.6746, \"y\": -82.5177, \"z\": 3.3591}, {\"x\": -8.0736, \"y\": -83.8122, \"z\": 5.5408}, {\"x\": 23.2806, \"y\": 38.0330, \"z\": 39.1353}, {\"x\": -31.6961, \"y\": -11.6946, \"z\": -3.0966}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame169() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.69836318056102, 88.78596783531958, -23.94116423660681),
+                "\"skeletons\": [{\"x\": -12.2940, \"y\": 69.0488, \"z\": -14.8905}, {\"x\": -18.7467, \"y\": 70.8775, \"z\": -6.1596}, {\"x\": -6.1213, \"y\": 23.3482, \"z\": 4.0709}, {\"x\": -15.5377, \"y\": 45.6845, \"z\": -16.7043}, {\"x\": -25.0654, \"y\": 12.4834, \"z\": -10.2667}, {\"x\": -27.8847, \"y\": 0.2545, \"z\": -6.5196}, {\"x\": -33.1753, \"y\": -8.0272, \"z\": -5.8603}, {\"x\": 0.4172, \"y\": 12.4740, \"z\": -5.3422}, {\"x\": 15.1634, \"y\": -36.8116, \"z\": -25.0938}, {\"x\": 22.4289, \"y\": -67.9664, \"z\": -38.4212}, {\"x\": 21.7755, \"y\": -74.2748, \"z\": -32.1047}, {\"x\": 17.6751, \"y\": -83.1123, \"z\": -50.4214}, {\"x\": -6.3945, \"y\": 60.0804, \"z\": 11.6987}, {\"x\": 16.8454, \"y\": 42.8537, \"z\": 31.8492}, {\"x\": 25.9983, \"y\": 38.1069, \"z\": 42.0477}, {\"x\": 30.0504, \"y\": 28.4039, \"z\": 46.6875}, {\"x\": -0.6531, \"y\": 13.5094, \"z\": 14.3923}, {\"x\": -3.5000, \"y\": -40.3734, \"z\": 12.1095}, {\"x\": 6.2810, \"y\": -76.3467, \"z\": 8.5852}, {\"x\": 13.6234, \"y\": -82.7138, \"z\": 3.3223}, {\"x\": -8.1125, \"y\": -83.9803, \"z\": 5.5040}, {\"x\": 22.6036, \"y\": 37.2622, \"z\": 39.6368}, {\"x\": -30.6155, \"y\": -11.7574, \"z\": -5.3099}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame170() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.75252035553615, 88.96512172542039, -23.88886494700953),
+                "\"skeletons\": [{\"x\": -11.8954, \"y\": 69.5563, \"z\": -14.5901}, {\"x\": -18.4012, \"y\": 71.3032, \"z\": -5.8667}, {\"x\": -6.4005, \"y\": 23.6227, \"z\": 4.2081}, {\"x\": -15.0281, \"y\": 46.2549, \"z\": -16.7236}, {\"x\": -24.2187, \"y\": 12.6108, \"z\": -11.6892}, {\"x\": -26.9477, \"y\": 0.2760, \"z\": -8.4121}, {\"x\": -32.0593, \"y\": -8.1066, \"z\": -8.1209}, {\"x\": 0.1575, \"y\": 12.7873, \"z\": -5.1813}, {\"x\": 14.8991, \"y\": -36.6798, \"z\": -24.7378}, {\"x\": 21.9807, \"y\": -68.1250, \"z\": -37.6044}, {\"x\": 21.3478, \"y\": -74.2859, \"z\": -31.3345}, {\"x\": 17.3324, \"y\": -83.2508, \"z\": -49.5438}, {\"x\": -6.2285, \"y\": 60.3028, \"z\": 12.0713}, {\"x\": 16.3559, \"y\": 42.2805, \"z\": 32.2956}, {\"x\": 25.2775, \"y\": 37.2185, \"z\": 42.6040}, {\"x\": 29.0782, \"y\": 27.3576, \"z\": 47.0884}, {\"x\": -1.1269, \"y\": 13.6006, \"z\": 14.5633}, {\"x\": -3.0225, \"y\": -40.4072, \"z\": 12.2538}, {\"x\": 6.3102, \"y\": -76.5183, \"z\": 8.6140}, {\"x\": 13.5858, \"y\": -82.8988, \"z\": 3.2957}, {\"x\": -8.1441, \"y\": -84.1432, \"z\": 5.4631}, {\"x\": 21.9116, \"y\": 36.4828, \"z\": 40.1182}, {\"x\": -29.4429, \"y\": -11.7739, \"z\": -7.5236}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame171() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.82714168236229, 89.15070266590715, -23.84139948489358),
+                "\"skeletons\": [{\"x\": -11.5023, \"y\": 70.0376, \"z\": -14.2813}, {\"x\": -18.0399, \"y\": 71.7138, \"z\": -5.5816}, {\"x\": -6.6867, \"y\": 23.8749, \"z\": 4.3836}, {\"x\": -14.4700, \"y\": 46.7824, \"z\": -16.7659}, {\"x\": -23.2704, \"y\": 12.8003, \"z\": -13.0196}, {\"x\": -25.8464, \"y\": 0.2572, \"z\": -10.3201}, {\"x\": -30.7714, \"y\": -8.1658, \"z\": -10.3675}, {\"x\": -0.1547, \"y\": 13.0555, \"z\": -4.9910}, {\"x\": 14.5679, \"y\": -36.5280, \"z\": -24.4154}, {\"x\": 21.6160, \"y\": -68.1154, \"z\": -36.8593}, {\"x\": 20.9448, \"y\": -74.1036, \"z\": -30.4592}, {\"x\": 16.9080, \"y\": -83.4381, \"z\": -48.5701}, {\"x\": -6.1013, \"y\": 60.4906, \"z\": 12.4381}, {\"x\": 15.8330, \"y\": 41.7355, \"z\": 32.7813}, {\"x\": 24.4736, \"y\": 36.3026, \"z\": 43.1034}, {\"x\": 28.0414, \"y\": 26.3007, \"z\": 47.4569}, {\"x\": -1.6039, \"y\": 13.6741, \"z\": 14.6810}, {\"x\": -2.6433, \"y\": -40.4943, \"z\": 12.4811}, {\"x\": 6.3671, \"y\": -76.6997, \"z\": 8.6617}, {\"x\": 13.5225, \"y\": -83.0960, \"z\": 3.2831}, {\"x\": -8.1778, \"y\": -84.3410, \"z\": 5.4289}, {\"x\": 21.1330, \"y\": 35.6572, \"z\": 40.5675}, {\"x\": -28.0632, \"y\": -11.7885, \"z\": -9.7527}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame172() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.89737543600668, 89.33127810365521, -23.79129887469292),
+                "\"skeletons\": [{\"x\": -11.0900, \"y\": 70.4753, \"z\": -13.9552}, {\"x\": -17.6786, \"y\": 72.0659, \"z\": -5.2567}, {\"x\": -7.0046, \"y\": 24.1077, \"z\": 4.5205}, {\"x\": -13.8979, \"y\": 47.2920, \"z\": -16.7139}, {\"x\": -22.2617, \"y\": 13.0297, \"z\": -14.4365}, {\"x\": -24.6241, \"y\": 0.3563, \"z\": -12.2092}, {\"x\": -29.3935, \"y\": -8.1349, \"z\": -12.6366}, {\"x\": -0.4630, \"y\": 13.3639, \"z\": -4.7994}, {\"x\": 14.2306, \"y\": -36.3628, \"z\": -24.0925}, {\"x\": 21.1769, \"y\": -68.1615, \"z\": -36.1583}, {\"x\": 20.4944, \"y\": -74.0989, \"z\": -29.6838}, {\"x\": 16.4526, \"y\": -83.6089, \"z\": -47.6630}, {\"x\": -5.9593, \"y\": 60.6474, \"z\": 12.8244}, {\"x\": 15.2752, \"y\": 41.1193, \"z\": 33.1860}, {\"x\": 23.6538, \"y\": 35.3804, \"z\": 43.5546}, {\"x\": 26.9243, \"y\": 25.2364, \"z\": 47.8172}, {\"x\": -2.1152, \"y\": 13.7767, \"z\": 14.8399}, {\"x\": -2.1797, \"y\": -40.5318, \"z\": 12.7577}, {\"x\": 6.3927, \"y\": -76.8797, \"z\": 8.7199}, {\"x\": 13.4626, \"y\": -83.2853, \"z\": 3.2649}, {\"x\": -8.2366, \"y\": -84.5237, \"z\": 5.4144}, {\"x\": 20.3422, \"y\": 34.8534, \"z\": 40.9681}, {\"x\": -26.6114, \"y\": -11.6358, \"z\": -11.9808}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame173() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.98160415242271, 89.48761539971073, -23.77353132685325),
+                "\"skeletons\": [{\"x\": -10.6901, \"y\": 70.9010, \"z\": -13.6360}, {\"x\": -17.3344, \"y\": 72.4025, \"z\": -4.9032}, {\"x\": -7.3541, \"y\": 24.3190, \"z\": 4.6593}, {\"x\": -13.3900, \"y\": 47.7980, \"z\": -16.6817}, {\"x\": -21.1641, \"y\": 13.2268, \"z\": -15.7475}, {\"x\": -23.3270, \"y\": 0.4886, \"z\": -14.1147}, {\"x\": -27.8274, \"y\": -8.1017, \"z\": -15.0115}, {\"x\": -0.7604, \"y\": 13.6562, \"z\": -4.6433}, {\"x\": 13.8270, \"y\": -36.2077, \"z\": -23.7700}, {\"x\": 20.7574, \"y\": -68.1411, \"z\": -35.4194}, {\"x\": 20.1135, \"y\": -74.0071, \"z\": -28.8761}, {\"x\": 15.9865, \"y\": -83.7530, \"z\": -46.7322}, {\"x\": -5.8232, \"y\": 60.7660, \"z\": 13.2034}, {\"x\": 14.7209, \"y\": 40.5398, \"z\": 33.6241}, {\"x\": 22.8270, \"y\": 34.4582, \"z\": 44.0267}, {\"x\": 25.8564, \"y\": 24.1515, \"z\": 48.0870}, {\"x\": -2.6782, \"y\": 13.8465, \"z\": 15.0156}, {\"x\": -1.8642, \"y\": -40.5868, \"z\": 13.0029}, {\"x\": 6.3692, \"y\": -77.0722, \"z\": 8.7828}, {\"x\": 13.4008, \"y\": -83.4439, \"z\": 3.2875}, {\"x\": -8.3122, \"y\": -84.6755, \"z\": 5.4017}, {\"x\": 19.5561, \"y\": 34.0263, \"z\": 41.3648}, {\"x\": -24.9717, \"y\": -11.5487, \"z\": -14.2950}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame174() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.06574288016171, 89.62424304310871, -23.75400051283613),
+                "\"skeletons\": [{\"x\": -10.3352, \"y\": 71.2716, \"z\": -13.2675}, {\"x\": -17.0180, \"y\": 72.7111, \"z\": -4.5898}, {\"x\": -7.6253, \"y\": 24.5218, \"z\": 4.8505}, {\"x\": -12.8403, \"y\": 48.2194, \"z\": -16.5620}, {\"x\": -19.9749, \"y\": 13.4863, \"z\": -17.1050}, {\"x\": -21.8760, \"y\": 0.6507, \"z\": -15.9867}, {\"x\": -26.1757, \"y\": -7.9346, \"z\": -17.3499}, {\"x\": -1.0923, \"y\": 13.9098, \"z\": -4.4520}, {\"x\": 13.3915, \"y\": -36.0294, \"z\": -23.4658}, {\"x\": 20.3430, \"y\": -68.0995, \"z\": -34.7909}, {\"x\": 19.7472, \"y\": -73.8898, \"z\": -28.0980}, {\"x\": 15.4981, \"y\": -83.8776, \"z\": -45.8382}, {\"x\": -5.6960, \"y\": 60.8698, \"z\": 13.5716}, {\"x\": 14.1564, \"y\": 39.9115, \"z\": 34.0252}, {\"x\": 21.9415, \"y\": 33.5155, \"z\": 44.4551}, {\"x\": 24.7092, \"y\": 23.1479, \"z\": 48.4739}, {\"x\": -3.1720, \"y\": 13.8888, \"z\": 15.1587}, {\"x\": -1.5527, \"y\": -40.6561, \"z\": 13.2358}, {\"x\": 6.3851, \"y\": -77.2037, \"z\": 8.8353}, {\"x\": 13.3385, \"y\": -83.5786, \"z\": 3.3173}, {\"x\": -8.4042, \"y\": -84.8239, \"z\": 5.3991}, {\"x\": 18.6915, \"y\": 33.1987, \"z\": 41.7587}, {\"x\": -23.2941, \"y\": -11.2849, \"z\": -16.5232}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame175() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.15710143847092, 89.74617599712562, -23.74471070330828),
+                "\"skeletons\": [{\"x\": -9.9899, \"y\": 71.5997, \"z\": -12.9331}, {\"x\": -16.6978, \"y\": 72.9417, \"z\": -4.2584}, {\"x\": -8.0086, \"y\": 24.6746, \"z\": 5.0373}, {\"x\": -12.2998, \"y\": 48.6192, \"z\": -16.4946}, {\"x\": -18.7221, \"y\": 13.7940, \"z\": -18.4286}, {\"x\": -20.3572, \"y\": 0.8913, \"z\": -17.8359}, {\"x\": -24.3916, \"y\": -7.6655, \"z\": -19.6152}, {\"x\": -1.4775, \"y\": 14.1465, \"z\": -4.2444}, {\"x\": 12.9577, \"y\": -35.8386, \"z\": -23.2281}, {\"x\": 19.8521, \"y\": -68.0544, \"z\": -34.1100}, {\"x\": 19.3591, \"y\": -73.7238, \"z\": -27.4204}, {\"x\": 15.0461, \"y\": -83.9487, \"z\": -44.9677}, {\"x\": -5.5791, \"y\": 60.9347, \"z\": 13.9531}, {\"x\": 13.5652, \"y\": 39.2953, \"z\": 34.4051}, {\"x\": 21.0402, \"y\": 32.6086, \"z\": 44.8783}, {\"x\": 23.4690, \"y\": 22.1125, \"z\": 48.8062}, {\"x\": -3.6440, \"y\": 13.9048, \"z\": 15.3396}, {\"x\": -1.3362, \"y\": -40.7434, \"z\": 13.3855}, {\"x\": 6.3683, \"y\": -77.3100, \"z\": 8.9356}, {\"x\": 13.2646, \"y\": -83.6933, \"z\": 3.3495}, {\"x\": -8.5030, \"y\": -84.9663, \"z\": 5.4115}, {\"x\": 17.8422, \"y\": 32.4024, \"z\": 42.1328}, {\"x\": -21.4928, \"y\": -10.8872, \"z\": -18.6898}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame176() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.26912411875666, 89.85003755367636, -23.74093297578514),
+                "\"skeletons\": [{\"x\": -9.6311, \"y\": 71.8995, \"z\": -12.5822}, {\"x\": -16.3854, \"y\": 73.1221, \"z\": -3.9036}, {\"x\": -8.3423, \"y\": 24.8263, \"z\": 5.2115}, {\"x\": -11.7636, \"y\": 49.0235, \"z\": -16.4018}, {\"x\": -17.3454, \"y\": 14.1109, \"z\": -19.7053}, {\"x\": -18.7069, \"y\": 1.1709, \"z\": -19.6367}, {\"x\": -22.4317, \"y\": -7.4020, \"z\": -21.8951}, {\"x\": -1.8654, \"y\": 14.4109, \"z\": -4.1022}, {\"x\": 12.3871, \"y\": -35.6593, \"z\": -23.0165}, {\"x\": 19.4423, \"y\": -67.9544, \"z\": -33.5648}, {\"x\": 19.0387, \"y\": -73.5981, \"z\": -26.7566}, {\"x\": 14.5021, \"y\": -84.0417, \"z\": -44.1167}, {\"x\": -5.4978, \"y\": 60.9678, \"z\": 14.3339}, {\"x\": 12.9081, \"y\": 38.6546, \"z\": 34.8167}, {\"x\": 20.1008, \"y\": 31.6750, \"z\": 45.2845}, {\"x\": 22.2996, \"y\": 21.1001, \"z\": 49.0084}, {\"x\": -4.1081, \"y\": 13.9239, \"z\": 15.5120}, {\"x\": -1.1808, \"y\": -40.8157, \"z\": 13.6375}, {\"x\": 6.2840, \"y\": -77.3901, \"z\": 9.0914}, {\"x\": 13.1377, \"y\": -83.7955, \"z\": 3.4087}, {\"x\": -8.6288, \"y\": -85.1015, \"z\": 5.4462}, {\"x\": 16.9455, \"y\": 31.5617, \"z\": 42.4818}, {\"x\": -19.4983, \"y\": -10.6234, \"z\": -20.8623}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame177() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.39109368855070, 89.96165439739327, -23.73973708888182),
+                "\"skeletons\": [{\"x\": -9.3776, \"y\": 72.1385, \"z\": -12.1771}, {\"x\": -16.0861, \"y\": 73.3011, \"z\": -3.5597}, {\"x\": -8.7226, \"y\": 24.9582, \"z\": 5.3895}, {\"x\": -11.2219, \"y\": 49.3678, \"z\": -16.3199}, {\"x\": -15.9206, \"y\": 14.4729, \"z\": -20.9045}, {\"x\": -16.9804, \"y\": 1.5064, \"z\": -21.3362}, {\"x\": -20.3250, \"y\": -7.0167, \"z\": -24.0599}, {\"x\": -2.3253, \"y\": 14.5806, \"z\": -3.9060}, {\"x\": 11.7845, \"y\": -35.4810, \"z\": -22.8704}, {\"x\": 18.9651, \"y\": -67.8532, \"z\": -33.0673}, {\"x\": 18.7119, \"y\": -73.4484, \"z\": -26.1926}, {\"x\": 14.0235, \"y\": -84.1534, \"z\": -43.3097}, {\"x\": -5.4247, \"y\": 60.9703, \"z\": 14.6938}, {\"x\": 12.2303, \"y\": 38.0355, \"z\": 35.1986}, {\"x\": 19.1280, \"y\": 30.7501, \"z\": 45.6639}, {\"x\": 21.0365, \"y\": 20.0879, \"z\": 49.2535}, {\"x\": -4.4978, \"y\": 13.9433, \"z\": 15.6487}, {\"x\": -1.0719, \"y\": -40.8338, \"z\": 13.9663}, {\"x\": 6.2304, \"y\": -77.5221, \"z\": 9.2073}, {\"x\": 13.0144, \"y\": -83.9012, \"z\": 3.4374}, {\"x\": -8.7829, \"y\": -85.2120, \"z\": 5.4789}, {\"x\": 16.0176, \"y\": 30.7271, \"z\": 42.7948}, {\"x\": -17.3921, \"y\": -10.1964, \"z\": -22.9004}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame178() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.53279942588822, 90.07816202268748, -23.74852119551668),
+                "\"skeletons\": [{\"x\": -9.0897, \"y\": 72.3499, \"z\": -11.8410}, {\"x\": -15.8416, \"y\": 73.5127, \"z\": -3.1970}, {\"x\": -9.0923, \"y\": 25.0654, \"z\": 5.5548}, {\"x\": -10.7356, \"y\": 49.6823, \"z\": -16.2124}, {\"x\": -14.4763, \"y\": 14.8959, \"z\": -22.0334}, {\"x\": -15.1689, \"y\": 1.8946, \"z\": -22.8821}, {\"x\": -18.0987, \"y\": -6.6052, \"z\": -26.0873}, {\"x\": -2.8235, \"y\": 14.7571, \"z\": -3.7768}, {\"x\": 11.1266, \"y\": -35.3023, \"z\": -22.7878}, {\"x\": 18.4548, \"y\": -67.7992, \"z\": -32.5481}, {\"x\": 18.4050, \"y\": -73.3147, \"z\": -25.6244}, {\"x\": 13.5173, \"y\": -84.1782, \"z\": -42.5643}, {\"x\": -5.3755, \"y\": 60.9517, \"z\": 15.0620}, {\"x\": 11.5633, \"y\": 37.3974, \"z\": 35.5243}, {\"x\": 18.1145, \"y\": 29.8409, \"z\": 45.9781}, {\"x\": 19.7903, \"y\": 19.0926, \"z\": 49.4994}, {\"x\": -4.8738, \"y\": 13.9260, \"z\": 15.7962}, {\"x\": -0.8878, \"y\": -40.8835, \"z\": 14.1929}, {\"x\": 6.2460, \"y\": -77.6098, \"z\": 9.3257}, {\"x\": 12.8750, \"y\": -84.0003, \"z\": 3.4875}, {\"x\": -8.9421, \"y\": -85.3365, \"z\": 5.5407}, {\"x\": 15.0557, \"y\": 29.9432, \"z\": 43.0789}, {\"x\": -15.1543, \"y\": -9.7620, \"z\": -24.7855}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame179() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.66851278683166, 90.20237048818528, -23.73956125311750),
+                "\"skeletons\": [{\"x\": -8.8498, \"y\": 72.5634, \"z\": -11.4874}, {\"x\": -15.6103, \"y\": 73.6829, \"z\": -2.8961}, {\"x\": -9.4637, \"y\": 25.1489, \"z\": 5.6742}, {\"x\": -10.2409, \"y\": 49.9879, \"z\": -16.1167}, {\"x\": -12.9408, \"y\": 15.3252, \"z\": -23.0271}, {\"x\": -13.2853, \"y\": 2.3472, \"z\": -24.2745}, {\"x\": -15.8338, \"y\": -6.1123, \"z\": -27.9057}, {\"x\": -3.2745, \"y\": 14.9176, \"z\": -3.6482}, {\"x\": 10.3446, \"y\": -35.1789, \"z\": -22.7819}, {\"x\": 17.9426, \"y\": -67.7311, \"z\": -32.0640}, {\"x\": 18.1034, \"y\": -73.2051, \"z\": -24.9993}, {\"x\": 13.0137, \"y\": -84.2678, \"z\": -41.7539}, {\"x\": -5.3767, \"y\": 60.9269, \"z\": 15.3898}, {\"x\": 10.8681, \"y\": 36.7438, \"z\": 35.7945}, {\"x\": 17.1142, \"y\": 28.9423, \"z\": 46.2247}, {\"x\": 18.4735, \"y\": 18.1141, \"z\": 49.5924}, {\"x\": -5.2460, \"y\": 13.9215, \"z\": 15.9452}, {\"x\": -0.6760, \"y\": -40.9113, \"z\": 14.3432}, {\"x\": 6.2395, \"y\": -77.7278, \"z\": 9.4318}, {\"x\": 12.7290, \"y\": -84.1284, \"z\": 3.5586}, {\"x\": -9.1023, \"y\": -85.4834, \"z\": 5.6286}, {\"x\": 14.0803, \"y\": 29.1344, \"z\": 43.2707}, {\"x\": -12.9141, \"y\": -9.2530, \"z\": -26.4819}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame180() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.79056918313695, 90.33189975186572, -23.72462400915249),
+                "\"skeletons\": [{\"x\": -8.6066, \"y\": 72.7758, \"z\": -11.2108}, {\"x\": -15.4195, \"y\": 73.8495, \"z\": -2.5863}, {\"x\": -9.8261, \"y\": 25.2398, \"z\": 5.7689}, {\"x\": -9.7902, \"y\": 50.2592, \"z\": -16.0400}, {\"x\": -11.3301, \"y\": 15.7547, \"z\": -23.8422}, {\"x\": -11.3453, \"y\": 2.8281, \"z\": -25.4872}, {\"x\": -13.4447, \"y\": -5.5906, \"z\": -29.4646}, {\"x\": -3.6624, \"y\": 15.1017, \"z\": -3.5636}, {\"x\": 9.4132, \"y\": -35.1562, \"z\": -22.7342}, {\"x\": 17.3263, \"y\": -67.7140, \"z\": -31.4504}, {\"x\": 17.7173, \"y\": -73.1710, \"z\": -24.2778}, {\"x\": 12.5167, \"y\": -84.4194, \"z\": -40.8957}, {\"x\": -5.4179, \"y\": 60.8981, \"z\": 15.6680}, {\"x\": 10.1663, \"y\": 36.1530, \"z\": 35.9798}, {\"x\": 16.1314, \"y\": 28.0772, \"z\": 46.3832}, {\"x\": 17.2448, \"y\": 17.2080, \"z\": 49.6214}, {\"x\": -5.5290, \"y\": 13.9204, \"z\": 15.9998}, {\"x\": -0.5299, \"y\": -40.9628, \"z\": 14.4185}, {\"x\": 6.1703, \"y\": -77.7910, \"z\": 9.5109}, {\"x\": 12.5458, \"y\": -84.2263, \"z\": 3.5668}, {\"x\": -9.2253, \"y\": -85.6305, \"z\": 5.6742}, {\"x\": 13.1773, \"y\": 28.3624, \"z\": 43.3815}, {\"x\": -10.5308, \"y\": -8.6890, \"z\": -27.9381}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame181() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.91027487582205, 90.45172777006259, -23.69452884859922),
+                "\"skeletons\": [{\"x\": -8.4088, \"y\": 72.9756, \"z\": -10.9653}, {\"x\": -15.2717, \"y\": 73.9373, \"z\": -2.3435}, {\"x\": -10.0989, \"y\": 25.3350, \"z\": 5.8266}, {\"x\": -9.3256, \"y\": 50.5187, \"z\": -15.9948}, {\"x\": -9.7329, \"y\": 16.2156, \"z\": -24.5363}, {\"x\": -9.2822, \"y\": 3.3292, \"z\": -26.4437}, {\"x\": -11.0140, \"y\": -5.0116, \"z\": -30.7299}, {\"x\": -4.0414, \"y\": 15.2715, \"z\": -3.4849}, {\"x\": 8.3646, \"y\": -35.1914, \"z\": -22.6461}, {\"x\": 16.7462, \"y\": -67.7444, \"z\": -30.7350}, {\"x\": 17.2373, \"y\": -73.1749, \"z\": -23.4880}, {\"x\": 12.0808, \"y\": -84.5415, \"z\": -40.0378}, {\"x\": -5.4868, \"y\": 60.8680, \"z\": 15.9190}, {\"x\": 9.4544, \"y\": 35.5859, \"z\": 36.0763}, {\"x\": 15.1439, \"y\": 27.2312, \"z\": 46.4281}, {\"x\": 16.0582, \"y\": 16.3330, \"z\": 49.5298}, {\"x\": -5.7889, \"y\": 13.9754, \"z\": 16.0147}, {\"x\": -0.4909, \"y\": -41.0012, \"z\": 14.3804}, {\"x\": 6.1039, \"y\": -77.8159, \"z\": 9.4823}, {\"x\": 12.4404, \"y\": -84.2955, \"z\": 3.5417}, {\"x\": -9.3424, \"y\": -85.7577, \"z\": 5.6600}, {\"x\": 12.2285, \"y\": 27.5887, \"z\": 43.3929}, {\"x\": -8.1522, \"y\": -8.0759, \"z\": -29.0727}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame182() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.01649906972967, 90.53461241944507, -23.63558652434637),
+                "\"skeletons\": [{\"x\": -8.2813, \"y\": 73.1372, \"z\": -10.7004}, {\"x\": -15.1231, \"y\": 74.0507, \"z\": -2.1336}, {\"x\": -10.3502, \"y\": 25.4402, \"z\": 5.8763}, {\"x\": -8.9036, \"y\": 50.7581, \"z\": -15.9365}, {\"x\": -8.0908, \"y\": 16.6929, \"z\": -25.1129}, {\"x\": -7.2681, \"y\": 3.8619, \"z\": -27.2510}, {\"x\": -8.5312, \"y\": -4.4330, \"z\": -31.8094}, {\"x\": -4.3531, \"y\": 15.4044, \"z\": -3.4718}, {\"x\": 7.1440, \"y\": -35.2650, \"z\": -22.5774}, {\"x\": 16.0806, \"y\": -67.8643, \"z\": -29.8841}, {\"x\": 16.5905, \"y\": -73.3786, \"z\": -22.6167}, {\"x\": 11.6560, \"y\": -84.6379, \"z\": -39.2400}, {\"x\": -5.5550, \"y\": 60.8238, \"z\": 16.1128}, {\"x\": 8.7670, \"y\": 35.0542, \"z\": 36.1062}, {\"x\": 14.1833, \"y\": 26.4549, \"z\": 46.4255}, {\"x\": 14.9203, \"y\": 15.4675, \"z\": 49.3507}, {\"x\": -5.9924, \"y\": 14.0265, \"z\": 15.9793}, {\"x\": -0.5193, \"y\": -40.9576, \"z\": 14.2645}, {\"x\": 5.9633, \"y\": -77.8531, \"z\": 9.3616}, {\"x\": 12.3291, \"y\": -84.3563, \"z\": 3.4736}, {\"x\": -9.4554, \"y\": -85.8543, \"z\": 5.5904}, {\"x\": 11.3218, \"y\": 26.9193, \"z\": 43.3603}, {\"x\": -5.7175, \"y\": -7.4886, \"z\": -30.0294}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame183() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.12773111029631, 90.58259643199311, -23.55959392836526),
+                "\"skeletons\": [{\"x\": -8.1607, \"y\": 73.3110, \"z\": -10.5356}, {\"x\": -15.0190, \"y\": 74.1508, \"z\": -1.9414}, {\"x\": -10.5417, \"y\": 25.5463, \"z\": 5.8377}, {\"x\": -8.4707, \"y\": 51.0109, \"z\": -15.8971}, {\"x\": -6.4232, \"y\": 17.1755, \"z\": -25.5327}, {\"x\": -5.2693, \"y\": 4.4128, \"z\": -27.8599}, {\"x\": -5.9982, \"y\": -3.8303, \"z\": -32.6170}, {\"x\": -4.6158, \"y\": 15.5608, \"z\": -3.5203}, {\"x\": 5.7992, \"y\": -35.3864, \"z\": -22.5073}, {\"x\": 15.3663, \"y\": -68.0101, \"z\": -29.0361}, {\"x\": 15.8414, \"y\": -73.5846, \"z\": -21.6176}, {\"x\": 11.2258, \"y\": -84.7027, \"z\": -38.4200}, {\"x\": -5.6565, \"y\": 60.7843, \"z\": 16.2881}, {\"x\": 8.1171, \"y\": 34.4937, \"z\": 36.1122}, {\"x\": 13.2622, \"y\": 25.6930, \"z\": 46.3383}, {\"x\": 13.8407, \"y\": 14.6665, \"z\": 49.1098}, {\"x\": -6.1700, \"y\": 14.0241, \"z\": 15.9214}, {\"x\": -0.5849, \"y\": -40.9809, \"z\": 14.0779}, {\"x\": 5.8245, \"y\": -77.9276, \"z\": 9.1869}, {\"x\": 12.2203, \"y\": -84.3832, \"z\": 3.3739}, {\"x\": -9.5720, \"y\": -85.9156, \"z\": 5.4946}, {\"x\": 10.4741, \"y\": 26.2332, \"z\": 43.2228}, {\"x\": -3.2253, \"y\": -6.8923, \"z\": -30.6905}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame184() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.23803795640149, 90.57865724170098, -23.45944749405539),
+                "\"skeletons\": [{\"x\": -8.0673, \"y\": 73.4697, \"z\": -10.3792}, {\"x\": -14.9354, \"y\": 74.2764, \"z\": -1.8024}, {\"x\": -10.6622, \"y\": 25.5861, \"z\": 5.7245}, {\"x\": -8.0126, \"y\": 51.2517, \"z\": -15.8687}, {\"x\": -4.7737, \"y\": 17.6534, \"z\": -25.7754}, {\"x\": -3.2772, \"y\": 4.9555, \"z\": -28.2259}, {\"x\": -3.5101, \"y\": -3.1961, \"z\": -33.1870}, {\"x\": -4.7940, \"y\": 15.6486, \"z\": -3.6715}, {\"x\": 4.3741, \"y\": -35.5430, \"z\": -22.5168}, {\"x\": 14.5723, \"y\": -68.0937, \"z\": -28.1655}, {\"x\": 14.9387, \"y\": -73.8198, \"z\": -20.6142}, {\"x\": 10.7807, \"y\": -84.7375, \"z\": -37.6162}, {\"x\": -5.7415, \"y\": 60.7449, \"z\": 16.4356}, {\"x\": 7.5000, \"y\": 33.9781, \"z\": 36.0491}, {\"x\": 12.3854, \"y\": 24.9372, \"z\": 46.1771}, {\"x\": 12.7992, \"y\": 13.8569, \"z\": 48.7965}, {\"x\": -6.3431, \"y\": 14.0468, \"z\": 15.7885}, {\"x\": -0.6321, \"y\": -41.0193, \"z\": 13.8841}, {\"x\": 5.6859, \"y\": -77.9259, \"z\": 9.0386}, {\"x\": 12.1046, \"y\": -84.3729, \"z\": 3.2475}, {\"x\": -9.6892, \"y\": -85.9333, \"z\": 5.3562}, {\"x\": 9.6349, \"y\": 25.5441, \"z\": 43.0329}, {\"x\": -0.8429, \"y\": -6.2582, \"z\": -31.1101}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame185() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.33891836689070, 90.53262305943815, -23.33697700331428),
+                "\"skeletons\": [{\"x\": -7.9606, \"y\": 73.6601, \"z\": -10.2602}, {\"x\": -14.8582, \"y\": 74.3946, \"z\": -1.6599}, {\"x\": -10.7675, \"y\": 25.6695, \"z\": 5.5442}, {\"x\": -7.5333, \"y\": 51.5002, \"z\": -15.8637}, {\"x\": -3.1126, \"y\": 18.0795, \"z\": -25.8713}, {\"x\": -1.2363, \"y\": 5.4765, \"z\": -28.3985}, {\"x\": -1.0373, \"y\": -2.6447, \"z\": -33.5048}, {\"x\": -4.9056, \"y\": 15.7023, \"z\": -3.8495}, {\"x\": 2.8749, \"y\": -35.7064, \"z\": -22.5522}, {\"x\": 13.6318, \"y\": -68.2003, \"z\": -27.2572}, {\"x\": 13.8443, \"y\": -74.0453, \"z\": -19.6005}, {\"x\": 10.3310, \"y\": -84.7355, \"z\": -36.8155}, {\"x\": -5.8212, \"y\": 60.6860, \"z\": 16.5508}, {\"x\": 6.9168, \"y\": 33.4200, \"z\": 35.9271}, {\"x\": 11.5598, \"y\": 24.1770, \"z\": 45.9410}, {\"x\": 11.8900, \"y\": 13.0546, \"z\": 48.3717}, {\"x\": -6.5320, \"y\": 14.0441, \"z\": 15.6201}, {\"x\": -0.6326, \"y\": -40.9504, \"z\": 13.6774}, {\"x\": 5.5523, \"y\": -77.8393, \"z\": 8.8511}, {\"x\": 11.9976, \"y\": -84.3318, \"z\": 3.0920}, {\"x\": -9.7910, \"y\": -85.8878, \"z\": 5.1688}, {\"x\": 8.8789, \"y\": 24.8670, \"z\": 42.7514}, {\"x\": 1.5857, \"y\": -5.7136, \"z\": -31.3104}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame186() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.43266610740719, 90.45178023722552, -23.21179948737156),
+                "\"skeletons\": [{\"x\": -7.8479, \"y\": 73.8545, \"z\": -10.1471}, {\"x\": -14.7511, \"y\": 74.4840, \"z\": -1.5523}, {\"x\": -10.8614, \"y\": 25.7436, \"z\": 5.3250}, {\"x\": -7.0128, \"y\": 51.6959, \"z\": -15.8467}, {\"x\": -1.4580, \"y\": 18.4952, \"z\": -25.8549}, {\"x\": 0.7540, \"y\": 5.9099, \"z\": -28.3674}, {\"x\": 1.3988, \"y\": -2.1303, \"z\": -33.5278}, {\"x\": -4.9917, \"y\": 15.7356, \"z\": -4.0153}, {\"x\": 1.3561, \"y\": -35.8801, \"z\": -22.6120}, {\"x\": 12.5616, \"y\": -68.3097, \"z\": -26.3613}, {\"x\": 12.6765, \"y\": -74.2012, \"z\": -18.6597}, {\"x\": 9.7547, \"y\": -84.7101, \"z\": -36.0657}, {\"x\": -5.9271, \"y\": 60.5942, \"z\": 16.6447}, {\"x\": 6.3841, \"y\": 32.8812, \"z\": 35.7072}, {\"x\": 10.7884, \"y\": 23.4145, \"z\": 45.6342}, {\"x\": 11.0314, \"y\": 12.2917, \"z\": 47.8637}, {\"x\": -6.7060, \"y\": 14.0494, \"z\": 15.4415}, {\"x\": -0.5959, \"y\": -40.8909, \"z\": 13.3855}, {\"x\": 5.4681, \"y\": -77.7705, \"z\": 8.6348}, {\"x\": 11.9264, \"y\": -84.2524, \"z\": 2.9140}, {\"x\": -9.8726, \"y\": -85.7899, \"z\": 4.9682}, {\"x\": 8.1639, \"y\": 24.1660, \"z\": 42.3928}, {\"x\": 3.9363, \"y\": -5.1800, \"z\": -31.2383}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame187() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.53141812132669, 90.34539613631061, -23.08502470094946),
+                "\"skeletons\": [{\"x\": -7.7769, \"y\": 74.0409, \"z\": -10.0483}, {\"x\": -14.6482, \"y\": 74.5682, \"z\": -1.4343}, {\"x\": -10.9547, \"y\": 25.7924, \"z\": 5.0884}, {\"x\": -6.4542, \"y\": 51.9350, \"z\": -15.8845}, {\"x\": 0.1976, \"y\": 18.9088, \"z\": -25.6982}, {\"x\": 2.6906, \"y\": 6.3735, \"z\": -28.1408}, {\"x\": 3.7605, \"y\": -1.6165, \"z\": -33.3100}, {\"x\": -5.0908, \"y\": 15.7501, \"z\": -4.2188}, {\"x\": -0.0747, \"y\": -35.9745, \"z\": -22.6649}, {\"x\": 11.4958, \"y\": -68.3457, \"z\": -25.5629}, {\"x\": 11.5056, \"y\": -74.1932, \"z\": -17.8218}, {\"x\": 9.0998, \"y\": -84.6652, \"z\": -35.3493}, {\"x\": -6.0295, \"y\": 60.4855, \"z\": 16.7134}, {\"x\": 5.8627, \"y\": 32.3204, \"z\": 35.4549}, {\"x\": 10.0696, \"y\": 22.6124, \"z\": 45.2415}, {\"x\": 10.1947, \"y\": 11.4827, \"z\": 47.2367}, {\"x\": -6.8469, \"y\": 14.1057, \"z\": 15.2607}, {\"x\": -0.6787, \"y\": -40.8977, \"z\": 13.1325}, {\"x\": 5.3685, \"y\": -77.6964, \"z\": 8.4482}, {\"x\": 11.8609, \"y\": -84.1749, \"z\": 2.7301}, {\"x\": -9.9525, \"y\": -85.6907, \"z\": 4.7975}, {\"x\": 7.4747, \"y\": 23.4235, \"z\": 41.9765}, {\"x\": 6.1469, \"y\": -4.6217, \"z\": -30.8954}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame188() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.63393216012152, 90.22158029007005, -22.93734606978319),
+                "\"skeletons\": [{\"x\": -7.6990, \"y\": 74.2024, \"z\": -9.9679}, {\"x\": -14.5611, \"y\": 74.6555, \"z\": -1.3396}, {\"x\": -11.0671, \"y\": 25.8133, \"z\": 4.8524}, {\"x\": -5.9075, \"y\": 52.1267, \"z\": -15.9043}, {\"x\": 1.7787, \"y\": 19.2360, \"z\": -25.4034}, {\"x\": 4.5483, \"y\": 6.7703, \"z\": -27.7637}, {\"x\": 6.0504, \"y\": -1.1668, \"z\": -32.8414}, {\"x\": -5.1896, \"y\": 15.7713, \"z\": -4.4729}, {\"x\": -1.4597, \"y\": -35.9839, \"z\": -22.7598}, {\"x\": 10.5486, \"y\": -68.2578, \"z\": -24.8998}, {\"x\": 10.5062, \"y\": -74.1096, \"z\": -17.0458}, {\"x\": 8.3675, \"y\": -84.5709, \"z\": -34.6161}, {\"x\": -6.1496, \"y\": 60.3039, \"z\": 16.7511}, {\"x\": 5.3569, \"y\": 31.7281, \"z\": 35.1281}, {\"x\": 9.4407, \"y\": 21.8188, \"z\": 44.7440}, {\"x\": 9.4536, \"y\": 10.6451, \"z\": 46.5264}, {\"x\": -7.0197, \"y\": 14.1370, \"z\": 15.0840}, {\"x\": -0.8451, \"y\": -40.8540, \"z\": 12.9601}, {\"x\": 5.2521, \"y\": -77.6185, \"z\": 8.2622}, {\"x\": 11.7607, \"y\": -84.0945, \"z\": 2.5789}, {\"x\": -10.0473, \"y\": -85.5593, \"z\": 4.6217}, {\"x\": 6.8999, \"y\": 22.6997, \"z\": 41.4793}, {\"x\": 8.3136, \"y\": -4.1265, \"z\": -30.3357}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame189() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.74151118796352, 90.11161178275464, -22.78505482239044),
+                "\"skeletons\": [{\"x\": -7.6282, \"y\": 74.3970, \"z\": -9.9127}, {\"x\": -14.4606, \"y\": 74.7762, \"z\": -1.2853}, {\"x\": -11.1870, \"y\": 25.8664, \"z\": 4.5950}, {\"x\": -5.3227, \"y\": 52.2778, \"z\": -15.9764}, {\"x\": 3.3271, \"y\": 19.5199, \"z\": -24.9601}, {\"x\": 6.3545, \"y\": 7.0776, \"z\": -27.1794}, {\"x\": 8.3202, \"y\": -0.8457, \"z\": -32.1465}, {\"x\": -5.2512, \"y\": 15.8427, \"z\": -4.7097}, {\"x\": -2.7514, \"y\": -35.9382, \"z\": -22.9192}, {\"x\": 9.6125, \"y\": -68.0766, \"z\": -24.2570}, {\"x\": 9.6225, \"y\": -73.8360, \"z\": -16.2858}, {\"x\": 7.5790, \"y\": -84.4568, \"z\": -33.7702}, {\"x\": -6.3024, \"y\": 60.1631, \"z\": 16.7533}, {\"x\": 4.8747, \"y\": 31.1021, \"z\": 34.6855}, {\"x\": 8.8132, \"y\": 20.9907, \"z\": 44.1426}, {\"x\": 8.7533, \"y\": 9.7744, \"z\": 45.7148}, {\"x\": -7.2116, \"y\": 14.1664, \"z\": 14.8708}, {\"x\": -0.9629, \"y\": -40.7683, \"z\": 12.8058}, {\"x\": 5.1068, \"y\": -77.5112, \"z\": 8.0991}, {\"x\": 11.6549, \"y\": -84.0029, \"z\": 2.4250}, {\"x\": -10.1557, \"y\": -85.4597, \"z\": 4.4502}, {\"x\": 6.3345, \"y\": 21.9726, \"z\": 40.8844}, {\"x\": 10.5036, \"y\": -3.8015, \"z\": -29.5100}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame190() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.83965666856223, 90.03265650502202, -22.61802485905735),
+                "\"skeletons\": [{\"x\": -7.5586, \"y\": 74.6020, \"z\": -9.8994}, {\"x\": -14.3492, \"y\": 74.9032, \"z\": -1.2544}, {\"x\": -11.3098, \"y\": 25.9260, \"z\": 4.2768}, {\"x\": -4.7002, \"y\": 52.4266, \"z\": -16.0282}, {\"x\": 4.8266, \"y\": 19.7570, \"z\": -24.3813}, {\"x\": 8.0364, \"y\": 7.3653, \"z\": -26.4058}, {\"x\": 10.5113, \"y\": -0.6004, \"z\": -31.2239}, {\"x\": -5.2696, \"y\": 15.9296, \"z\": -4.9479}, {\"x\": -4.0019, \"y\": -35.8423, \"z\": -23.0563}, {\"x\": 8.7676, \"y\": -67.7574, \"z\": -23.6822}, {\"x\": 8.8651, \"y\": -73.4702, \"z\": -15.5604}, {\"x\": 6.7442, \"y\": -84.3542, \"z\": -32.7995}, {\"x\": -6.4543, \"y\": 60.0173, \"z\": 16.7295}, {\"x\": 4.4033, \"y\": 30.4904, \"z\": 34.1472}, {\"x\": 8.1724, \"y\": 20.1204, \"z\": 43.3975}, {\"x\": 8.0518, \"y\": 8.8996, \"z\": 44.7597}, {\"x\": -7.3997, \"y\": 14.2172, \"z\": 14.6144}, {\"x\": -1.0810, \"y\": -40.6713, \"z\": 12.6282}, {\"x\": 4.9575, \"y\": -77.4262, \"z\": 7.9347}, {\"x\": 11.5498, \"y\": -83.9122, \"z\": 2.2756}, {\"x\": -10.2273, \"y\": -85.4041, \"z\": 4.2663}, {\"x\": 5.7369, \"y\": 21.1885, \"z\": 40.1226}, {\"x\": 12.5382, \"y\": -3.5728, \"z\": -28.4438}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame191() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.91005889143583, 89.97618969881678, -22.42886923171976),
+                "\"skeletons\": [{\"x\": -7.4451, \"y\": 74.7819, \"z\": -9.9232}, {\"x\": -14.2167, \"y\": 75.0259, \"z\": -1.2460}, {\"x\": -11.4059, \"y\": 26.0003, \"z\": 3.9217}, {\"x\": -4.0636, \"y\": 52.5609, \"z\": -16.0393}, {\"x\": 6.2743, \"y\": 19.9785, \"z\": -23.6794}, {\"x\": 9.6792, \"y\": 7.5793, \"z\": -25.4331}, {\"x\": 12.5648, \"y\": -0.3532, \"z\": -30.0963}, {\"x\": -5.2186, \"y\": 15.9822, \"z\": -5.1774}, {\"x\": -5.2240, \"y\": -35.7246, \"z\": -23.1231}, {\"x\": 7.8818, \"y\": -67.5036, \"z\": -23.0864}, {\"x\": 8.2193, \"y\": -72.9871, \"z\": -14.7863}, {\"x\": 5.8827, \"y\": -84.3063, \"z\": -31.7805}, {\"x\": -6.6793, \"y\": 59.9039, \"z\": 16.6787}, {\"x\": 3.9175, \"y\": 29.8936, \"z\": 33.5280}, {\"x\": 7.5611, \"y\": 19.2536, \"z\": 42.5267}, {\"x\": 7.3475, \"y\": 8.0511, \"z\": 43.6485}, {\"x\": -7.5781, \"y\": 14.2786, \"z\": 14.3039}, {\"x\": -1.2410, \"y\": -40.6055, \"z\": 12.3746}, {\"x\": 4.8165, \"y\": -77.3795, \"z\": 7.7448}, {\"x\": 11.4786, \"y\": -83.8423, \"z\": 2.1034}, {\"x\": -10.3066, \"y\": -85.3268, \"z\": 4.0603}, {\"x\": 5.1297, \"y\": 20.4027, \"z\": 39.2592}, {\"x\": 14.4115, \"y\": -3.3160, \"z\": -27.1861}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame192() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.94462478794397, 89.92636810846992, -22.23709246070367),
+                "\"skeletons\": [{\"x\": -7.3095, \"y\": 74.9573, \"z\": -9.9342}, {\"x\": -14.0966, \"y\": 75.1694, \"z\": -1.2621}, {\"x\": -11.4340, \"y\": 26.0819, \"z\": 3.5248}, {\"x\": -3.3611, \"y\": 52.7270, \"z\": -16.0338}, {\"x\": 7.6395, \"y\": 20.2137, \"z\": -22.8915}, {\"x\": 11.2270, \"y\": 7.7552, \"z\": -24.2850}, {\"x\": 14.4430, \"y\": -0.0702, \"z\": -28.8203}, {\"x\": -5.0823, \"y\": 16.0562, \"z\": -5.4577}, {\"x\": -6.3852, \"y\": -35.6082, \"z\": -23.1654}, {\"x\": 7.0396, \"y\": -67.2365, \"z\": -22.4791}, {\"x\": 7.5416, \"y\": -72.5196, \"z\": -14.0291}, {\"x\": 5.0242, \"y\": -84.2788, \"z\": -30.7165}, {\"x\": -6.9509, \"y\": 59.8038, \"z\": 16.6321}, {\"x\": 3.3978, \"y\": 29.2812, \"z\": 32.8408}, {\"x\": 6.9794, \"y\": 18.3920, \"z\": 41.5610}, {\"x\": 6.6960, \"y\": 7.1850, \"z\": 42.4292}, {\"x\": -7.7279, \"y\": 14.3534, \"z\": 13.9589}, {\"x\": -1.4591, \"y\": -40.5524, \"z\": 12.0585}, {\"x\": 4.6966, \"y\": -77.3473, \"z\": 7.5484}, {\"x\": 11.4452, \"y\": -83.7786, \"z\": 1.9122}, {\"x\": -10.3679, \"y\": -85.2495, \"z\": 3.8471}, {\"x\": 4.5570, \"y\": 19.6299, \"z\": 38.3247}, {\"x\": 16.0223, \"y\": -2.9860, \"z\": -25.8544}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame193() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.95208072523607, 89.86690084822452, -22.02476985285936),
+                "\"skeletons\": [{\"x\": -7.1463, \"y\": 75.1260, \"z\": -9.9480}, {\"x\": -13.9488, \"y\": 75.3184, \"z\": -1.2948}, {\"x\": -11.3568, \"y\": 26.1492, \"z\": 3.0944}, {\"x\": -2.7003, \"y\": 52.9200, \"z\": -16.0465}, {\"x\": 8.9317, \"y\": 20.4652, \"z\": -22.0033}, {\"x\": 12.6143, \"y\": 7.9444, \"z\": -23.0210}, {\"x\": 16.1691, \"y\": 0.1723, \"z\": -27.3603}, {\"x\": -4.8658, \"y\": 16.0986, \"z\": -5.7906}, {\"x\": -7.4736, \"y\": -35.4794, \"z\": -23.1895}, {\"x\": 6.1892, \"y\": -66.9692, \"z\": -21.8865}, {\"x\": 6.8317, \"y\": -72.1016, \"z\": -13.3222}, {\"x\": 4.2187, \"y\": -84.2098, \"z\": -29.6876}, {\"x\": -7.2920, \"y\": 59.6737, \"z\": 16.6055}, {\"x\": 2.8480, \"y\": 28.6647, \"z\": 32.0981}, {\"x\": 6.4064, \"y\": 17.5385, \"z\": 40.5266}, {\"x\": 6.0478, \"y\": 6.3579, \"z\": 41.1448}, {\"x\": -7.8378, \"y\": 14.4139, \"z\": 13.5969}, {\"x\": -1.6398, \"y\": -40.5164, \"z\": 11.7684}, {\"x\": 4.6274, \"y\": -77.2983, \"z\": 7.3523}, {\"x\": 11.4408, \"y\": -83.7177, \"z\": 1.7018}, {\"x\": -10.3668, \"y\": -85.1810, \"z\": 3.5878}, {\"x\": 3.9934, \"y\": 18.8653, \"z\": 37.3223}, {\"x\": 17.4995, \"y\": -2.7064, \"z\": -24.3408}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame194() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.94766556127517, 89.77830577057277, -21.79802091688171),
+                "\"skeletons\": [{\"x\": -6.9680, \"y\": 75.3125, \"z\": -9.9957}, {\"x\": -13.7453, \"y\": 75.4792, \"z\": -1.3000}, {\"x\": -11.2323, \"y\": 26.2268, \"z\": 2.6386}, {\"x\": -2.0374, \"y\": 53.1337, \"z\": -16.0451}, {\"x\": 10.0959, \"y\": 20.6418, \"z\": -20.9899}, {\"x\": 13.8501, \"y\": 8.1691, \"z\": -21.6708}, {\"x\": 17.7651, \"y\": 0.3297, \"z\": -25.6822}, {\"x\": -4.5747, \"y\": 16.1496, \"z\": -6.1224}, {\"x\": -8.4737, \"y\": -35.3196, \"z\": -23.2415}, {\"x\": 5.3825, \"y\": -66.7315, \"z\": -21.2933}, {\"x\": 6.0581, \"y\": -71.6406, \"z\": -12.6623}, {\"x\": 3.4151, \"y\": -84.1149, \"z\": -28.7404}, {\"x\": -7.6582, \"y\": 59.5201, \"z\": 16.5633}, {\"x\": 2.2603, \"y\": 28.0428, \"z\": 31.3651}, {\"x\": 5.7934, \"y\": 16.6978, \"z\": 39.4545}, {\"x\": 5.3598, \"y\": 5.5133, \"z\": 39.8198}, {\"x\": -7.9044, \"y\": 14.4602, \"z\": 13.2035}, {\"x\": -1.7398, \"y\": -40.4659, \"z\": 11.4979}, {\"x\": 4.6073, \"y\": -77.2067, \"z\": 7.1371}, {\"x\": 11.4423, \"y\": -83.6537, \"z\": 1.4790}, {\"x\": -10.3434, \"y\": -85.0890, \"z\": 3.3252}, {\"x\": 3.3783, \"y\": 18.1240, \"z\": 36.2951}, {\"x\": 18.8772, \"y\": -2.5610, \"z\": -22.5759}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame195() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.92137587250164, 89.66567962516366, -21.56884789759798),
+                "\"skeletons\": [{\"x\": -6.7742, \"y\": 75.5066, \"z\": -10.0193}, {\"x\": -13.5691, \"y\": 75.6325, \"z\": -1.3211}, {\"x\": -11.0571, \"y\": 26.2638, \"z\": 2.1665}, {\"x\": -1.3738, \"y\": 53.3472, \"z\": -16.0464}, {\"x\": 11.1693, \"y\": 20.7980, \"z\": -19.9344}, {\"x\": 14.9773, \"y\": 8.3643, \"z\": -20.2320}, {\"x\": 19.2106, \"y\": 0.4799, \"z\": -23.9208}, {\"x\": -4.2651, \"y\": 16.1859, \"z\": -6.4606}, {\"x\": -9.2549, \"y\": -35.1442, \"z\": -23.3152}, {\"x\": 4.5972, \"y\": -66.4736, \"z\": -20.6998}, {\"x\": 5.2358, \"y\": -71.1993, \"z\": -12.0212}, {\"x\": 2.6608, \"y\": -83.9618, \"z\": -27.8945}, {\"x\": -8.0371, \"y\": 59.3778, \"z\": 16.5008}, {\"x\": 1.6581, \"y\": 27.4259, \"z\": 30.6004}, {\"x\": 5.0955, \"y\": 15.8593, \"z\": 38.3614}, {\"x\": 4.5912, \"y\": 4.6905, \"z\": 38.5140}, {\"x\": -7.9092, \"y\": 14.5074, \"z\": 12.7953}, {\"x\": -1.7011, \"y\": -40.4018, \"z\": 11.2452}, {\"x\": 4.6272, \"y\": -77.1133, \"z\": 6.9282}, {\"x\": 11.4748, \"y\": -83.5626, \"z\": 1.2487}, {\"x\": -10.3090, \"y\": -84.9620, \"z\": 3.0927}, {\"x\": 2.6797, \"y\": 17.3951, \"z\": 35.2462}, {\"x\": 20.0846, \"y\": -2.3985, \"z\": -20.7207}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame196() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.86554022067931, 89.53717441044661, -21.33933014288181),
+                "\"skeletons\": [{\"x\": -6.5736, \"y\": 75.7066, \"z\": -10.0311}, {\"x\": -13.3481, \"y\": 75.7752, \"z\": -1.3336}, {\"x\": -10.8580, \"y\": 26.2868, \"z\": 1.6617}, {\"x\": -0.7068, \"y\": 53.5406, \"z\": -16.0611}, {\"x\": 12.1502, \"y\": 20.9518, \"z\": -18.8140}, {\"x\": 15.9424, \"y\": 8.5016, \"z\": -18.7424}, {\"x\": 20.4945, \"y\": 0.5746, \"z\": -22.0528}, {\"x\": -4.0198, \"y\": 16.1852, \"z\": -6.8389}, {\"x\": -9.8898, \"y\": -34.9266, \"z\": -23.4498}, {\"x\": 3.8513, \"y\": -66.2125, \"z\": -20.2245}, {\"x\": 4.3811, \"y\": -70.7618, \"z\": -11.3969}, {\"x\": 1.9641, \"y\": -83.8087, \"z\": -27.1058}, {\"x\": -8.3946, \"y\": 59.2260, \"z\": 16.4142}, {\"x\": 1.0155, \"y\": 26.7990, \"z\": 29.7879}, {\"x\": 4.3525, \"y\": 15.0188, \"z\": 37.2448}, {\"x\": 3.7430, \"y\": 3.8927, \"z\": 37.1561}, {\"x\": -7.9025, \"y\": 14.5826, \"z\": 12.4145}, {\"x\": -1.5698, \"y\": -40.2572, \"z\": 11.0537}, {\"x\": 4.6985, \"y\": -77.0096, \"z\": 6.7392}, {\"x\": 11.5361, \"y\": -83.4439, \"z\": 1.0247}, {\"x\": -10.2610, \"y\": -84.8004, \"z\": 2.8738}, {\"x\": 1.9430, \"y\": 16.6393, \"z\": 34.1618}, {\"x\": 21.1923, \"y\": -2.3102, \"z\": -18.7155}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame197() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.78055883319333, 89.40764590881953, -21.12837006554743),
+                "\"skeletons\": [{\"x\": -6.3420, \"y\": 75.9081, \"z\": -10.0548}, {\"x\": -13.0912, \"y\": 75.9084, \"z\": -1.3482}, {\"x\": -10.6783, \"y\": 26.3483, \"z\": 1.1937}, {\"x\": -0.0225, \"y\": 53.6902, \"z\": -16.0359}, {\"x\": 13.0411, \"y\": 21.0760, \"z\": -17.6863}, {\"x\": 16.7614, \"y\": 8.6326, \"z\": -17.2537}, {\"x\": 21.5763, \"y\": 0.6769, \"z\": -20.1850}, {\"x\": -3.7103, \"y\": 16.2132, \"z\": -7.1962}, {\"x\": -10.4553, \"y\": -34.7016, \"z\": -23.5992}, {\"x\": 3.1416, \"y\": -65.9594, \"z\": -19.8253}, {\"x\": 3.5445, \"y\": -70.2888, \"z\": -10.9092}, {\"x\": 1.2417, \"y\": -83.7046, \"z\": -26.3772}, {\"x\": -8.6941, \"y\": 59.0477, \"z\": 16.3207}, {\"x\": 0.3713, \"y\": 26.1701, \"z\": 28.9661}, {\"x\": 3.5819, \"y\": 14.1593, \"z\": 36.1129}, {\"x\": 2.8362, \"y\": 3.1147, \"z\": 35.8224}, {\"x\": -7.8674, \"y\": 14.6794, \"z\": 12.0533}, {\"x\": -1.4364, \"y\": -40.1158, \"z\": 10.8831}, {\"x\": 4.7969, \"y\": -76.9010, \"z\": 6.5638}, {\"x\": 11.6215, \"y\": -83.3240, \"z\": 0.8265}, {\"x\": -10.1716, \"y\": -84.6464, \"z\": 2.6526}, {\"x\": 1.1944, \"y\": 15.8746, \"z\": 33.0498}, {\"x\": 22.0320, \"y\": -2.1922, \"z\": -16.7967}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame198() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.66318218875495, 89.27166309751941, -20.93701599386226),
+                "\"skeletons\": [{\"x\": -6.0639, \"y\": 76.0804, \"z\": -10.0780}, {\"x\": -12.8205, \"y\": 76.0396, \"z\": -1.3252}, {\"x\": -10.4915, \"y\": 26.4318, \"z\": 0.7556}, {\"x\": 0.6765, \"y\": 53.8396, \"z\": -16.0131}, {\"x\": 13.8345, \"y\": 21.1838, \"z\": -16.5655}, {\"x\": 17.4633, \"y\": 8.7428, \"z\": -15.7563}, {\"x\": 22.4363, \"y\": 0.7770, \"z\": -18.3636}, {\"x\": -3.3621, \"y\": 16.2529, \"z\": -7.5070}, {\"x\": -10.9320, \"y\": -34.4292, \"z\": -23.7199}, {\"x\": 2.4340, \"y\": -65.6973, \"z\": -19.4668}, {\"x\": 2.7736, \"y\": -69.9046, \"z\": -10.5577}, {\"x\": 0.5557, \"y\": -83.5459, \"z\": -25.7406}, {\"x\": -8.8837, \"y\": 58.8630, \"z\": 16.2272}, {\"x\": -0.2827, \"y\": 25.5426, \"z\": 28.1718}, {\"x\": 2.8141, \"y\": 13.3268, \"z\": 34.9708}, {\"x\": 1.8611, \"y\": 2.3569, \"z\": 34.5412}, {\"x\": -7.7910, \"y\": 14.7928, \"z\": 11.7056}, {\"x\": -1.3264, \"y\": -39.9871, \"z\": 10.7450}, {\"x\": 4.9314, \"y\": -76.7763, \"z\": 6.4019}, {\"x\": 11.7498, \"y\": -83.1971, \"z\": 0.6504}, {\"x\": -10.0124, \"y\": -84.4863, \"z\": 2.4378}, {\"x\": 0.4365, \"y\": 15.1414, \"z\": 31.9691}, {\"x\": 22.6027, \"y\": -2.0524, \"z\": -15.0113}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame199() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.51337769853069, 89.13209471934306, -20.75954593560159),
+                "\"skeletons\": [{\"x\": -5.7559, \"y\": 76.2364, \"z\": -10.0661}, {\"x\": -12.4914, \"y\": 76.1664, \"z\": -1.2962}, {\"x\": -10.2730, \"y\": 26.4970, \"z\": 0.3312}, {\"x\": 1.4059, \"y\": 54.0032, \"z\": -15.9804}, {\"x\": 14.4706, \"y\": 21.2890, \"z\": -15.4597}, {\"x\": 17.9847, \"y\": 8.8299, \"z\": -14.3379}, {\"x\": 23.1269, \"y\": 0.7987, \"z\": -16.4846}, {\"x\": -2.9699, \"y\": 16.2617, \"z\": -7.7733}, {\"x\": -11.3341, \"y\": -34.1558, \"z\": -23.8071}, {\"x\": 1.7621, \"y\": -65.4731, \"z\": -19.1265}, {\"x\": 2.0256, \"y\": -69.5406, \"z\": -10.1079}, {\"x\": -0.1421, \"y\": -83.3703, \"z\": -25.2034}, {\"x\": -9.0657, \"y\": 58.7205, \"z\": 16.0914}, {\"x\": -0.9463, \"y\": 24.9475, \"z\": 27.3487}, {\"x\": 2.0194, \"y\": 12.5330, \"z\": 33.8062}, {\"x\": 0.8513, \"y\": 1.6063, \"z\": 33.1904}, {\"x\": -7.6857, \"y\": 14.9172, \"z\": 11.3872}, {\"x\": -1.1674, \"y\": -39.8611, \"z\": 10.5931}, {\"x\": 5.0978, \"y\": -76.6442, \"z\": 6.2499}, {\"x\": 11.9353, \"y\": -83.0800, \"z\": 0.4820}, {\"x\": -9.8362, \"y\": -84.3109, \"z\": 2.2543}, {\"x\": -0.3513, \"y\": 14.4292, \"z\": 30.8582}, {\"x\": 23.1119, \"y\": -2.0288, \"z\": -13.0931}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame200() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.32698836618956, 88.99305747623470, -20.60651026650042),
+                "\"skeletons\": [{\"x\": -5.4494, \"y\": 76.3995, \"z\": -10.0396}, {\"x\": -12.1349, \"y\": 76.3017, \"z\": -1.2813}, {\"x\": -9.9948, \"y\": 26.5458, \"z\": -0.0807}, {\"x\": 2.1219, \"y\": 54.1761, \"z\": -15.9374}, {\"x\": 14.9756, \"y\": 21.3450, \"z\": -14.3802}, {\"x\": 18.3632, \"y\": 8.8997, \"z\": -12.9220}, {\"x\": 23.6232, \"y\": 0.8403, \"z\": -14.6599}, {\"x\": -2.5125, \"y\": 16.2777, \"z\": -7.9816}, {\"x\": -11.6188, \"y\": -33.9242, \"z\": -23.8743}, {\"x\": 1.2460, \"y\": -65.2496, \"z\": -18.8369}, {\"x\": 1.3687, \"y\": -69.2399, \"z\": -9.7471}, {\"x\": -0.7807, \"y\": -83.2338, \"z\": -24.6987}, {\"x\": -9.2517, \"y\": 58.5862, \"z\": 15.9396}, {\"x\": -1.6338, \"y\": 24.3709, \"z\": 26.5040}, {\"x\": 1.1490, \"y\": 11.7756, \"z\": 32.6488}, {\"x\": -0.2516, \"y\": 0.9394, \"z\": 31.8862}, {\"x\": -7.5551, \"y\": 15.0278, \"z\": 11.0760}, {\"x\": -1.0342, \"y\": -39.7472, \"z\": 10.4283}, {\"x\": 5.2811, \"y\": -76.5094, \"z\": 6.1030}, {\"x\": 12.0984, \"y\": -82.9767, \"z\": 0.3639}, {\"x\": -9.6169, \"y\": -84.1622, \"z\": 2.0984}, {\"x\": -1.2146, \"y\": 13.7786, \"z\": 29.7547}, {\"x\": 23.4415, \"y\": -1.9575, \"z\": -11.2231}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame201() {
+        return new MovesDoubleFrame(
+                new Vector3d(34.12703394313569, 88.84771107880540, -20.47240300096330),
+                "\"skeletons\": [{\"x\": -5.1210, \"y\": 76.5745, \"z\": -10.0194}, {\"x\": -11.7793, \"y\": 76.4326, \"z\": -1.2167}, {\"x\": -9.6320, \"y\": 26.5968, \"z\": -0.4774}, {\"x\": 2.8472, \"y\": 54.3552, \"z\": -15.8851}, {\"x\": 15.3959, \"y\": 21.4233, \"z\": -13.3530}, {\"x\": 18.5711, \"y\": 8.9649, \"z\": -11.5465}, {\"x\": 23.8994, \"y\": 0.8708, \"z\": -12.9453}, {\"x\": -2.0664, \"y\": 16.2881, \"z\": -8.1782}, {\"x\": -11.8002, \"y\": -33.7223, \"z\": -23.9151}, {\"x\": 0.8160, \"y\": -65.0812, \"z\": -18.5662}, {\"x\": 0.8646, \"y\": -69.0008, \"z\": -9.4862}, {\"x\": -1.2646, \"y\": -83.0741, \"z\": -24.3342}, {\"x\": -9.4368, \"y\": 58.4287, \"z\": 15.8125}, {\"x\": -2.3352, \"y\": 23.8381, \"z\": 25.6821}, {\"x\": 0.2581, \"y\": 11.0518, \"z\": 31.5109}, {\"x\": -1.3907, \"y\": 0.3028, \"z\": 30.6408}, {\"x\": -7.4372, \"y\": 15.1208, \"z\": 10.7758}, {\"x\": -0.9376, \"y\": -39.6288, \"z\": 10.2763}, {\"x\": 5.4630, \"y\": -76.3899, \"z\": 5.9895}, {\"x\": 12.2505, \"y\": -82.8493, \"z\": 0.2622}, {\"x\": -9.3910, \"y\": -84.0241, \"z\": 1.9640}, {\"x\": -2.1287, \"y\": 13.1742, \"z\": 28.6982}, {\"x\": 23.5194, \"y\": -1.8809, \"z\": -9.4817}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame202() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.93376373527933, 88.70487536839545, -20.35331919844296),
+                "\"skeletons\": [{\"x\": -4.8213, \"y\": 76.7262, \"z\": -9.9877}, {\"x\": -11.4205, \"y\": 76.5362, \"z\": -1.1341}, {\"x\": -9.2127, \"y\": 26.6688, \"z\": -0.8508}, {\"x\": 3.6112, \"y\": 54.5744, \"z\": -15.8065}, {\"x\": 15.7343, \"y\": 21.5234, \"z\": -12.4413}, {\"x\": 18.6031, \"y\": 9.0238, \"z\": -10.3213}, {\"x\": 23.9977, \"y\": 0.8371, \"z\": -11.3099}, {\"x\": -1.6149, \"y\": 16.2667, \"z\": -8.3566}, {\"x\": -11.9314, \"y\": -33.5586, \"z\": -23.9247}, {\"x\": 0.5175, \"y\": -64.9448, \"z\": -18.4035}, {\"x\": 0.5803, \"y\": -68.7469, \"z\": -9.2602}, {\"x\": -1.6563, \"y\": -82.9213, \"z\": -24.0464}, {\"x\": -9.5988, \"y\": 58.2582, \"z\": 15.7066}, {\"x\": -3.0583, \"y\": 23.3060, \"z\": 24.9411}, {\"x\": -0.5523, \"y\": 10.3650, \"z\": 30.3963}, {\"x\": -2.5224, \"y\": -0.2646, \"z\": 29.4616}, {\"x\": -7.3487, \"y\": 15.2197, \"z\": 10.4855}, {\"x\": -0.8048, \"y\": -39.5035, \"z\": 10.2027}, {\"x\": 5.6511, \"y\": -76.2644, \"z\": 5.8977}, {\"x\": 12.4249, \"y\": -82.7369, \"z\": 0.1767}, {\"x\": -9.1954, \"y\": -83.8889, \"z\": 1.8408}, {\"x\": -3.0050, \"y\": 12.5949, \"z\": 27.6976}, {\"x\": 23.4743, \"y\": -1.9057, \"z\": -7.8121}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame203() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.75374191930573, 88.56115879765628, -20.25963056937313),
+                "\"skeletons\": [{\"x\": -4.5210, \"y\": 76.8795, \"z\": -9.9348}, {\"x\": -11.0545, \"y\": 76.6472, \"z\": -1.0375}, {\"x\": -8.8459, \"y\": 26.7581, \"z\": -1.2177}, {\"x\": 4.3947, \"y\": 54.8095, \"z\": -15.6278}, {\"x\": 15.9933, \"y\": 21.5798, \"z\": -11.5248}, {\"x\": 18.5352, \"y\": 9.0603, \"z\": -9.1616}, {\"x\": 23.9691, \"y\": 0.7768, \"z\": -9.8096}, {\"x\": -1.1701, \"y\": 16.2378, \"z\": -8.5008}, {\"x\": -12.0176, \"y\": -33.4120, \"z\": -23.9376}, {\"x\": 0.3879, \"y\": -64.8005, \"z\": -18.3590}, {\"x\": 0.4869, \"y\": -68.5367, \"z\": -9.1977}, {\"x\": -1.8467, \"y\": -82.8025, \"z\": -23.8639}, {\"x\": -9.7895, \"y\": 58.1027, \"z\": 15.5647}, {\"x\": -3.8168, \"y\": 22.8288, \"z\": 24.2369}, {\"x\": -1.3253, \"y\": 9.7364, \"z\": 29.3393}, {\"x\": -3.6323, \"y\": -0.8098, \"z\": 28.4049}, {\"x\": -7.2700, \"y\": 15.3202, \"z\": 10.2065}, {\"x\": -0.6249, \"y\": -39.3637, \"z\": 10.2235}, {\"x\": 5.8365, \"y\": -76.1160, \"z\": 5.8235}, {\"x\": 12.5872, \"y\": -82.6025, \"z\": 0.1153}, {\"x\": -9.0147, \"y\": -83.7519, \"z\": 1.7469}, {\"x\": -3.8611, \"y\": 12.0413, \"z\": 26.7869}, {\"x\": 23.2731, \"y\": -1.9548, \"z\": -6.3206}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame204() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.57053415147008, 88.42566725225291, -20.20383302656220),
+                "\"skeletons\": [{\"x\": -4.1985, \"y\": 77.0235, \"z\": -9.8524}, {\"x\": -10.6534, \"y\": 76.7948, \"z\": -0.8979}, {\"x\": -8.5000, \"y\": 26.8233, \"z\": -1.5265}, {\"x\": 5.2043, \"y\": 55.0430, \"z\": -15.3661}, {\"x\": 16.2032, \"y\": 21.6283, \"z\": -10.5861}, {\"x\": 18.4230, \"y\": 9.0727, \"z\": -8.1080}, {\"x\": 23.8597, \"y\": 0.7288, \"z\": -8.4331}, {\"x\": -0.7989, \"y\": 16.1847, \"z\": -8.6965}, {\"x\": -11.9972, \"y\": -33.3257, \"z\": -23.9563}, {\"x\": 0.3634, \"y\": -64.7385, \"z\": -18.4387}, {\"x\": 0.6202, \"y\": -68.3706, \"z\": -9.2813}, {\"x\": -1.9799, \"y\": -82.7691, \"z\": -23.7683}, {\"x\": -10.0764, \"y\": 57.9490, \"z\": 15.4685}, {\"x\": -4.5768, \"y\": 22.4297, \"z\": 23.5819}, {\"x\": -2.1790, \"y\": 9.1807, \"z\": 28.3584}, {\"x\": -4.7130, \"y\": -1.2901, \"z\": 27.4569}, {\"x\": -7.2412, \"y\": 15.4541, \"z\": 9.9594}, {\"x\": -0.4945, \"y\": -39.2285, \"z\": 10.2449}, {\"x\": 6.0138, \"y\": -75.9881, \"z\": 5.7758}, {\"x\": 12.7851, \"y\": -82.4354, \"z\": 0.0476}, {\"x\": -8.8373, \"y\": -83.6083, \"z\": 1.6947}, {\"x\": -4.7940, \"y\": 11.5717, \"z\": 25.9487}, {\"x\": 22.9355, \"y\": -2.0171, \"z\": -4.9795}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame205() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.37212116925392, 88.28492603736896, -20.16442621598277),
+                "\"skeletons\": [{\"x\": -3.8549, \"y\": 77.1651, \"z\": -9.7343}, {\"x\": -10.3027, \"y\": 76.9361, \"z\": -0.7600}, {\"x\": -8.1403, \"y\": 26.9305, \"z\": -1.8172}, {\"x\": 5.9895, \"y\": 55.2509, \"z\": -15.0698}, {\"x\": 16.3806, \"y\": 21.6671, \"z\": -9.7299}, {\"x\": 18.2903, \"y\": 9.1064, \"z\": -7.1440}, {\"x\": 23.6714, \"y\": 0.7003, \"z\": -7.1847}, {\"x\": -0.4014, \"y\": 16.1406, \"z\": -8.8513}, {\"x\": -11.8027, \"y\": -33.3098, \"z\": -24.0007}, {\"x\": 0.4840, \"y\": -64.7501, \"z\": -18.5876}, {\"x\": 0.7552, \"y\": -68.3027, \"z\": -9.4007}, {\"x\": -1.9166, \"y\": -82.8078, \"z\": -23.7659}, {\"x\": -10.3711, \"y\": 57.8114, \"z\": 15.3611}, {\"x\": -5.4535, \"y\": 22.0521, \"z\": 22.9912}, {\"x\": -3.1605, \"y\": 8.7231, \"z\": 27.4914}, {\"x\": -5.8621, \"y\": -1.6736, \"z\": 26.5235}, {\"x\": -7.1777, \"y\": 15.5985, \"z\": 9.7430}, {\"x\": -0.4411, \"y\": -39.0761, \"z\": 10.2072}, {\"x\": 6.1880, \"y\": -75.8425, \"z\": 5.7407}, {\"x\": 12.9845, \"y\": -82.2596, \"z\": 0.0051}, {\"x\": -8.6470, \"y\": -83.4663, \"z\": 1.6527}, {\"x\": -5.8380, \"y\": 11.1931, \"z\": 25.1754}, {\"x\": 22.4922, \"y\": -2.0642, \"z\": -3.8287}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame206() {
+        return new MovesDoubleFrame(
+                new Vector3d(33.18580990158278, 88.13655773041351, -20.12023946129975),
+                "\"skeletons\": [{\"x\": -3.5483, \"y\": 77.3286, \"z\": -9.6239}, {\"x\": -9.9341, \"y\": 77.0797, \"z\": -0.6045}, {\"x\": -7.7111, \"y\": 27.0197, \"z\": -2.0305}, {\"x\": 6.7594, \"y\": 55.4185, \"z\": -14.7523}, {\"x\": 16.5464, \"y\": 21.7119, \"z\": -8.9701}, {\"x\": 18.1136, \"y\": 9.1120, \"z\": -6.2971}, {\"x\": 23.4073, \"y\": 0.6306, \"z\": -6.0137}, {\"x\": 0.0098, \"y\": 16.1320, \"z\": -8.8856}, {\"x\": -11.4018, \"y\": -33.3626, \"z\": -24.0589}, {\"x\": 0.7499, \"y\": -64.7989, \"z\": -18.6926}, {\"x\": 1.0869, \"y\": -68.2610, \"z\": -9.4842}, {\"x\": -1.6694, \"y\": -82.8212, \"z\": -23.8265}, {\"x\": -10.6620, \"y\": 57.6871, \"z\": 15.1950}, {\"x\": -6.4873, \"y\": 21.7441, \"z\": 22.4270}, {\"x\": -4.2944, \"y\": 8.3507, \"z\": 26.7209}, {\"x\": -7.1280, \"y\": -1.9813, \"z\": 25.6159}, {\"x\": -7.0478, \"y\": 15.7198, \"z\": 9.5707}, {\"x\": -0.4225, \"y\": -38.9480, \"z\": 10.1479}, {\"x\": 6.3195, \"y\": -75.6733, \"z\": 5.7110}, {\"x\": 13.1809, \"y\": -82.0656, \"z\": -0.0298}, {\"x\": -8.4720, \"y\": -83.3425, \"z\": 1.6015}, {\"x\": -6.9361, \"y\": 10.9012, \"z\": 24.4438}, {\"x\": 21.9700, \"y\": -2.1376, \"z\": -2.7560}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame207() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.99465776167504, 88.00612412072662, -20.07312138067043),
+                "\"skeletons\": [{\"x\": -3.2567, \"y\": 77.4746, \"z\": -9.5009}, {\"x\": -9.5960, \"y\": 77.1845, \"z\": -0.4901}, {\"x\": -7.2992, \"y\": 27.0918, \"z\": -2.2275}, {\"x\": 7.4776, \"y\": 55.5861, \"z\": -14.5013}, {\"x\": 16.6954, \"y\": 21.7327, \"z\": -8.3031}, {\"x\": 17.9499, \"y\": 9.1063, \"z\": -5.5608}, {\"x\": 23.0957, \"y\": 0.4847, \"z\": -4.7817}, {\"x\": 0.4027, \"y\": 16.1210, \"z\": -8.8964}, {\"x\": -10.9099, \"y\": -33.4327, \"z\": -24.0935}, {\"x\": 1.1384, \"y\": -64.8486, \"z\": -18.6689}, {\"x\": 1.5865, \"y\": -68.3077, \"z\": -9.4288}, {\"x\": -1.3312, \"y\": -82.8007, \"z\": -23.8426}, {\"x\": -10.9545, \"y\": 57.5706, \"z\": 14.9957}, {\"x\": -7.5683, \"y\": 21.5149, \"z\": 21.8501}, {\"x\": -5.5514, \"y\": 8.0318, \"z\": 25.9885}, {\"x\": -8.4985, \"y\": -2.2141, \"z\": 24.7076}, {\"x\": -6.9347, \"y\": 15.8508, \"z\": 9.4756}, {\"x\": -0.3881, \"y\": -38.8240, \"z\": 10.0603}, {\"x\": 6.4389, \"y\": -75.5092, \"z\": 5.6880}, {\"x\": 13.3737, \"y\": -81.9079, \"z\": -0.0656}, {\"x\": -8.2949, \"y\": -83.2476, \"z\": 1.5516}, {\"x\": -8.1133, \"y\": 10.6448, \"z\": 23.6939}, {\"x\": 21.3583, \"y\": -2.3836, \"z\": -1.4570}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame208() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.81297578469445, 87.91875314535885, -20.03552446720091),
+                "\"skeletons\": [{\"x\": -2.9753, \"y\": 77.5572, \"z\": -9.3822}, {\"x\": -9.2265, \"y\": 77.2517, \"z\": -0.3624}, {\"x\": -6.9277, \"y\": 27.1468, \"z\": -2.3647}, {\"x\": 8.1703, \"y\": 55.6945, \"z\": -14.2608}, {\"x\": 16.8154, \"y\": 21.7021, \"z\": -7.6502}, {\"x\": 17.8199, \"y\": 9.0610, \"z\": -4.8984}, {\"x\": 22.9690, \"y\": 0.4520, \"z\": -3.9440}, {\"x\": 0.7956, \"y\": 16.1109, \"z\": -8.8765}, {\"x\": -10.4086, \"y\": -33.4231, \"z\": -24.1101}, {\"x\": 1.5350, \"y\": -64.8814, \"z\": -18.5738}, {\"x\": 1.9931, \"y\": -68.3762, \"z\": -9.3083}, {\"x\": -0.9976, \"y\": -82.7433, \"z\": -23.8504}, {\"x\": -11.2468, \"y\": 57.5204, \"z\": 14.8011}, {\"x\": -8.6495, \"y\": 21.3152, \"z\": 21.2423}, {\"x\": -6.9296, \"y\": 7.7617, \"z\": 25.2647}, {\"x\": -9.9935, \"y\": -2.4450, \"z\": 23.7289}, {\"x\": -6.8729, \"y\": 15.9342, \"z\": 9.3966}, {\"x\": -0.3261, \"y\": -38.7114, \"z\": 10.0615}, {\"x\": 6.5765, \"y\": -75.4063, \"z\": 5.7234}, {\"x\": 13.5391, \"y\": -81.7906, \"z\": -0.0806}, {\"x\": -8.1189, \"y\": -83.1701, \"z\": 1.5194}, {\"x\": -9.3788, \"y\": 10.4605, \"z\": 22.9153}, {\"x\": 21.0468, \"y\": -2.4024, \"z\": -0.9127}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame209() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.62430879989430, 87.85028468097683, -20.00686236725867),
+                "\"skeletons\": [{\"x\": -2.6814, \"y\": 77.6221, \"z\": -9.3282}, {\"x\": -8.8746, \"y\": 77.2863, \"z\": -0.2296}, {\"x\": -6.5345, \"y\": 27.1903, \"z\": -2.4184}, {\"x\": 8.8705, \"y\": 55.7735, \"z\": -13.9559}, {\"x\": 17.0023, \"y\": 21.6863, \"z\": -7.0051}, {\"x\": 17.7186, \"y\": 9.0136, \"z\": -4.3197}, {\"x\": 22.9685, \"y\": 0.4493, \"z\": -3.2185}, {\"x\": 1.2116, \"y\": 16.0972, \"z\": -8.7914}, {\"x\": -9.9921, \"y\": -33.3637, \"z\": -24.1103}, {\"x\": 1.8272, \"y\": -64.8844, \"z\": -18.5080}, {\"x\": 2.2300, \"y\": -68.4218, \"z\": -9.2229}, {\"x\": -0.7372, \"y\": -82.6734, \"z\": -23.8714}, {\"x\": -11.5647, \"y\": 57.5035, \"z\": 14.6176}, {\"x\": -9.7273, \"y\": 21.1607, \"z\": 20.6257}, {\"x\": -8.3485, \"y\": 7.5382, \"z\": 24.5073}, {\"x\": -11.4641, \"y\": -2.6085, \"z\": 22.6765}, {\"x\": -6.7937, \"y\": 15.9565, \"z\": 9.3172}, {\"x\": -0.2438, \"y\": -38.6373, \"z\": 10.1770}, {\"x\": 6.7580, \"y\": -75.3228, \"z\": 5.7812}, {\"x\": 13.7134, \"y\": -81.7193, \"z\": -0.0636}, {\"x\": -7.9610, \"y\": -83.0702, \"z\": 1.4901}, {\"x\": -10.6899, \"y\": 10.3252, \"z\": 22.0715}, {\"x\": 20.8804, \"y\": -2.3540, \"z\": -0.5016}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame210() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.43441131552621, 87.78490504312578, -20.00033158834387),
+                "\"skeletons\": [{\"x\": -2.3604, \"y\": 77.6392, \"z\": -9.2073}, {\"x\": -8.5393, \"y\": 77.3296, \"z\": -0.0714}, {\"x\": -6.1848, \"y\": 27.1930, \"z\": -2.4945}, {\"x\": 9.5206, \"y\": 55.8328, \"z\": -13.6061}, {\"x\": 17.2262, \"y\": 21.6850, \"z\": -6.3881}, {\"x\": 17.7486, \"y\": 9.0107, \"z\": -3.7952}, {\"x\": 22.9810, \"y\": 0.3495, \"z\": -2.4326}, {\"x\": 1.6518, \"y\": 16.0963, \"z\": -8.6749}, {\"x\": -9.7372, \"y\": -33.2549, \"z\": -24.0679}, {\"x\": 1.9832, \"y\": -64.7869, \"z\": -18.4651}, {\"x\": 2.2311, \"y\": -68.3690, \"z\": -9.2081}, {\"x\": -0.5441, \"y\": -82.5934, \"z\": -23.8845}, {\"x\": -11.8979, \"y\": 57.4959, \"z\": 14.4235}, {\"x\": -10.6968, \"y\": 21.0236, \"z\": 19.9561}, {\"x\": -9.7160, \"y\": 7.3532, \"z\": 23.6996}, {\"x\": -12.7954, \"y\": -2.7466, \"z\": 21.5347}, {\"x\": -6.7107, \"y\": 16.0014, \"z\": 9.2629}, {\"x\": -0.0766, \"y\": -38.5863, \"z\": 10.3118}, {\"x\": 6.9498, \"y\": -75.2569, \"z\": 5.8442}, {\"x\": 13.8881, \"y\": -81.6785, \"z\": -0.0155}, {\"x\": -7.7840, \"y\": -82.9941, \"z\": 1.4831}, {\"x\": -11.8821, \"y\": 10.2134, \"z\": 21.1822}, {\"x\": 20.7384, \"y\": -2.4726, \"z\": 0.1910}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame211() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.28241580856103, 87.73478372642525, -20.00334707563696),
+                "\"skeletons\": [{\"x\": -2.0616, \"y\": 77.6113, \"z\": -9.0606}, {\"x\": -8.1795, \"y\": 77.3447, \"z\": 0.0992}, {\"x\": -5.7966, \"y\": 27.2063, \"z\": -2.4503}, {\"x\": 10.1413, \"y\": 55.8521, \"z\": -13.1918}, {\"x\": 17.4767, \"y\": 21.6568, \"z\": -5.8090}, {\"x\": 17.9467, \"y\": 9.0089, \"z\": -3.2946}, {\"x\": 23.1035, \"y\": 0.2577, \"z\": -1.6663}, {\"x\": 2.0814, \"y\": 16.0383, \"z\": -8.5113}, {\"x\": -9.6813, \"y\": -33.0348, \"z\": -24.0148}, {\"x\": 1.9768, \"y\": -64.5915, \"z\": -18.4487}, {\"x\": 2.0228, \"y\": -68.2206, \"z\": -9.2406}, {\"x\": -0.4332, \"y\": -82.5031, \"z\": -23.9142}, {\"x\": -12.2710, \"y\": 57.4577, \"z\": 14.2022}, {\"x\": -11.5966, \"y\": 20.9308, \"z\": 19.3019}, {\"x\": -11.0295, \"y\": 7.2104, \"z\": 22.8666}, {\"x\": -13.9072, \"y\": -2.8569, \"z\": 20.2775}, {\"x\": -6.6340, \"y\": 16.0019, \"z\": 9.2346}, {\"x\": 0.0720, \"y\": -38.5366, \"z\": 10.4135}, {\"x\": 7.1010, \"y\": -75.2529, \"z\": 5.9190}, {\"x\": 14.0583, \"y\": -81.6375, \"z\": 0.0100}, {\"x\": -7.6294, \"y\": -82.9549, \"z\": 1.4857}, {\"x\": -12.9232, \"y\": 10.0956, \"z\": 20.2233}, {\"x\": 20.7438, \"y\": -2.5574, \"z\": 0.8873}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame212() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.16376557225696, 87.68133053276210, -20.01256489977363),
+                "\"skeletons\": [{\"x\": -1.7839, \"y\": 77.5903, \"z\": -8.9584}, {\"x\": -7.8591, \"y\": 77.3619, \"z\": 0.2401}, {\"x\": -5.4461, \"y\": 27.1979, \"z\": -2.4030}, {\"x\": 10.7003, \"y\": 55.8779, \"z\": -12.7709}, {\"x\": 17.8146, \"y\": 21.6169, \"z\": -5.1886}, {\"x\": 18.2786, \"y\": 9.0396, \"z\": -2.7991}, {\"x\": 23.3799, \"y\": 0.2493, \"z\": -0.8397}, {\"x\": 2.4608, \"y\": 15.9703, \"z\": -8.2965}, {\"x\": -9.7516, \"y\": -32.8104, \"z\": -23.9180}, {\"x\": 1.8253, \"y\": -64.3605, \"z\": -18.4328}, {\"x\": 1.5898, \"y\": -68.0538, \"z\": -9.2605}, {\"x\": -0.4583, \"y\": -82.3252, \"z\": -23.9697}, {\"x\": -12.6452, \"y\": 57.3580, \"z\": 13.9744}, {\"x\": -12.4934, \"y\": 20.8130, \"z\": 18.5830}, {\"x\": -12.2961, \"y\": 7.0396, \"z\": 21.9834}, {\"x\": -14.6966, \"y\": -3.0079, \"z\": 18.8940}, {\"x\": -6.5391, \"y\": 15.9837, \"z\": 9.3000}, {\"x\": 0.2027, \"y\": -38.5435, \"z\": 10.5664}, {\"x\": 7.2272, \"y\": -75.2446, \"z\": 5.9697}, {\"x\": 14.2094, \"y\": -81.5662, \"z\": 0.0540}, {\"x\": -7.5019, \"y\": -82.8937, \"z\": 1.4956}, {\"x\": -13.8608, \"y\": 9.9145, \"z\": 19.1316}, {\"x\": 20.9271, \"y\": -2.5846, \"z\": 1.6606}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame213() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.08181570400431, 87.62075289284311, -20.02371280347669),
+                "\"skeletons\": [{\"x\": -1.5237, \"y\": 77.5315, \"z\": -8.8286}, {\"x\": -7.5533, \"y\": 77.3505, \"z\": 0.3963}, {\"x\": -5.1140, \"y\": 27.1794, \"z\": -2.3281}, {\"x\": 11.2113, \"y\": 55.9195, \"z\": -12.3465}, {\"x\": 18.2418, \"y\": 21.6474, \"z\": -4.5097}, {\"x\": 18.7708, \"y\": 9.0786, \"z\": -2.2322}, {\"x\": 23.8034, \"y\": 0.3187, \"z\": 0.0231}, {\"x\": 2.7836, \"y\": 15.8811, \"z\": -8.0979}, {\"x\": -9.9569, \"y\": -32.5130, \"z\": -23.9266}, {\"x\": 1.5918, \"y\": -64.1077, \"z\": -18.4172}, {\"x\": 1.0936, \"y\": -67.7656, \"z\": -9.3027}, {\"x\": -0.5312, \"y\": -82.1281, \"z\": -24.0341}, {\"x\": -13.0563, \"y\": 57.2509, \"z\": 13.7286}, {\"x\": -13.4119, \"y\": 20.6398, \"z\": 17.9202}, {\"x\": -13.6144, \"y\": 6.7862, \"z\": 21.0994}, {\"x\": -15.2153, \"y\": -3.2245, \"z\": 17.4889}, {\"x\": -6.4543, \"y\": 15.9699, \"z\": 9.3966}, {\"x\": 0.2843, \"y\": -38.5600, \"z\": 10.7133}, {\"x\": 7.3320, \"y\": -75.2229, \"z\": 5.9976}, {\"x\": 14.2973, \"y\": -81.4803, \"z\": 0.0781}, {\"x\": -7.4147, \"y\": -82.8243, \"z\": 1.5127}, {\"x\": -14.7184, \"y\": 9.7161, \"z\": 18.0861}, {\"x\": 21.2786, \"y\": -2.5650, \"z\": 2.3859}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame214() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.02612668234516, 87.56388982978848, -20.02805297259735),
+                "\"skeletons\": [{\"x\": -1.2899, \"y\": 77.4914, \"z\": -8.7080}, {\"x\": -7.3453, \"y\": 77.3026, \"z\": 0.5254}, {\"x\": -4.8314, \"y\": 27.1418, \"z\": -2.3000}, {\"x\": 11.6330, \"y\": 55.9213, \"z\": -11.9412}, {\"x\": 18.7262, \"y\": 21.7291, \"z\": -3.8689}, {\"x\": 19.2676, \"y\": 9.0917, \"z\": -1.6107}, {\"x\": 24.3785, \"y\": 0.4836, \"z\": 1.0753}, {\"x\": 3.0736, \"y\": 15.8028, \"z\": -7.9242}, {\"x\": -10.2930, \"y\": -32.1812, \"z\": -23.9350}, {\"x\": 1.2586, \"y\": -63.7850, \"z\": -18.4492}, {\"x\": 0.6379, \"y\": -67.4416, \"z\": -9.3628}, {\"x\": -0.6855, \"y\": -81.8528, \"z\": -24.0794}, {\"x\": -13.4831, \"y\": 57.1323, \"z\": 13.4844}, {\"x\": -14.2477, \"y\": 20.4358, \"z\": 17.3285}, {\"x\": -14.9139, \"y\": 6.5027, \"z\": 20.2212}, {\"x\": -15.5843, \"y\": -3.4987, \"z\": 16.2068}, {\"x\": -6.4143, \"y\": 15.9371, \"z\": 9.4273}, {\"x\": 0.3426, \"y\": -38.5828, \"z\": 10.9780}, {\"x\": 7.4076, \"y\": -75.1883, \"z\": 6.0358}, {\"x\": 14.3437, \"y\": -81.4304, \"z\": 0.0922}, {\"x\": -7.3742, \"y\": -82.7858, \"z\": 1.5247}, {\"x\": -15.5049, \"y\": 9.5190, \"z\": 17.1283}, {\"x\": 21.7346, \"y\": -2.5354, \"z\": 3.1841}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame215() {
+        return new MovesDoubleFrame(
+                new Vector3d(32.00303190660270, 87.54801925124248, -19.99698085354683),
+                "\"skeletons\": [{\"x\": -1.1026, \"y\": 77.4056, \"z\": -8.5975}, {\"x\": -7.1594, \"y\": 77.2576, \"z\": 0.6368}, {\"x\": -4.5681, \"y\": 27.0434, \"z\": -2.3320}, {\"x\": 12.0272, \"y\": 55.9176, \"z\": -11.5609}, {\"x\": 19.1192, \"y\": 21.8104, \"z\": -3.1716}, {\"x\": 19.8076, \"y\": 9.1730, \"z\": -1.0057}, {\"x\": 25.0489, \"y\": 0.7669, \"z\": 2.2308}, {\"x\": 3.3421, \"y\": 15.6391, \"z\": -7.8253}, {\"x\": -10.6673, \"y\": -31.8727, \"z\": -24.0219}, {\"x\": 0.8384, \"y\": -63.4598, \"z\": -18.5070}, {\"x\": 0.3644, \"y\": -66.9893, \"z\": -9.4176}, {\"x\": -1.2557, \"y\": -81.6766, \"z\": -23.8276}, {\"x\": -13.8317, \"y\": 56.9685, \"z\": 13.1872}, {\"x\": -14.8845, \"y\": 20.2528, \"z\": 16.6923}, {\"x\": -15.9981, \"y\": 6.3148, \"z\": 19.4719}, {\"x\": -15.9287, \"y\": -3.6766, \"z\": 15.2336}, {\"x\": -6.3854, \"y\": 15.9178, \"z\": 9.3708}, {\"x\": 0.5208, \"y\": -38.5779, \"z\": 11.2195}, {\"x\": 7.5112, \"y\": -75.1659, \"z\": 6.0825}, {\"x\": 14.3666, \"y\": -81.4385, \"z\": 0.0847}, {\"x\": -7.3702, \"y\": -82.7949, \"z\": 1.5305}, {\"x\": -16.1678, \"y\": 9.3555, \"z\": 16.3371}, {\"x\": 22.2670, \"y\": -2.4241, \"z\": 3.7950}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame216() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.96700547646977, 87.56961483818094, -19.90340952268986),
+                "\"skeletons\": [{\"x\": -0.9128, \"y\": 77.2851, \"z\": -8.5216}, {\"x\": -6.9593, \"y\": 77.2200, \"z\": 0.6785}, {\"x\": -4.2806, \"y\": 26.9517, \"z\": -2.3954}, {\"x\": 12.4649, \"y\": 55.9257, \"z\": -11.2432}, {\"x\": 19.4707, \"y\": 21.8952, \"z\": -2.5905}, {\"x\": 20.3612, \"y\": 9.3140, \"z\": -0.5418}, {\"x\": 25.6630, \"y\": 1.0813, \"z\": 3.4181}, {\"x\": 3.5828, \"y\": 15.4557, \"z\": -7.8007}, {\"x\": -11.1423, \"y\": -31.5713, \"z\": -24.2871}, {\"x\": 0.1468, \"y\": -63.2606, \"z\": -18.5514}, {\"x\": -0.1868, \"y\": -66.4794, \"z\": -9.4020}, {\"x\": -2.2254, \"y\": -81.5749, \"z\": -23.3811}, {\"x\": -14.1411, \"y\": 56.8356, \"z\": 12.8047}, {\"x\": -15.4618, \"y\": 20.1450, \"z\": 16.1412}, {\"x\": -16.6367, \"y\": 6.2042, \"z\": 18.8958}, {\"x\": -16.2620, \"y\": -3.7673, \"z\": 14.6668}, {\"x\": -6.3515, \"y\": 15.8835, \"z\": 9.2568}, {\"x\": 0.7885, \"y\": -38.6252, \"z\": 11.3965}, {\"x\": 7.6786, \"y\": -75.2055, \"z\": 6.1042}, {\"x\": 14.4153, \"y\": -81.4466, \"z\": 0.0393}, {\"x\": -7.3370, \"y\": -82.8544, \"z\": 1.5685}, {\"x\": -16.6104, \"y\": 9.2610, \"z\": 15.7467}, {\"x\": 22.8521, \"y\": -2.2636, \"z\": 4.2558}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame217() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.88345720309909, 87.61203805028143, -19.79157575346948),
+                "\"skeletons\": [{\"x\": -0.6883, \"y\": 77.2068, \"z\": -8.5018}, {\"x\": -6.7497, \"y\": 77.1569, \"z\": 0.7219}, {\"x\": -3.9200, \"y\": 26.8669, \"z\": -2.4803}, {\"x\": 12.8517, \"y\": 55.9819, \"z\": -11.0340}, {\"x\": 19.8867, \"y\": 21.9914, \"z\": -2.0906}, {\"x\": 20.9356, \"y\": 9.4189, \"z\": -0.2140}, {\"x\": 26.0428, \"y\": 1.3019, \"z\": 4.4144}, {\"x\": 3.9458, \"y\": 15.2993, \"z\": -7.8139}, {\"x\": -11.5705, \"y\": -31.2838, \"z\": -24.6712}, {\"x\": -0.7962, \"y\": -63.0682, \"z\": -18.4694}, {\"x\": -1.2591, \"y\": -66.1421, \"z\": -9.2533}, {\"x\": -3.4834, \"y\": -81.5085, \"z\": -22.8469}, {\"x\": -14.4236, \"y\": 56.7065, \"z\": 12.3662}, {\"x\": -15.8850, \"y\": 20.0389, \"z\": 15.5730}, {\"x\": -16.8914, \"y\": 6.1258, \"z\": 18.3971}, {\"x\": -16.5302, \"y\": -3.8520, \"z\": 14.2725}, {\"x\": -6.2469, \"y\": 15.8547, \"z\": 9.1657}, {\"x\": 0.9813, \"y\": -38.6008, \"z\": 11.5542}, {\"x\": 7.8450, \"y\": -75.2653, \"z\": 6.1268}, {\"x\": 14.5254, \"y\": -81.4556, \"z\": -0.0339}, {\"x\": -7.2605, \"y\": -82.9046, \"z\": 1.5335}, {\"x\": -16.9158, \"y\": 9.1737, \"z\": 15.2234}, {\"x\": 23.2597, \"y\": -2.1836, \"z\": 4.7123}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame218() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.75379854509260, 87.65802760902760, -19.67768376500400),
+                "\"skeletons\": [{\"x\": -0.4183, \"y\": 77.1483, \"z\": -8.4825}, {\"x\": -6.4661, \"y\": 77.0675, \"z\": 0.7297}, {\"x\": -3.4986, \"y\": 26.7648, \"z\": -2.5107}, {\"x\": 13.2784, \"y\": 56.0089, \"z\": -10.8799}, {\"x\": 20.2618, \"y\": 22.0332, \"z\": -1.6995}, {\"x\": 21.3939, \"y\": 9.5163, \"z\": 0.1247}, {\"x\": 26.2542, \"y\": 1.4002, \"z\": 5.1957}, {\"x\": 4.3406, \"y\": 15.1360, \"z\": -7.7958}, {\"x\": -11.8415, \"y\": -31.0082, \"z\": -25.1351}, {\"x\": -1.9849, \"y\": -62.9498, \"z\": -18.2207}, {\"x\": -2.8221, \"y\": -65.8508, \"z\": -9.0140}, {\"x\": -5.0816, \"y\": -81.4929, \"z\": -22.2297}, {\"x\": -14.6127, \"y\": 56.5932, \"z\": 11.8678}, {\"x\": -16.2919, \"y\": 19.9856, \"z\": 14.9668}, {\"x\": -17.0516, \"y\": 6.1020, \"z\": 17.8186}, {\"x\": -16.6526, \"y\": -3.9275, \"z\": 13.7905}, {\"x\": -5.9528, \"y\": 15.8839, \"z\": 9.1327}, {\"x\": 1.1805, \"y\": -38.5594, \"z\": 11.6075}, {\"x\": 8.0361, \"y\": -75.2744, \"z\": 6.1126}, {\"x\": 14.6331, \"y\": -81.4297, \"z\": -0.1186}, {\"x\": -7.1350, \"y\": -82.9572, \"z\": 1.5633}, {\"x\": -17.1584, \"y\": 9.1268, \"z\": 14.6096}, {\"x\": 23.5509, \"y\": -2.1533, \"z\": 5.1159}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame219() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.57663249595218, 87.66761981824899, -19.62370792015875),
+                "\"skeletons\": [{\"x\": -0.1180, \"y\": 77.1332, \"z\": -8.4388}, {\"x\": -6.1196, \"y\": 77.0267, \"z\": 0.8339}, {\"x\": -2.9810, \"y\": 26.7178, \"z\": -2.4557}, {\"x\": 13.7819, \"y\": 56.0339, \"z\": -10.7042}, {\"x\": 20.5929, \"y\": 22.0629, \"z\": -1.3871}, {\"x\": 21.7211, \"y\": 9.5362, \"z\": 0.4130}, {\"x\": 26.3940, \"y\": 1.4552, \"z\": 5.7628}, {\"x\": 4.7068, \"y\": 14.9616, \"z\": -7.6932}, {\"x\": -11.9047, \"y\": -30.6966, \"z\": -25.4714}, {\"x\": -3.4152, \"y\": -62.9396, \"z\": -17.9157}, {\"x\": -4.5837, \"y\": -65.6404, \"z\": -8.7261}, {\"x\": -6.8386, \"y\": -81.4408, \"z\": -21.6987}, {\"x\": -14.7132, \"y\": 56.5562, \"z\": 11.4114}, {\"x\": -16.4869, \"y\": 19.9441, \"z\": 14.3395}, {\"x\": -17.2405, \"y\": 6.0484, \"z\": 17.1421}, {\"x\": -16.6537, \"y\": -3.9749, \"z\": 13.1118}, {\"x\": -5.6334, \"y\": 15.9611, \"z\": 9.1078}, {\"x\": 1.3064, \"y\": -38.5425, \"z\": 11.6519}, {\"x\": 8.2355, \"y\": -75.2509, \"z\": 6.1097}, {\"x\": 14.7830, \"y\": -81.3984, \"z\": -0.1653}, {\"x\": -7.0090, \"y\": -82.9630, \"z\": 1.5816}, {\"x\": -17.2425, \"y\": 9.0523, \"z\": 13.9301}, {\"x\": 23.7458, \"y\": -2.1137, \"z\": 5.4073}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame220() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.36866104263091, 87.64931209176420, -19.65375530960959),
+                "\"skeletons\": [{\"x\": 0.2333, \"y\": 77.1150, \"z\": -8.2776}, {\"x\": -5.7898, \"y\": 76.9849, \"z\": 0.9986}, {\"x\": -2.5085, \"y\": 26.7235, \"z\": -2.4102}, {\"x\": 14.2920, \"y\": 56.0818, \"z\": -10.4504}, {\"x\": 20.9074, \"y\": 22.0830, \"z\": -1.0920}, {\"x\": 22.0278, \"y\": 9.5494, \"z\": 0.6094}, {\"x\": 26.4445, \"y\": 1.4166, \"z\": 6.2046}, {\"x\": 5.1511, \"y\": 14.8086, \"z\": -7.5240}, {\"x\": -11.9048, \"y\": -30.4132, \"z\": -25.6281}, {\"x\": -4.8393, \"y\": -62.8610, \"z\": -17.6540}, {\"x\": -6.3864, \"y\": -65.3668, \"z\": -8.5003}, {\"x\": -8.8325, \"y\": -81.4007, \"z\": -21.2390}, {\"x\": -14.6972, \"y\": 56.5318, \"z\": 11.0960}, {\"x\": -16.6693, \"y\": 19.9080, \"z\": 13.6436}, {\"x\": -17.4973, \"y\": 5.9684, \"z\": 16.2515}, {\"x\": -16.6447, \"y\": -4.0113, \"z\": 12.2301}, {\"x\": -5.3660, \"y\": 16.0408, \"z\": 9.0676}, {\"x\": 1.3469, \"y\": -38.5203, \"z\": 11.7972}, {\"x\": 8.4348, \"y\": -75.2518, \"z\": 6.1421}, {\"x\": 15.0261, \"y\": -81.3366, \"z\": -0.1735}, {\"x\": -6.8122, \"y\": -82.9507, \"z\": 1.6345}, {\"x\": -17.3118, \"y\": 9.0010, \"z\": 13.0773}, {\"x\": 23.8010, \"y\": -2.2058, \"z\": 5.6931}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame221() {
+        return new MovesDoubleFrame(
+                new Vector3d(31.14442512609680, 87.59655640258921, -19.73851418257619),
+                "\"skeletons\": [{\"x\": 0.5740, \"y\": 77.0992, \"z\": -8.0727}, {\"x\": -5.4356, \"y\": 76.9415, \"z\": 1.1752}, {\"x\": -1.9821, \"y\": 26.7259, \"z\": -2.3132}, {\"x\": 14.8137, \"y\": 56.1150, \"z\": -10.1158}, {\"x\": 21.1830, \"y\": 22.0420, \"z\": -0.8160}, {\"x\": 22.2926, \"y\": 9.5401, \"z\": 0.8118}, {\"x\": 26.4988, \"y\": 1.3459, \"z\": 6.5130}, {\"x\": 5.6335, \"y\": 14.7122, \"z\": -7.3540}, {\"x\": -11.9315, \"y\": -30.1707, \"z\": -25.6562}, {\"x\": -6.4570, \"y\": -62.9333, \"z\": -17.4692}, {\"x\": -8.1677, \"y\": -65.1106, \"z\": -8.5291}, {\"x\": -11.0529, \"y\": -81.3636, \"z\": -20.8674}, {\"x\": -14.5469, \"y\": 56.5087, \"z\": 10.8813}, {\"x\": -16.7692, \"y\": 19.8725, \"z\": 12.8935}, {\"x\": -17.6937, \"y\": 5.8893, \"z\": 15.2559}, {\"x\": -16.6517, \"y\": -3.9992, \"z\": 11.1830}, {\"x\": -5.0287, \"y\": 16.0888, \"z\": 9.1457}, {\"x\": 1.4893, \"y\": -38.5122, \"z\": 11.9339}, {\"x\": 8.6499, \"y\": -75.1765, \"z\": 6.2639}, {\"x\": 15.2522, \"y\": -81.2687, \"z\": -0.0941}, {\"x\": -6.5902, \"y\": -82.9067, \"z\": 1.7325}, {\"x\": -17.3281, \"y\": 8.9633, \"z\": 12.0819}, {\"x\": 23.8534, \"y\": -2.2872, \"z\": 5.9237}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame222() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.93502537027622, 87.52938825697191, -19.86572588685016),
+                "\"skeletons\": [{\"x\": 0.9237, \"y\": 77.0983, \"z\": -7.8342}, {\"x\": -5.0367, \"y\": 76.9518, \"z\": 1.4351}, {\"x\": -1.5240, \"y\": 26.7048, \"z\": -2.2066}, {\"x\": 15.3572, \"y\": 56.1749, \"z\": -9.7420}, {\"x\": 21.5214, \"y\": 22.0076, \"z\": -0.5112}, {\"x\": 22.5218, \"y\": 9.4990, \"z\": 1.0011}, {\"x\": 26.5621, \"y\": 1.2272, \"z\": 6.7885}, {\"x\": 6.0950, \"y\": 14.6181, \"z\": -7.1526}, {\"x\": -12.0664, \"y\": -29.9493, \"z\": -25.5955}, {\"x\": -7.9733, \"y\": -63.0071, \"z\": -17.5136}, {\"x\": -9.8988, \"y\": -65.0284, \"z\": -8.6354}, {\"x\": -13.2347, \"y\": -81.3311, \"z\": -20.7438}, {\"x\": -14.4355, \"y\": 56.5403, \"z\": 10.6498}, {\"x\": -16.7961, \"y\": 19.8505, \"z\": 12.1750}, {\"x\": -17.7752, \"y\": 5.8347, \"z\": 14.3128}, {\"x\": -16.6040, \"y\": -4.0107, \"z\": 10.1419}, {\"x\": -4.7364, \"y\": 16.1337, \"z\": 9.1390}, {\"x\": 1.6581, \"y\": -38.4260, \"z\": 12.0748}, {\"x\": 8.8276, \"y\": -75.0840, \"z\": 6.3866}, {\"x\": 15.4563, \"y\": -81.1922, \"z\": 0.0290}, {\"x\": -6.3669, \"y\": -82.8630, \"z\": 1.8606}, {\"x\": -17.3270, \"y\": 8.9452, \"z\": 11.1906}, {\"x\": 23.9377, \"y\": -2.3580, \"z\": 6.0797}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame223() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.76926556005478, 87.43472802774110, -20.01632344195017),
+                "\"skeletons\": [{\"x\": 1.3105, \"y\": 77.1047, \"z\": -7.5559}, {\"x\": -4.6652, \"y\": 76.9480, \"z\": 1.7066}, {\"x\": -1.0759, \"y\": 26.7171, \"z\": -2.0637}, {\"x\": 15.8789, \"y\": 56.2715, \"z\": -9.3630}, {\"x\": 21.7540, \"y\": 21.9733, \"z\": -0.2779}, {\"x\": 22.7169, \"y\": 9.4654, \"z\": 1.1779}, {\"x\": 26.5948, \"y\": 1.1153, \"z\": 6.9914}, {\"x\": 6.5142, \"y\": 14.5223, \"z\": -6.9798}, {\"x\": -12.2893, \"y\": -29.8357, \"z\": -25.3899}, {\"x\": -9.4928, \"y\": -63.1515, \"z\": -17.6032}, {\"x\": -11.5164, \"y\": -65.0695, \"z\": -8.7767}, {\"x\": -15.1009, \"y\": -81.3055, \"z\": -20.9019}, {\"x\": -14.2348, \"y\": 56.4825, \"z\": 10.5826}, {\"x\": -16.8191, \"y\": 19.9049, \"z\": 11.4845}, {\"x\": -17.7002, \"y\": 5.8621, \"z\": 13.5034}, {\"x\": -16.5827, \"y\": -3.9638, \"z\": 9.1746}, {\"x\": -4.5240, \"y\": 16.1613, \"z\": 9.1943}, {\"x\": 1.8122, \"y\": -38.3319, \"z\": 12.2233}, {\"x\": 8.9560, \"y\": -74.9814, \"z\": 6.4572}, {\"x\": 15.6197, \"y\": -81.1042, \"z\": 0.1588}, {\"x\": -6.1894, \"y\": -82.7924, \"z\": 1.9960}, {\"x\": -17.2704, \"y\": 9.0217, \"z\": 10.3668}, {\"x\": 23.9360, \"y\": -2.4758, \"z\": 6.1997}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame224() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.62344439877473, 87.34788042622651, -20.17958052422584),
+                "\"skeletons\": [{\"x\": 1.6507, \"y\": 77.1331, \"z\": -7.3213}, {\"x\": -4.3153, \"y\": 76.9195, \"z\": 1.9512}, {\"x\": -0.6899, \"y\": 26.7200, \"z\": -1.9041}, {\"x\": 16.3126, \"y\": 56.3119, \"z\": -8.9989}, {\"x\": 22.0295, \"y\": 21.9304, \"z\": -0.0597}, {\"x\": 22.8682, \"y\": 9.3517, \"z\": 1.3574}, {\"x\": 26.6368, \"y\": 1.0038, \"z\": 7.1496}, {\"x\": 6.8702, \"y\": 14.4534, \"z\": -6.8289}, {\"x\": -12.4463, \"y\": -29.8040, \"z\": -25.1630}, {\"x\": -10.6507, \"y\": -63.2595, \"z\": -17.6895}, {\"x\": -12.7133, \"y\": -65.1527, \"z\": -8.8803}, {\"x\": -16.8505, \"y\": -81.2406, \"z\": -21.1068}, {\"x\": -14.0500, \"y\": 56.5153, \"z\": 10.4760}, {\"x\": -16.9038, \"y\": 20.0023, \"z\": 10.8087}, {\"x\": -17.7314, \"y\": 5.8710, \"z\": 12.7111}, {\"x\": -16.7206, \"y\": -3.8344, \"z\": 8.2827}, {\"x\": -4.2873, \"y\": 16.1773, \"z\": 9.2654}, {\"x\": 1.9601, \"y\": -38.2906, \"z\": 12.3623}, {\"x\": 9.0598, \"y\": -74.9209, \"z\": 6.5393}, {\"x\": 15.7700, \"y\": -81.0434, \"z\": 0.2998}, {\"x\": -6.0620, \"y\": -82.6983, \"z\": 2.1337}, {\"x\": -17.3273, \"y\": 9.0902, \"z\": 9.5964}, {\"x\": 23.9878, \"y\": -2.5782, \"z\": 6.2314}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame225() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.53127447506408, 87.26665462505791, -20.34285130631086),
+                "\"skeletons\": [{\"x\": 1.9416, \"y\": 77.0900, \"z\": -7.0424}, {\"x\": -3.9644, \"y\": 76.9119, \"z\": 2.2531}, {\"x\": -0.3769, \"y\": 26.7183, \"z\": -1.7870}, {\"x\": 16.7714, \"y\": 56.3429, \"z\": -8.6526}, {\"x\": 22.3245, \"y\": 21.8781, \"z\": 0.1493}, {\"x\": 23.1511, \"y\": 9.3236, \"z\": 1.3677}, {\"x\": 26.6599, \"y\": 0.8802, \"z\": 7.3186}, {\"x\": 7.1663, \"y\": 14.3798, \"z\": -6.6590}, {\"x\": -12.5604, \"y\": -29.8194, \"z\": -24.9152}, {\"x\": -11.5465, \"y\": -63.4091, \"z\": -17.7697}, {\"x\": -13.6614, \"y\": -65.2309, \"z\": -9.0182}, {\"x\": -18.0784, \"y\": -81.2399, \"z\": -21.2473}, {\"x\": -13.9399, \"y\": 56.5187, \"z\": 10.3558}, {\"x\": -17.0475, \"y\": 20.1067, \"z\": 10.1929}, {\"x\": -17.9146, \"y\": 5.9616, \"z\": 11.9678}, {\"x\": -17.0318, \"y\": -3.6985, \"z\": 7.4499}, {\"x\": -4.0657, \"y\": 16.1810, \"z\": 9.3629}, {\"x\": 2.0485, \"y\": -38.2256, \"z\": 12.4459}, {\"x\": 9.1695, \"y\": -74.8723, \"z\": 6.6543}, {\"x\": 15.8779, \"y\": -81.0015, \"z\": 0.4166}, {\"x\": -5.9694, \"y\": -82.5918, \"z\": 2.2759}, {\"x\": -17.5073, \"y\": 9.2082, \"z\": 8.8502}, {\"x\": 24.0274, \"y\": -2.6998, \"z\": 6.3184}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame226() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.49902961507564, 87.17203242422440, -20.49698555779796),
+                "\"skeletons\": [{\"x\": 2.2470, \"y\": 77.0743, \"z\": -6.7802}, {\"x\": -3.7095, \"y\": 76.9215, \"z\": 2.5151}, {\"x\": -0.0823, \"y\": 26.7434, \"z\": -1.6306}, {\"x\": 17.0840, \"y\": 56.4051, \"z\": -8.3240}, {\"x\": 22.4771, \"y\": 21.8343, \"z\": 0.3059}, {\"x\": 23.2955, \"y\": 9.2782, \"z\": 1.3951}, {\"x\": 26.6547, \"y\": 0.7695, \"z\": 7.4196}, {\"x\": 7.3469, \"y\": 14.2710, \"z\": -6.5387}, {\"x\": -12.7720, \"y\": -29.8479, \"z\": -24.7402}, {\"x\": -12.0263, \"y\": -63.4814, \"z\": -17.7442}, {\"x\": -14.1789, \"y\": -65.2171, \"z\": -9.0823}, {\"x\": -18.7525, \"y\": -81.2151, \"z\": -21.2734}, {\"x\": -13.8671, \"y\": 56.5969, \"z\": 10.2309}, {\"x\": -17.2398, \"y\": 20.1913, \"z\": 9.5119}, {\"x\": -18.1060, \"y\": 6.0328, \"z\": 11.2279}, {\"x\": -17.4303, \"y\": -3.5898, \"z\": 6.6253}, {\"x\": -3.8602, \"y\": 16.1655, \"z\": 9.4986}, {\"x\": 2.1206, \"y\": -38.2285, \"z\": 12.5731}, {\"x\": 9.2775, \"y\": -74.8638, \"z\": 6.7453}, {\"x\": 15.8600, \"y\": -81.0720, \"z\": 0.5582}, {\"x\": -5.9159, \"y\": -82.4473, \"z\": 2.4209}, {\"x\": -17.7893, \"y\": 9.3566, \"z\": 8.1000}, {\"x\": 24.1069, \"y\": -2.8218, \"z\": 6.2737}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame227() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.51627570391940, 87.08180514961211, -20.64992626090964),
+                "\"skeletons\": [{\"x\": 2.4529, \"y\": 77.0362, \"z\": -6.5167}, {\"x\": -3.5048, \"y\": 76.8573, \"z\": 2.7599}, {\"x\": 0.0945, \"y\": 26.6982, \"z\": -1.4941}, {\"x\": 17.3109, \"y\": 56.4094, \"z\": -7.9805}, {\"x\": 22.5762, \"y\": 21.7945, \"z\": 0.4248}, {\"x\": 23.3583, \"y\": 9.1793, \"z\": 1.4929}, {\"x\": 26.5798, \"y\": 0.6400, \"z\": 7.4420}, {\"x\": 7.4426, \"y\": 14.2534, \"z\": -6.4398}, {\"x\": -12.9932, \"y\": -29.7937, \"z\": -24.7066}, {\"x\": -12.0513, \"y\": -63.3966, \"z\": -17.5959}, {\"x\": -14.1296, \"y\": -65.1624, \"z\": -8.8903}, {\"x\": -18.8273, \"y\": -81.1247, \"z\": -21.0932}, {\"x\": -13.7636, \"y\": 56.5432, \"z\": 10.1590}, {\"x\": -17.5598, \"y\": 20.3231, \"z\": 8.7339}, {\"x\": -18.3893, \"y\": 6.1223, \"z\": 10.4214}, {\"x\": -18.0999, \"y\": -3.4129, \"z\": 5.7419}, {\"x\": -3.6910, \"y\": 16.0661, \"z\": 9.6438}, {\"x\": 2.2214, \"y\": -38.3047, \"z\": 12.6958}, {\"x\": 9.3623, \"y\": -74.8663, \"z\": 6.7948}, {\"x\": 15.8737, \"y\": -81.1090, \"z\": 0.6546}, {\"x\": -5.8752, \"y\": -82.2769, \"z\": 2.5553}, {\"x\": -18.2425, \"y\": 9.4987, \"z\": 7.2569}, {\"x\": 24.0371, \"y\": -2.9279, \"z\": 6.1844}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame228() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.55787374250565, 87.01148724439665, -20.83511793056847),
+                "\"skeletons\": [{\"x\": 2.6037, \"y\": 76.9520, \"z\": -6.2227}, {\"x\": -3.3006, \"y\": 76.8105, \"z\": 3.0127}, {\"x\": 0.1906, \"y\": 26.6315, \"z\": -1.3331}, {\"x\": 17.5568, \"y\": 56.3972, \"z\": -7.5913}, {\"x\": 22.6372, \"y\": 21.6651, \"z\": 0.5805}, {\"x\": 23.4809, \"y\": 9.1011, \"z\": 1.4706}, {\"x\": 26.5478, \"y\": 0.5080, \"z\": 7.5163}, {\"x\": 7.5108, \"y\": 14.1460, \"z\": -6.2721}, {\"x\": -13.0486, \"y\": -29.6850, \"z\": -24.7290}, {\"x\": -11.9243, \"y\": -63.2770, \"z\": -17.5291}, {\"x\": -13.7239, \"y\": -65.1702, \"z\": -8.7628}, {\"x\": -18.7989, \"y\": -81.0361, \"z\": -20.8588}, {\"x\": -13.7836, \"y\": 56.5802, \"z\": 10.0991}, {\"x\": -17.8879, \"y\": 20.3900, \"z\": 7.8731}, {\"x\": -18.7714, \"y\": 6.2067, \"z\": 9.4119}, {\"x\": -18.8248, \"y\": -3.2027, \"z\": 4.6634}, {\"x\": -3.6068, \"y\": 16.0043, \"z\": 9.8383}, {\"x\": 2.2265, \"y\": -38.3167, \"z\": 12.8678}, {\"x\": 9.3895, \"y\": -74.8809, \"z\": 6.9126}, {\"x\": 15.8940, \"y\": -81.0878, \"z\": 0.7689}, {\"x\": -5.8532, \"y\": -82.1173, \"z\": 2.7429}, {\"x\": -18.8229, \"y\": 9.6529, \"z\": 6.2794}, {\"x\": 24.0502, \"y\": -3.0193, \"z\": 6.1647}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame229() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.56943155602682, 86.96474413451736, -21.04314428572331),
+                "\"skeletons\": [{\"x\": 2.8049, \"y\": 76.9016, \"z\": -5.9573}, {\"x\": -3.1588, \"y\": 76.7648, \"z\": 3.3032}, {\"x\": 0.2923, \"y\": 26.5418, \"z\": -1.1526}, {\"x\": 17.7208, \"y\": 56.3805, \"z\": -7.3223}, {\"x\": 22.6740, \"y\": 21.5439, \"z\": 0.7570}, {\"x\": 23.5798, \"y\": 9.0202, \"z\": 1.6112}, {\"x\": 26.4862, \"y\": 0.3347, \"z\": 7.6506}, {\"x\": 7.5728, \"y\": 14.0813, \"z\": -6.0764}, {\"x\": -13.0306, \"y\": -29.6433, \"z\": -24.6897}, {\"x\": -11.7468, \"y\": -63.2030, \"z\": -17.6476}, {\"x\": -13.4657, \"y\": -65.0379, \"z\": -8.7809}, {\"x\": -18.7905, \"y\": -80.9791, \"z\": -20.6737}, {\"x\": -13.7672, \"y\": 56.5536, \"z\": 10.1578}, {\"x\": -18.2712, \"y\": 20.5059, \"z\": 7.0118}, {\"x\": -18.9693, \"y\": 6.1991, \"z\": 8.3299}, {\"x\": -19.5156, \"y\": -2.9668, \"z\": 3.3315}, {\"x\": -3.5196, \"y\": 15.9645, \"z\": 10.0467}, {\"x\": 2.1411, \"y\": -38.3214, \"z\": 13.1714}, {\"x\": 9.4045, \"y\": -74.8643, \"z\": 7.1015}, {\"x\": 15.9955, \"y\": -81.0240, \"z\": 0.8351}, {\"x\": -5.7952, \"y\": -82.0379, \"z\": 2.9680}, {\"x\": -19.2214, \"y\": 9.7626, \"z\": 5.2509}, {\"x\": 24.0892, \"y\": -3.2416, \"z\": 6.1681}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame230() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.53380078371059, 86.94987207605448, -21.28157130004186),
+                "\"skeletons\": [{\"x\": 2.9742, \"y\": 76.8501, \"z\": -5.7062}, {\"x\": -2.9824, \"y\": 76.7115, \"z\": 3.5597}, {\"x\": 0.3709, \"y\": 26.4743, \"z\": -0.9248}, {\"x\": 17.8303, \"y\": 56.3506, \"z\": -7.1043}, {\"x\": 22.7851, \"y\": 21.5159, \"z\": 0.9240}, {\"x\": 23.6960, \"y\": 8.9335, \"z\": 1.6827}, {\"x\": 26.4322, \"y\": 0.2124, \"z\": 7.8169}, {\"x\": 7.6749, \"y\": 14.0305, \"z\": -5.8079}, {\"x\": -12.8270, \"y\": -29.5461, \"z\": -24.7936}, {\"x\": -11.7707, \"y\": -63.1955, \"z\": -17.5030}, {\"x\": -13.3771, \"y\": -64.9498, \"z\": -8.7226}, {\"x\": -18.8400, \"y\": -80.8617, \"z\": -20.5674}, {\"x\": -13.6935, \"y\": 56.4525, \"z\": 10.2376}, {\"x\": -18.6083, \"y\": 20.6934, \"z\": 6.0470}, {\"x\": -19.2107, \"y\": 6.3141, \"z\": 7.0972}, {\"x\": -20.1743, \"y\": -2.6972, \"z\": 1.9348}, {\"x\": -3.4699, \"y\": 15.9239, \"z\": 10.2706}, {\"x\": 2.1957, \"y\": -38.3073, \"z\": 13.4746}, {\"x\": 9.4929, \"y\": -74.8846, \"z\": 7.4123}, {\"x\": 16.0042, \"y\": -81.0323, \"z\": 1.1510}, {\"x\": -5.7370, \"y\": -81.9956, \"z\": 3.2063}, {\"x\": -19.7276, \"y\": 10.0384, \"z\": 4.1118}, {\"x\": 24.0934, \"y\": -3.3395, \"z\": 6.1962}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame231() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.46106530704914, 86.97843062482841, -21.51229521808944),
+                "\"skeletons\": [{\"x\": 3.1596, \"y\": 76.7835, \"z\": -5.4561}, {\"x\": -2.8217, \"y\": 76.6643, \"z\": 3.8337}, {\"x\": 0.4695, \"y\": 26.4243, \"z\": -0.6634}, {\"x\": 17.9207, \"y\": 56.3033, \"z\": -6.8930}, {\"x\": 22.8603, \"y\": 21.4513, \"z\": 1.0439}, {\"x\": 23.8104, \"y\": 8.8990, \"z\": 1.7285}, {\"x\": 26.4454, \"y\": 0.1672, \"z\": 7.9701}, {\"x\": 7.8412, \"y\": 13.9302, \"z\": -5.4784}, {\"x\": -12.4546, \"y\": -29.5521, \"z\": -24.8726}, {\"x\": -11.8290, \"y\": -63.2383, \"z\": -17.4697}, {\"x\": -13.2555, \"y\": -65.2856, \"z\": -8.6207}, {\"x\": -19.4156, \"y\": -80.6745, \"z\": -20.7380}, {\"x\": -13.6184, \"y\": 56.4218, \"z\": 10.2792}, {\"x\": -18.7958, \"y\": 20.8400, \"z\": 5.2458}, {\"x\": -19.4261, \"y\": 6.3757, \"z\": 5.7821}, {\"x\": -20.8682, \"y\": -2.3398, \"z\": 0.3710}, {\"x\": -3.5195, \"y\": 16.0793, \"z\": 10.7614}, {\"x\": 2.2675, \"y\": -38.3860, \"z\": 13.7238}, {\"x\": 9.5392, \"y\": -74.9402, \"z\": 7.6778}, {\"x\": 16.0353, \"y\": -81.0755, \"z\": 1.4478}, {\"x\": -5.6658, \"y\": -82.0192, \"z\": 3.4443}, {\"x\": -20.0806, \"y\": 10.1862, \"z\": 3.0024}, {\"x\": 24.1895, \"y\": -3.3865, \"z\": 6.2668}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame232() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.32703283473050, 86.98908845260345, -21.80091659702833),
+                "\"skeletons\": [{\"x\": 3.3467, \"y\": 76.7752, \"z\": -5.1702}, {\"x\": -2.6473, \"y\": 76.6552, \"z\": 4.1168}, {\"x\": 0.6309, \"y\": 26.4197, \"z\": -0.3664}, {\"x\": 18.0519, \"y\": 56.3120, \"z\": -6.6181}, {\"x\": 22.9293, \"y\": 21.4097, \"z\": 1.2475}, {\"x\": 23.8569, \"y\": 8.8605, \"z\": 1.9259}, {\"x\": 26.4760, \"y\": 0.1316, \"z\": 8.1510}, {\"x\": 8.0136, \"y\": 13.8996, \"z\": -5.0955}, {\"x\": -11.8318, \"y\": -29.7515, \"z\": -24.7701}, {\"x\": -12.2856, \"y\": -63.5604, \"z\": -17.7356}, {\"x\": -13.7718, \"y\": -65.8746, \"z\": -8.7485}, {\"x\": -20.5189, \"y\": -80.6572, \"z\": -21.4448}, {\"x\": -13.5908, \"y\": 56.4689, \"z\": 10.2878}, {\"x\": -18.7829, \"y\": 21.1304, \"z\": 4.5807}, {\"x\": -19.4563, \"y\": 6.6378, \"z\": 4.4534}, {\"x\": -21.4464, \"y\": -1.8786, \"z\": -1.1046}, {\"x\": -3.2637, \"y\": 15.9693, \"z\": 11.0337}, {\"x\": 2.3978, \"y\": -38.4025, \"z\": 14.0145}, {\"x\": 9.6294, \"y\": -74.9446, \"z\": 8.0251}, {\"x\": 16.1551, \"y\": -81.0794, \"z\": 1.7593}, {\"x\": -5.5416, \"y\": -82.0395, \"z\": 3.7342}, {\"x\": -20.3515, \"y\": 10.5557, \"z\": 1.9588}, {\"x\": 24.2383, \"y\": -3.4180, \"z\": 6.3964}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame233() {
+        return new MovesDoubleFrame(
+                new Vector3d(30.11928051313639, 86.95862845187594, -22.16124945303084),
+                "\"skeletons\": [{\"x\": 3.5691, \"y\": 76.8141, \"z\": -4.8404}, {\"x\": -2.4583, \"y\": 76.6931, \"z\": 4.4367}, {\"x\": 0.8621, \"y\": 26.4408, \"z\": 0.0137}, {\"x\": 18.2539, \"y\": 56.3708, \"z\": -6.2431}, {\"x\": 23.1265, \"y\": 21.4717, \"z\": 1.5172}, {\"x\": 24.0116, \"y\": 8.8578, \"z\": 2.1922}, {\"x\": 26.5994, \"y\": 0.1339, \"z\": 8.2870}, {\"x\": 8.3007, \"y\": 13.9213, \"z\": -4.6705}, {\"x\": -11.1091, \"y\": -30.1522, \"z\": -24.3200}, {\"x\": -13.0312, \"y\": -64.1582, \"z\": -18.2155}, {\"x\": -14.8619, \"y\": -66.6903, \"z\": -9.2890}, {\"x\": -21.8512, \"y\": -80.6669, \"z\": -22.7482}, {\"x\": -13.4130, \"y\": 56.4893, \"z\": 10.4116}, {\"x\": -18.9299, \"y\": 21.4619, \"z\": 3.7394}, {\"x\": -19.6239, \"y\": 6.9195, \"z\": 3.0677}, {\"x\": -22.0212, \"y\": -1.2775, \"z\": -2.7295}, {\"x\": -3.0745, \"y\": 15.9754, \"z\": 11.4753}, {\"x\": 2.5676, \"y\": -38.3559, \"z\": 14.3743}, {\"x\": 9.8091, \"y\": -74.8954, \"z\": 8.3823}, {\"x\": 16.4031, \"y\": -81.0096, \"z\": 2.0734}, {\"x\": -5.3760, \"y\": -82.0339, \"z\": 4.1211}, {\"x\": -20.6594, \"y\": 10.9893, \"z\": 0.7976}, {\"x\": 24.3680, \"y\": -3.3988, \"z\": 6.4696}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame234() {
+        return new MovesDoubleFrame(
+                new Vector3d(29.84659378202863, 86.91929868176601, -22.58459773966966),
+                "\"skeletons\": [{\"x\": 3.8009, \"y\": 76.8274, \"z\": -4.4354}, {\"x\": -2.2174, \"y\": 76.7200, \"z\": 4.8170}, {\"x\": 1.1103, \"y\": 26.4617, \"z\": 0.4128}, {\"x\": 18.5206, \"y\": 56.4227, \"z\": -5.7732}, {\"x\": 23.2864, \"y\": 21.4444, \"z\": 1.8762}, {\"x\": 24.2705, \"y\": 8.9032, \"z\": 2.4604}, {\"x\": 26.7938, \"y\": 0.1246, \"z\": 8.6113}, {\"x\": 8.6341, \"y\": 13.9390, \"z\": -4.1910}, {\"x\": -10.3004, \"y\": -30.6661, \"z\": -23.7234}, {\"x\": -14.0387, \"y\": -64.8127, \"z\": -18.8946}, {\"x\": -15.9968, \"y\": -67.8081, \"z\": -10.1654}, {\"x\": -23.5936, \"y\": -80.4815, \"z\": -24.5157}, {\"x\": -13.2611, \"y\": 56.5548, \"z\": 10.5645}, {\"x\": -19.1717, \"y\": 21.7768, \"z\": 2.9894}, {\"x\": -20.0742, \"y\": 7.2850, \"z\": 1.7697}, {\"x\": -22.5148, \"y\": -0.6176, \"z\": -4.3698}, {\"x\": -2.8414, \"y\": 16.0284, \"z\": 11.8511}, {\"x\": 2.7885, \"y\": -38.3596, \"z\": 14.8054}, {\"x\": 10.0468, \"y\": -74.8490, \"z\": 8.8177}, {\"x\": 16.5832, \"y\": -81.0275, \"z\": 2.5769}, {\"x\": -5.1111, \"y\": -81.9796, \"z\": 4.5390}, {\"x\": -21.0601, \"y\": 11.4804, \"z\": -0.3204}, {\"x\": 24.6009, \"y\": -3.3741, \"z\": 6.7838}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame235() {
+        return new MovesDoubleFrame(
+                new Vector3d(29.55991509969983, 86.86861421934978, -23.00785057117541),
+                "\"skeletons\": [{\"x\": 4.0171, \"y\": 76.8413, \"z\": -4.0579}, {\"x\": -1.9768, \"y\": 76.7475, \"z\": 5.1827}, {\"x\": 1.3670, \"y\": 26.4956, \"z\": 0.7706}, {\"x\": 18.7921, \"y\": 56.4384, \"z\": -5.3134}, {\"x\": 23.5101, \"y\": 21.4327, \"z\": 2.2784}, {\"x\": 24.5292, \"y\": 8.9182, \"z\": 2.7667}, {\"x\": 26.8935, \"y\": 0.0403, \"z\": 8.9307}, {\"x\": 8.9471, \"y\": 13.9443, \"z\": -3.7654}, {\"x\": -9.5534, \"y\": -31.2922, \"z\": -23.0166}, {\"x\": -15.0742, \"y\": -65.4188, \"z\": -19.9778}, {\"x\": -17.3915, \"y\": -68.8448, \"z\": -11.2887}, {\"x\": -25.5819, \"y\": -80.1688, \"z\": -26.4377}, {\"x\": -13.0406, \"y\": 56.6574, \"z\": 10.7920}, {\"x\": -19.2544, \"y\": 22.0809, \"z\": 2.4024}, {\"x\": -20.3159, \"y\": 7.6158, \"z\": 0.5737}, {\"x\": -22.9302, \"y\": 0.0869, \"z\": -5.8347}, {\"x\": -2.6213, \"y\": 16.0754, \"z\": 12.2353}, {\"x\": 3.0398, \"y\": -38.2743, \"z\": 15.2112}, {\"x\": 10.3066, \"y\": -74.7751, \"z\": 9.2511}, {\"x\": 16.8524, \"y\": -80.9719, \"z\": 3.0137}, {\"x\": -4.8300, \"y\": -81.9844, \"z\": 4.8730}, {\"x\": -21.2524, \"y\": 11.9320, \"z\": -1.3404}, {\"x\": 24.6945, \"y\": -3.4705, \"z\": 7.0164}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame236() {
+        return new MovesDoubleFrame(
+                new Vector3d(29.30253586755404, 86.81811529906092, -23.39771805577920),
+                "\"skeletons\": [{\"x\": 4.2180, \"y\": 76.8661, \"z\": -3.6981}, {\"x\": -1.7763, \"y\": 76.7625, \"z\": 5.5109}, {\"x\": 1.5748, \"y\": 26.5332, \"z\": 1.1094}, {\"x\": 19.0764, \"y\": 56.4761, \"z\": -4.8875}, {\"x\": 23.7201, \"y\": 21.4326, \"z\": 2.6539}, {\"x\": 24.6779, \"y\": 8.8839, \"z\": 3.0950}, {\"x\": 27.0069, \"y\": 0.0380, \"z\": 9.3142}, {\"x\": 9.1328, \"y\": 13.9398, \"z\": -3.4493}, {\"x\": -8.7682, \"y\": -32.0656, \"z\": -22.3743}, {\"x\": -16.3067, \"y\": -66.0313, \"z\": -21.0530}, {\"x\": -19.0137, \"y\": -69.6613, \"z\": -12.6284}, {\"x\": -27.4711, \"y\": -79.8871, \"z\": -28.3807}, {\"x\": -12.8677, \"y\": 56.7167, \"z\": 11.0628}, {\"x\": -19.1443, \"y\": 22.4014, \"z\": 1.8877}, {\"x\": -20.2040, \"y\": 7.9576, \"z\": -0.4375}, {\"x\": -23.0616, \"y\": 0.7473, \"z\": -7.0022}, {\"x\": -2.4403, \"y\": 16.1015, \"z\": 12.5008}, {\"x\": 3.2688, \"y\": -38.2176, \"z\": 15.5867}, {\"x\": 10.5459, \"y\": -74.7100, \"z\": 9.6440}, {\"x\": 17.1045, \"y\": -80.9210, \"z\": 3.3954}, {\"x\": -4.5510, \"y\": -81.9123, \"z\": 5.2951}, {\"x\": -21.1822, \"y\": 12.3292, \"z\": -2.1404}, {\"x\": 24.8678, \"y\": -3.4611, \"z\": 7.3785}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame237() {
+        return new MovesDoubleFrame(
+                new Vector3d(29.06869142583679, 86.77042260218076, -23.79712750238823),
+                "\"skeletons\": [{\"x\": 4.3959, \"y\": 76.8992, \"z\": -3.3907}, {\"x\": -1.6007, \"y\": 76.7596, \"z\": 5.8670}, {\"x\": 1.6974, \"y\": 26.5779, \"z\": 1.3722}, {\"x\": 19.2958, \"y\": 56.4838, \"z\": -4.5351}, {\"x\": 23.9079, \"y\": 21.4437, \"z\": 3.0139}, {\"x\": 24.7771, \"y\": 8.8600, \"z\": 3.4685}, {\"x\": 27.0595, \"y\": 0.0216, \"z\": 9.6378}, {\"x\": 9.2102, \"y\": 13.9260, \"z\": -3.1927}, {\"x\": -8.0249, \"y\": -32.9431, \"z\": -21.6383}, {\"x\": -17.4642, \"y\": -66.5304, \"z\": -22.1443}, {\"x\": -20.4777, \"y\": -70.1992, \"z\": -13.9754}, {\"x\": -29.3293, \"y\": -79.6679, \"z\": -30.0452}, {\"x\": -12.6405, \"y\": 56.7445, \"z\": 11.3818}, {\"x\": -18.9336, \"y\": 22.7065, \"z\": 1.3855}, {\"x\": -19.9337, \"y\": 8.3162, \"z\": -1.2673}, {\"x\": -22.8465, \"y\": 1.3035, \"z\": -7.9498}, {\"x\": -2.3563, \"y\": 16.1621, \"z\": 12.7897}, {\"x\": 3.4168, \"y\": -38.1634, \"z\": 15.8956}, {\"x\": 10.7461, \"y\": -74.6323, \"z\": 10.0367}, {\"x\": 17.3299, \"y\": -80.8709, \"z\": 3.7989}, {\"x\": -4.3194, \"y\": -81.8683, \"z\": 5.6778}, {\"x\": -20.9790, \"y\": 12.7283, \"z\": -2.8622}, {\"x\": 24.9003, \"y\": -3.4705, \"z\": 7.6730}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame238() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.86611987171287, 86.71890863705049, -24.17256749095599),
+                "\"skeletons\": [{\"x\": 4.5337, \"y\": 76.9212, \"z\": -3.0502}, {\"x\": -1.4752, \"y\": 76.7871, \"z\": 6.1918}, {\"x\": 1.8290, \"y\": 26.6447, \"z\": 1.6418}, {\"x\": 19.4948, \"y\": 56.5351, \"z\": -4.2505}, {\"x\": 23.9887, \"y\": 21.4409, \"z\": 3.2687}, {\"x\": 24.8776, \"y\": 8.9094, \"z\": 3.8035}, {\"x\": 27.0400, \"y\": 0.0200, \"z\": 9.9586}, {\"x\": 9.2373, \"y\": 13.8842, \"z\": -2.9876}, {\"x\": -7.2175, \"y\": -34.0139, \"z\": -20.7397}, {\"x\": -18.4458, \"y\": -67.0066, \"z\": -23.4755}, {\"x\": -21.6010, \"y\": -70.6305, \"z\": -15.5139}, {\"x\": -31.0021, \"y\": -79.5856, \"z\": -31.5196}, {\"x\": -12.4164, \"y\": 56.8519, \"z\": 11.6578}, {\"x\": -18.7154, \"y\": 23.0274, \"z\": 1.0388}, {\"x\": -19.5490, \"y\": 8.7243, \"z\": -2.0674}, {\"x\": -22.5876, \"y\": 1.8268, \"z\": -8.7732}, {\"x\": -2.1908, \"y\": 16.2038, \"z\": 13.0528}, {\"x\": 3.3494, \"y\": -38.0955, \"z\": 16.1104}, {\"x\": 10.8940, \"y\": -74.5334, \"z\": 10.3651}, {\"x\": 17.5380, \"y\": -80.8130, \"z\": 4.1601}, {\"x\": -4.1421, \"y\": -81.8363, \"z\": 6.0230}, {\"x\": -20.7439, \"y\": 13.1949, \"z\": -3.4436}, {\"x\": 24.9106, \"y\": -3.4523, \"z\": 7.9655}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame239() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.72484582061180, 86.67440945634453, -24.51074321012756),
+                "\"skeletons\": [{\"x\": 4.6276, \"y\": 76.9363, \"z\": -2.7384}, {\"x\": -1.3950, \"y\": 76.7709, \"z\": 6.4808}, {\"x\": 1.8766, \"y\": 26.6888, \"z\": 1.8613}, {\"x\": 19.6052, \"y\": 56.5654, \"z\": -4.0293}, {\"x\": 24.0214, \"y\": 21.5013, \"z\": 3.4549}, {\"x\": 24.8018, \"y\": 8.9120, \"z\": 3.9266}, {\"x\": 26.9626, \"y\": 0.0004, \"z\": 10.2122}, {\"x\": 9.0949, \"y\": 13.7976, \"z\": -2.8919}, {\"x\": -6.3966, \"y\": -35.1943, \"z\": -19.7563}, {\"x\": -19.1036, \"y\": -67.4169, \"z\": -24.4912}, {\"x\": -22.4616, \"y\": -70.8091, \"z\": -16.6727}, {\"x\": -32.2044, \"y\": -79.4293, \"z\": -32.9000}, {\"x\": -12.2196, \"y\": 56.9081, \"z\": 11.9456}, {\"x\": -18.5123, \"y\": 23.3984, \"z\": 0.7317}, {\"x\": -19.1188, \"y\": 9.1211, \"z\": -2.7724}, {\"x\": -22.1753, \"y\": 2.3443, \"z\": -9.4845}, {\"x\": -2.0967, \"y\": 16.2168, \"z\": 13.2332}, {\"x\": 3.2974, \"y\": -38.0180, \"z\": 16.2809}, {\"x\": 11.0205, \"y\": -74.4671, \"z\": 10.6375}, {\"x\": 17.6681, \"y\": -80.7715, \"z\": 4.4794}, {\"x\": -3.9971, \"y\": -81.7894, \"z\": 6.3597}, {\"x\": -20.5117, \"y\": 13.5837, \"z\": -3.9429}, {\"x\": 24.8516, \"y\": -3.4991, \"z\": 8.1528}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame240() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.64450752771427, 86.59652012339340, -24.81601948635787),
+                "\"skeletons\": [{\"x\": 4.6666, \"y\": 76.9394, \"z\": -2.5220}, {\"x\": -1.3713, \"y\": 76.7611, \"z\": 6.7070}, {\"x\": 1.9079, \"y\": 26.7775, \"z\": 1.9806}, {\"x\": 19.5783, \"y\": 56.5728, \"z\": -3.9761}, {\"x\": 23.9381, \"y\": 21.4801, \"z\": 3.5165}, {\"x\": 24.7822, \"y\": 8.9536, \"z\": 4.0813}, {\"x\": 26.8710, \"y\": 0.0358, \"z\": 10.2861}, {\"x\": 8.8727, \"y\": 13.7017, \"z\": -2.8930}, {\"x\": -5.8016, \"y\": -36.1402, \"z\": -18.6884}, {\"x\": -19.2438, \"y\": -67.7273, \"z\": -24.9923}, {\"x\": -23.1203, \"y\": -71.0190, \"z\": -17.4193}, {\"x\": -32.5035, \"y\": -79.3332, \"z\": -33.9552}, {\"x\": -12.0859, \"y\": 56.9526, \"z\": 12.2630}, {\"x\": -18.4331, \"y\": 23.7782, \"z\": 0.3628}, {\"x\": -18.6587, \"y\": 9.5147, \"z\": -3.6188}, {\"x\": -22.0201, \"y\": 2.9836, \"z\": -10.2111}, {\"x\": -2.0829, \"y\": 16.2726, \"z\": 13.3390}, {\"x\": 3.1753, \"y\": -37.9858, \"z\": 16.4128}, {\"x\": 11.1145, \"y\": -74.3931, \"z\": 10.8768}, {\"x\": 17.7607, \"y\": -80.6806, \"z\": 4.7735}, {\"x\": -3.9251, \"y\": -81.7259, \"z\": 6.6272}, {\"x\": -20.3005, \"y\": 14.0417, \"z\": -4.4949}, {\"x\": 24.7605, \"y\": -3.4054, \"z\": 8.2455}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame241() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.61577905345002, 86.48157798950842, -25.05706181941547),
+                "\"skeletons\": [{\"x\": 4.6392, \"y\": 76.9425, \"z\": -2.3179}, {\"x\": -1.4056, \"y\": 76.7797, \"z\": 6.9213}, {\"x\": 1.7066, \"y\": 26.7697, \"z\": 1.9095}, {\"x\": 19.5982, \"y\": 56.6201, \"z\": -3.9119}, {\"x\": 23.9054, \"y\": 21.5038, \"z\": 3.4694}, {\"x\": 24.6309, \"y\": 8.9013, \"z\": 4.0040}, {\"x\": 26.7866, \"y\": 0.0411, \"z\": 10.2362}, {\"x\": 8.5834, \"y\": 13.5924, \"z\": -2.9818}, {\"x\": -5.3516, \"y\": -36.9608, \"z\": -17.7910}, {\"x\": -19.1170, \"y\": -68.1192, \"z\": -24.8759}, {\"x\": -23.5178, \"y\": -71.1535, \"z\": -17.6149}, {\"x\": -32.1406, \"y\": -79.6252, \"z\": -34.4582}, {\"x\": -11.9823, \"y\": 56.9034, \"z\": 12.5915}, {\"x\": -18.3758, \"y\": 24.1586, \"z\": -0.1316}, {\"x\": -18.1829, \"y\": 9.9752, \"z\": -4.6588}, {\"x\": -21.8464, \"y\": 3.5587, \"z\": -11.0240}, {\"x\": -2.1544, \"y\": 16.2825, \"z\": 13.4077}, {\"x\": 3.0664, \"y\": -37.8658, \"z\": 16.5209}, {\"x\": 11.0984, \"y\": -74.2612, \"z\": 11.1160}, {\"x\": 17.8555, \"y\": -80.5307, \"z\": 4.9756}, {\"x\": -3.9197, \"y\": -81.6175, \"z\": 6.8792}, {\"x\": -20.0855, \"y\": 14.4047, \"z\": -5.2689}, {\"x\": 24.6445, \"y\": -3.4442, \"z\": 8.2447}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame242() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.59881086159732, 86.34686548911722, -25.26747222521229),
+                "\"skeletons\": [{\"x\": 4.6252, \"y\": 76.9431, \"z\": -2.1687}, {\"x\": -1.4295, \"y\": 76.7907, \"z\": 7.0765}, {\"x\": 1.6357, \"y\": 26.8245, \"z\": 1.9620}, {\"x\": 19.4676, \"y\": 56.6131, \"z\": -3.9527}, {\"x\": 23.7700, \"y\": 21.4910, \"z\": 3.3280}, {\"x\": 24.4960, \"y\": 8.8756, \"z\": 3.7949}, {\"x\": 26.7005, \"y\": -0.0019, \"z\": 9.9824}, {\"x\": 8.2352, \"y\": 13.5268, \"z\": -3.1321}, {\"x\": -4.9043, \"y\": -37.6319, \"z\": -16.9928}, {\"x\": -18.7999, \"y\": -68.9080, \"z\": -24.2358}, {\"x\": -23.3690, \"y\": -71.5925, \"z\": -17.2560}, {\"x\": -31.7179, \"y\": -80.2145, \"z\": -34.2365}, {\"x\": -11.9243, \"y\": 56.8798, \"z\": 12.8565}, {\"x\": -18.2672, \"y\": 24.5269, \"z\": -0.8860}, {\"x\": -17.8920, \"y\": 10.6960, \"z\": -5.9637}, {\"x\": -21.8473, \"y\": 4.3038, \"z\": -12.1257}, {\"x\": -2.2527, \"y\": 16.3928, \"z\": 13.4077}, {\"x\": 2.9479, \"y\": -37.6646, \"z\": 16.6508}, {\"x\": 11.0903, \"y\": -74.1334, \"z\": 11.3215}, {\"x\": 17.8006, \"y\": -80.4428, \"z\": 5.2400}, {\"x\": -3.9014, \"y\": -81.4881, \"z\": 7.0927}, {\"x\": -20.1229, \"y\": 15.0443, \"z\": -6.1435}, {\"x\": 24.5321, \"y\": -3.4691, \"z\": 8.0010}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame243() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.52355142896184, 86.28036021686091, -25.53268001814535),
+                "\"skeletons\": [{\"x\": 4.6327, \"y\": 76.8915, \"z\": -1.9897}, {\"x\": -1.3671, \"y\": 76.7188, \"z\": 7.3017}, {\"x\": 1.4647, \"y\": 26.7851, \"z\": 1.9669}, {\"x\": 19.4699, \"y\": 56.5462, \"z\": -3.8962}, {\"x\": 23.6672, \"y\": 21.3825, \"z\": 3.1346}, {\"x\": 24.4665, \"y\": 8.8017, \"z\": 3.5349}, {\"x\": 26.7091, \"y\": -0.1190, \"z\": 9.6984}, {\"x\": 7.9725, \"y\": 13.4483, \"z\": -3.1469}, {\"x\": -4.6370, \"y\": -38.2885, \"z\": -16.1744}, {\"x\": -18.4418, \"y\": -69.3732, \"z\": -23.7868}, {\"x\": -22.8982, \"y\": -72.2378, \"z\": -16.6668}, {\"x\": -31.6311, \"y\": -80.5671, \"z\": -33.6434}, {\"x\": -11.7451, \"y\": 56.8520, \"z\": 13.1019}, {\"x\": -18.3713, \"y\": 25.1449, \"z\": -1.5602}, {\"x\": -17.8694, \"y\": 11.5365, \"z\": -7.3259}, {\"x\": -22.1722, \"y\": 5.3655, \"z\": -13.1936}, {\"x\": -2.4102, \"y\": 16.4610, \"z\": 13.4538}, {\"x\": 2.9397, \"y\": -37.5986, \"z\": 16.8543}, {\"x\": 11.1651, \"y\": -74.0651, \"z\": 11.5809}, {\"x\": 17.9313, \"y\": -80.3441, \"z\": 5.4633}, {\"x\": -3.8256, \"y\": -81.4280, \"z\": 7.3508}, {\"x\": -20.3330, \"y\": 15.8124, \"z\": -7.0617}, {\"x\": 24.4658, \"y\": -3.6012, \"z\": 7.7685}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame244() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.37554950005079, 86.31752165463189, -25.87802562740439),
+                "\"skeletons\": [{\"x\": 4.6539, \"y\": 76.7992, \"z\": -1.7880}, {\"x\": -1.2467, \"y\": 76.6048, \"z\": 7.5988}, {\"x\": 1.3379, \"y\": 26.6614, \"z\": 2.1051}, {\"x\": 19.4833, \"y\": 56.3832, \"z\": -3.8599}, {\"x\": 23.7549, \"y\": 21.1486, \"z\": 2.9969}, {\"x\": 24.4374, \"y\": 8.5640, \"z\": 3.3924}, {\"x\": 26.7862, \"y\": -0.3417, \"z\": 9.4662}, {\"x\": 7.8014, \"y\": 13.2778, \"z\": -3.0721}, {\"x\": -4.4291, \"y\": -38.7241, \"z\": -15.3905}, {\"x\": -18.2518, \"y\": -69.6400, \"z\": -23.2401}, {\"x\": -22.9044, \"y\": -72.3890, \"z\": -16.3172}, {\"x\": -31.4396, \"y\": -80.7310, \"z\": -33.3965}, {\"x\": -11.5197, \"y\": 56.7436, \"z\": 13.4585}, {\"x\": -18.5896, \"y\": 25.9098, \"z\": -2.5117}, {\"x\": -18.0646, \"y\": 12.5844, \"z\": -8.9985}, {\"x\": -22.6671, \"y\": 6.6666, \"z\": -14.6018}, {\"x\": -2.5119, \"y\": 16.3728, \"z\": 13.5547}, {\"x\": 2.9937, \"y\": -37.6153, \"z\": 17.1171}, {\"x\": 11.3006, \"y\": -74.0781, \"z\": 11.9211}, {\"x\": 18.0260, \"y\": -80.4208, \"z\": 5.8412}, {\"x\": -3.6887, \"y\": -81.4781, \"z\": 7.6948}, {\"x\": -20.6648, \"y\": 16.7679, \"z\": -8.3013}, {\"x\": 24.5448, \"y\": -3.7859, \"z\": 7.5669}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame245() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.17727941460828, 86.44215932624893, -26.25752062358863),
+                "\"skeletons\": [{\"x\": 4.7713, \"y\": 76.6564, \"z\": -1.5070}, {\"x\": -1.0902, \"y\": 76.4831, \"z\": 7.8459}, {\"x\": 1.2581, \"y\": 26.4752, \"z\": 2.2487}, {\"x\": 19.5289, \"y\": 56.1610, \"z\": -3.7476}, {\"x\": 23.7373, \"y\": 20.8763, \"z\": 2.9212}, {\"x\": 24.5827, \"y\": 8.3508, \"z\": 3.1863}, {\"x\": 26.9239, \"y\": -0.6063, \"z\": 9.2401}, {\"x\": 7.7867, \"y\": 13.1470, \"z\": -2.9361}, {\"x\": -4.3529, \"y\": -38.9726, \"z\": -14.8135}, {\"x\": -18.1958, \"y\": -69.9107, \"z\": -22.7074}, {\"x\": -22.8631, \"y\": -72.6675, \"z\": -15.8235}, {\"x\": -31.2833, \"y\": -80.8978, \"z\": -32.9808}, {\"x\": -11.2949, \"y\": 56.6036, \"z\": 13.7704}, {\"x\": -18.9080, \"y\": 26.6936, \"z\": -3.4307}, {\"x\": -18.4767, \"y\": 13.7960, \"z\": -10.7640}, {\"x\": -23.3039, \"y\": 8.1938, \"z\": -16.2245}, {\"x\": -2.5827, \"y\": 16.2488, \"z\": 13.6979}, {\"x\": 3.0803, \"y\": -37.7331, \"z\": 17.3860}, {\"x\": 11.4608, \"y\": -74.1850, \"z\": 12.2931}, {\"x\": 18.2245, \"y\": -80.5375, \"z\": 6.2263}, {\"x\": -3.4942, \"y\": -81.6043, \"z\": 8.0561}, {\"x\": -21.1362, \"y\": 17.8195, \"z\": -9.5535}, {\"x\": 24.6692, \"y\": -4.0534, \"z\": 7.3474}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame246() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.93561103449335, 86.64699016020492, -26.67253910245184),
+                "\"skeletons\": [{\"x\": 4.9066, \"y\": 76.4792, \"z\": -1.2590}, {\"x\": -0.9308, \"y\": 76.2869, \"z\": 8.1458}, {\"x\": 1.2556, \"y\": 26.2488, \"z\": 2.4903}, {\"x\": 19.5500, \"y\": 55.9196, \"z\": -3.5508}, {\"x\": 23.7677, \"y\": 20.6729, \"z\": 2.8407}, {\"x\": 24.6225, \"y\": 8.0975, \"z\": 3.0302}, {\"x\": 27.0012, \"y\": -0.8750, \"z\": 8.9922}, {\"x\": 7.8142, \"y\": 12.9541, \"z\": -2.6481}, {\"x\": -4.3235, \"y\": -39.2080, \"z\": -14.3647}, {\"x\": -18.1204, \"y\": -70.1457, \"z\": -22.1870}, {\"x\": -22.8505, \"y\": -73.0153, \"z\": -15.2114}, {\"x\": -31.1948, \"y\": -81.1654, \"z\": -32.4358}, {\"x\": -11.0633, \"y\": 56.4076, \"z\": 14.0391}, {\"x\": -19.2419, \"y\": 27.5637, \"z\": -4.4796}, {\"x\": -19.0167, \"y\": 15.3500, \"z\": -12.8550}, {\"x\": -24.1040, \"y\": 10.0885, \"z\": -18.1625}, {\"x\": -2.5543, \"y\": 16.0362, \"z\": 13.9623}, {\"x\": 3.1724, \"y\": -37.9870, \"z\": 17.6710}, {\"x\": 11.6561, \"y\": -74.4026, \"z\": 12.7096}, {\"x\": 18.5243, \"y\": -80.6918, \"z\": 6.6106}, {\"x\": -3.2572, \"y\": -81.8093, \"z\": 8.4693}, {\"x\": -21.6830, \"y\": 19.1626, \"z\": -11.1452}, {\"x\": 24.7892, \"y\": -4.3099, \"z\": 7.0184}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame247() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.69226452830776, 86.89774692991747, -27.11530345402806),
+                "\"skeletons\": [{\"x\": 5.0021, \"y\": 76.2200, \"z\": -0.9399}, {\"x\": -0.8169, \"y\": 76.0320, \"z\": 8.5114}, {\"x\": 1.3442, \"y\": 26.0226, \"z\": 2.8133}, {\"x\": 19.6338, \"y\": 55.7504, \"z\": -3.3077}, {\"x\": 23.8728, \"y\": 20.4471, \"z\": 2.8253}, {\"x\": 24.6722, \"y\": 7.8658, \"z\": 2.9038}, {\"x\": 27.0568, \"y\": -1.1652, \"z\": 8.8155}, {\"x\": 7.9398, \"y\": 12.6931, \"z\": -2.3253}, {\"x\": -4.1950, \"y\": -39.4309, \"z\": -13.9757}, {\"x\": -18.0959, \"y\": -70.4405, \"z\": -21.6366}, {\"x\": -22.7372, \"y\": -73.2709, \"z\": -14.7438}, {\"x\": -31.0205, \"y\": -81.4742, \"z\": -31.9726}, {\"x\": -10.9215, \"y\": 56.1534, \"z\": 14.2893}, {\"x\": -19.6289, \"y\": 28.5680, \"z\": -5.5672}, {\"x\": -19.6703, \"y\": 17.0832, \"z\": -15.0560}, {\"x\": -24.9985, \"y\": 12.0766, \"z\": -20.4848}, {\"x\": -2.4798, \"y\": 15.7675, \"z\": 14.2426}, {\"x\": 3.2915, \"y\": -38.2162, \"z\": 17.9635}, {\"x\": 11.8597, \"y\": -74.6527, \"z\": 13.1813}, {\"x\": 18.6881, \"y\": -80.9917, \"z\": 7.1123}, {\"x\": -3.0112, \"y\": -82.0519, \"z\": 8.9117}, {\"x\": -22.2938, \"y\": 20.7032, \"z\": -12.8792}, {\"x\": 24.8262, \"y\": -4.5764, \"z\": 6.8404}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame248() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.45254918054058, 87.19270475692932, -27.56407815427329),
+                "\"skeletons\": [{\"x\": 5.0995, \"y\": 75.8800, \"z\": -0.5583}, {\"x\": -0.7428, \"y\": 75.7572, \"z\": 8.8180}, {\"x\": 1.3463, \"y\": 25.7027, \"z\": 3.0512}, {\"x\": 19.7041, \"y\": 55.4737, \"z\": -2.9539}, {\"x\": 23.8904, \"y\": 20.0883, \"z\": 2.9276}, {\"x\": 24.6762, \"y\": 7.5221, \"z\": 2.9510}, {\"x\": 27.0393, \"y\": -1.5595, \"z\": 8.7714}, {\"x\": 8.0198, \"y\": 12.4214, \"z\": -2.0187}, {\"x\": -4.0790, \"y\": -39.6766, \"z\": -13.6731}, {\"x\": -17.8647, \"y\": -70.7174, \"z\": -21.2665}, {\"x\": -22.5360, \"y\": -73.5560, \"z\": -14.3131}, {\"x\": -30.8304, \"y\": -81.8152, \"z\": -31.5353}, {\"x\": -10.7791, \"y\": 55.8462, \"z\": 14.5902}, {\"x\": -20.0249, \"y\": 29.6886, \"z\": -6.8071}, {\"x\": -20.4179, \"y\": 19.1441, \"z\": -17.2703}, {\"x\": -25.9207, \"y\": 14.7159, \"z\": -22.8118}, {\"x\": -2.4608, \"y\": 15.4606, \"z\": 14.5468}, {\"x\": 3.5269, \"y\": -38.5178, \"z\": 18.3901}, {\"x\": 12.0949, \"y\": -74.9401, \"z\": 13.6467}, {\"x\": 18.9408, \"y\": -81.2722, \"z\": 7.5613}, {\"x\": -2.7612, \"y\": -82.3358, \"z\": 9.3582}, {\"x\": -22.9393, \"y\": 22.4839, \"z\": -14.6919}, {\"x\": 24.8306, \"y\": -4.9445, \"z\": 6.7314}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame249() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.22366410229112, 87.51235124534495, -27.97387766779484),
+                "\"skeletons\": [{\"x\": 5.1537, \"y\": 75.5287, \"z\": -0.2670}, {\"x\": -0.6757, \"y\": 75.4149, \"z\": 9.1228}, {\"x\": 1.3508, \"y\": 25.3086, \"z\": 3.3490}, {\"x\": 19.7796, \"y\": 55.1142, \"z\": -2.6382}, {\"x\": 23.9364, \"y\": 19.7488, \"z\": 3.0729}, {\"x\": 24.7848, \"y\": 7.2099, \"z\": 3.0475}, {\"x\": 26.9899, \"y\": -1.9421, \"z\": 8.8874}, {\"x\": 8.0653, \"y\": 12.1038, \"z\": -1.7577}, {\"x\": -3.8857, \"y\": -40.0371, \"z\": -13.4338}, {\"x\": -17.6252, \"y\": -71.1084, \"z\": -20.9034}, {\"x\": -22.2570, \"y\": -73.8682, \"z\": -13.9471}, {\"x\": -30.6040, \"y\": -82.1918, \"z\": -31.1324}, {\"x\": -10.6639, \"y\": 55.5218, \"z\": 14.7969}, {\"x\": -20.4390, \"y\": 30.9888, \"z\": -7.9972}, {\"x\": -21.2581, \"y\": 21.4813, \"z\": -19.4262}, {\"x\": -27.0631, \"y\": 17.6565, \"z\": -25.1736}, {\"x\": -2.3856, \"y\": 15.1348, \"z\": 14.8800}, {\"x\": 3.7568, \"y\": -38.8068, \"z\": 18.7887}, {\"x\": 12.3234, \"y\": -75.2581, \"z\": 14.0798}, {\"x\": 19.1683, \"y\": -81.5687, \"z\": 7.9848}, {\"x\": -2.5214, \"y\": -82.6500, \"z\": 9.7611}, {\"x\": -23.6636, \"y\": 24.5439, \"z\": -16.4550}, {\"x\": 24.8505, \"y\": -5.3183, \"z\": 6.7264}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame250() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.01692268231204, 87.87066570773773, -28.36643892602193),
+                "\"skeletons\": [{\"x\": 5.1816, \"y\": 75.1310, \"z\": 0.0085}, {\"x\": -0.5854, \"y\": 75.0013, \"z\": 9.3718}, {\"x\": 1.2894, \"y\": 24.9441, \"z\": 3.5431}, {\"x\": 19.8156, \"y\": 54.7069, \"z\": -2.3698}, {\"x\": 23.9521, \"y\": 19.3347, \"z\": 3.3713}, {\"x\": 24.8310, \"y\": 6.8275, \"z\": 3.2167}, {\"x\": 26.8782, \"y\": -2.3714, \"z\": 9.2093}, {\"x\": 8.1321, \"y\": 11.7274, \"z\": -1.5177}, {\"x\": -3.5940, \"y\": -40.4714, \"z\": -13.0944}, {\"x\": -17.3047, \"y\": -71.5107, \"z\": -20.6304}, {\"x\": -21.9393, \"y\": -74.2088, \"z\": -13.6733}, {\"x\": -30.3847, \"y\": -82.6237, \"z\": -30.7303}, {\"x\": -10.5529, \"y\": 55.2396, \"z\": 15.0129}, {\"x\": -20.9171, \"y\": 32.3564, \"z\": -9.1973}, {\"x\": -22.0290, \"y\": 24.1424, \"z\": -21.6544}, {\"x\": -28.0883, \"y\": 21.0153, \"z\": -27.5653}, {\"x\": -2.3470, \"y\": 14.7616, \"z\": 15.1084}, {\"x\": 3.9885, \"y\": -39.1758, \"z\": 19.1806}, {\"x\": 12.5286, \"y\": -75.6277, \"z\": 14.4819}, {\"x\": 19.3965, \"y\": -81.9496, \"z\": 8.4054}, {\"x\": -2.3069, \"y\": -82.9971, \"z\": 10.1469}, {\"x\": -24.2711, \"y\": 26.7982, \"z\": -18.2421}, {\"x\": 24.8586, \"y\": -5.7615, \"z\": 6.9378}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame251() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.81477150102358, 88.26047234499363, -28.69344816930181),
+                "\"skeletons\": [{\"x\": 5.1752, \"y\": 74.7126, \"z\": 0.2086}, {\"x\": -0.6062, \"y\": 74.5852, \"z\": 9.5877}, {\"x\": 1.3279, \"y\": 24.5598, \"z\": 3.7612}, {\"x\": 19.8443, \"y\": 54.2562, \"z\": -2.1111}, {\"x\": 23.8789, \"y\": 18.8832, \"z\": 3.6080}, {\"x\": 24.8544, \"y\": 6.3884, \"z\": 3.5745}, {\"x\": 26.7158, \"y\": -2.7988, \"z\": 9.6500}, {\"x\": 8.2645, \"y\": 11.3115, \"z\": -1.3220}, {\"x\": -3.3614, \"y\": -40.9133, \"z\": -12.7767}, {\"x\": -17.0176, \"y\": -71.9714, \"z\": -20.3470}, {\"x\": -21.6496, \"y\": -74.6272, \"z\": -13.4333}, {\"x\": -30.1580, \"y\": -83.0575, \"z\": -30.4060}, {\"x\": -10.4109, \"y\": 54.9317, \"z\": 15.1075}, {\"x\": -21.3878, \"y\": 33.9144, \"z\": -10.2129}, {\"x\": -22.6278, \"y\": 26.9237, \"z\": -23.6878}, {\"x\": -29.0886, \"y\": 24.7563, \"z\": -29.6413}, {\"x\": -2.2585, \"y\": 14.3641, \"z\": 15.2706}, {\"x\": 4.1814, \"y\": -39.5297, \"z\": 19.4784}, {\"x\": 12.7450, \"y\": -76.0105, \"z\": 14.8060}, {\"x\": 19.5855, \"y\": -82.3521, \"z\": 8.7321}, {\"x\": -2.1071, \"y\": -83.3839, \"z\": 10.4685}, {\"x\": -24.5718, \"y\": 29.0732, \"z\": -20.0219}, {\"x\": 24.8407, \"y\": -6.1908, \"z\": 7.2146}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame252() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.60632231507896, 88.70033883424102, -28.95559291619238),
+                "\"skeletons\": [{\"x\": 5.2208, \"y\": 74.2301, \"z\": 0.3899}, {\"x\": -0.5936, \"y\": 74.1586, \"z\": 9.7563}, {\"x\": 1.3209, \"y\": 24.1104, \"z\": 3.8607}, {\"x\": 19.8390, \"y\": 53.7943, \"z\": -1.9581}, {\"x\": 23.9499, \"y\": 18.4704, \"z\": 3.9109}, {\"x\": 24.9143, \"y\": 5.9356, \"z\": 3.9395}, {\"x\": 26.5646, \"y\": -3.2016, \"z\": 10.0998}, {\"x\": 8.3932, \"y\": 10.8722, \"z\": -1.1688}, {\"x\": -3.1549, \"y\": -41.4052, \"z\": -12.4758}, {\"x\": -16.8109, \"y\": -72.4280, \"z\": -20.0719}, {\"x\": -21.4511, \"y\": -75.0704, \"z\": -13.1421}, {\"x\": -29.9388, \"y\": -83.5053, \"z\": -30.1418}, {\"x\": -10.2426, \"y\": 54.6611, \"z\": 15.1813}, {\"x\": -21.8317, \"y\": 35.4789, \"z\": -11.1901}, {\"x\": -23.4147, \"y\": 29.8037, \"z\": -25.2288}, {\"x\": -30.0265, \"y\": 28.4544, \"z\": -31.4048}, {\"x\": -2.2063, \"y\": 13.8946, \"z\": 15.3772}, {\"x\": 4.3670, \"y\": -39.9465, \"z\": 19.7224}, {\"x\": 12.9444, \"y\": -76.4378, \"z\": 15.0908}, {\"x\": 19.7802, \"y\": -82.8008, \"z\": 9.0000}, {\"x\": -1.9016, \"y\": -83.8231, \"z\": 10.7307}, {\"x\": -25.2398, \"y\": 31.6743, \"z\": -21.3448}, {\"x\": 24.8789, \"y\": -6.5990, \"z\": 7.5385}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame253() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.38515860443121, 89.17435007692875, -29.16584649430239),
+                "\"skeletons\": [{\"x\": 5.2396, \"y\": 73.7815, \"z\": 0.4820}, {\"x\": -0.5637, \"y\": 73.6685, \"z\": 9.8377}, {\"x\": 1.4083, \"y\": 23.6325, \"z\": 3.9233}, {\"x\": 19.8943, \"y\": 53.3428, \"z\": -1.8459}, {\"x\": 23.9319, \"y\": 18.0311, \"z\": 4.1403}, {\"x\": 25.0376, \"y\": 5.5566, \"z\": 4.2747}, {\"x\": 26.3947, \"y\": -3.6239, \"z\": 10.5635}, {\"x\": 8.5768, \"y\": 10.4002, \"z\": -1.0136}, {\"x\": -2.8850, \"y\": -41.8511, \"z\": -12.2912}, {\"x\": -16.6482, \"y\": -72.9117, \"z\": -19.8246}, {\"x\": -21.2837, \"y\": -75.5403, \"z\": -12.8602}, {\"x\": -29.7126, \"y\": -83.9636, \"z\": -29.9305}, {\"x\": -10.0147, \"y\": 54.4248, \"z\": 15.1505}, {\"x\": -22.2838, \"y\": 37.2920, \"z\": -11.9356}, {\"x\": -24.3066, \"y\": 32.7201, \"z\": -26.3794}, {\"x\": -30.9410, \"y\": 32.3510, \"z\": -32.9423}, {\"x\": -2.1323, \"y\": 13.4494, \"z\": 15.4234}, {\"x\": 4.5376, \"y\": -40.3961, \"z\": 19.8955}, {\"x\": 13.1509, \"y\": -76.9016, \"z\": 15.3091}, {\"x\": 20.0275, \"y\": -83.2391, \"z\": 9.2320}, {\"x\": -1.6742, \"y\": -84.3035, \"z\": 10.9301}, {\"x\": -26.0686, \"y\": 34.4585, \"z\": -22.2909}, {\"x\": 24.8678, \"y\": -7.0423, \"z\": 7.8993}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame254() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.17658341221986, 89.64848601952600, -29.31102640965915),
+                "\"skeletons\": [{\"x\": 5.2841, \"y\": 73.3447, \"z\": 0.4810}, {\"x\": -0.5717, \"y\": 73.2287, \"z\": 9.9243}, {\"x\": 1.4888, \"y\": 23.1724, \"z\": 3.9276}, {\"x\": 19.9650, \"y\": 52.8620, \"z\": -1.7589}, {\"x\": 23.8694, \"y\": 17.5814, \"z\": 4.3778}, {\"x\": 25.1882, \"y\": 5.1295, \"z\": 4.5951}, {\"x\": 26.2575, \"y\": -4.0437, \"z\": 11.0235}, {\"x\": 8.7645, \"y\": 9.9532, \"z\": -0.9063}, {\"x\": -2.6971, \"y\": -42.3208, \"z\": -12.1506}, {\"x\": -16.4521, \"y\": -73.3761, \"z\": -19.6720}, {\"x\": -21.1197, \"y\": -76.0171, \"z\": -12.6723}, {\"x\": -29.5165, \"y\": -84.4267, \"z\": -29.7764}, {\"x\": -9.7520, \"y\": 54.2255, \"z\": 15.0552}, {\"x\": -22.7831, \"y\": 38.9940, \"z\": -12.6104}, {\"x\": -25.1939, \"y\": 35.5938, \"z\": -27.1342}, {\"x\": -31.8164, \"y\": 36.1717, \"z\": -33.9493}, {\"x\": -2.0585, \"y\": 12.9587, \"z\": 15.4136}, {\"x\": 4.7033, \"y\": -40.8917, \"z\": 19.9772}, {\"x\": 13.3163, \"y\": -77.3714, \"z\": 15.4834}, {\"x\": 20.2899, \"y\": -83.6451, \"z\": 9.3697}, {\"x\": -1.4698, \"y\": -84.7859, \"z\": 11.0791}, {\"x\": -26.9693, \"y\": 37.2748, \"z\": -22.8330}, {\"x\": 24.9167, \"y\": -7.4610, \"z\": 8.2875}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame255() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.99386955889435, 90.10266210394080, -29.42674268131057),
+                "\"skeletons\": [{\"x\": 5.3057, \"y\": 72.8879, \"z\": 0.5204}, {\"x\": -0.6139, \"y\": 72.7579, \"z\": 9.9023}, {\"x\": 1.5064, \"y\": 22.7381, \"z\": 3.8957}, {\"x\": 19.9892, \"y\": 52.3813, \"z\": -1.7081}, {\"x\": 23.9719, \"y\": 17.1556, \"z\": 4.6416}, {\"x\": 25.2983, \"y\": 4.7042, \"z\": 4.8595}, {\"x\": 26.1590, \"y\": -4.4704, \"z\": 11.4386}, {\"x\": 8.9165, \"y\": 9.5199, \"z\": -0.8380}, {\"x\": -2.4988, \"y\": -42.7760, \"z\": -12.0453}, {\"x\": -16.2603, \"y\": -73.8428, \"z\": -19.5452}, {\"x\": -20.9178, \"y\": -76.4858, \"z\": -12.5540}, {\"x\": -29.3251, \"y\": -84.8816, \"z\": -29.6562}, {\"x\": -9.4738, \"y\": 54.0681, \"z\": 14.9905}, {\"x\": -23.2650, \"y\": 40.9014, \"z\": -13.0387}, {\"x\": -25.9006, \"y\": 38.2944, \"z\": -27.8100}, {\"x\": -32.5879, \"y\": 39.8974, \"z\": -34.6964}, {\"x\": -2.0468, \"y\": 12.5041, \"z\": 15.3913}, {\"x\": 4.8243, \"y\": -41.3674, \"z\": 20.0658}, {\"x\": 13.4731, \"y\": -77.8263, \"z\": 15.6065}, {\"x\": 20.4689, \"y\": -84.0936, \"z\": 9.5084}, {\"x\": -1.3013, \"y\": -85.2450, \"z\": 11.1962}, {\"x\": -27.5156, \"y\": 39.8201, \"z\": -23.4156}, {\"x\": 24.9743, \"y\": -7.9039, \"z\": 8.6475}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame256() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.83994322851546, 90.55160426012684, -29.50224978586115),
+                "\"skeletons\": [{\"x\": 5.3156, \"y\": 72.4426, \"z\": 0.4971}, {\"x\": -0.5752, \"y\": 72.2818, \"z\": 9.8478}, {\"x\": 1.4656, \"y\": 22.2801, \"z\": 3.8164}, {\"x\": 20.0646, \"y\": 51.9122, \"z\": -1.6402}, {\"x\": 24.0517, \"y\": 16.7409, \"z\": 4.8854}, {\"x\": 25.4304, \"y\": 4.2667, \"z\": 5.1099}, {\"x\": 26.0818, \"y\": -4.8627, \"z\": 11.7543}, {\"x\": 9.0187, \"y\": 9.0729, \"z\": -0.8137}, {\"x\": -2.2896, \"y\": -43.2680, \"z\": -11.9725}, {\"x\": -16.0795, \"y\": -74.2997, \"z\": -19.4715}, {\"x\": -20.7158, \"y\": -76.9389, \"z\": -12.5152}, {\"x\": -29.1659, \"y\": -85.3527, \"z\": -29.5720}, {\"x\": -9.1471, \"y\": 53.9206, \"z\": 14.8868}, {\"x\": -23.7990, \"y\": 42.8097, \"z\": -13.2465}, {\"x\": -26.5595, \"y\": 41.0110, \"z\": -28.2096}, {\"x\": -33.2024, \"y\": 43.5839, \"z\": -35.2166}, {\"x\": -2.0427, \"y\": 12.0916, \"z\": 15.3199}, {\"x\": 4.9390, \"y\": -41.7933, \"z\": 20.0933}, {\"x\": 13.5920, \"y\": -78.2775, \"z\": 15.6926}, {\"x\": 20.5542, \"y\": -84.5856, \"z\": 9.6280}, {\"x\": -1.1504, \"y\": -85.7022, \"z\": 11.2721}, {\"x\": -28.0559, \"y\": 42.4597, \"z\": -23.7307}, {\"x\": 25.0873, \"y\": -8.2572, \"z\": 8.8328}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame257() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.70266669518762, 91.00124203331987, -29.54597147161522),
+                "\"skeletons\": [{\"x\": 5.3447, \"y\": 71.9894, \"z\": 0.4250}, {\"x\": -0.6037, \"y\": 71.8286, \"z\": 9.7476}, {\"x\": 1.4596, \"y\": 21.8462, \"z\": 3.7796}, {\"x\": 20.1257, \"y\": 51.4345, \"z\": -1.6668}, {\"x\": 24.0708, \"y\": 16.2945, \"z\": 5.0037}, {\"x\": 25.6319, \"y\": 3.8833, \"z\": 5.3336}, {\"x\": 26.0581, \"y\": -5.3322, \"z\": 11.9979}, {\"x\": 9.1053, \"y\": 8.6319, \"z\": -0.8412}, {\"x\": -2.1124, \"y\": -43.7500, \"z\": -11.9384}, {\"x\": -15.9238, \"y\": -74.7531, \"z\": -19.4332}, {\"x\": -20.5657, \"y\": -77.3776, \"z\": -12.5163}, {\"x\": -29.0102, \"y\": -85.8080, \"z\": -29.5426}, {\"x\": -8.7803, \"y\": 53.7652, \"z\": 14.7638}, {\"x\": -24.2097, \"y\": 44.7698, \"z\": -13.3578}, {\"x\": -27.2950, \"y\": 43.6167, \"z\": -28.2880}, {\"x\": -33.5928, \"y\": 47.1669, \"z\": -35.2855}, {\"x\": -2.0583, \"y\": 11.6240, \"z\": 15.2086}, {\"x\": 5.0167, \"y\": -42.2307, \"z\": 20.1050}, {\"x\": 13.7085, \"y\": -78.7216, \"z\": 15.7496}, {\"x\": 20.6991, \"y\": -85.0177, \"z\": 9.6739}, {\"x\": -1.0154, \"y\": -86.1660, \"z\": 11.3093}, {\"x\": -28.6289, \"y\": 45.0831, \"z\": -23.7490}, {\"x\": 25.1602, \"y\": -8.7265, \"z\": 9.0857}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame258() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.58831317451445, 91.44835912857319, -29.56382321662560),
+                "\"skeletons\": [{\"x\": 5.3788, \"y\": 71.5449, \"z\": 0.3496}, {\"x\": -0.6158, \"y\": 71.3873, \"z\": 9.6460}, {\"x\": 1.4088, \"y\": 21.3834, \"z\": 3.6039}, {\"x\": 20.1387, \"y\": 50.9633, \"z\": -1.7454}, {\"x\": 24.1321, \"y\": 15.8695, \"z\": 5.0787}, {\"x\": 25.8070, \"y\": 3.4858, \"z\": 5.4848}, {\"x\": 26.2127, \"y\": -5.6940, \"z\": 12.2076}, {\"x\": 9.1756, \"y\": 8.1813, \"z\": -0.9103}, {\"x\": -1.9829, \"y\": -44.1998, \"z\": -11.9375}, {\"x\": -15.8170, \"y\": -75.2036, \"z\": -19.4173}, {\"x\": -20.4824, \"y\": -77.7975, \"z\": -12.5184}, {\"x\": -28.8789, \"y\": -86.2560, \"z\": -29.5409}, {\"x\": -8.4282, \"y\": 53.6233, \"z\": 14.6878}, {\"x\": -24.6455, \"y\": 46.7247, \"z\": -13.2852}, {\"x\": -27.9866, \"y\": 46.1634, \"z\": -28.1825}, {\"x\": -33.9694, \"y\": 50.6383, \"z\": -35.2174}, {\"x\": -2.0874, \"y\": 11.1796, \"z\": 15.0782}, {\"x\": 5.1412, \"y\": -42.6819, \"z\": 20.0403}, {\"x\": 13.8069, \"y\": -79.1544, \"z\": 15.7754}, {\"x\": 20.8161, \"y\": -85.4613, \"z\": 9.7029}, {\"x\": -0.9155, \"y\": -86.6217, \"z\": 11.3229}, {\"x\": -29.1087, \"y\": 47.6298, \"z\": -23.5863}, {\"x\": 25.3971, \"y\": -9.0707, \"z\": 9.3079}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame259() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.47560336614042, 91.88686443960559, -29.55564356711261),
+                "\"skeletons\": [{\"x\": 5.4152, \"y\": 71.1159, \"z\": 0.2264}, {\"x\": -0.6325, \"y\": 70.9406, \"z\": 9.4615}, {\"x\": 1.4195, \"y\": 20.9575, \"z\": 3.5073}, {\"x\": 20.1509, \"y\": 50.4993, \"z\": -1.8075}, {\"x\": 24.2269, \"y\": 15.4616, \"z\": 5.0812}, {\"x\": 25.9719, \"y\": 3.0798, \"z\": 5.5235}, {\"x\": 26.3678, \"y\": -6.0709, \"z\": 12.3177}, {\"x\": 9.2584, \"y\": 7.7516, \"z\": -0.9997}, {\"x\": -1.8820, \"y\": -44.6186, \"z\": -11.9605}, {\"x\": -15.7357, \"y\": -75.6403, \"z\": -19.4232}, {\"x\": -20.4293, \"y\": -78.2101, \"z\": -12.5076}, {\"x\": -28.7755, \"y\": -86.6858, \"z\": -29.5805}, {\"x\": -8.0169, \"y\": 53.4721, \"z\": 14.5553}, {\"x\": -25.0300, \"y\": 48.6626, \"z\": -13.0582}, {\"x\": -28.7315, \"y\": 48.6564, \"z\": -27.8752}, {\"x\": -34.2930, \"y\": 54.0438, \"z\": -34.8111}, {\"x\": -2.0894, \"y\": 10.7243, \"z\": 14.9363}, {\"x\": 5.2669, \"y\": -43.1461, \"z\": 19.9561}, {\"x\": 13.9034, \"y\": -79.5729, \"z\": 15.7833}, {\"x\": 20.9236, \"y\": -85.8974, \"z\": 9.6983}, {\"x\": -0.8287, \"y\": -87.0478, \"z\": 11.3075}, {\"x\": -29.5981, \"y\": 50.1407, \"z\": -23.2147}, {\"x\": 25.5853, \"y\": -9.4672, \"z\": 9.3846}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame260() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.37486197552477, 92.33861814655485, -29.51504067076367),
+                "\"skeletons\": [{\"x\": 5.4481, \"y\": 70.6806, \"z\": 0.0703}, {\"x\": -0.5953, \"y\": 70.5058, \"z\": 9.2967}, {\"x\": 1.4392, \"y\": 20.5352, \"z\": 3.3466}, {\"x\": 20.1815, \"y\": 50.0479, \"z\": -1.9118}, {\"x\": 24.3647, \"y\": 15.0647, \"z\": 5.0644}, {\"x\": 26.1819, \"y\": 2.6966, \"z\": 5.5601}, {\"x\": 26.5304, \"y\": -6.4523, \"z\": 12.3737}, {\"x\": 9.3494, \"y\": 7.3374, \"z\": -1.1125}, {\"x\": -1.8072, \"y\": -45.0352, \"z\": -12.0049}, {\"x\": -15.6596, \"y\": -76.0921, \"z\": -19.4429}, {\"x\": -20.3978, \"y\": -78.6746, \"z\": -12.5193}, {\"x\": -28.6779, \"y\": -87.1093, \"z\": -29.6586}, {\"x\": -7.5763, \"y\": 53.2506, \"z\": 14.4410}, {\"x\": -25.4175, \"y\": 50.5766, \"z\": -12.6500}, {\"x\": -29.6300, \"y\": 51.1277, \"z\": -27.3339}, {\"x\": -34.6439, \"y\": 57.4429, \"z\": -34.2255}, {\"x\": -2.1051, \"y\": 10.2933, \"z\": 14.7422}, {\"x\": 5.3691, \"y\": -43.6036, \"z\": 19.7918}, {\"x\": 13.9878, \"y\": -80.0181, \"z\": 15.7386}, {\"x\": 21.0577, \"y\": -86.3093, \"z\": 9.6619}, {\"x\": -0.7306, \"y\": -87.5260, \"z\": 11.2683}, {\"x\": -30.2409, \"y\": 52.7035, \"z\": -22.5961}, {\"x\": 25.7948, \"y\": -9.8512, \"z\": 9.4291}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame261() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.28999473104210, 92.77817829229316, -29.43921648554030),
+                "\"skeletons\": [{\"x\": 5.5002, \"y\": 70.2850, \"z\": -0.1343}, {\"x\": -0.5743, \"y\": 70.0682, \"z\": 9.0806}, {\"x\": 1.4196, \"y\": 20.1031, \"z\": 3.1228}, {\"x\": 20.1934, \"y\": 49.5982, \"z\": -2.0482}, {\"x\": 24.5053, \"y\": 14.7030, \"z\": 5.0223}, {\"x\": 26.4451, \"y\": 2.3537, \"z\": 5.6122}, {\"x\": 26.7216, \"y\": -6.7933, \"z\": 12.4238}, {\"x\": 9.3938, \"y\": 6.9259, \"z\": -1.2673}, {\"x\": -1.7753, \"y\": -45.4718, \"z\": -12.0527}, {\"x\": -15.6243, \"y\": -76.5319, \"z\": -19.4791}, {\"x\": -20.3778, \"y\": -79.1621, \"z\": -12.5768}, {\"x\": -28.6011, \"y\": -87.5501, \"z\": -29.7254}, {\"x\": -7.2108, \"y\": 53.0185, \"z\": 14.3024}, {\"x\": -25.6841, \"y\": 52.4834, \"z\": -12.2052}, {\"x\": -30.4995, \"y\": 53.5715, \"z\": -26.6039}, {\"x\": -34.9052, \"y\": 60.6186, \"z\": -33.3987}, {\"x\": -2.1401, \"y\": 9.8706, \"z\": 14.5489}, {\"x\": 5.4219, \"y\": -44.0675, \"z\": 19.6285}, {\"x\": 14.0568, \"y\": -80.4460, \"z\": 15.6578}, {\"x\": 21.2200, \"y\": -86.6530, \"z\": 9.5755}, {\"x\": -0.6368, \"y\": -87.9943, \"z\": 11.1992}, {\"x\": -30.7809, \"y\": 55.2060, \"z\": -21.8290}, {\"x\": 26.0564, \"y\": -10.1877, \"z\": 9.4986}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame262() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.22075805831957, 93.20286360115198, -29.34257841524718),
+                "\"skeletons\": [{\"x\": 5.5506, \"y\": 69.8665, \"z\": -0.3182}, {\"x\": -0.5870, \"y\": 69.6417, \"z\": 8.8387}, {\"x\": 1.3377, \"y\": 19.6732, \"z\": 2.8793}, {\"x\": 20.1673, \"y\": 49.1638, \"z\": -2.2555}, {\"x\": 24.6791, \"y\": 14.3369, \"z\": 4.9932}, {\"x\": 26.6386, \"y\": 1.9837, \"z\": 5.5883}, {\"x\": 26.8872, \"y\": -7.1589, \"z\": 12.4161}, {\"x\": 9.4249, \"y\": 6.5166, \"z\": -1.4676}, {\"x\": -1.7276, \"y\": -45.8921, \"z\": -12.1480}, {\"x\": -15.5944, \"y\": -76.9529, \"z\": -19.5263}, {\"x\": -20.3631, \"y\": -79.5359, \"z\": -12.6175}, {\"x\": -28.5375, \"y\": -87.9689, \"z\": -29.8259}, {\"x\": -6.8104, \"y\": 52.8077, \"z\": 14.1301}, {\"x\": -25.9128, \"y\": 54.3527, \"z\": -11.5869}, {\"x\": -31.2298, \"y\": 56.0542, \"z\": -25.7347}, {\"x\": -35.0297, \"y\": 63.7665, \"z\": -32.3939}, {\"x\": -2.1770, \"y\": 9.4532, \"z\": 14.3140}, {\"x\": 5.4275, \"y\": -44.4739, \"z\": 19.4566}, {\"x\": 14.1335, \"y\": -80.8489, \"z\": 15.5515}, {\"x\": 21.2821, \"y\": -87.0754, \"z\": 9.4821}, {\"x\": -0.5641, \"y\": -88.4214, \"z\": 11.0995}, {\"x\": -31.0351, \"y\": 57.6833, \"z\": -20.9597}, {\"x\": 26.2530, \"y\": -10.5640, \"z\": 9.4989}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame263() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.18475461058340, 93.62022397691739, -29.22861029555391),
+                "\"skeletons\": [{\"x\": 5.5893, \"y\": 69.4427, \"z\": -0.5442}, {\"x\": -0.5982, \"y\": 69.2390, \"z\": 8.5909}, {\"x\": 1.2973, \"y\": 19.2793, \"z\": 2.6766}, {\"x\": 20.1376, \"y\": 48.7295, \"z\": -2.4998}, {\"x\": 24.7940, \"y\": 13.9488, \"z\": 4.9033}, {\"x\": 26.8056, \"y\": 1.5961, \"z\": 5.5136}, {\"x\": 27.0640, \"y\": -7.5205, \"z\": 12.3984}, {\"x\": 9.4087, \"y\": 6.0690, \"z\": -1.6736}, {\"x\": -1.6730, \"y\": -46.3414, \"z\": -12.2656}, {\"x\": -15.5795, \"y\": -77.3814, \"z\": -19.6101}, {\"x\": -20.3599, \"y\": -79.9642, \"z\": -12.7317}, {\"x\": -28.4990, \"y\": -88.3972, \"z\": -29.9370}, {\"x\": -6.4007, \"y\": 52.5182, \"z\": 13.9761}, {\"x\": -26.0137, \"y\": 56.1924, \"z\": -10.8586}, {\"x\": -31.8907, \"y\": 58.5587, \"z\": -24.6653}, {\"x\": -35.1058, \"y\": 66.8892, \"z\": -31.2397}, {\"x\": -2.2347, \"y\": 9.0651, \"z\": 14.0477}, {\"x\": 5.3917, \"y\": -44.8476, \"z\": 19.2652}, {\"x\": 14.1681, \"y\": -81.2515, \"z\": 15.4314}, {\"x\": 21.3510, \"y\": -87.4741, \"z\": 9.3485}, {\"x\": -0.5251, \"y\": -88.8356, \"z\": 10.9825}, {\"x\": -31.2099, \"y\": 60.1666, \"z\": -19.9461}, {\"x\": 26.4220, \"y\": -10.9415, \"z\": 9.4655}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame264() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.16898015146624, 94.02060274823356, -29.09816665684392),
+                "\"skeletons\": [{\"x\": 5.5941, \"y\": 69.0353, \"z\": -0.8031}, {\"x\": -0.6155, \"y\": 68.8235, \"z\": 8.3427}, {\"x\": 1.2130, \"y\": 18.8732, \"z\": 2.4502}, {\"x\": 20.1189, \"y\": 48.2903, \"z\": -2.7459}, {\"x\": 24.8688, \"y\": 13.5800, \"z\": 4.7580}, {\"x\": 26.9258, \"y\": 1.2427, \"z\": 5.4139}, {\"x\": 27.2104, \"y\": -7.8780, \"z\": 12.3498}, {\"x\": 9.4196, \"y\": 5.6505, \"z\": -1.9079}, {\"x\": -1.6398, \"y\": -46.7781, \"z\": -12.4168}, {\"x\": -15.5743, \"y\": -77.8020, \"z\": -19.7362}, {\"x\": -20.3674, \"y\": -80.3739, \"z\": -12.8607}, {\"x\": -28.4924, \"y\": -88.8080, \"z\": -30.0672}, {\"x\": -6.0964, \"y\": 52.2376, \"z\": 13.8450}, {\"x\": -25.9969, \"y\": 57.9315, \"z\": -10.0558}, {\"x\": -32.4956, \"y\": 61.1035, \"z\": -23.4358}, {\"x\": -34.9672, \"y\": 69.8807, \"z\": -29.8762}, {\"x\": -2.3035, \"y\": 8.6443, \"z\": 13.7711}, {\"x\": 5.3561, \"y\": -45.2179, \"z\": 19.0481}, {\"x\": 14.1758, \"y\": -81.6598, \"z\": 15.2922}, {\"x\": 21.3493, \"y\": -87.8859, \"z\": 9.2282}, {\"x\": -0.5177, \"y\": -89.2282, \"z\": 10.8489}, {\"x\": -31.2589, \"y\": 62.6245, \"z\": -18.8041}, {\"x\": 26.5654, \"y\": -11.3051, \"z\": 9.4187}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame265() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.19077991462510, 94.41432795249145, -28.95019224658778),
+                "\"skeletons\": [{\"x\": 5.5723, \"y\": 68.6150, \"z\": -1.0346}, {\"x\": -0.6860, \"y\": 68.4237, \"z\": 8.0718}, {\"x\": 1.0785, \"y\": 18.4712, \"z\": 2.1530}, {\"x\": 20.0136, \"y\": 47.8544, \"z\": -3.0236}, {\"x\": 24.9051, \"y\": 13.2214, \"z\": 4.5480}, {\"x\": 27.0067, \"y\": 0.8896, \"z\": 5.2505}, {\"x\": 27.3543, \"y\": -8.2148, \"z\": 12.2446}, {\"x\": 9.4021, \"y\": 5.2650, \"z\": -2.1756}, {\"x\": -1.6389, \"y\": -47.1930, \"z\": -12.5925}, {\"x\": -15.5972, \"y\": -78.2129, \"z\": -19.8860}, {\"x\": -20.4009, \"y\": -80.7608, \"z\": -13.0173}, {\"x\": -28.5135, \"y\": -89.2142, \"z\": -30.2205}, {\"x\": -5.7926, \"y\": 51.9525, \"z\": 13.6430}, {\"x\": -25.9323, \"y\": 59.6641, \"z\": -9.1417}, {\"x\": -32.9880, \"y\": 63.6673, \"z\": -22.0015}, {\"x\": -34.6064, \"y\": 72.7232, \"z\": -28.4134}, {\"x\": -2.3754, \"y\": 8.2611, \"z\": 13.4914}, {\"x\": 5.3157, \"y\": -45.6035, \"z\": 18.8466}, {\"x\": 14.1534, \"y\": -82.0569, \"z\": 15.1335}, {\"x\": 21.3170, \"y\": -88.3108, \"z\": 9.0997}, {\"x\": -0.5433, \"y\": -89.6097, \"z\": 10.6955}, {\"x\": -31.1739, \"y\": 65.0280, \"z\": -17.5513}, {\"x\": 26.7182, \"y\": -11.6584, \"z\": 9.3422}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame266() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.24143640142145, 94.80240167757357, -28.79177839387723),
+                "\"skeletons\": [{\"x\": 5.5100, \"y\": 68.2226, \"z\": -1.3147}, {\"x\": -0.7808, \"y\": 68.0653, \"z\": 7.7810}, {\"x\": 0.9727, \"y\": 18.0721, \"z\": 1.8950}, {\"x\": 19.8495, \"y\": 47.4411, \"z\": -3.3256}, {\"x\": 24.9096, \"y\": 12.8727, \"z\": 4.3091}, {\"x\": 27.0769, \"y\": 0.5366, \"z\": 5.0485}, {\"x\": 27.5429, \"y\": -8.4984, \"z\": 12.0932}, {\"x\": 9.3445, \"y\": 4.8712, \"z\": -2.4175}, {\"x\": -1.6731, \"y\": -47.5906, \"z\": -12.7800}, {\"x\": -15.6479, \"y\": -78.6160, \"z\": -20.0533}, {\"x\": -20.4592, \"y\": -81.1362, \"z\": -13.1805}, {\"x\": -28.5657, \"y\": -89.6087, \"z\": -30.3832}, {\"x\": -5.6264, \"y\": 51.6710, \"z\": 13.4505}, {\"x\": -25.7641, \"y\": 61.3091, \"z\": -8.1727}, {\"x\": -33.3046, \"y\": 66.2296, \"z\": -20.4031}, {\"x\": -34.0648, \"y\": 75.4416, \"z\": -26.8786}, {\"x\": -2.4683, \"y\": 7.8686, \"z\": 13.1982}, {\"x\": 5.2174, \"y\": -45.9931, \"z\": 18.6339}, {\"x\": 14.1020, \"y\": -82.4441, \"z\": 14.9631}, {\"x\": 21.2667, \"y\": -88.7056, \"z\": 8.9378}, {\"x\": -0.5676, \"y\": -90.0072, \"z\": 10.5330}, {\"x\": -30.8958, \"y\": 67.3243, \"z\": -16.1659}, {\"x\": 26.8920, \"y\": -11.9427, \"z\": 9.2232}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame267() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.32192140192629, 95.16500067809687, -28.63409276871688),
+                "\"skeletons\": [{\"x\": 5.4006, \"y\": 67.8389, \"z\": -1.5564}, {\"x\": -0.8578, \"y\": 67.7396, \"z\": 7.5258}, {\"x\": 0.7961, \"y\": 17.6610, \"z\": 1.5909}, {\"x\": 19.6828, \"y\": 47.0488, \"z\": -3.5756}, {\"x\": 24.8866, \"y\": 12.5429, \"z\": 4.0967}, {\"x\": 27.1526, \"y\": 0.2321, \"z\": 4.8480}, {\"x\": 27.6672, \"y\": -8.8082, \"z\": 11.9099}, {\"x\": 9.2588, \"y\": 4.5242, \"z\": -2.6782}, {\"x\": -1.7215, \"y\": -47.9570, \"z\": -12.9535}, {\"x\": -15.7144, \"y\": -78.9815, \"z\": -20.2264}, {\"x\": -20.5361, \"y\": -81.4880, \"z\": -13.3431}, {\"x\": -28.6458, \"y\": -89.9717, \"z\": -30.5455}, {\"x\": -5.4029, \"y\": 51.3467, \"z\": 13.2747}, {\"x\": -25.4795, \"y\": 62.8579, \"z\": -7.2153}, {\"x\": -33.4028, \"y\": 68.7475, \"z\": -18.7088}, {\"x\": -33.4319, \"y\": 77.9905, \"z\": -25.3708}, {\"x\": -2.6266, \"y\": 7.4941, \"z\": 12.9199}, {\"x\": 5.0899, \"y\": -46.3740, \"z\": 18.4126}, {\"x\": 14.0229, \"y\": -82.8044, \"z\": 14.7961}, {\"x\": 21.1543, \"y\": -89.1038, \"z\": 8.7786}, {\"x\": -0.6304, \"y\": -90.3470, \"z\": 10.3645}, {\"x\": -30.4726, \"y\": 69.5029, \"z\": -14.7672}, {\"x\": 26.9522, \"y\": -12.2772, \"z\": 9.0157}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame268() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.44642148479883, 95.50493142537056, -28.47834690760209),
+                "\"skeletons\": [{\"x\": 5.2907, \"y\": 67.5137, \"z\": -1.8393}, {\"x\": -0.9775, \"y\": 67.3984, \"z\": 7.2288}, {\"x\": 0.6060, \"y\": 17.3197, \"z\": 1.3264}, {\"x\": 19.4683, \"y\": 46.7086, \"z\": -3.8293}, {\"x\": 24.8577, \"y\": 12.2466, \"z\": 3.8955}, {\"x\": 27.1980, \"y\": -0.0230, \"z\": 4.6313}, {\"x\": 27.8121, \"y\": -9.0982, \"z\": 11.7037}, {\"x\": 9.1377, \"y\": 4.2145, \"z\": -2.9043}, {\"x\": -1.8160, \"y\": -48.2967, \"z\": -13.1208}, {\"x\": -15.8188, \"y\": -79.3271, \"z\": -20.3996}, {\"x\": -20.6418, \"y\": -81.8296, \"z\": -13.5069}, {\"x\": -28.7701, \"y\": -90.3118, \"z\": -30.6994}, {\"x\": -5.2690, \"y\": 51.0568, \"z\": 13.1085}, {\"x\": -25.0620, \"y\": 64.2812, \"z\": -6.2310}, {\"x\": -33.2326, \"y\": 71.1436, \"z\": -16.9993}, {\"x\": -32.6274, \"y\": 80.2978, \"z\": -23.8803}, {\"x\": -2.8146, \"y\": 7.1539, \"z\": 12.6385}, {\"x\": 4.9169, \"y\": -46.7556, \"z\": 18.1659}, {\"x\": 13.8852, \"y\": -83.1605, \"z\": 14.6331}, {\"x\": 20.9940, \"y\": -89.5130, \"z\": 8.6409}, {\"x\": -0.7406, \"y\": -90.6639, \"z\": 10.2003}, {\"x\": -29.8407, \"y\": 71.4860, \"z\": -13.4517}, {\"x\": 27.0588, \"y\": -12.5571, \"z\": 8.8212}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame269() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.59197096284527, 95.81308670265472, -28.32765803674927),
+                "\"skeletons\": [{\"x\": 5.1599, \"y\": 67.2179, \"z\": -2.0987}, {\"x\": -1.1756, \"y\": 67.1052, \"z\": 6.9870}, {\"x\": 0.4001, \"y\": 17.0329, \"z\": 1.0843}, {\"x\": 19.2309, \"y\": 46.4058, \"z\": -4.0922}, {\"x\": 24.8276, \"y\": 11.9924, \"z\": 3.6375}, {\"x\": 27.2302, \"y\": -0.2414, \"z\": 4.3706}, {\"x\": 27.9437, \"y\": -9.3325, \"z\": 11.4850}, {\"x\": 8.9853, \"y\": 3.9232, \"z\": -3.1149}, {\"x\": -1.9431, \"y\": -48.6215, \"z\": -13.2846}, {\"x\": -15.9435, \"y\": -79.6425, \"z\": -20.5627}, {\"x\": -20.7439, \"y\": -82.1548, \"z\": -13.6624}, {\"x\": -28.9040, \"y\": -90.6272, \"z\": -30.8400}, {\"x\": -5.1505, \"y\": 50.8247, \"z\": 12.9269}, {\"x\": -24.5562, \"y\": 65.5443, \"z\": -5.2961}, {\"x\": -32.8004, \"y\": 73.3730, \"z\": -15.3398}, {\"x\": -31.6860, \"y\": 82.3798, \"z\": -22.4578}, {\"x\": -2.9926, \"y\": 6.8295, \"z\": 12.3979}, {\"x\": 4.7355, \"y\": -47.1181, \"z\": 17.9184}, {\"x\": 13.7266, \"y\": -83.4936, \"z\": 14.4723}, {\"x\": 20.8754, \"y\": -89.8268, \"z\": 8.4760}, {\"x\": -0.8748, \"y\": -90.9621, \"z\": 10.0457}, {\"x\": -29.0060, \"y\": 73.2645, \"z\": -12.2228}, {\"x\": 27.1605, \"y\": -12.7902, \"z\": 8.6267}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame270() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.74724156804507, 96.07962541725358, -28.18454545365765),
+                "\"skeletons\": [{\"x\": 4.9668, \"y\": 66.9086, \"z\": -2.2757}, {\"x\": -1.3605, \"y\": 66.8435, \"z\": 6.6934}, {\"x\": 0.1489, \"y\": 16.7598, \"z\": 0.8423}, {\"x\": 18.9941, \"y\": 46.1142, \"z\": -4.3166}, {\"x\": 24.8480, \"y\": 11.7912, \"z\": 3.4407}, {\"x\": 27.2415, \"y\": -0.4528, \"z\": 4.1527}, {\"x\": 28.0736, \"y\": -9.5467, \"z\": 11.2594}, {\"x\": 8.8143, \"y\": 3.6367, \"z\": -3.3120}, {\"x\": -2.0777, \"y\": -48.9030, \"z\": -13.4474}, {\"x\": -16.0701, \"y\": -79.9127, \"z\": -20.7077}, {\"x\": -20.8547, \"y\": -82.4138, \"z\": -13.8198}, {\"x\": -29.0453, \"y\": -90.8988, \"z\": -30.9802}, {\"x\": -5.0758, \"y\": 50.5829, \"z\": 12.7745}, {\"x\": -24.0415, \"y\": 66.6731, \"z\": -4.4262}, {\"x\": -32.2233, \"y\": 75.4365, \"z\": -13.7289}, {\"x\": -30.6394, \"y\": 84.2059, \"z\": -21.1386}, {\"x\": -3.1772, \"y\": 6.5585, \"z\": 12.1567}, {\"x\": 4.5357, \"y\": -47.3956, \"z\": 17.7328}, {\"x\": 13.5701, \"y\": -83.7753, \"z\": 14.3242}, {\"x\": 20.7063, \"y\": -90.1059, \"z\": 8.3679}, {\"x\": -1.0192, \"y\": -91.2184, \"z\": 9.8934}, {\"x\": -28.2056, \"y\": 74.9183, \"z\": -10.9549}, {\"x\": 27.2361, \"y\": -13.0345, \"z\": 8.4032}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame271() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.91097679954919, 96.31015285594778, -28.06185855330316),
+                "\"skeletons\": [{\"x\": 4.8260, \"y\": 66.6839, \"z\": -2.5593}, {\"x\": -1.5601, \"y\": 66.6306, \"z\": 6.4946}, {\"x\": -0.0899, \"y\": 16.5173, \"z\": 0.6644}, {\"x\": 18.7606, \"y\": 45.8606, \"z\": -4.5353}, {\"x\": 24.8226, \"y\": 11.6063, \"z\": 3.2674}, {\"x\": 27.2905, \"y\": -0.6325, \"z\": 3.9558}, {\"x\": 28.1714, \"y\": -9.7151, \"z\": 11.0665}, {\"x\": 8.6164, \"y\": 3.3811, \"z\": -3.4906}, {\"x\": -2.2349, \"y\": -49.1478, \"z\": -13.5957}, {\"x\": -16.2162, \"y\": -80.1470, \"z\": -20.8311}, {\"x\": -20.9931, \"y\": -82.6314, \"z\": -13.9606}, {\"x\": -29.1974, \"y\": -91.1377, \"z\": -31.1122}, {\"x\": -5.0530, \"y\": 50.3103, \"z\": 12.6086}, {\"x\": -23.4736, \"y\": 67.6661, \"z\": -3.5872}, {\"x\": -31.4130, \"y\": 77.2021, \"z\": -12.2644}, {\"x\": -29.6078, \"y\": 85.8086, \"z\": -19.8830}, {\"x\": -3.4036, \"y\": 6.3482, \"z\": 11.9025}, {\"x\": 4.2999, \"y\": -47.5804, \"z\": 17.5631}, {\"x\": 13.4008, \"y\": -84.0095, \"z\": 14.1970}, {\"x\": 20.5865, \"y\": -90.3333, \"z\": 8.2064}, {\"x\": -1.1704, \"y\": -91.4385, \"z\": 9.7606}, {\"x\": -27.2406, \"y\": 76.2958, \"z\": -9.8519}, {\"x\": 27.2859, \"y\": -13.2177, \"z\": 8.2314}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame272() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.06743663337879, 96.51246294037578, -27.95175051339077),
+                "\"skeletons\": [{\"x\": 4.6641, \"y\": 66.4800, \"z\": -2.7654}, {\"x\": -1.7564, \"y\": 66.4152, \"z\": 6.3030}, {\"x\": -0.3161, \"y\": 16.3415, \"z\": 0.4782}, {\"x\": 18.5527, \"y\": 45.6408, \"z\": -4.7133}, {\"x\": 24.7830, \"y\": 11.4371, \"z\": 3.1076}, {\"x\": 27.2952, \"y\": -0.7982, \"z\": 3.7533}, {\"x\": 28.2563, \"y\": -9.8729, \"z\": 10.8479}, {\"x\": 8.4297, \"y\": 3.1675, \"z\": -3.6586}, {\"x\": -2.3855, \"y\": -49.3523, \"z\": -13.7276}, {\"x\": -16.3705, \"y\": -80.3619, \"z\": -20.9376}, {\"x\": -21.1525, \"y\": -82.8422, \"z\": -14.0693}, {\"x\": -29.3512, \"y\": -91.3527, \"z\": -31.2281}, {\"x\": -5.0054, \"y\": 50.1590, \"z\": 12.5081}, {\"x\": -22.8872, \"y\": 68.5380, \"z\": -2.7961}, {\"x\": -30.5490, \"y\": 78.7740, \"z\": -10.9197}, {\"x\": -28.5773, \"y\": 87.2399, \"z\": -18.7927}, {\"x\": -3.6518, \"y\": 6.1418, \"z\": 11.6748}, {\"x\": 4.1038, \"y\": -47.7624, \"z\": 17.4197}, {\"x\": 13.2437, \"y\": -84.2102, \"z\": 14.0885}, {\"x\": 20.4573, \"y\": -90.5314, \"z\": 8.0821}, {\"x\": -1.3273, \"y\": -91.6384, \"z\": 9.6467}, {\"x\": -26.3241, \"y\": 77.5139, \"z\": -8.8595}, {\"x\": 27.2915, \"y\": -13.3893, \"z\": 8.0293}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame273() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.21397656718021, 96.68406941189845, -27.84025040750175),
+                "\"skeletons\": [{\"x\": 4.4415, \"y\": 66.2857, \"z\": -2.8835}, {\"x\": -1.9433, \"y\": 66.2182, \"z\": 6.1008}, {\"x\": -0.5202, \"y\": 16.1799, \"z\": 0.2717}, {\"x\": 18.3514, \"y\": 45.4722, \"z\": -4.8548}, {\"x\": 24.7583, \"y\": 11.3165, \"z\": 2.9398}, {\"x\": 27.2637, \"y\": -0.9548, \"z\": 3.5927}, {\"x\": 28.3046, \"y\": -10.0088, \"z\": 10.6626}, {\"x\": 8.2690, \"y\": 3.0059, \"z\": -3.8128}, {\"x\": -2.5350, \"y\": -49.5246, \"z\": -13.8491}, {\"x\": -16.5267, \"y\": -80.5464, \"z\": -21.0384}, {\"x\": -21.3193, \"y\": -83.0410, \"z\": -14.1645}, {\"x\": -29.5094, \"y\": -91.5355, \"z\": -31.3358}, {\"x\": -5.0347, \"y\": 49.9564, \"z\": 12.2906}, {\"x\": -22.2407, \"y\": 69.3069, \"z\": -2.1233}, {\"x\": -29.6366, \"y\": 80.1845, \"z\": -9.6640}, {\"x\": -27.5328, \"y\": 88.4347, \"z\": -17.7531}, {\"x\": -3.8648, \"y\": 5.9523, \"z\": 11.5032}, {\"x\": 3.9224, \"y\": -47.9394, \"z\": 17.2699}, {\"x\": 13.0887, \"y\": -84.3856, \"z\": 13.9789}, {\"x\": 20.2614, \"y\": -90.7287, \"z\": 8.0057}, {\"x\": -1.4791, \"y\": -91.8088, \"z\": 9.5318}, {\"x\": -25.4174, \"y\": 78.6033, \"z\": -7.9409}, {\"x\": 27.2708, \"y\": -13.5379, \"z\": 7.8274}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame274() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.36062041909982, 96.83998482223390, -27.73276678645325),
+                "\"skeletons\": [{\"x\": 4.2450, \"y\": 66.1357, \"z\": -3.0488}, {\"x\": -2.1630, \"y\": 66.0610, \"z\": 5.9370}, {\"x\": -0.7369, \"y\": 16.0131, \"z\": 0.0759}, {\"x\": 18.1410, \"y\": 45.3089, \"z\": -4.9986}, {\"x\": 24.6997, \"y\": 11.1948, \"z\": 2.8076}, {\"x\": 27.2151, \"y\": -1.0914, \"z\": 3.4508}, {\"x\": 28.3226, \"y\": -10.1395, \"z\": 10.5175}, {\"x\": 8.1175, \"y\": 2.8801, \"z\": -3.9522}, {\"x\": -2.6931, \"y\": -49.6827, \"z\": -13.9586}, {\"x\": -16.6868, \"y\": -80.7109, \"z\": -21.1398}, {\"x\": -21.4902, \"y\": -83.2221, \"z\": -14.2527}, {\"x\": -29.6629, \"y\": -91.6943, \"z\": -31.4409}, {\"x\": -5.1283, \"y\": 49.7349, \"z\": 12.0516}, {\"x\": -21.5377, \"y\": 69.9912, \"z\": -1.4915}, {\"x\": -28.6497, \"y\": 81.4774, \"z\": -8.4819}, {\"x\": -26.5157, \"y\": 89.5131, \"z\": -16.7902}, {\"x\": -4.0627, \"y\": 5.7879, \"z\": 11.3507}, {\"x\": 3.7242, \"y\": -48.0959, \"z\": 17.1263}, {\"x\": 12.9308, \"y\": -84.5500, \"z\": 13.8736}, {\"x\": 20.1260, \"y\": -90.8800, \"z\": 7.8959}, {\"x\": -1.6219, \"y\": -91.9639, \"z\": 9.4219}, {\"x\": -24.4519, \"y\": 79.5750, \"z\": -7.0680}, {\"x\": 27.2495, \"y\": -13.6772, \"z\": 7.7061}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame275() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.50842223576369, 96.98433987612654, -27.63647326533489),
+                "\"skeletons\": [{\"x\": 4.0427, \"y\": 65.9979, \"z\": -3.1919}, {\"x\": -2.3733, \"y\": 65.9162, \"z\": 5.7700}, {\"x\": -0.9344, \"y\": 15.8574, \"z\": -0.0555}, {\"x\": 17.9383, \"y\": 45.1429, \"z\": -5.1430}, {\"x\": 24.6019, \"y\": 11.0485, \"z\": 2.6889}, {\"x\": 27.1346, \"y\": -1.2249, \"z\": 3.3249}, {\"x\": 28.3085, \"y\": -10.2729, \"z\": 10.4058}, {\"x\": 7.9397, \"y\": 2.7426, \"z\": -4.0788}, {\"x\": -2.8488, \"y\": -49.8288, \"z\": -14.0576}, {\"x\": -16.8360, \"y\": -80.8569, \"z\": -21.2322}, {\"x\": -21.6527, \"y\": -83.3710, \"z\": -14.3393}, {\"x\": -29.8102, \"y\": -91.8377, \"z\": -31.5329}, {\"x\": -5.1547, \"y\": 49.6219, \"z\": 11.9196}, {\"x\": -20.8611, \"y\": 70.6260, \"z\": -0.9218}, {\"x\": -27.5745, \"y\": 82.6651, \"z\": -7.3949}, {\"x\": -25.4855, \"y\": 90.5353, \"z\": -15.9590}, {\"x\": -4.2929, \"y\": 5.6516, \"z\": 11.2009}, {\"x\": 3.5351, \"y\": -48.2224, \"z\": 17.0005}, {\"x\": 12.7854, \"y\": -84.6932, \"z\": 13.7660}, {\"x\": 19.9863, \"y\": -91.0169, \"z\": 7.8030}, {\"x\": -1.7670, \"y\": -92.1102, \"z\": 9.3279}, {\"x\": -23.4330, \"y\": 80.4211, \"z\": -6.3080}, {\"x\": 27.1984, \"y\": -13.8012, \"z\": 7.6188}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame276() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.65594129245826, 97.11241122549571, -27.54711879958981),
+                "\"skeletons\": [{\"x\": 3.8408, \"y\": 65.8782, \"z\": -3.3370}, {\"x\": -2.5834, \"y\": 65.7844, \"z\": 5.6166}, {\"x\": -1.1589, \"y\": 15.7378, \"z\": -0.1414}, {\"x\": 17.7460, \"y\": 44.9904, \"z\": -5.2561}, {\"x\": 24.4749, \"y\": 10.8930, \"z\": 2.5755}, {\"x\": 27.0132, \"y\": -1.3524, \"z\": 3.2167}, {\"x\": 28.2715, \"y\": -10.4036, \"z\": 10.2887}, {\"x\": 7.7603, \"y\": 2.6380, \"z\": -4.1804}, {\"x\": -3.0029, \"y\": -49.9575, \"z\": -14.1474}, {\"x\": -16.9846, \"y\": -80.9877, \"z\": -21.3141}, {\"x\": -21.8034, \"y\": -83.5050, \"z\": -14.4245}, {\"x\": -29.9607, \"y\": -91.9661, \"z\": -31.6156}, {\"x\": -5.0969, \"y\": 49.5625, \"z\": 11.8499}, {\"x\": -20.1787, \"y\": 71.1781, \"z\": -0.3986}, {\"x\": -26.4699, \"y\": 83.7369, \"z\": -6.3780}, {\"x\": -24.4623, \"y\": 91.4066, \"z\": -15.1877}, {\"x\": -4.5445, \"y\": 5.5344, \"z\": 11.0416}, {\"x\": 3.3889, \"y\": -48.3518, \"z\": 16.8979}, {\"x\": 12.6397, \"y\": -84.8124, \"z\": 13.6778}, {\"x\": 19.8543, \"y\": -91.1225, \"z\": 7.7160}, {\"x\": -1.9178, \"y\": -92.2395, \"z\": 9.2396}, {\"x\": -22.4574, \"y\": 81.1886, \"z\": -5.6261}, {\"x\": 27.1030, \"y\": -13.9217, \"z\": 7.5350}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame277() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.79670482037141, 97.22483676728748, -27.46595214817167),
+                "\"skeletons\": [{\"x\": 3.6434, \"y\": 65.7650, \"z\": -3.4883}, {\"x\": -2.7791, \"y\": 65.6823, \"z\": 5.4973}, {\"x\": -1.3943, \"y\": 15.6561, \"z\": -0.2268}, {\"x\": 17.5632, \"y\": 44.8455, \"z\": -5.3426}, {\"x\": 24.3927, \"y\": 10.7677, \"z\": 2.4801}, {\"x\": 26.8895, \"y\": -1.4763, \"z\": 3.1086}, {\"x\": 28.2209, \"y\": -10.5340, \"z\": 10.1720}, {\"x\": 7.5786, \"y\": 2.5481, \"z\": -4.2696}, {\"x\": -3.1484, \"y\": -50.0716, \"z\": -14.2271}, {\"x\": -17.1200, \"y\": -81.1075, \"z\": -21.3880}, {\"x\": -21.9444, \"y\": -83.6349, \"z\": -14.5031}, {\"x\": -30.1011, \"y\": -92.0816, \"z\": -31.6976}, {\"x\": -5.1092, \"y\": 49.5005, \"z\": 11.7160}, {\"x\": -19.4559, \"y\": 71.6715, \"z\": 0.0958}, {\"x\": -25.3588, \"y\": 84.6617, \"z\": -5.4766}, {\"x\": -23.4828, \"y\": 92.1803, \"z\": -14.4759}, {\"x\": -4.7765, \"y\": 5.4173, \"z\": 10.9061}, {\"x\": 3.2577, \"y\": -48.4792, \"z\": 16.8008}, {\"x\": 12.4931, \"y\": -84.9276, \"z\": 13.6108}, {\"x\": 19.6980, \"y\": -91.2447, \"z\": 7.6454}, {\"x\": -2.0619, \"y\": -92.3565, \"z\": 9.1601}, {\"x\": -21.4884, \"y\": 81.8556, \"z\": -5.0149}, {\"x\": 26.9830, \"y\": -14.0392, \"z\": 7.4592}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame278() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.92565381863173, 97.32824760202426, -27.39564011615357),
+                "\"skeletons\": [{\"x\": 3.4710, \"y\": 65.6768, \"z\": -3.6453}, {\"x\": -2.9730, \"y\": 65.5861, \"z\": 5.3703}, {\"x\": -1.6012, \"y\": 15.5678, \"z\": -0.3337}, {\"x\": 17.3854, \"y\": 44.7054, \"z\": -5.4154}, {\"x\": 24.3279, \"y\": 10.6587, \"z\": 2.4027}, {\"x\": 26.7630, \"y\": -1.6068, \"z\": 3.0023}, {\"x\": 28.1403, \"y\": -10.6604, \"z\": 10.0623}, {\"x\": 7.3977, \"y\": 2.4385, \"z\": -4.3614}, {\"x\": -3.2808, \"y\": -50.1716, \"z\": -14.2977}, {\"x\": -17.2522, \"y\": -81.2121, \"z\": -21.4594}, {\"x\": -22.0785, \"y\": -83.7441, \"z\": -14.5747}, {\"x\": -30.2301, \"y\": -92.1956, \"z\": -31.7642}, {\"x\": -5.0982, \"y\": 49.4598, \"z\": 11.5297}, {\"x\": -18.7690, \"y\": 72.1570, \"z\": 0.5828}, {\"x\": -24.2368, \"y\": 85.4693, \"z\": -4.6527}, {\"x\": -22.5244, \"y\": 92.8656, \"z\": -13.7436}, {\"x\": -4.9823, \"y\": 5.3135, \"z\": 10.7961}, {\"x\": 3.1099, \"y\": -48.5803, \"z\": 16.6934}, {\"x\": 12.3574, \"y\": -85.0361, \"z\": 13.5432}, {\"x\": 19.6083, \"y\": -91.3115, \"z\": 7.5623}, {\"x\": -2.1946, \"y\": -92.4656, \"z\": 9.0895}, {\"x\": -20.4978, \"y\": 82.4310, \"z\": -4.4461}, {\"x\": 26.8314, \"y\": -14.1610, \"z\": 7.3783}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame279() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.05121423330260, 97.42019952144094, -27.32079054235909),
+                "\"skeletons\": [{\"x\": 3.3041, \"y\": 65.5891, \"z\": -3.7890}, {\"x\": -3.1528, \"y\": 65.4973, \"z\": 5.2150}, {\"x\": -1.7872, \"y\": 15.4542, \"z\": -0.4229}, {\"x\": 17.2002, \"y\": 44.5873, \"z\": -5.4890}, {\"x\": 24.2486, \"y\": 10.5535, \"z\": 2.3557}, {\"x\": 26.6504, \"y\": -1.7204, \"z\": 2.8785}, {\"x\": 28.0244, \"y\": -10.7963, \"z\": 9.9337}, {\"x\": 7.2190, \"y\": 2.3559, \"z\": -4.4492}, {\"x\": -3.4167, \"y\": -50.2577, \"z\": -14.3709}, {\"x\": -17.3915, \"y\": -81.3009, \"z\": -21.5377}, {\"x\": -22.2138, \"y\": -83.8263, \"z\": -14.6505}, {\"x\": -30.3570, \"y\": -92.2869, \"z\": -31.8390}, {\"x\": -4.9807, \"y\": 49.4347, \"z\": 11.4179}, {\"x\": -18.1141, \"y\": 72.5941, \"z\": 1.0341}, {\"x\": -23.1524, \"y\": 86.2104, \"z\": -3.8426}, {\"x\": -21.5999, \"y\": 93.5203, \"z\": -13.0126}, {\"x\": -5.1703, \"y\": 5.2357, \"z\": 10.7093}, {\"x\": 2.9713, \"y\": -48.6680, \"z\": 16.6055}, {\"x\": 12.2377, \"y\": -85.1169, \"z\": 13.4682}, {\"x\": 19.4723, \"y\": -91.4069, \"z\": 7.4977}, {\"x\": -2.3184, \"y\": -92.5668, \"z\": 9.0164}, {\"x\": -19.5837, \"y\": 82.9536, \"z\": -3.8737}, {\"x\": 26.6220, \"y\": -14.2972, \"z\": 7.2549}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame280() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.16720116443495, 97.49989063277631, -27.25160552740199),
+                "\"skeletons\": [{\"x\": 3.1431, \"y\": 65.5053, \"z\": -3.9309}, {\"x\": -3.3359, \"y\": 65.4088, \"z\": 5.0717}, {\"x\": -1.9792, \"y\": 15.3512, \"z\": -0.5049}, {\"x\": 17.0232, \"y\": 44.4926, \"z\": -5.5449}, {\"x\": 24.1706, \"y\": 10.4715, \"z\": 2.3131}, {\"x\": 26.5354, \"y\": -1.8170, \"z\": 2.7706}, {\"x\": 27.9132, \"y\": -10.9321, \"z\": 9.8122}, {\"x\": 7.0496, \"y\": 2.2883, \"z\": -4.5258}, {\"x\": -3.5391, \"y\": -50.3298, \"z\": -14.4370}, {\"x\": -17.5097, \"y\": -81.3770, \"z\": -21.6144}, {\"x\": -22.3365, \"y\": -83.8868, \"z\": -14.7295}, {\"x\": -30.4708, \"y\": -92.3597, \"z\": -31.9164}, {\"x\": -5.0352, \"y\": 49.3296, \"z\": 11.2634}, {\"x\": -17.4814, \"y\": 72.9796, \"z\": 1.4321}, {\"x\": -22.0603, \"y\": 86.8552, \"z\": -3.0837}, {\"x\": -20.7074, \"y\": 94.1933, \"z\": -12.3053}, {\"x\": -5.3665, \"y\": 5.1659, \"z\": 10.6236}, {\"x\": 2.8806, \"y\": -48.7607, \"z\": 16.5371}, {\"x\": 12.1339, \"y\": -85.1788, \"z\": 13.3979}, {\"x\": 19.3892, \"y\": -91.4529, \"z\": 7.4209}, {\"x\": -2.4349, \"y\": -92.6535, \"z\": 8.9491}, {\"x\": -18.6852, \"y\": 83.4146, \"z\": -3.3522}, {\"x\": 26.4290, \"y\": -14.4137, \"z\": 7.1376}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame281() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.27407915060674, 97.57707128797027, -27.17812430065049),
+                "\"skeletons\": [{\"x\": 2.9832, \"y\": 65.4236, \"z\": -4.0761}, {\"x\": -3.5050, \"y\": 65.3433, \"z\": 4.9494}, {\"x\": -2.1547, \"y\": 15.2820, \"z\": -0.5998}, {\"x\": 16.8631, \"y\": 44.4068, \"z\": -5.5960}, {\"x\": 24.0872, \"y\": 10.3965, \"z\": 2.2483}, {\"x\": 26.3932, \"y\": -1.9171, \"z\": 2.6873}, {\"x\": 27.8163, \"y\": -11.0581, \"z\": 9.6955}, {\"x\": 6.8933, \"y\": 2.2240, \"z\": -4.6092}, {\"x\": -3.6537, \"y\": -50.3880, \"z\": -14.5018}, {\"x\": -17.6206, \"y\": -81.4501, \"z\": -21.6855}, {\"x\": -22.4445, \"y\": -83.9587, \"z\": -14.8030}, {\"x\": -30.5782, \"y\": -92.4349, \"z\": -31.9874}, {\"x\": -5.0567, \"y\": 49.2770, \"z\": 11.1153}, {\"x\": -16.8590, \"y\": 73.3065, \"z\": 1.8294}, {\"x\": -21.0205, \"y\": 87.4289, \"z\": -2.3284}, {\"x\": -19.8009, \"y\": 94.8390, \"z\": -11.5712}, {\"x\": -5.5758, \"y\": 5.0947, \"z\": 10.5134}, {\"x\": 2.7890, \"y\": -48.8323, \"z\": 16.5038}, {\"x\": 12.0173, \"y\": -85.2606, \"z\": 13.3261}, {\"x\": 19.3062, \"y\": -91.4954, \"z\": 7.3512}, {\"x\": -2.5521, \"y\": -92.7415, \"z\": 8.8784}, {\"x\": -17.8084, \"y\": 83.8519, \"z\": -2.7960}, {\"x\": 26.2762, \"y\": -14.5104, \"z\": 7.0539}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame282() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.37824657166658, 97.65081833196346, -27.09484070456620),
+                "\"skeletons\": [{\"x\": 2.8297, \"y\": 65.3470, \"z\": -4.2323}, {\"x\": -3.6657, \"y\": 65.2886, \"z\": 4.8541}, {\"x\": -2.3600, \"y\": 15.2107, \"z\": -0.6896}, {\"x\": 16.6960, \"y\": 44.3208, \"z\": -5.6648}, {\"x\": 24.0249, \"y\": 10.3196, \"z\": 2.1921}, {\"x\": 26.2588, \"y\": -2.0045, \"z\": 2.5865}, {\"x\": 27.6976, \"y\": -11.1736, \"z\": 9.5743}, {\"x\": 6.7536, \"y\": 2.1501, \"z\": -4.7086}, {\"x\": -3.7715, \"y\": -50.4448, \"z\": -14.5733}, {\"x\": -17.7262, \"y\": -81.5216, \"z\": -21.7602}, {\"x\": -22.5494, \"y\": -84.0536, \"z\": -14.8759}, {\"x\": -30.6837, \"y\": -92.5062, \"z\": -32.0614}, {\"x\": -4.9454, \"y\": 49.2755, \"z\": 11.0169}, {\"x\": -16.2705, \"y\": 73.6218, \"z\": 2.2319}, {\"x\": -20.0512, \"y\": 87.9525, \"z\": -1.6183}, {\"x\": -18.9149, \"y\": 95.4257, \"z\": -10.7986}, {\"x\": -5.7648, \"y\": 5.0290, \"z\": 10.4073}, {\"x\": 2.7021, \"y\": -48.8971, \"z\": 16.4501}, {\"x\": 11.9145, \"y\": -85.3263, \"z\": 13.2462}, {\"x\": 19.1780, \"y\": -91.5600, \"z\": 7.2945}, {\"x\": -2.6681, \"y\": -92.8409, \"z\": 8.8025}, {\"x\": -16.9876, \"y\": 84.2728, \"z\": -2.2397}, {\"x\": 26.1152, \"y\": -14.6043, \"z\": 6.9647}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame283() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.47237967705624, 97.72590692915277, -27.00551182257020),
+                "\"skeletons\": [{\"x\": 2.7008, \"y\": 65.2759, \"z\": -4.3922}, {\"x\": -3.7971, \"y\": 65.2574, \"z\": 4.7686}, {\"x\": -2.5857, \"y\": 15.1560, \"z\": -0.7776}, {\"x\": 16.5444, \"y\": 44.2415, \"z\": -5.7555}, {\"x\": 23.9846, \"y\": 10.2435, \"z\": 2.1297}, {\"x\": 26.0743, \"y\": -2.1180, \"z\": 2.4770}, {\"x\": 27.5701, \"y\": -11.2842, \"z\": 9.4230}, {\"x\": 6.6143, \"y\": 2.0776, \"z\": -4.8063}, {\"x\": -3.8863, \"y\": -50.5132, \"z\": -14.6486}, {\"x\": -17.8256, \"y\": -81.5921, \"z\": -21.8370}, {\"x\": -22.6524, \"y\": -84.1389, \"z\": -14.9560}, {\"x\": -30.7808, \"y\": -92.5752, \"z\": -32.1391}, {\"x\": -4.9244, \"y\": 49.2282, \"z\": 10.9072}, {\"x\": -15.7056, \"y\": 73.9327, \"z\": 2.6240}, {\"x\": -19.1304, \"y\": 88.4114, \"z\": -0.9256}, {\"x\": -18.0148, \"y\": 95.9912, \"z\": -10.0277}, {\"x\": -5.9254, \"y\": 4.9874, \"z\": 10.3113}, {\"x\": 2.6172, \"y\": -48.9557, \"z\": 16.3778}, {\"x\": 11.8315, \"y\": -85.3774, \"z\": 13.1631}, {\"x\": 19.0730, \"y\": -91.6183, \"z\": 7.2165}, {\"x\": -2.7901, \"y\": -92.9216, \"z\": 8.7230}, {\"x\": -16.2048, \"y\": 84.6454, \"z\": -1.6624}, {\"x\": 25.9298, \"y\": -14.6993, \"z\": 6.8232}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame284() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.56398411654080, 97.79850960122948, -26.92039820087358),
+                "\"skeletons\": [{\"x\": 2.5582, \"y\": 65.2024, \"z\": -4.5399}, {\"x\": -3.8928, \"y\": 65.2422, \"z\": 4.6828}, {\"x\": -2.7603, \"y\": 15.1150, \"z\": -0.8738}, {\"x\": 16.4072, \"y\": 44.1645, \"z\": -5.8516}, {\"x\": 23.9330, \"y\": 10.1748, \"z\": 2.0416}, {\"x\": 25.8901, \"y\": -2.2291, \"z\": 2.3575}, {\"x\": 27.4001, \"y\": -11.4056, \"z\": 9.2925}, {\"x\": 6.4618, \"y\": 2.0204, \"z\": -4.9020}, {\"x\": -4.0041, \"y\": -50.5811, \"z\": -14.7266}, {\"x\": -17.9314, \"y\": -81.6565, \"z\": -21.9015}, {\"x\": -22.7715, \"y\": -84.2057, \"z\": -15.0306}, {\"x\": -30.8805, \"y\": -92.6400, \"z\": -32.2215}, {\"x\": -4.9228, \"y\": 49.2177, \"z\": 10.7663}, {\"x\": -15.1612, \"y\": 74.2056, \"z\": 3.0251}, {\"x\": -18.2676, \"y\": 88.8314, \"z\": -0.2434}, {\"x\": -17.1242, \"y\": 96.5362, \"z\": -9.2747}, {\"x\": -6.0627, \"y\": 4.9565, \"z\": 10.2219}, {\"x\": 2.5433, \"y\": -48.9971, \"z\": 16.3127}, {\"x\": 11.7467, \"y\": -85.4179, \"z\": 13.0919}, {\"x\": 18.9962, \"y\": -91.6682, \"z\": 7.1128}, {\"x\": -2.8986, \"y\": -92.9900, \"z\": 8.6401}, {\"x\": -15.4503, \"y\": 85.0012, \"z\": -1.1060}, {\"x\": 25.6587, \"y\": -14.8319, \"z\": 6.6970}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame285() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.65596344977721, 97.86421174238784, -26.84665682058301),
+                "\"skeletons\": [{\"x\": 2.4151, \"y\": 65.1371, \"z\": -4.6720}, {\"x\": -4.0251, \"y\": 65.2298, \"z\": 4.4626}, {\"x\": -2.9037, \"y\": 15.0727, \"z\": -0.9577}, {\"x\": 16.2457, \"y\": 44.0752, \"z\": -5.9507}, {\"x\": 23.8760, \"y\": 10.1097, \"z\": 1.9642}, {\"x\": 25.7472, \"y\": -2.3191, \"z\": 2.2526}, {\"x\": 27.2534, \"y\": -11.5167, \"z\": 9.1759}, {\"x\": 6.3189, \"y\": 1.9684, \"z\": -4.9939}, {\"x\": -4.1237, \"y\": -50.6381, \"z\": -14.8096}, {\"x\": -18.0473, \"y\": -81.7224, \"z\": -21.9542}, {\"x\": -22.8840, \"y\": -84.2610, \"z\": -15.1012}, {\"x\": -30.9789, \"y\": -92.7046, \"z\": -32.2965}, {\"x\": -4.8736, \"y\": 49.1984, \"z\": 10.6258}, {\"x\": -14.6773, \"y\": 74.4553, \"z\": 3.4439}, {\"x\": -17.4622, \"y\": 89.1959, \"z\": 0.4397}, {\"x\": -16.2882, \"y\": 97.0505, \"z\": -8.4692}, {\"x\": -6.1809, \"y\": 4.9201, \"z\": 10.1488}, {\"x\": 2.4870, \"y\": -49.0463, \"z\": 16.2503}, {\"x\": 11.6664, \"y\": -85.4530, \"z\": 13.0342}, {\"x\": 18.9108, \"y\": -91.7221, \"z\": 7.0323}, {\"x\": -2.9912, \"y\": -93.0606, \"z\": 8.5644}, {\"x\": -14.7639, \"y\": 85.3242, \"z\": -0.5585}, {\"x\": 25.4459, \"y\": -14.9341, \"z\": 6.5834}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame286() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.74283621621473, 97.91919709448200, -26.76883603223153),
+                "\"skeletons\": [{\"x\": 2.2960, \"y\": 65.0635, \"z\": -4.7942}, {\"x\": -4.1412, \"y\": 65.2120, \"z\": 4.2888}, {\"x\": -3.0460, \"y\": 15.0367, \"z\": -1.0474}, {\"x\": 16.0679, \"y\": 43.9778, \"z\": -6.0829}, {\"x\": 23.8344, \"y\": 10.0472, \"z\": 1.8959}, {\"x\": 25.6160, \"y\": -2.4051, \"z\": 2.1528}, {\"x\": 27.1390, \"y\": -11.6218, \"z\": 9.0433}, {\"x\": 6.1850, \"y\": 1.9394, \"z\": -5.0711}, {\"x\": -4.2441, \"y\": -50.6793, \"z\": -14.8933}, {\"x\": -18.1524, \"y\": -81.7810, \"z\": -22.0286}, {\"x\": -22.9712, \"y\": -84.3056, \"z\": -15.1835}, {\"x\": -31.0660, \"y\": -92.7625, \"z\": -32.3732}, {\"x\": -4.7919, \"y\": 49.1757, \"z\": 10.5862}, {\"x\": -14.1662, \"y\": 74.6596, \"z\": 3.8238}, {\"x\": -16.7216, \"y\": 89.4931, \"z\": 1.1346}, {\"x\": -15.4997, \"y\": 97.4887, \"z\": -7.6269}, {\"x\": -6.2963, \"y\": 4.8855, \"z\": 10.0687}, {\"x\": 2.4260, \"y\": -49.0919, \"z\": 16.1867}, {\"x\": 11.5910, \"y\": -85.4890, \"z\": 12.9673}, {\"x\": 18.8202, \"y\": -91.7824, \"z\": 6.9628}, {\"x\": -3.0744, \"y\": -93.1256, \"z\": 8.4874}, {\"x\": -14.1375, \"y\": 85.5817, \"z\": 0.0288}, {\"x\": 25.3096, \"y\": -14.9924, \"z\": 6.4603}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame287() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.82964635986930, 97.96178015781155, -26.69430076360804),
+                "\"skeletons\": [{\"x\": 2.1845, \"y\": 64.9998, \"z\": -4.9295}, {\"x\": -4.1944, \"y\": 65.2611, \"z\": 4.2387}, {\"x\": -3.1846, \"y\": 15.0038, \"z\": -1.1437}, {\"x\": 15.9223, \"y\": 43.9017, \"z\": -6.1944}, {\"x\": 23.7887, \"y\": 9.9976, \"z\": 1.8091}, {\"x\": 25.5082, \"y\": -2.4859, \"z\": 2.0364}, {\"x\": 26.9873, \"y\": -11.7343, \"z\": 8.9123}, {\"x\": 6.0599, \"y\": 1.9169, \"z\": -5.1799}, {\"x\": -4.3362, \"y\": -50.7196, \"z\": -14.9737}, {\"x\": -18.2468, \"y\": -81.8327, \"z\": -22.0994}, {\"x\": -23.0391, \"y\": -84.3627, \"z\": -15.2760}, {\"x\": -31.1568, \"y\": -92.8111, \"z\": -32.4467}, {\"x\": -4.8212, \"y\": 49.1325, \"z\": 10.4991}, {\"x\": -13.6958, \"y\": 74.8542, \"z\": 4.2022}, {\"x\": -15.9924, \"y\": 89.7659, \"z\": 1.8008}, {\"x\": -14.7727, \"y\": 97.9029, \"z\": -6.8575}, {\"x\": -6.4045, \"y\": 4.8498, \"z\": 9.9912}, {\"x\": 2.3521, \"y\": -49.1361, \"z\": 16.1166}, {\"x\": 11.5032, \"y\": -85.5444, \"z\": 12.8917}, {\"x\": 18.7369, \"y\": -91.8308, \"z\": 6.8903}, {\"x\": -3.1513, \"y\": -93.1789, \"z\": 8.4092}, {\"x\": -13.5125, \"y\": 85.8230, \"z\": 0.6107}, {\"x\": 25.1226, \"y\": -15.0740, \"z\": 6.3462}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame288() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.90724065624289, 98.00845192636937, -26.63896061967059),
+                "\"skeletons\": [{\"x\": 2.0963, \"y\": 64.9509, \"z\": -5.0701}, {\"x\": -4.2611, \"y\": 65.3397, \"z\": 3.9639}, {\"x\": -3.2940, \"y\": 14.9830, \"z\": -1.2398}, {\"x\": 15.8061, \"y\": 43.8272, \"z\": -6.2844}, {\"x\": 23.7636, \"y\": 9.9465, \"z\": 1.7350}, {\"x\": 25.4256, \"y\": -2.5711, \"z\": 1.9242}, {\"x\": 26.8463, \"y\": -11.8504, \"z\": 8.7939}, {\"x\": 5.9596, \"y\": 1.8760, \"z\": -5.2761}, {\"x\": -4.4057, \"y\": -50.7719, \"z\": -15.0370}, {\"x\": -18.3274, \"y\": -81.8821, \"z\": -22.1516}, {\"x\": -23.1079, \"y\": -84.4128, \"z\": -15.3411}, {\"x\": -31.2384, \"y\": -92.8609, \"z\": -32.5045}, {\"x\": -4.8512, \"y\": 49.1388, \"z\": 10.3694}, {\"x\": -13.3545, \"y\": 75.0848, \"z\": 4.7132}, {\"x\": -15.3294, \"y\": 90.0695, \"z\": 2.4459}, {\"x\": -14.0858, \"y\": 98.2868, \"z\": -6.1564}, {\"x\": -6.4894, \"y\": 4.8073, \"z\": 9.9292}, {\"x\": 2.2721, \"y\": -49.1856, \"z\": 16.0593}, {\"x\": 11.4277, \"y\": -85.5939, \"z\": 12.8298}, {\"x\": 18.6647, \"y\": -91.8746, \"z\": 6.8266}, {\"x\": -3.2258, \"y\": -93.2242, \"z\": 8.3515}, {\"x\": -12.9814, \"y\": 86.0983, \"z\": 1.1771}, {\"x\": 24.9131, \"y\": -15.1858, \"z\": 6.2613}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame289() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.96415479767184, 98.05060885786332, -26.57539578145215),
+                "\"skeletons\": [{\"x\": 2.0452, \"y\": 64.8942, \"z\": -5.2029}, {\"x\": -4.3067, \"y\": 65.2941, \"z\": 3.7529}, {\"x\": -3.3761, \"y\": 14.9421, \"z\": -1.3177}, {\"x\": 15.7169, \"y\": 43.7410, \"z\": -6.4082}, {\"x\": 23.8345, \"y\": 9.8811, \"z\": 1.6447}, {\"x\": 25.3224, \"y\": -2.6772, \"z\": 1.7722}, {\"x\": 26.7607, \"y\": -11.9539, \"z\": 8.6378}, {\"x\": 5.9033, \"y\": 1.8346, \"z\": -5.3616}, {\"x\": -4.4524, \"y\": -50.8132, \"z\": -15.1034}, {\"x\": -18.3843, \"y\": -81.9237, \"z\": -22.2138}, {\"x\": -23.1723, \"y\": -84.4449, \"z\": -15.4038}, {\"x\": -31.2980, \"y\": -92.8954, \"z\": -32.5690}, {\"x\": -4.8688, \"y\": 49.1656, \"z\": 10.2179}, {\"x\": -13.2026, \"y\": 75.2938, \"z\": 5.2523}, {\"x\": -14.8697, \"y\": 90.4305, \"z\": 3.1139}, {\"x\": -13.4572, \"y\": 98.6808, \"z\": -5.4627}, {\"x\": -6.5414, \"y\": 4.7674, \"z\": 9.8527}, {\"x\": 2.1981, \"y\": -49.2135, \"z\": 15.9878}, {\"x\": 11.3659, \"y\": -85.6303, \"z\": 12.7638}, {\"x\": 18.6049, \"y\": -91.9100, \"z\": 6.7541}, {\"x\": -3.2956, \"y\": -93.2560, \"z\": 8.2948}, {\"x\": -12.6480, \"y\": 86.4128, \"z\": 1.7993}, {\"x\": 24.7448, \"y\": -15.2282, \"z\": 6.1692}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame290() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.00849068258828, 98.07216983046405, -26.50333403417057),
+                "\"skeletons\": [{\"x\": 2.0631, \"y\": 64.8748, \"z\": -5.4379}, {\"x\": -4.2063, \"y\": 65.1387, \"z\": 3.6512}, {\"x\": -3.4250, \"y\": 14.9176, \"z\": -1.4094}, {\"x\": 15.6703, \"y\": 43.6776, \"z\": -6.5371}, {\"x\": 23.9455, \"y\": 9.8072, \"z\": 1.5145}, {\"x\": 25.1724, \"y\": -2.7976, \"z\": 1.6067}, {\"x\": 26.6008, \"y\": -12.1239, \"z\": 8.3749}, {\"x\": 5.8821, \"y\": 1.7975, \"z\": -5.4420}, {\"x\": -4.4794, \"y\": -50.8412, \"z\": -15.1682}, {\"x\": -18.4081, \"y\": -81.9541, \"z\": -22.2896}, {\"x\": -23.2221, \"y\": -84.4720, \"z\": -15.4578}, {\"x\": -31.3426, \"y\": -92.9153, \"z\": -32.6362}, {\"x\": -4.8705, \"y\": 49.2107, \"z\": 10.0398}, {\"x\": -13.1666, \"y\": 75.5191, \"z\": 5.8459}, {\"x\": -14.5791, \"y\": 90.7681, \"z\": 3.8414}, {\"x\": -13.0169, \"y\": 99.0407, \"z\": -4.6315}, {\"x\": -6.5707, \"y\": 4.7481, \"z\": 9.7685}, {\"x\": 2.1429, \"y\": -49.2241, \"z\": 15.9121}, {\"x\": 11.3290, \"y\": -85.6583, \"z\": 12.6964}, {\"x\": 18.5348, \"y\": -91.9472, \"z\": 6.7113}, {\"x\": -3.3453, \"y\": -93.2745, \"z\": 8.2266}, {\"x\": -12.4057, \"y\": 86.7101, \"z\": 2.4929}, {\"x\": 24.4358, \"y\": -15.3532, \"z\": 5.9204}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame291() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.03952082954545, 98.08259525057724, -26.42641054283211),
+                "\"skeletons\": [{\"x\": 2.1091, \"y\": 64.8354, \"z\": -5.6546}, {\"x\": -4.1644, \"y\": 65.0403, \"z\": 3.4720}, {\"x\": -3.4453, \"y\": 14.9016, \"z\": -1.5245}, {\"x\": 15.6535, \"y\": 43.6350, \"z\": -6.6617}, {\"x\": 24.0060, \"y\": 9.7426, \"z\": 1.3790}, {\"x\": 25.0973, \"y\": -2.8758, \"z\": 1.4204}, {\"x\": 26.4804, \"y\": -12.2362, \"z\": 8.1647}, {\"x\": 5.8921, \"y\": 1.7623, \"z\": -5.5142}, {\"x\": -4.4859, \"y\": -50.8641, \"z\": -15.2343}, {\"x\": -18.4279, \"y\": -81.9586, \"z\": -22.3700}, {\"x\": -23.2403, \"y\": -84.4981, \"z\": -15.5417}, {\"x\": -31.3645, \"y\": -92.9309, \"z\": -32.7125}, {\"x\": -4.8743, \"y\": 49.2216, \"z\": 9.9002}, {\"x\": -13.1911, \"y\": 75.6744, \"z\": 6.4270}, {\"x\": -14.4326, \"y\": 90.9988, \"z\": 4.6151}, {\"x\": -12.7206, \"y\": 99.3559, \"z\": -3.7407}, {\"x\": -6.5874, \"y\": 4.7455, \"z\": 9.6718}, {\"x\": 2.0994, \"y\": -49.2437, \"z\": 15.8273}, {\"x\": 11.2754, \"y\": -85.7068, \"z\": 12.6050}, {\"x\": 18.5164, \"y\": -91.9589, \"z\": 6.6329}, {\"x\": -3.3784, \"y\": -93.2860, \"z\": 8.1508}, {\"x\": -12.2561, \"y\": 86.9337, \"z\": 3.2309}, {\"x\": 24.2544, \"y\": -15.4202, \"z\": 5.7524}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame292() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.06278779480887, 98.09095372327624, -26.34823817932794),
+                "\"skeletons\": [{\"x\": 2.1189, \"y\": 64.7825, \"z\": -5.8262}, {\"x\": -4.1750, \"y\": 64.9913, \"z\": 3.2515}, {\"x\": -3.4388, \"y\": 14.8826, \"z\": -1.6547}, {\"x\": 15.6381, \"y\": 43.6028, \"z\": -6.7866}, {\"x\": 24.0691, \"y\": 9.7191, \"z\": 1.2539}, {\"x\": 25.0433, \"y\": -2.9351, \"z\": 1.2303}, {\"x\": 26.3503, \"y\": -12.3200, \"z\": 7.9977}, {\"x\": 5.9172, \"y\": 1.7255, \"z\": -5.5961}, {\"x\": -4.4817, \"y\": -50.8895, \"z\": -15.2960}, {\"x\": -18.4447, \"y\": -81.9683, \"z\": -22.4541}, {\"x\": -23.2752, \"y\": -84.5094, \"z\": -15.6083}, {\"x\": -31.3833, \"y\": -92.9434, \"z\": -32.7933}, {\"x\": -4.8359, \"y\": 49.2150, \"z\": 9.7964}, {\"x\": -13.1805, \"y\": 75.7551, \"z\": 6.9567}, {\"x\": -14.3217, \"y\": 91.0998, \"z\": 5.4330}, {\"x\": -12.5716, \"y\": 99.6252, \"z\": -2.7796}, {\"x\": -6.5878, \"y\": 4.7504, \"z\": 9.5588}, {\"x\": 2.0770, \"y\": -49.2863, \"z\": 15.7225}, {\"x\": 11.2345, \"y\": -85.7372, \"z\": 12.5250}, {\"x\": 18.5182, \"y\": -91.9648, \"z\": 6.5400}, {\"x\": -3.3924, \"y\": -93.2839, \"z\": 8.0625}, {\"x\": -12.1700, \"y\": 87.0466, \"z\": 3.9938}, {\"x\": 24.0723, \"y\": -15.4906, \"z\": 5.6140}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame293() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.07658590026105, 98.08937534421121, -26.27336865666516),
+                "\"skeletons\": [{\"x\": 2.1100, \"y\": 64.7444, \"z\": -5.9831}, {\"x\": -4.2329, \"y\": 64.9760, \"z\": 3.0621}, {\"x\": -3.4189, \"y\": 14.8651, \"z\": -1.7781}, {\"x\": 15.6283, \"y\": 43.5927, \"z\": -6.9210}, {\"x\": 24.1493, \"y\": 9.7158, \"z\": 1.1186}, {\"x\": 24.9157, \"y\": -3.0044, \"z\": 1.0566}, {\"x\": 26.1750, \"y\": -12.4352, \"z\": 7.7833}, {\"x\": 5.9541, \"y\": 1.6868, \"z\": -5.6814}, {\"x\": -4.4735, \"y\": -50.8986, \"z\": -15.3607}, {\"x\": -18.4622, \"y\": -81.9795, \"z\": -22.5216}, {\"x\": -23.2988, \"y\": -84.5030, \"z\": -15.6758}, {\"x\": -31.3969, \"y\": -92.9436, \"z\": -32.8707}, {\"x\": -4.7230, \"y\": 49.1688, \"z\": 9.6891}, {\"x\": -12.9950, \"y\": 75.8110, \"z\": 7.4050}, {\"x\": -14.1970, \"y\": 91.1189, \"z\": 6.2449}, {\"x\": -12.5707, \"y\": 99.8725, \"z\": -1.7767}, {\"x\": -6.5675, \"y\": 4.7620, \"z\": 9.4426}, {\"x\": 2.0455, \"y\": -49.3191, \"z\": 15.6373}, {\"x\": 11.2154, \"y\": -85.7512, \"z\": 12.4602}, {\"x\": 18.5099, \"y\": -91.9773, \"z\": 6.4700}, {\"x\": -3.3964, \"y\": -93.2659, \"z\": 7.9877}, {\"x\": -12.0635, \"y\": 87.1134, \"z\": 4.6849}, {\"x\": 23.8118, \"y\": -15.5969, \"z\": 5.4293}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame294() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.08957168716215, 98.07592843267517, -26.22048638555602),
+                "\"skeletons\": [{\"x\": 2.0665, \"y\": 64.7169, \"z\": -6.0958}, {\"x\": -4.3770, \"y\": 64.9759, \"z\": 2.8385}, {\"x\": -3.3895, \"y\": 14.8423, \"z\": -1.8863}, {\"x\": 15.6147, \"y\": 43.6046, \"z\": -7.0334}, {\"x\": 24.2192, \"y\": 9.6943, \"z\": 0.9614}, {\"x\": 24.8180, \"y\": -3.0401, \"z\": 0.9086}, {\"x\": 26.0553, \"y\": -12.4904, \"z\": 7.5766}, {\"x\": 5.9911, \"y\": 1.6735, \"z\": -5.7378}, {\"x\": -4.4628, \"y\": -50.8939, \"z\": -15.4082}, {\"x\": -18.4729, \"y\": -81.9823, \"z\": -22.5722}, {\"x\": -23.3079, \"y\": -84.4887, \"z\": -15.7273}, {\"x\": -31.4047, \"y\": -92.9305, \"z\": -32.9297}, {\"x\": -4.6041, \"y\": 49.1011, \"z\": 9.6048}, {\"x\": -12.7506, \"y\": 75.7576, \"z\": 7.7630}, {\"x\": -13.9907, \"y\": 91.1069, \"z\": 6.9730}, {\"x\": -12.6373, \"y\": 100.0642, \"z\": -0.8589}, {\"x\": -6.5491, \"y\": 4.7558, \"z\": 9.3402}, {\"x\": 1.9463, \"y\": -49.2853, \"z\": 15.5557}, {\"x\": 11.1846, \"y\": -85.7629, \"z\": 12.4053}, {\"x\": 18.5014, \"y\": -91.9734, \"z\": 6.4156}, {\"x\": -3.3820, \"y\": -93.2558, \"z\": 7.9284}, {\"x\": -11.9084, \"y\": 87.1536, \"z\": 5.2439}, {\"x\": 23.5871, \"y\": -15.5741, \"z\": 5.2879}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame295() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.11630692856550, 98.05539438912379, -26.17909145526617),
+                "\"skeletons\": [{\"x\": 1.9666, \"y\": 64.7073, \"z\": -6.2077}, {\"x\": -4.4941, \"y\": 64.9654, \"z\": 2.6721}, {\"x\": -3.3841, \"y\": 14.8160, \"z\": -1.9645}, {\"x\": 15.5911, \"y\": 43.6230, \"z\": -7.1302}, {\"x\": 24.2939, \"y\": 9.6734, \"z\": 0.7918}, {\"x\": 24.6736, \"y\": -3.0878, \"z\": 0.7171}, {\"x\": 25.9223, \"y\": -12.5309, \"z\": 7.3692}, {\"x\": 5.9950, \"y\": 1.6943, \"z\": -5.7671}, {\"x\": -4.4697, \"y\": -50.9018, \"z\": -15.4546}, {\"x\": -18.4835, \"y\": -81.9788, \"z\": -22.6079}, {\"x\": -23.3172, \"y\": -84.4837, \"z\": -15.7685}, {\"x\": -31.4217, \"y\": -92.9111, \"z\": -32.9675}, {\"x\": -4.5144, \"y\": 49.0378, \"z\": 9.5552}, {\"x\": -12.4499, \"y\": 75.7825, \"z\": 8.0970}, {\"x\": -13.6551, \"y\": 91.0666, \"z\": 7.6196}, {\"x\": -12.6750, \"y\": 100.1948, \"z\": -0.0842}, {\"x\": -6.5406, \"y\": 4.7521, \"z\": 9.2449}, {\"x\": 1.8758, \"y\": -49.2690, \"z\": 15.4879}, {\"x\": 11.1413, \"y\": -85.7861, \"z\": 12.3906}, {\"x\": 18.4795, \"y\": -91.9599, \"z\": 6.3742}, {\"x\": -3.3951, \"y\": -93.2339, \"z\": 7.8841}, {\"x\": -11.6912, \"y\": 87.1519, \"z\": 5.6846}, {\"x\": 23.3587, \"y\": -15.5460, \"z\": 5.1150}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame296() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.14859350374577, 98.04137253063188, -26.15676803495593),
+                "\"skeletons\": [{\"x\": 1.8355, \"y\": 64.7091, \"z\": -6.3328}, {\"x\": -4.6275, \"y\": 64.9377, \"z\": 2.5939}, {\"x\": -3.3677, \"y\": 14.8143, \"z\": -2.0388}, {\"x\": 15.5738, \"y\": 43.6400, \"z\": -7.2163}, {\"x\": 24.3821, \"y\": 9.6619, \"z\": 0.6367}, {\"x\": 24.5710, \"y\": -3.1185, \"z\": 0.5561}, {\"x\": 25.8160, \"y\": -12.5525, \"z\": 7.2186}, {\"x\": 6.0240, \"y\": 1.7109, \"z\": -5.8104}, {\"x\": -4.4759, \"y\": -50.9124, \"z\": -15.4761}, {\"x\": -18.4683, \"y\": -81.9644, \"z\": -22.6269}, {\"x\": -23.3429, \"y\": -84.4846, \"z\": -15.7868}, {\"x\": -31.4441, \"y\": -92.8997, \"z\": -32.9868}, {\"x\": -4.3837, \"y\": 49.0367, \"z\": 9.5371}, {\"x\": -12.2424, \"y\": 75.6937, \"z\": 8.2864}, {\"x\": -13.3171, \"y\": 91.0229, \"z\": 8.1732}, {\"x\": -12.7075, \"y\": 100.3034, \"z\": 0.5621}, {\"x\": -6.5493, \"y\": 4.7595, \"z\": 9.1759}, {\"x\": 1.8516, \"y\": -49.2731, \"z\": 15.4306}, {\"x\": 11.1075, \"y\": -85.7597, \"z\": 12.3540}, {\"x\": 18.4479, \"y\": -91.9514, \"z\": 6.3580}, {\"x\": -3.4237, \"y\": -93.2074, \"z\": 7.8575}, {\"x\": -11.5260, \"y\": 87.1406, \"z\": 6.0791}, {\"x\": 23.1542, \"y\": -15.5553, \"z\": 5.0308}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame297() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.18461621772602, 98.03288405890774, -26.13607580974389),
+                "\"skeletons\": [{\"x\": 1.7163, \"y\": 64.6907, \"z\": -6.4028}, {\"x\": -4.7670, \"y\": 64.9019, \"z\": 2.5189}, {\"x\": -3.3642, \"y\": 14.8131, \"z\": -2.1129}, {\"x\": 15.5403, \"y\": 43.6557, \"z\": -7.3185}, {\"x\": 24.4138, \"y\": 9.6684, \"z\": 0.5340}, {\"x\": 24.5575, \"y\": -3.0860, \"z\": 0.4546}, {\"x\": 25.7871, \"y\": -12.5532, \"z\": 7.1122}, {\"x\": 6.0584, \"y\": 1.7246, \"z\": -5.8812}, {\"x\": -4.4784, \"y\": -50.9161, \"z\": -15.4812}, {\"x\": -18.4761, \"y\": -81.9578, \"z\": -22.6434}, {\"x\": -23.3683, \"y\": -84.4789, \"z\": -15.8099}, {\"x\": -31.4693, \"y\": -92.8852, \"z\": -33.0059}, {\"x\": -4.2330, \"y\": 49.0144, \"z\": 9.5161}, {\"x\": -12.0044, \"y\": 75.6525, \"z\": 8.4721}, {\"x\": -13.0233, \"y\": 90.9677, \"z\": 8.6405}, {\"x\": -12.7778, \"y\": 100.4111, \"z\": 1.1580}, {\"x\": -6.5553, \"y\": 4.7552, \"z\": 9.1192}, {\"x\": 1.8191, \"y\": -49.2709, \"z\": 15.3957}, {\"x\": 11.0650, \"y\": -85.7694, \"z\": 12.3457}, {\"x\": 18.4155, \"y\": -91.9447, \"z\": 6.3403}, {\"x\": -3.4520, \"y\": -93.1926, \"z\": 7.8318}, {\"x\": -11.3583, \"y\": 87.1394, \"z\": 6.4052}, {\"x\": 23.0439, \"y\": -15.5552, \"z\": 4.9850}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame298() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.22216851398657, 98.03404275218041, -26.11436118869722),
+                "\"skeletons\": [{\"x\": 1.5982, \"y\": 64.6993, \"z\": -6.4759}, {\"x\": -4.9047, \"y\": 64.8853, \"z\": 2.4244}, {\"x\": -3.3834, \"y\": 14.8035, \"z\": -2.1500}, {\"x\": 15.4866, \"y\": 43.6644, \"z\": -7.4084}, {\"x\": 24.4530, \"y\": 9.7037, \"z\": 0.4232}, {\"x\": 24.5718, \"y\": -3.0562, \"z\": 0.3715}, {\"x\": 25.8459, \"y\": -12.5207, \"z\": 6.9967}, {\"x\": 6.0210, \"y\": 1.7032, \"z\": -5.9088}, {\"x\": -4.4745, \"y\": -50.9199, \"z\": -15.5256}, {\"x\": -18.4980, \"y\": -81.9579, \"z\": -22.6574}, {\"x\": -23.3907, \"y\": -84.4744, \"z\": -15.8352}, {\"x\": -31.4975, \"y\": -92.8799, \"z\": -33.0230}, {\"x\": -4.1454, \"y\": 48.9857, \"z\": 9.4738}, {\"x\": -11.7997, \"y\": 75.6914, \"z\": 8.6859}, {\"x\": -12.7087, \"y\": 90.8985, \"z\": 9.0383}, {\"x\": -12.8180, \"y\": 100.4685, \"z\": 1.6834}, {\"x\": -6.5540, \"y\": 4.7525, \"z\": 9.0829}, {\"x\": 1.7873, \"y\": -49.2696, \"z\": 15.3764}, {\"x\": 11.0417, \"y\": -85.7736, \"z\": 12.3291}, {\"x\": 18.3863, \"y\": -91.9416, \"z\": 6.3201}, {\"x\": -3.4781, \"y\": -93.1880, \"z\": 7.8067}, {\"x\": -11.1525, \"y\": 87.1163, \"z\": 6.6680}, {\"x\": 23.1187, \"y\": -15.5017, \"z\": 4.8743}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame299() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.24436183873245, 98.04101666447528, -26.10330188496348),
+                "\"skeletons\": [{\"x\": 1.5021, \"y\": 64.7101, \"z\": -6.5631}, {\"x\": -5.0252, \"y\": 64.8658, \"z\": 2.3661}, {\"x\": -3.3972, \"y\": 14.8074, \"z\": -2.1752}, {\"x\": 15.4359, \"y\": 43.6709, \"z\": -7.4904}, {\"x\": 24.5083, \"y\": 9.7342, \"z\": 0.3229}, {\"x\": 24.5775, \"y\": -3.0637, \"z\": 0.2935}, {\"x\": 25.8579, \"y\": -12.4957, \"z\": 6.9195}, {\"x\": 6.0339, \"y\": 1.7093, \"z\": -5.9967}, {\"x\": -4.4844, \"y\": -50.9217, \"z\": -15.5715}, {\"x\": -18.5225, \"y\": -81.9592, \"z\": -22.6815}, {\"x\": -23.4132, \"y\": -84.4756, \"z\": -15.8494}, {\"x\": -31.5251, \"y\": -92.8813, \"z\": -33.0337}, {\"x\": -4.1232, \"y\": 48.9486, \"z\": 9.4396}, {\"x\": -11.6286, \"y\": 75.6272, \"z\": 8.7589}, {\"x\": -12.4637, \"y\": 90.8793, \"z\": 9.4013}, {\"x\": -12.8498, \"y\": 100.5075, \"z\": 2.1289}, {\"x\": -6.5441, \"y\": 4.7496, \"z\": 9.0770}, {\"x\": 1.7752, \"y\": -49.2720, \"z\": 15.3744}, {\"x\": 11.0172, \"y\": -85.7895, \"z\": 12.3164}, {\"x\": 18.3695, \"y\": -91.9486, \"z\": 6.3060}, {\"x\": -3.5007, \"y\": -93.1862, \"z\": 7.7900}, {\"x\": -11.0292, \"y\": 87.1052, \"z\": 6.9269}, {\"x\": 23.1076, \"y\": -15.4731, \"z\": 4.8278}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame300() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.25752003073540, 98.04339051252762, -26.09991952625739),
+                "\"skeletons\": [{\"x\": 1.3942, \"y\": 64.7066, \"z\": -6.6335}, {\"x\": -5.1277, \"y\": 64.8491, \"z\": 2.3019}, {\"x\": -3.4059, \"y\": 14.8053, \"z\": -2.1917}, {\"x\": 15.3852, \"y\": 43.6764, \"z\": -7.5605}, {\"x\": 24.5950, \"y\": 9.7737, \"z\": 0.2526}, {\"x\": 24.5725, \"y\": -3.0446, \"z\": 0.2332}, {\"x\": 25.8508, \"y\": -12.4734, \"z\": 6.8575}, {\"x\": 6.0120, \"y\": 1.6962, \"z\": -6.0226}, {\"x\": -4.5058, \"y\": -50.9355, \"z\": -15.5896}, {\"x\": -18.5418, \"y\": -81.9603, \"z\": -22.6958}, {\"x\": -23.4279, \"y\": -84.4773, \"z\": -15.8525}, {\"x\": -31.5435, \"y\": -92.8956, \"z\": -33.0408}, {\"x\": -4.1069, \"y\": 48.9125, \"z\": 9.4363}, {\"x\": -11.5226, \"y\": 75.5882, \"z\": 8.8345}, {\"x\": -12.2162, \"y\": 90.8507, \"z\": 9.6344}, {\"x\": -12.8369, \"y\": 100.5469, \"z\": 2.4754}, {\"x\": -6.5207, \"y\": 4.7562, \"z\": 9.0890}, {\"x\": 1.7643, \"y\": -49.2684, \"z\": 15.3718}, {\"x\": 11.0008, \"y\": -85.7633, \"z\": 12.2932}, {\"x\": 18.3464, \"y\": -91.9703, \"z\": 6.3087}, {\"x\": -3.5146, \"y\": -93.1839, \"z\": 7.7844}, {\"x\": -10.9373, \"y\": 87.1034, \"z\": 7.0786}, {\"x\": 23.0832, \"y\": -15.4411, \"z\": 4.7830}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame301() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.26874900298798, 98.04468117233621, -26.10102477606209),
+                "\"skeletons\": [{\"x\": 1.2827, \"y\": 64.6935, \"z\": -6.6773}, {\"x\": -5.2255, \"y\": 64.8114, \"z\": 2.2624}, {\"x\": -3.4184, \"y\": 14.8043, \"z\": -2.2060}, {\"x\": 15.3428, \"y\": 43.6902, \"z\": -7.6015}, {\"x\": 24.6777, \"y\": 9.8246, \"z\": 0.2168}, {\"x\": 24.5664, \"y\": -3.0191, \"z\": 0.2031}, {\"x\": 25.8190, \"y\": -12.4639, \"z\": 6.8206}, {\"x\": 5.9835, \"y\": 1.6905, \"z\": -6.0550}, {\"x\": -4.5106, \"y\": -50.9265, \"z\": -15.6219}, {\"x\": -18.5532, \"y\": -81.9596, \"z\": -22.7025}, {\"x\": -23.4386, \"y\": -84.4797, \"z\": -15.8504}, {\"x\": -31.5583, \"y\": -92.8999, \"z\": -33.0419}, {\"x\": -4.0939, \"y\": 48.8667, \"z\": 9.4470}, {\"x\": -11.3932, \"y\": 75.5822, \"z\": 8.9744}, {\"x\": -11.9377, \"y\": 90.8446, \"z\": 9.8021}, {\"x\": -12.7770, \"y\": 100.5508, \"z\": 2.6697}, {\"x\": -6.5071, \"y\": 4.7565, \"z\": 9.0937}, {\"x\": 1.7945, \"y\": -49.3043, \"z\": 15.3957}, {\"x\": 10.9935, \"y\": -85.7629, \"z\": 12.2742}, {\"x\": 18.2908, \"y\": -92.0125, \"z\": 6.3307}, {\"x\": -3.5281, \"y\": -93.1823, \"z\": 7.7842}, {\"x\": -10.7796, \"y\": 87.1054, \"z\": 7.2243}, {\"x\": 23.0186, \"y\": -15.4178, \"z\": 4.7568}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame302() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.28464764011425, 98.04648909917111, -26.10497365473855),
+                "\"skeletons\": [{\"x\": 1.1766, \"y\": 64.6892, \"z\": -6.7113}, {\"x\": -5.3213, \"y\": 64.7911, \"z\": 2.2257}, {\"x\": -3.4514, \"y\": 14.8002, \"z\": -2.2267}, {\"x\": 15.2627, \"y\": 43.7088, \"z\": -7.6489}, {\"x\": 24.7664, \"y\": 9.8969, \"z\": 0.1570}, {\"x\": 24.5589, \"y\": -2.9950, \"z\": 0.1834}, {\"x\": 25.7587, \"y\": -12.4313, \"z\": 6.8133}, {\"x\": 5.9521, \"y\": 1.6893, \"z\": -6.0918}, {\"x\": -4.5180, \"y\": -50.9271, \"z\": -15.6367}, {\"x\": -18.5657, \"y\": -81.9725, \"z\": -22.6956}, {\"x\": -23.4444, \"y\": -84.4833, \"z\": -15.8455}, {\"x\": -31.5744, \"y\": -92.9065, \"z\": -33.0311}, {\"x\": -4.0883, \"y\": 48.8280, \"z\": 9.4633}, {\"x\": -11.2851, \"y\": 75.5773, \"z\": 9.0931}, {\"x\": -11.6387, \"y\": 90.8145, \"z\": 9.9473}, {\"x\": -12.6580, \"y\": 100.5267, \"z\": 2.7913}, {\"x\": -6.5085, \"y\": 4.7479, \"z\": 9.0944}, {\"x\": 1.8067, \"y\": -49.3128, \"z\": 15.4138}, {\"x\": 10.9957, \"y\": -85.7789, \"z\": 12.3068}, {\"x\": 18.3236, \"y\": -91.9771, \"z\": 6.3080}, {\"x\": -3.5509, \"y\": -93.1672, \"z\": 7.7880}, {\"x\": -10.5389, \"y\": 87.0959, \"z\": 7.3437}, {\"x\": 22.9398, \"y\": -15.3965, \"z\": 4.7650}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame303() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.30053882945159, 98.04913980794265, -26.12533109956283),
+                "\"skeletons\": [{\"x\": 1.0629, \"y\": 64.6653, \"z\": -6.7281}, {\"x\": -5.4397, \"y\": 64.7577, \"z\": 2.1922}, {\"x\": -3.4953, \"y\": 14.7919, \"z\": -2.2408}, {\"x\": 15.1549, \"y\": 43.7194, \"z\": -7.6651}, {\"x\": 24.8263, \"y\": 9.9565, \"z\": 0.1068}, {\"x\": 24.5539, \"y\": -2.9553, \"z\": 0.1681}, {\"x\": 25.7259, \"y\": -12.3927, \"z\": 6.8050}, {\"x\": 5.9236, \"y\": 1.6910, \"z\": -6.0979}, {\"x\": -4.5143, \"y\": -50.9207, \"z\": -15.6366}, {\"x\": -18.5700, \"y\": -81.9843, \"z\": -22.6742}, {\"x\": -23.4457, \"y\": -84.4776, \"z\": -15.8304}, {\"x\": -31.5883, \"y\": -92.9139, \"z\": -33.0112}, {\"x\": -4.0575, \"y\": 48.8176, \"z\": 9.4942}, {\"x\": -11.1402, \"y\": 75.5223, \"z\": 9.1554}, {\"x\": -11.4119, \"y\": 90.8499, \"z\": 9.9682}, {\"x\": -12.5247, \"y\": 100.4976, \"z\": 2.7828}, {\"x\": -6.5213, \"y\": 4.7548, \"z\": 9.0984}, {\"x\": 1.7633, \"y\": -49.2531, \"z\": 15.3952}, {\"x\": 10.9876, \"y\": -85.7993, \"z\": 12.3288}, {\"x\": 18.3212, \"y\": -91.9793, \"z\": 6.3217}, {\"x\": -3.5633, \"y\": -93.1661, \"z\": 7.8055}, {\"x\": -10.4023, \"y\": 87.0702, \"z\": 7.3506}, {\"x\": 22.8989, \"y\": -15.3418, \"z\": 4.7614}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame304() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.31151284274324, 98.05080774774675, -26.16207159044573),
+                "\"skeletons\": [{\"x\": 0.9297, \"y\": 64.6465, \"z\": -6.7139}, {\"x\": -5.6034, \"y\": 64.7410, \"z\": 2.1879}, {\"x\": -3.5434, \"y\": 14.7954, \"z\": -2.2284}, {\"x\": 15.0814, \"y\": 43.7590, \"z\": -7.7162}, {\"x\": 24.8311, \"y\": 9.9867, \"z\": 0.0547}, {\"x\": 24.5064, \"y\": -2.9070, \"z\": 0.1164}, {\"x\": 25.7509, \"y\": -12.3515, \"z\": 6.7603}, {\"x\": 5.8948, \"y\": 1.6992, \"z\": -6.0917}, {\"x\": -4.5312, \"y\": -50.9228, \"z\": -15.6164}, {\"x\": -18.5810, \"y\": -81.9839, \"z\": -22.6394}, {\"x\": -23.4524, \"y\": -84.4766, \"z\": -15.7933}, {\"x\": -31.5922, \"y\": -92.9139, \"z\": -32.9795}, {\"x\": -4.0159, \"y\": 48.8175, \"z\": 9.5365}, {\"x\": -11.0076, \"y\": 75.5310, \"z\": 9.2904}, {\"x\": -11.1331, \"y\": 90.8439, \"z\": 9.8914}, {\"x\": -12.2880, \"y\": 100.4582, \"z\": 2.5990}, {\"x\": -6.5255, \"y\": 4.7634, \"z\": 9.1131}, {\"x\": 1.7484, \"y\": -49.2532, \"z\": 15.4100}, {\"x\": 10.9876, \"y\": -85.7598, \"z\": 12.3417}, {\"x\": 18.3054, \"y\": -92.0003, \"z\": 6.3497}, {\"x\": -3.5564, \"y\": -93.1852, \"z\": 7.8456}, {\"x\": -10.2986, \"y\": 86.9789, \"z\": 7.2904}, {\"x\": 22.9550, \"y\": -15.2606, \"z\": 4.7038}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame305() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.31622810881443, 98.04582418041507, -26.20564781560664),
+                "\"skeletons\": [{\"x\": 0.7703, \"y\": 64.6264, \"z\": -6.6644}, {\"x\": -5.7539, \"y\": 64.7325, \"z\": 2.1979}, {\"x\": -3.6031, \"y\": 14.7959, \"z\": -2.2027}, {\"x\": 14.9643, \"y\": 43.8092, \"z\": -7.7318}, {\"x\": 24.8071, \"y\": 10.0198, \"z\": -0.0123}, {\"x\": 24.4120, \"y\": -2.8659, \"z\": 0.0694}, {\"x\": 25.7544, \"y\": -12.3364, \"z\": 6.6760}, {\"x\": 5.8534, \"y\": 1.7069, \"z\": -6.0792}, {\"x\": -4.5373, \"y\": -50.9178, \"z\": -15.5818}, {\"x\": -18.5929, \"y\": -81.9785, \"z\": -22.5985}, {\"x\": -23.4680, \"y\": -84.4805, \"z\": -15.7514}, {\"x\": -31.6120, \"y\": -92.9158, \"z\": -32.9331}, {\"x\": -3.9527, \"y\": 48.8082, \"z\": 9.6000}, {\"x\": -10.9312, \"y\": 75.5141, \"z\": 9.4037}, {\"x\": -10.7483, \"y\": 90.9115, \"z\": 9.7625}, {\"x\": -11.8583, \"y\": 100.3641, \"z\": 2.2645}, {\"x\": -6.5499, \"y\": 4.7564, \"z\": 9.1307}, {\"x\": 1.7252, \"y\": -49.2466, \"z\": 15.4349}, {\"x\": 10.9745, \"y\": -85.7607, \"z\": 12.3780}, {\"x\": 18.2997, \"y\": -91.9846, \"z\": 6.4010}, {\"x\": -3.5657, \"y\": -93.1740, \"z\": 7.8874}, {\"x\": -9.9674, \"y\": 87.0297, \"z\": 7.2701}, {\"x\": 22.8916, \"y\": -15.2428, \"z\": 4.6891}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame306() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.31942526241759, 98.03357086013746, -26.26602919015581),
+                "\"skeletons\": [{\"x\": 0.6203, \"y\": 64.6508, \"z\": -6.6332}, {\"x\": -5.8699, \"y\": 64.7486, \"z\": 2.2456}, {\"x\": -3.6551, \"y\": 14.7987, \"z\": -2.1513}, {\"x\": 14.8436, \"y\": 43.8510, \"z\": -7.7157}, {\"x\": 24.7911, \"y\": 10.0516, \"z\": -0.0380}, {\"x\": 24.3076, \"y\": -2.8213, \"z\": 0.0431}, {\"x\": 25.6514, \"y\": -12.2677, \"z\": 6.6462}, {\"x\": 5.8209, \"y\": 1.7322, \"z\": -6.0469}, {\"x\": -4.5473, \"y\": -50.8945, \"z\": -15.5273}, {\"x\": -18.6055, \"y\": -81.9587, \"z\": -22.5448}, {\"x\": -23.4797, \"y\": -84.4788, \"z\": -15.6918}, {\"x\": -31.6222, \"y\": -92.9151, \"z\": -32.8682}, {\"x\": -3.9411, \"y\": 48.7920, \"z\": 9.6730}, {\"x\": -10.8662, \"y\": 75.4731, \"z\": 9.5487}, {\"x\": -10.2960, \"y\": 90.9125, \"z\": 9.4762}, {\"x\": -11.2518, \"y\": 100.2038, \"z\": 1.7475}, {\"x\": -6.6019, \"y\": 4.7565, \"z\": 9.1635}, {\"x\": 1.7022, \"y\": -49.2420, \"z\": 15.4795}, {\"x\": 10.9520, \"y\": -85.7762, \"z\": 12.4221}, {\"x\": 18.2935, \"y\": -91.9766, \"z\": 6.4580}, {\"x\": -3.5768, \"y\": -93.1566, \"z\": 7.9445}, {\"x\": -9.6175, \"y\": 86.9676, \"z\": 7.0585}, {\"x\": 22.6920, \"y\": -15.0895, \"z\": 4.7452}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame307() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.35374886970794, 98.02034762870041, -26.34355252110453),
+                "\"skeletons\": [{\"x\": 0.4735, \"y\": 64.6685, \"z\": -6.5813}, {\"x\": -6.0136, \"y\": 64.7945, \"z\": 2.3228}, {\"x\": -3.7341, \"y\": 14.8102, \"z\": -2.0686}, {\"x\": 14.7299, \"y\": 43.8823, \"z\": -7.6640}, {\"x\": 24.8230, \"y\": 10.1133, \"z\": -0.0444}, {\"x\": 24.1762, \"y\": -2.7642, \"z\": 0.0450}, {\"x\": 25.6132, \"y\": -12.2269, \"z\": 6.5466}, {\"x\": 5.7576, \"y\": 1.7636, \"z\": -5.9912}, {\"x\": -4.5899, \"y\": -50.8800, \"z\": -15.4448}, {\"x\": -18.6482, \"y\": -81.9463, \"z\": -22.4729}, {\"x\": -23.5136, \"y\": -84.4657, \"z\": -15.6175}, {\"x\": -31.6550, \"y\": -92.9011, \"z\": -32.7979}, {\"x\": -3.9663, \"y\": 48.7648, \"z\": 9.7590}, {\"x\": -10.7471, \"y\": 75.5334, \"z\": 9.8289}, {\"x\": -9.7042, \"y\": 90.9564, \"z\": 9.0440}, {\"x\": -10.4379, \"y\": 99.9530, \"z\": 0.9455}, {\"x\": -6.6787, \"y\": 4.7576, \"z\": 9.2145}, {\"x\": 1.6581, \"y\": -49.2272, \"z\": 15.5434}, {\"x\": 10.9249, \"y\": -85.7812, \"z\": 12.5318}, {\"x\": 18.2578, \"y\": -91.9865, \"z\": 6.5235}, {\"x\": -3.6027, \"y\": -93.1464, \"z\": 8.0233}, {\"x\": -9.2617, \"y\": 86.9107, \"z\": 6.8227}, {\"x\": 22.5202, \"y\": -15.0208, \"z\": 4.7809}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame308() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.39640396421773, 97.98366705356217, -26.42117090808769),
+                "\"skeletons\": [{\"x\": 0.2973, \"y\": 64.7075, \"z\": -6.5111}, {\"x\": -6.2967, \"y\": 64.7901, \"z\": 2.3612}, {\"x\": -3.8240, \"y\": 14.8326, \"z\": -2.0025}, {\"x\": 14.6236, \"y\": 43.9494, \"z\": -7.5956}, {\"x\": 24.8797, \"y\": 10.2244, \"z\": -0.0734}, {\"x\": 24.0640, \"y\": -2.6876, \"z\": 0.0666}, {\"x\": 25.4802, \"y\": -12.2189, \"z\": 6.5252}, {\"x\": 5.6822, \"y\": 1.8057, \"z\": -5.9154}, {\"x\": -4.6509, \"y\": -50.8498, \"z\": -15.3538}, {\"x\": -18.7060, \"y\": -81.9243, \"z\": -22.3880}, {\"x\": -23.5609, \"y\": -84.4270, \"z\": -15.5324}, {\"x\": -31.6908, \"y\": -92.8657, \"z\": -32.7225}, {\"x\": -4.0190, \"y\": 48.7513, \"z\": 9.8480}, {\"x\": -10.7680, \"y\": 75.5254, \"z\": 10.0653}, {\"x\": -8.9045, \"y\": 90.9508, \"z\": 8.5102}, {\"x\": -9.3794, \"y\": 99.5270, \"z\": -0.0644}, {\"x\": -6.7684, \"y\": 4.7916, \"z\": 9.2801}, {\"x\": 1.5752, \"y\": -49.1542, \"z\": 15.6107}, {\"x\": 10.8891, \"y\": -85.7275, \"z\": 12.6178}, {\"x\": 18.2241, \"y\": -91.9260, \"z\": 6.6188}, {\"x\": -3.6414, \"y\": -93.1157, \"z\": 8.1070}, {\"x\": -8.6721, \"y\": 86.8009, \"z\": 6.5715}, {\"x\": 22.2748, \"y\": -15.0496, \"z\": 4.8405}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame309() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.45682635234733, 97.92632548704552, -26.50143427510404),
+                "\"skeletons\": [{\"x\": 0.0902, \"y\": 64.7467, \"z\": -6.4111}, {\"x\": -6.5171, \"y\": 64.8178, \"z\": 2.4578}, {\"x\": -3.9577, \"y\": 14.8625, \"z\": -1.9472}, {\"x\": 14.4447, \"y\": 44.0278, \"z\": -7.5036}, {\"x\": 24.8735, \"y\": 10.3473, \"z\": -0.0464}, {\"x\": 23.9462, \"y\": -2.5855, \"z\": 0.1412}, {\"x\": 25.4199, \"y\": -12.1154, \"z\": 6.5211}, {\"x\": 5.5737, \"y\": 1.8577, \"z\": -5.8272}, {\"x\": -4.7221, \"y\": -50.7825, \"z\": -15.2755}, {\"x\": -18.7688, \"y\": -81.8651, \"z\": -22.3044}, {\"x\": -23.6323, \"y\": -84.3799, \"z\": -15.4572}, {\"x\": -31.7578, \"y\": -92.8140, \"z\": -32.6383}, {\"x\": -4.1002, \"y\": 48.7617, \"z\": 9.9358}, {\"x\": -10.6386, \"y\": 75.6264, \"z\": 10.4157}, {\"x\": -8.0168, \"y\": 90.8072, \"z\": 7.8169}, {\"x\": -8.1022, \"y\": 98.8855, \"z\": -1.2123}, {\"x\": -6.8926, \"y\": 4.8314, \"z\": 9.3638}, {\"x\": 1.5079, \"y\": -49.1327, \"z\": 15.6902}, {\"x\": 10.8135, \"y\": -85.6611, \"z\": 12.6547}, {\"x\": 18.1208, \"y\": -91.8855, \"z\": 6.7394}, {\"x\": -3.7204, \"y\": -93.0408, \"z\": 8.1797}, {\"x\": -8.1134, \"y\": 86.5227, \"z\": 6.1282}, {\"x\": 22.1823, \"y\": -14.9239, \"z\": 4.8774}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame310() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.51981026114137, 97.85776005813781, -26.57293267281833),
+                "\"skeletons\": [{\"x\": -0.0945, \"y\": 64.8111, \"z\": -6.3193}, {\"x\": -6.7067, \"y\": 64.8623, \"z\": 2.5300}, {\"x\": -4.0998, \"y\": 14.9071, \"z\": -1.8895}, {\"x\": 14.1522, \"y\": 44.0970, \"z\": -7.4463}, {\"x\": 24.8489, \"y\": 10.4927, \"z\": 0.0329}, {\"x\": 23.7955, \"y\": -2.4481, \"z\": 0.2415}, {\"x\": 25.3294, \"y\": -11.9638, \"z\": 6.6509}, {\"x\": 5.4426, \"y\": 1.9163, \"z\": -5.7408}, {\"x\": -4.8082, \"y\": -50.7078, \"z\": -15.1833}, {\"x\": -18.8529, \"y\": -81.8020, \"z\": -22.2286}, {\"x\": -23.7095, \"y\": -84.3194, \"z\": -15.3769}, {\"x\": -31.8314, \"y\": -92.7558, \"z\": -32.5651}, {\"x\": -4.2088, \"y\": 48.7896, \"z\": 10.0104}, {\"x\": -10.5164, \"y\": 75.6430, \"z\": 10.7547}, {\"x\": -7.1013, \"y\": 90.5754, \"z\": 7.1458}, {\"x\": -6.7092, \"y\": 98.0428, \"z\": -2.4695}, {\"x\": -7.0379, \"y\": 4.8839, \"z\": 9.4154}, {\"x\": 1.4213, \"y\": -49.0822, \"z\": 15.7439}, {\"x\": 10.7394, \"y\": -85.6127, \"z\": 12.7817}, {\"x\": 18.0929, \"y\": -91.7989, \"z\": 6.7692}, {\"x\": -3.7834, \"y\": -92.9703, \"z\": 8.2494}, {\"x\": -7.4066, \"y\": 86.1975, \"z\": 5.7419}, {\"x\": 22.1362, \"y\": -14.7154, \"z\": 5.0328}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame311() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.57395981248167, 97.78695630492643, -26.62126857254585),
+                "\"skeletons\": [{\"x\": -0.3075, \"y\": 64.8758, \"z\": -6.2586}, {\"x\": -6.9031, \"y\": 64.9173, \"z\": 2.5412}, {\"x\": -4.2747, \"y\": 14.9682, \"z\": -1.8220}, {\"x\": 13.9614, \"y\": 44.1809, \"z\": -7.4353}, {\"x\": 24.8269, \"y\": 10.6274, \"z\": 0.1389}, {\"x\": 23.6378, \"y\": -2.3328, \"z\": 0.3910}, {\"x\": 25.1321, \"y\": -11.7726, \"z\": 6.7202}, {\"x\": 5.3309, \"y\": 2.0138, \"z\": -5.6788}, {\"x\": -4.9266, \"y\": -50.6576, \"z\": -15.0728}, {\"x\": -18.9260, \"y\": -81.7297, \"z\": -22.1676}, {\"x\": -23.7781, \"y\": -84.2604, \"z\": -15.3302}, {\"x\": -31.8942, \"y\": -92.6852, \"z\": -32.5138}, {\"x\": -4.3515, \"y\": 48.8726, \"z\": 10.0447}, {\"x\": -10.3712, \"y\": 75.7505, \"z\": 11.1302}, {\"x\": -6.1578, \"y\": 90.2988, \"z\": 6.4992}, {\"x\": -5.1658, \"y\": 96.9817, \"z\": -3.5730}, {\"x\": -7.1791, \"y\": 4.9306, \"z\": 9.4617}, {\"x\": 1.3319, \"y\": -49.0185, \"z\": 15.7856}, {\"x\": 10.6862, \"y\": -85.5588, \"z\": 12.8165}, {\"x\": 18.0374, \"y\": -91.7204, \"z\": 6.8221}, {\"x\": -3.8274, \"y\": -92.9077, \"z\": 8.2988}, {\"x\": -6.7026, \"y\": 85.8201, \"z\": 5.4538}, {\"x\": 21.7890, \"y\": -14.4482, \"z\": 5.2010}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame312() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.62294779227849, 97.69114017518051, -26.64241422523429),
+                "\"skeletons\": [{\"x\": -0.4969, \"y\": 64.9764, \"z\": -6.2812}, {\"x\": -7.1021, \"y\": 65.0048, \"z\": 2.5301}, {\"x\": -4.4457, \"y\": 15.0507, \"z\": -1.7936}, {\"x\": 13.8073, \"y\": 44.2764, \"z\": -7.4325}, {\"x\": 24.7704, \"y\": 10.7377, \"z\": 0.2490}, {\"x\": 23.4734, \"y\": -2.1545, \"z\": 0.4625}, {\"x\": 24.9968, \"y\": -11.7073, \"z\": 6.8100}, {\"x\": 5.1960, \"y\": 2.1129, \"z\": -5.6376}, {\"x\": -4.9910, \"y\": -50.5605, \"z\": -15.0192}, {\"x\": -19.0102, \"y\": -81.6423, \"z\": -22.1166}, {\"x\": -23.8509, \"y\": -84.1789, \"z\": -15.2980}, {\"x\": -31.9452, \"y\": -92.5927, \"z\": -32.4940}, {\"x\": -4.4849, \"y\": 48.9842, \"z\": 10.0287}, {\"x\": -10.2503, \"y\": 75.8782, \"z\": 11.6015}, {\"x\": -5.2102, \"y\": 89.8620, \"z\": 6.0368}, {\"x\": -3.6211, \"y\": 95.6905, \"z\": -4.5455}, {\"x\": -7.3452, \"y\": 5.0228, \"z\": 9.4775}, {\"x\": 1.2397, \"y\": -48.9312, \"z\": 15.8485}, {\"x\": 10.6289, \"y\": -85.4489, \"z\": 12.8493}, {\"x\": 17.9733, \"y\": -91.6471, \"z\": 6.8506}, {\"x\": -3.8771, \"y\": -92.8191, \"z\": 8.3218}, {\"x\": -5.9004, \"y\": 85.3470, \"z\": 5.3472}, {\"x\": 21.6194, \"y\": -14.4006, \"z\": 5.3952}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame313() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.67062813846120, 97.59167498365811, -26.63289799781480),
+                "\"skeletons\": [{\"x\": -0.6702, \"y\": 65.0730, \"z\": -6.3528}, {\"x\": -7.2676, \"y\": 65.1025, \"z\": 2.4749}, {\"x\": -4.5651, \"y\": 15.1529, \"z\": -1.8131}, {\"x\": 13.6516, \"y\": 44.3497, \"z\": -7.4850}, {\"x\": 24.7229, \"y\": 10.8868, \"z\": 0.2960}, {\"x\": 23.2909, \"y\": -2.0451, \"z\": 0.5544}, {\"x\": 24.8216, \"y\": -11.5853, \"z\": 6.9055}, {\"x\": 5.0682, \"y\": 2.1777, \"z\": -5.6060}, {\"x\": -5.0483, \"y\": -50.4345, \"z\": -14.9946}, {\"x\": -19.1115, \"y\": -81.5681, \"z\": -22.0869}, {\"x\": -23.9282, \"y\": -84.0935, \"z\": -15.2919}, {\"x\": -32.0097, \"y\": -92.5060, \"z\": -32.4951}, {\"x\": -4.6138, \"y\": 49.1191, \"z\": 9.9579}, {\"x\": -10.1129, \"y\": 75.9690, \"z\": 12.0677}, {\"x\": -4.3904, \"y\": 89.4115, \"z\": 5.6834}, {\"x\": -2.1047, \"y\": 94.3343, \"z\": -5.1596}, {\"x\": -7.5148, \"y\": 5.0925, \"z\": 9.4920}, {\"x\": 1.1723, \"y\": -48.8312, \"z\": 15.8330}, {\"x\": 10.5691, \"y\": -85.3164, \"z\": 12.8361}, {\"x\": 17.9040, \"y\": -91.5311, \"z\": 6.8823}, {\"x\": -3.9203, \"y\": -92.7314, \"z\": 8.3139}, {\"x\": -5.2992, \"y\": 84.8698, \"z\": 5.2774}, {\"x\": 21.3832, \"y\": -14.2422, \"z\": 5.5776}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame314() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.70856396719241, 97.49530168338960, -26.60115593101584),
+                "\"skeletons\": [{\"x\": -0.7908, \"y\": 65.1740, \"z\": -6.4559}, {\"x\": -7.3815, \"y\": 65.1965, \"z\": 2.3997}, {\"x\": -4.6763, \"y\": 15.2479, \"z\": -1.8844}, {\"x\": 13.5028, \"y\": 44.4185, \"z\": -7.5719}, {\"x\": 24.5896, \"y\": 10.9993, \"z\": 0.3751}, {\"x\": 23.0891, \"y\": -1.9400, \"z\": 0.6924}, {\"x\": 24.6226, \"y\": -11.4280, \"z\": 7.0252}, {\"x\": 4.9841, \"y\": 2.2684, \"z\": -5.5888}, {\"x\": -5.1661, \"y\": -50.3744, \"z\": -15.0075}, {\"x\": -19.2050, \"y\": -81.4555, \"z\": -22.0748}, {\"x\": -24.0152, \"y\": -83.9785, \"z\": -15.3057}, {\"x\": -32.0595, \"y\": -92.4144, \"z\": -32.5163}, {\"x\": -4.7517, \"y\": 49.2217, \"z\": 9.8581}, {\"x\": -9.9985, \"y\": 76.0413, \"z\": 12.5152}, {\"x\": -3.6031, \"y\": 88.9690, \"z\": 5.5481}, {\"x\": -0.7725, \"y\": 92.9327, \"z\": -5.4600}, {\"x\": -7.6591, \"y\": 5.2051, \"z\": 9.4588}, {\"x\": 1.1036, \"y\": -48.7346, \"z\": 15.7965}, {\"x\": 10.5259, \"y\": -85.2170, \"z\": 12.8058}, {\"x\": 17.8500, \"y\": -91.4360, \"z\": 6.8613}, {\"x\": -3.9759, \"y\": -92.6137, \"z\": 8.2743}, {\"x\": -4.6048, \"y\": 84.4258, \"z\": 5.4464}, {\"x\": 21.1052, \"y\": -14.0694, \"z\": 5.8237}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame315() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.73772691523463, 97.39160044159601, -26.54007941504345),
+                "\"skeletons\": [{\"x\": -0.8877, \"y\": 65.2579, \"z\": -6.5901}, {\"x\": -7.5159, \"y\": 65.2938, \"z\": 2.2540}, {\"x\": -4.8687, \"y\": 15.3299, \"z\": -1.9590}, {\"x\": 13.4064, \"y\": 44.5098, \"z\": -7.6500}, {\"x\": 24.5161, \"y\": 11.1526, \"z\": 0.3858}, {\"x\": 22.8772, \"y\": -1.7958, \"z\": 0.7817}, {\"x\": 24.5069, \"y\": -11.3563, \"z\": 7.0906}, {\"x\": 4.8999, \"y\": 2.3581, \"z\": -5.6145}, {\"x\": -5.2846, \"y\": -50.2888, \"z\": -15.0556}, {\"x\": -19.2603, \"y\": -81.3736, \"z\": -22.0924}, {\"x\": -24.1050, \"y\": -83.8874, \"z\": -15.3351}, {\"x\": -32.1237, \"y\": -92.3371, \"z\": -32.5549}, {\"x\": -4.8734, \"y\": 49.2903, \"z\": 9.7535}, {\"x\": -9.8511, \"y\": 76.1488, \"z\": 13.1064}, {\"x\": -2.9611, \"y\": 88.5360, \"z\": 5.5971}, {\"x\": 0.5977, \"y\": 91.6165, \"z\": -5.4954}, {\"x\": -7.7776, \"y\": 5.2884, \"z\": 9.3983}, {\"x\": 1.0268, \"y\": -48.6883, \"z\": 15.7774}, {\"x\": 10.4991, \"y\": -85.1030, \"z\": 12.7586}, {\"x\": 17.8583, \"y\": -91.2977, \"z\": 6.7707}, {\"x\": -4.0063, \"y\": -92.5134, \"z\": 8.2183}, {\"x\": -4.0909, \"y\": 83.9850, \"z\": 5.7693}, {\"x\": 21.0314, \"y\": -14.0510, \"z\": 5.9598}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame316() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.75808009554496, 97.28984165458650, -26.46306448569835),
+                "\"skeletons\": [{\"x\": -0.9940, \"y\": 65.3403, \"z\": -6.7183}, {\"x\": -7.6288, \"y\": 65.3656, \"z\": 2.0879}, {\"x\": -4.9540, \"y\": 15.3686, \"z\": -2.0585}, {\"x\": 13.3000, \"y\": 44.5651, \"z\": -7.7408}, {\"x\": 24.4498, \"y\": 11.2706, \"z\": 0.4098}, {\"x\": 22.7043, \"y\": -1.6557, \"z\": 0.8730}, {\"x\": 24.3756, \"y\": -11.1806, \"z\": 7.0955}, {\"x\": 4.7926, \"y\": 2.4439, \"z\": -5.7058}, {\"x\": -5.3513, \"y\": -50.2161, \"z\": -15.0948}, {\"x\": -19.3323, \"y\": -81.2935, \"z\": -22.1141}, {\"x\": -24.2333, \"y\": -83.8288, \"z\": -15.3705}, {\"x\": -32.1677, \"y\": -92.2468, \"z\": -32.6222}, {\"x\": -5.0559, \"y\": 49.3303, \"z\": 9.6146}, {\"x\": -9.8035, \"y\": 76.2087, \"z\": 13.6211}, {\"x\": -2.2958, \"y\": 88.0524, \"z\": 5.7542}, {\"x\": 1.8062, \"y\": 90.4096, \"z\": -5.2768}, {\"x\": -7.8780, \"y\": 5.3729, \"z\": 9.3270}, {\"x\": 0.9650, \"y\": -48.5958, \"z\": 15.6958}, {\"x\": 10.4762, \"y\": -84.9841, \"z\": 12.6775}, {\"x\": 17.8067, \"y\": -91.2110, \"z\": 6.7301}, {\"x\": -4.0250, \"y\": -92.4146, \"z\": 8.1405}, {\"x\": -3.5199, \"y\": 83.5078, \"z\": 6.1463}, {\"x\": 20.8389, \"y\": -13.7879, \"z\": 6.0905}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame317() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.76657240057466, 97.20680946384144, -26.36651937458042),
+                "\"skeletons\": [{\"x\": -1.0882, \"y\": 65.3967, \"z\": -6.8808}, {\"x\": -7.7104, \"y\": 65.4207, \"z\": 1.9358}, {\"x\": -5.0398, \"y\": 15.4388, \"z\": -2.1643}, {\"x\": 13.2227, \"y\": 44.6443, \"z\": -7.8430}, {\"x\": 24.3548, \"y\": 11.3450, \"z\": 0.4095}, {\"x\": 22.5398, \"y\": -1.6091, \"z\": 0.9466}, {\"x\": 24.2332, \"y\": -11.0467, \"z\": 7.0958}, {\"x\": 4.6768, \"y\": 2.4911, \"z\": -5.8314}, {\"x\": -5.4347, \"y\": -50.1722, \"z\": -15.1192}, {\"x\": -19.3900, \"y\": -81.2198, \"z\": -22.1439}, {\"x\": -24.3166, \"y\": -83.7556, \"z\": -15.4366}, {\"x\": -32.2032, \"y\": -92.1623, \"z\": -32.7074}, {\"x\": -5.0972, \"y\": 49.4254, \"z\": 9.4903}, {\"x\": -9.7298, \"y\": 76.1231, \"z\": 14.0487}, {\"x\": -1.8011, \"y\": 87.6784, \"z\": 6.0658}, {\"x\": 2.8990, \"y\": 89.4847, \"z\": -4.7913}, {\"x\": -7.9854, \"y\": 5.4298, \"z\": 9.2362}, {\"x\": 0.9058, \"y\": -48.5365, \"z\": 15.6171}, {\"x\": 10.4470, \"y\": -84.8986, \"z\": 12.5917}, {\"x\": 17.7898, \"y\": -91.1322, \"z\": 6.6471}, {\"x\": -4.0184, \"y\": -92.3586, \"z\": 8.0501}, {\"x\": -3.0507, \"y\": 83.1215, \"z\": 6.6379}, {\"x\": 20.6456, \"y\": -13.5964, \"z\": 6.1510}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame318() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.76159827489275, 97.13139487881628, -26.25609645483233),
+                "\"skeletons\": [{\"x\": -1.1763, \"y\": 65.4060, \"z\": -6.9960}, {\"x\": -7.8253, \"y\": 65.4706, \"z\": 1.7903}, {\"x\": -5.0900, \"y\": 15.4518, \"z\": -2.2696}, {\"x\": 13.1416, \"y\": 44.7010, \"z\": -7.9261}, {\"x\": 24.2352, \"y\": 11.3970, \"z\": 0.4126}, {\"x\": 22.3858, \"y\": -1.5197, \"z\": 0.9657}, {\"x\": 24.0828, \"y\": -10.9805, \"z\": 7.0104}, {\"x\": 4.6306, \"y\": 2.5516, \"z\": -5.9147}, {\"x\": -5.4790, \"y\": -50.0940, \"z\": -15.1848}, {\"x\": -19.4306, \"y\": -81.1548, \"z\": -22.1863}, {\"x\": -24.4006, \"y\": -83.6905, \"z\": -15.4800}, {\"x\": -32.2321, \"y\": -92.0762, \"z\": -32.8072}, {\"x\": -5.0996, \"y\": 49.4965, \"z\": 9.3727}, {\"x\": -9.5541, \"y\": 76.1604, \"z\": 14.5895}, {\"x\": -1.4362, \"y\": 87.4246, \"z\": 6.3750}, {\"x\": 3.7754, \"y\": 88.6076, \"z\": -4.2812}, {\"x\": -8.0722, \"y\": 5.4960, \"z\": 9.1136}, {\"x\": 0.9027, \"y\": -48.5151, \"z\": 15.5396}, {\"x\": 10.4274, \"y\": -84.7980, \"z\": 12.4968}, {\"x\": 17.7884, \"y\": -91.0508, \"z\": 6.5397}, {\"x\": -3.9975, \"y\": -92.2821, \"z\": 7.9296}, {\"x\": -2.6062, \"y\": 82.9143, \"z\": 7.1508}, {\"x\": 20.4576, \"y\": -13.4794, \"z\": 6.1507}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame319() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.76543279589880, 97.04537348122020, -26.14987221036988),
+                "\"skeletons\": [{\"x\": -1.2533, \"y\": 65.4657, \"z\": -7.1065}, {\"x\": -7.9558, \"y\": 65.5394, \"z\": 1.6729}, {\"x\": -5.1425, \"y\": 15.5225, \"z\": -2.3728}, {\"x\": 13.0691, \"y\": 44.7640, \"z\": -8.0480}, {\"x\": 24.2458, \"y\": 11.5023, \"z\": 0.3190}, {\"x\": 22.2679, \"y\": -1.3840, \"z\": 0.8841}, {\"x\": 23.9339, \"y\": -10.9032, \"z\": 6.9825}, {\"x\": 4.5777, \"y\": 2.6171, \"z\": -5.9863}, {\"x\": -5.4774, \"y\": -49.9748, \"z\": -15.2247}, {\"x\": -19.4730, \"y\": -81.0569, \"z\": -22.2326}, {\"x\": -24.4829, \"y\": -83.6050, \"z\": -15.5341}, {\"x\": -32.2459, \"y\": -91.9921, \"z\": -32.8990}, {\"x\": -5.1333, \"y\": 49.5758, \"z\": 9.2508}, {\"x\": -9.5947, \"y\": 76.1015, \"z\": 15.1535}, {\"x\": -1.0839, \"y\": 86.9862, \"z\": 6.7907}, {\"x\": 4.5910, \"y\": 87.7200, \"z\": -3.6822}, {\"x\": -8.1139, \"y\": 5.5553, \"z\": 9.0044}, {\"x\": 1.1386, \"y\": -48.6825, \"z\": 15.3096}, {\"x\": 10.4162, \"y\": -84.7072, \"z\": 12.3960}, {\"x\": 17.7851, \"y\": -90.9613, \"z\": 6.4321}, {\"x\": -4.0404, \"y\": -92.1708, \"z\": 7.8273}, {\"x\": -2.3888, \"y\": 82.4831, \"z\": 7.7220}, {\"x\": 20.3092, \"y\": -13.3198, \"z\": 6.1677}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame320() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.76583078194235, 96.96422450321360, -26.02449561559278),
+                "\"skeletons\": [{\"x\": -1.3294, \"y\": 65.5457, \"z\": -7.2203}, {\"x\": -7.9811, \"y\": 65.5920, \"z\": 1.5550}, {\"x\": -5.1746, \"y\": 15.5840, \"z\": -2.4833}, {\"x\": 13.0240, \"y\": 44.8422, \"z\": -8.1509}, {\"x\": 24.2158, \"y\": 11.5723, \"z\": 0.2384}, {\"x\": 22.1063, \"y\": -1.2964, \"z\": 0.9014}, {\"x\": 23.7328, \"y\": -10.8762, \"z\": 6.9304}, {\"x\": 4.5929, \"y\": 2.6991, \"z\": -6.0131}, {\"x\": -5.5275, \"y\": -49.9514, \"z\": -15.3349}, {\"x\": -19.4911, \"y\": -80.9739, \"z\": -22.3288}, {\"x\": -24.4948, \"y\": -83.5364, \"z\": -15.6458}, {\"x\": -32.2460, \"y\": -91.9128, \"z\": -33.0209}, {\"x\": -5.2586, \"y\": 49.5814, \"z\": 9.1519}, {\"x\": -9.5251, \"y\": 76.0908, \"z\": 15.7341}, {\"x\": -0.7889, \"y\": 86.6409, \"z\": 7.2233}, {\"x\": 5.1718, \"y\": 86.9001, \"z\": -3.0657}, {\"x\": -8.1791, \"y\": 5.6209, \"z\": 8.8725}, {\"x\": 1.1758, \"y\": -48.6319, \"z\": 15.1345}, {\"x\": 10.4067, \"y\": -84.6222, \"z\": 12.2735}, {\"x\": 17.8244, \"y\": -90.8535, \"z\": 6.2713}, {\"x\": -4.0197, \"y\": -92.1308, \"z\": 7.7113}, {\"x\": -2.1038, \"y\": 82.1462, \"z\": 8.2786}, {\"x\": 20.0086, \"y\": -13.3425, \"z\": 6.1809}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame321() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.74733506487243, 96.90233099206574, -25.91259026554513),
+                "\"skeletons\": [{\"x\": -1.3631, \"y\": 65.5910, \"z\": -7.3334}, {\"x\": -8.0831, \"y\": 65.6234, \"z\": 1.3990}, {\"x\": -5.2088, \"y\": 15.6807, \"z\": -2.5845}, {\"x\": 12.9996, \"y\": 44.9332, \"z\": -8.2285}, {\"x\": 24.2169, \"y\": 11.6480, \"z\": 0.1579}, {\"x\": 22.0082, \"y\": -1.2561, \"z\": 0.7900}, {\"x\": 23.5896, \"y\": -10.8012, \"z\": 6.8093}, {\"x\": 4.5949, \"y\": 2.7633, \"z\": -6.0166}, {\"x\": -5.5540, \"y\": -49.8987, \"z\": -15.4075}, {\"x\": -19.4845, \"y\": -80.9199, \"z\": -22.4198}, {\"x\": -24.4694, \"y\": -83.5141, \"z\": -15.7680}, {\"x\": -32.2249, \"y\": -91.8510, \"z\": -33.1281}, {\"x\": -5.2604, \"y\": 49.6398, \"z\": 9.0705}, {\"x\": -9.6406, \"y\": 75.9252, \"z\": 16.2545}, {\"x\": -0.6653, \"y\": 86.3128, \"z\": 7.6611}, {\"x\": 5.7836, \"y\": 86.0852, \"z\": -2.3467}, {\"x\": -8.2314, \"y\": 5.6891, \"z\": 8.7856}, {\"x\": 1.1470, \"y\": -48.5475, \"z\": 15.0442}, {\"x\": 10.4159, \"y\": -84.5461, \"z\": 12.1664}, {\"x\": 17.7954, \"y\": -90.8196, \"z\": 6.2044}, {\"x\": -4.0032, \"y\": -92.0470, \"z\": 7.5838}, {\"x\": -1.9580, \"y\": 81.8576, \"z\": 8.9272}, {\"x\": 19.8364, \"y\": -13.2827, \"z\": 6.0659}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame322() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.73953372774137, 96.83898711247377, -25.78846732169378),
+                "\"skeletons\": [{\"x\": -1.3983, \"y\": 65.6560, \"z\": -7.4490}, {\"x\": -8.1319, \"y\": 65.6724, \"z\": 1.2625}, {\"x\": -5.2267, \"y\": 15.6845, \"z\": -2.6787}, {\"x\": 12.9652, \"y\": 45.0291, \"z\": -8.3266}, {\"x\": 24.2337, \"y\": 11.7414, \"z\": 0.0801}, {\"x\": 21.9344, \"y\": -1.1735, \"z\": 0.6678}, {\"x\": 23.6069, \"y\": -10.6905, \"z\": 6.6078}, {\"x\": 4.5709, \"y\": 2.8299, \"z\": -6.0828}, {\"x\": -5.5270, \"y\": -49.8107, \"z\": -15.5601}, {\"x\": -19.4825, \"y\": -80.8477, \"z\": -22.5456}, {\"x\": -24.5023, \"y\": -83.3764, \"z\": -15.8744}, {\"x\": -32.2145, \"y\": -91.7779, \"z\": -33.2649}, {\"x\": -5.2930, \"y\": 49.6857, \"z\": 9.0201}, {\"x\": -9.7806, \"y\": 75.7987, \"z\": 16.8382}, {\"x\": -0.4485, \"y\": 85.8117, \"z\": 8.1778}, {\"x\": 6.2965, \"y\": 85.2390, \"z\": -1.5680}, {\"x\": -8.2999, \"y\": 5.7397, \"z\": 8.7204}, {\"x\": 0.7458, \"y\": -48.1773, \"z\": 15.1063}, {\"x\": 10.4108, \"y\": -84.4709, \"z\": 12.0482}, {\"x\": 17.8128, \"y\": -90.7477, \"z\": 6.0741}, {\"x\": -3.9994, \"y\": -91.9994, \"z\": 7.4603}, {\"x\": -1.7986, \"y\": 81.3784, \"z\": 9.5675}, {\"x\": 19.9327, \"y\": -13.0968, \"z\": 5.8195}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame323() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.72342444629205, 96.75877336021360, -25.65428698381342),
+                "\"skeletons\": [{\"x\": -1.4132, \"y\": 65.7368, \"z\": -7.5474}, {\"x\": -8.1493, \"y\": 65.7443, \"z\": 1.1735}, {\"x\": -5.2331, \"y\": 15.7475, \"z\": -2.7890}, {\"x\": 12.9489, \"y\": 45.1326, \"z\": -8.4496}, {\"x\": 24.2632, \"y\": 11.8455, \"z\": -0.0246}, {\"x\": 21.8353, \"y\": -1.0906, \"z\": 0.5847}, {\"x\": 23.3969, \"y\": -10.5929, \"z\": 6.4941}, {\"x\": 4.5857, \"y\": 2.9073, \"z\": -6.1678}, {\"x\": -5.5341, \"y\": -49.7120, \"z\": -15.6537}, {\"x\": -19.4773, \"y\": -80.7560, \"z\": -22.6705}, {\"x\": -24.5099, \"y\": -83.2629, \"z\": -16.0114}, {\"x\": -32.2063, \"y\": -91.6930, \"z\": -33.4010}, {\"x\": -5.3569, \"y\": 49.6565, \"z\": 8.9848}, {\"x\": -9.8818, \"y\": 75.6089, \"z\": 17.4342}, {\"x\": -0.2012, \"y\": 85.3540, \"z\": 8.8038}, {\"x\": 6.7511, \"y\": 84.3988, \"z\": -0.7806}, {\"x\": -8.3576, \"y\": 5.8219, \"z\": 8.6468}, {\"x\": 0.7029, \"y\": -48.0767, \"z\": 15.0080}, {\"x\": 10.4156, \"y\": -84.3836, \"z\": 11.9201}, {\"x\": 17.8195, \"y\": -90.6754, \"z\": 5.9426}, {\"x\": -4.0028, \"y\": -91.9516, \"z\": 7.3434}, {\"x\": -1.6939, \"y\": 80.9851, \"z\": 10.2471}, {\"x\": 19.6337, \"y\": -12.9327, \"z\": 5.7309}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame324() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.73033629465865, 96.69144496494489, -25.52532985504671),
+                "\"skeletons\": [{\"x\": -1.4350, \"y\": 65.7966, \"z\": -7.6317}, {\"x\": -8.1821, \"y\": 65.8110, \"z\": 1.0699}, {\"x\": -5.2520, \"y\": 15.7943, \"z\": -2.9008}, {\"x\": 12.9417, \"y\": 45.2373, \"z\": -8.5353}, {\"x\": 24.2657, \"y\": 11.9414, \"z\": -0.1238}, {\"x\": 21.7778, \"y\": -0.9730, \"z\": 0.4712}, {\"x\": 23.3083, \"y\": -10.5209, \"z\": 6.3549}, {\"x\": 4.5557, \"y\": 2.9558, \"z\": -6.2593}, {\"x\": -5.5388, \"y\": -49.6324, \"z\": -15.7469}, {\"x\": -19.4810, \"y\": -80.6697, \"z\": -22.7924}, {\"x\": -24.5202, \"y\": -83.1884, \"z\": -16.1384}, {\"x\": -32.2055, \"y\": -91.6196, \"z\": -33.5357}, {\"x\": -5.3795, \"y\": 49.6847, \"z\": 8.9126}, {\"x\": -9.9409, \"y\": 75.4181, \"z\": 18.0224}, {\"x\": -0.0186, \"y\": 84.9012, \"z\": 9.4477}, {\"x\": 7.1069, \"y\": 83.7225, \"z\": 0.0800}, {\"x\": -8.3938, \"y\": 5.8733, \"z\": 8.5590}, {\"x\": 0.8267, \"y\": -48.0751, \"z\": 14.8963}, {\"x\": 10.4159, \"y\": -84.3149, \"z\": 11.7919}, {\"x\": 17.8128, \"y\": -90.6057, \"z\": 5.8122}, {\"x\": -3.9947, \"y\": -91.8567, \"z\": 7.1983}, {\"x\": -1.5619, \"y\": 80.5708, \"z\": 10.9722}, {\"x\": 19.5663, \"y\": -12.8573, \"z\": 5.5854}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame325() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.72382615669643, 96.59911694352074, -25.37819112750545),
+                "\"skeletons\": [{\"x\": -1.4644, \"y\": 65.8796, \"z\": -7.6853}, {\"x\": -8.2389, \"y\": 65.8988, \"z\": 0.9985}, {\"x\": -5.2527, \"y\": 15.8706, \"z\": -3.0339}, {\"x\": 12.9199, \"y\": 45.3415, \"z\": -8.6985}, {\"x\": 24.2833, \"y\": 12.0683, \"z\": -0.2427}, {\"x\": 21.7430, \"y\": -0.8235, \"z\": 0.3362}, {\"x\": 23.1724, \"y\": -10.4254, \"z\": 6.2255}, {\"x\": 4.5377, \"y\": 3.0012, \"z\": -6.3292}, {\"x\": -5.5372, \"y\": -49.5263, \"z\": -15.8347}, {\"x\": -19.4674, \"y\": -80.5696, \"z\": -22.9207}, {\"x\": -24.5010, \"y\": -83.1047, \"z\": -16.2793}, {\"x\": -32.1837, \"y\": -91.5197, \"z\": -33.6857}, {\"x\": -5.4130, \"y\": 49.5924, \"z\": 8.8316}, {\"x\": -10.0562, \"y\": 75.1898, \"z\": 18.6886}, {\"x\": 0.1896, \"y\": 84.4036, \"z\": 10.1481}, {\"x\": 7.3952, \"y\": 82.9331, \"z\": 0.9283}, {\"x\": -8.4195, \"y\": 5.9523, \"z\": 8.4414}, {\"x\": 0.8181, \"y\": -47.9650, \"z\": 14.7552}, {\"x\": 10.4198, \"y\": -84.2215, \"z\": 11.6443}, {\"x\": 17.8208, \"y\": -90.5029, \"z\": 5.6640}, {\"x\": -4.0067, \"y\": -91.7906, \"z\": 7.0514}, {\"x\": -1.4502, \"y\": 80.1133, \"z\": 11.6989}, {\"x\": 19.4244, \"y\": -12.7632, \"z\": 5.4592}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame326() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.71819665410845, 96.50252892464879, -25.23575747718628),
+                "\"skeletons\": [{\"x\": -1.5155, \"y\": 65.9982, \"z\": -7.7384}, {\"x\": -8.2591, \"y\": 65.9580, \"z\": 0.9259}, {\"x\": -5.2595, \"y\": 15.9540, \"z\": -3.1633}, {\"x\": 12.9229, \"y\": 45.4495, \"z\": -8.8766}, {\"x\": 24.2899, \"y\": 12.1919, \"z\": -0.3705}, {\"x\": 21.6715, \"y\": -0.6779, \"z\": 0.2560}, {\"x\": 23.0584, \"y\": -10.2396, \"z\": 6.1135}, {\"x\": 4.5307, \"y\": 3.1122, \"z\": -6.3757}, {\"x\": -5.5409, \"y\": -49.4195, \"z\": -15.9054}, {\"x\": -19.4618, \"y\": -80.4577, \"z\": -23.0425}, {\"x\": -24.4937, \"y\": -82.9942, \"z\": -16.4060}, {\"x\": -32.1778, \"y\": -91.4078, \"z\": -33.8170}, {\"x\": -5.3101, \"y\": 49.6289, \"z\": 8.7696}, {\"x\": -10.1990, \"y\": 74.8999, \"z\": 19.3889}, {\"x\": 0.3661, \"y\": 83.7015, \"z\": 10.8879}, {\"x\": 7.5975, \"y\": 81.9895, \"z\": 1.6947}, {\"x\": -8.4617, \"y\": 6.0458, \"z\": 8.3240}, {\"x\": 0.8455, \"y\": -47.8712, \"z\": 14.6210}, {\"x\": 10.4197, \"y\": -84.1139, \"z\": 11.5057}, {\"x\": 17.8264, \"y\": -90.3986, \"z\": 5.5254}, {\"x\": -3.9955, \"y\": -91.7030, \"z\": 6.9185}, {\"x\": -1.4535, \"y\": 79.5042, \"z\": 12.4353}, {\"x\": 19.3205, \"y\": -12.5253, \"z\": 5.3698}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame327() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.70609125745596, 96.39479500235228, -25.09079614468239),
+                "\"skeletons\": [{\"x\": -1.5160, \"y\": 66.1078, \"z\": -7.8271}, {\"x\": -8.2295, \"y\": 66.0740, \"z\": 0.9020}, {\"x\": -5.2662, \"y\": 16.0393, \"z\": -3.3060}, {\"x\": 12.9422, \"y\": 45.5821, \"z\": -9.1206}, {\"x\": 24.2565, \"y\": 12.2970, \"z\": -0.5104}, {\"x\": 21.6235, \"y\": -0.5154, \"z\": 0.1169}, {\"x\": 22.9235, \"y\": -10.1002, \"z\": 6.0840}, {\"x\": 4.5217, \"y\": 3.2243, \"z\": -6.4809}, {\"x\": -5.5269, \"y\": -49.3136, \"z\": -15.9964}, {\"x\": -19.4585, \"y\": -80.3554, \"z\": -23.1538}, {\"x\": -24.4748, \"y\": -82.9009, \"z\": -16.5358}, {\"x\": -32.1592, \"y\": -91.2895, \"z\": -33.9535}, {\"x\": -5.2837, \"y\": 49.5741, \"z\": 8.7919}, {\"x\": -10.1798, \"y\": 74.5029, \"z\": 20.1597}, {\"x\": 0.5459, \"y\": 83.0259, \"z\": 11.5659}, {\"x\": 7.6533, \"y\": 81.0904, \"z\": 2.3614}, {\"x\": -8.5044, \"y\": 6.1427, \"z\": 8.2092}, {\"x\": 0.7727, \"y\": -47.7109, \"z\": 14.4844}, {\"x\": 10.4341, \"y\": -83.9906, \"z\": 11.3706}, {\"x\": 17.8417, \"y\": -90.2870, \"z\": 5.3789}, {\"x\": -4.0019, \"y\": -91.6073, \"z\": 6.7853}, {\"x\": -1.3646, \"y\": 78.8770, \"z\": 13.1135}, {\"x\": 19.1636, \"y\": -12.3670, \"z\": 5.3928}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame328() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.68676694653948, 96.28890431358234, -24.95992344550148),
+                "\"skeletons\": [{\"x\": -1.4793, \"y\": 66.1916, \"z\": -7.8874}, {\"x\": -8.1732, \"y\": 66.1813, \"z\": 0.8628}, {\"x\": -5.2297, \"y\": 16.1347, \"z\": -3.4716}, {\"x\": 12.8669, \"y\": 45.6849, \"z\": -9.3280}, {\"x\": 24.2795, \"y\": 12.4110, \"z\": -0.6866}, {\"x\": 21.5567, \"y\": -0.3862, \"z\": -0.0133}, {\"x\": 22.8173, \"y\": -9.9879, \"z\": 5.9530}, {\"x\": 4.4999, \"y\": 3.3208, \"z\": -6.5857}, {\"x\": -5.5577, \"y\": -49.2392, \"z\": -16.0377}, {\"x\": -19.4420, \"y\": -80.2407, \"z\": -23.2573}, {\"x\": -24.4721, \"y\": -82.8064, \"z\": -16.6437}, {\"x\": -32.1422, \"y\": -91.1868, \"z\": -34.0760}, {\"x\": -5.2260, \"y\": 49.5009, \"z\": 8.7423}, {\"x\": -10.2005, \"y\": 74.1515, \"z\": 21.0189}, {\"x\": 0.5766, \"y\": 82.4256, \"z\": 12.2445}, {\"x\": 7.5667, \"y\": 80.2994, \"z\": 2.9562}, {\"x\": -8.5455, \"y\": 6.2228, \"z\": 8.1035}, {\"x\": 0.7828, \"y\": -47.6028, \"z\": 14.3598}, {\"x\": 10.4487, \"y\": -83.8708, \"z\": 11.2532}, {\"x\": 17.8882, \"y\": -90.1452, \"z\": 5.2126}, {\"x\": -3.9786, \"y\": -91.5143, \"z\": 6.6419}, {\"x\": -1.3756, \"y\": 78.3102, \"z\": 13.8716}, {\"x\": 19.0109, \"y\": -12.2568, \"z\": 5.2645}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame329() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.66466158196413, 96.17907139472489, -24.83623055158949),
+                "\"skeletons\": [{\"x\": -1.4437, \"y\": 66.2938, \"z\": -7.9592}, {\"x\": -8.1030, \"y\": 66.2762, \"z\": 0.8184}, {\"x\": -5.2039, \"y\": 16.2019, \"z\": -3.6261}, {\"x\": 12.8627, \"y\": 45.8085, \"z\": -9.5625}, {\"x\": 24.3169, \"y\": 12.5178, \"z\": -0.8687}, {\"x\": 21.4800, \"y\": -0.2544, \"z\": -0.1838}, {\"x\": 22.7314, \"y\": -9.8359, \"z\": 5.7329}, {\"x\": 4.4841, \"y\": 3.3979, \"z\": -6.7068}, {\"x\": -5.5804, \"y\": -49.1568, \"z\": -16.1002}, {\"x\": -19.4381, \"y\": -80.1333, \"z\": -23.3612}, {\"x\": -24.4627, \"y\": -82.7119, \"z\": -16.7565}, {\"x\": -32.1151, \"y\": -91.0752, \"z\": -34.1912}, {\"x\": -5.1098, \"y\": 49.5128, \"z\": 8.7554}, {\"x\": -10.2581, \"y\": 73.7375, \"z\": 21.8603}, {\"x\": 0.5602, \"y\": 81.8281, \"z\": 12.9757}, {\"x\": 7.4061, \"y\": 79.5755, \"z\": 3.6565}, {\"x\": -8.5698, \"y\": 6.3314, \"z\": 7.9769}, {\"x\": 0.8207, \"y\": -47.5063, \"z\": 14.2499}, {\"x\": 10.4658, \"y\": -83.7609, \"z\": 11.1380}, {\"x\": 17.8725, \"y\": -90.0636, \"z\": 5.1345}, {\"x\": -3.9558, \"y\": -91.4161, \"z\": 6.5273}, {\"x\": -1.4403, \"y\": 77.7345, \"z\": 14.6184}, {\"x\": 18.8883, \"y\": -12.0401, \"z\": 5.0557}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame330() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.63457040966879, 96.07096572063088, -24.70605560395776),
+                "\"skeletons\": [{\"x\": -1.3968, \"y\": 66.3583, \"z\": -7.9993}, {\"x\": -8.0440, \"y\": 66.3284, \"z\": 0.7416}, {\"x\": -5.1774, \"y\": 16.2806, \"z\": -3.7687}, {\"x\": 12.8799, \"y\": 45.9143, \"z\": -9.7709}, {\"x\": 24.3461, \"y\": 12.6104, \"z\": -1.0728}, {\"x\": 21.3784, \"y\": -0.1559, \"z\": -0.3632}, {\"x\": 22.6329, \"y\": -9.7328, \"z\": 5.5779}, {\"x\": 4.4924, \"y\": 3.4796, \"z\": -6.8247}, {\"x\": -5.5387, \"y\": -49.0549, \"z\": -16.1565}, {\"x\": -19.4190, \"y\": -80.0171, \"z\": -23.4712}, {\"x\": -24.4460, \"y\": -82.6290, \"z\": -16.8648}, {\"x\": -32.0837, \"y\": -90.9658, \"z\": -34.3171}, {\"x\": -5.0063, \"y\": 49.4765, \"z\": 8.7948}, {\"x\": -10.2609, \"y\": 73.2742, \"z\": 22.7357}, {\"x\": 0.5336, \"y\": 81.2938, \"z\": 13.7871}, {\"x\": 7.2034, \"y\": 79.0088, \"z\": 4.3454}, {\"x\": -8.5759, \"y\": 6.4248, \"z\": 7.8481}, {\"x\": 0.8714, \"y\": -47.4476, \"z\": 14.1593}, {\"x\": 10.4928, \"y\": -83.6523, \"z\": 11.0086}, {\"x\": 17.9006, \"y\": -89.9555, \"z\": 5.0086}, {\"x\": -3.9296, \"y\": -91.3097, \"z\": 6.3957}, {\"x\": -1.5704, \"y\": 77.2421, \"z\": 15.3872}, {\"x\": 18.7289, \"y\": -11.9087, \"z\": 5.0214}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame331() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.61401611452647, 95.98813737176349, -24.58680981748356),
+                "\"skeletons\": [{\"x\": -1.3230, \"y\": 66.4227, \"z\": -8.0922}, {\"x\": -7.9841, \"y\": 66.3676, \"z\": 0.6722}, {\"x\": -5.1441, \"y\": 16.3485, \"z\": -3.9000}, {\"x\": 12.8739, \"y\": 45.9930, \"z\": -9.9282}, {\"x\": 24.3600, \"y\": 12.6851, \"z\": -1.3162}, {\"x\": 21.3423, \"y\": -0.0658, \"z\": -0.5565}, {\"x\": 22.8023, \"y\": -9.6691, \"z\": 5.1430}, {\"x\": 4.4914, \"y\": 3.5395, \"z\": -6.9045}, {\"x\": -5.5172, \"y\": -48.9358, \"z\": -16.2508}, {\"x\": -19.4075, \"y\": -79.9272, \"z\": -23.5762}, {\"x\": -24.4443, \"y\": -82.5597, \"z\": -16.9730}, {\"x\": -32.0819, \"y\": -90.8849, \"z\": -34.4249}, {\"x\": -4.9465, \"y\": 49.4185, \"z\": 8.8053}, {\"x\": -10.3842, \"y\": 72.8475, \"z\": 23.5468}, {\"x\": 0.4052, \"y\": 80.8992, \"z\": 14.6298}, {\"x\": 6.9872, \"y\": 78.6881, \"z\": 5.1244}, {\"x\": -8.5924, \"y\": 6.4920, \"z\": 7.7311}, {\"x\": 0.8972, \"y\": -47.3832, \"z\": 14.0492}, {\"x\": 10.5192, \"y\": -83.5688, \"z\": 10.8852}, {\"x\": 17.9182, \"y\": -89.8720, \"z\": 4.8848}, {\"x\": -3.9188, \"y\": -91.2314, \"z\": 6.2820}, {\"x\": -1.6914, \"y\": 76.8195, \"z\": 16.2406}, {\"x\": 19.0468, \"y\": -11.8297, \"z\": 4.5083}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame332() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.62390903135014, 95.90317249723661, -24.50593992400792),
+                "\"skeletons\": [{\"x\": -1.2841, \"y\": 66.5078, \"z\": -8.1007}, {\"x\": -8.0086, \"y\": 66.4396, \"z\": 0.6189}, {\"x\": -5.1462, \"y\": 16.4190, \"z\": -3.9786}, {\"x\": 12.8582, \"y\": 46.0770, \"z\": -10.0386}, {\"x\": 24.4489, \"y\": 12.8051, \"z\": -1.6353}, {\"x\": 21.3092, \"y\": 0.0038, \"z\": -0.7221}, {\"x\": 23.5165, \"y\": -9.7735, \"z\": 4.1239}, {\"x\": 4.4692, \"y\": 3.6198, \"z\": -6.9531}, {\"x\": -5.5253, \"y\": -48.8517, \"z\": -16.3033}, {\"x\": -19.4199, \"y\": -79.8472, \"z\": -23.6341}, {\"x\": -24.4678, \"y\": -82.4877, \"z\": -17.0351}, {\"x\": -32.0828, \"y\": -90.7896, \"z\": -34.4989}, {\"x\": -4.8855, \"y\": 49.4575, \"z\": 8.8689}, {\"x\": -10.6575, \"y\": 72.3859, \"z\": 24.3236}, {\"x\": 0.1676, \"y\": 80.4964, \"z\": 15.4981}, {\"x\": 6.7102, \"y\": 78.3083, \"z\": 5.9788}, {\"x\": -8.6334, \"y\": 6.5628, \"z\": 7.6617}, {\"x\": 0.9126, \"y\": -47.3421, \"z\": 13.9773}, {\"x\": 10.5117, \"y\": -83.4827, \"z\": 10.8039}, {\"x\": 17.9150, \"y\": -89.7757, \"z\": 4.7959}, {\"x\": -3.9121, \"y\": -91.1511, \"z\": 6.1906}, {\"x\": -1.9529, \"y\": 76.4471, \"z\": 17.0454}, {\"x\": 20.4618, \"y\": -12.0406, \"z\": 2.7960}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame333() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.55449662459523, 95.81253127834896, -24.33661029216851),
+                "\"skeletons\": [{\"x\": -1.1623, \"y\": 66.6112, \"z\": -8.1872}, {\"x\": -7.9019, \"y\": 66.5172, \"z\": 0.4863}, {\"x\": -5.0848, \"y\": 16.5158, \"z\": -4.1220}, {\"x\": 12.9350, \"y\": 46.1608, \"z\": -10.2183}, {\"x\": 24.5131, \"y\": 12.8727, \"z\": -1.9150}, {\"x\": 21.3588, \"y\": 0.0745, \"z\": -1.0198}, {\"x\": 22.7807, \"y\": -9.5325, \"z\": 4.6990}, {\"x\": 4.5248, \"y\": 3.7111, \"z\": -7.0773}, {\"x\": -5.4586, \"y\": -48.7531, \"z\": -16.4516}, {\"x\": -19.3464, \"y\": -79.7508, \"z\": -23.7981}, {\"x\": -24.3919, \"y\": -82.3992, \"z\": -17.2047}, {\"x\": -32.0111, \"y\": -90.6924, \"z\": -34.6635}, {\"x\": -4.8457, \"y\": 49.4200, \"z\": 8.8734}, {\"x\": -10.9053, \"y\": 72.0302, \"z\": 25.0117}, {\"x\": 0.1477, \"y\": 79.8438, \"z\": 16.3290}, {\"x\": 6.5610, \"y\": 77.6630, \"z\": 6.7869}, {\"x\": -8.5883, \"y\": 6.6385, \"z\": 7.5169}, {\"x\": 0.9684, \"y\": -47.2612, \"z\": 13.8017}, {\"x\": 10.5735, \"y\": -83.3870, \"z\": 10.6385}, {\"x\": 18.0173, \"y\": -89.6628, \"z\": 4.5980}, {\"x\": -3.8389, \"y\": -91.0812, \"z\": 6.0336}, {\"x\": -2.1252, \"y\": 75.8558, \"z\": 17.7585}, {\"x\": 18.8821, \"y\": -11.5895, \"z\": 4.3179}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame334() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.52302105452001, 95.68193682144701, -24.23842046844820),
+                "\"skeletons\": [{\"x\": -1.0868, \"y\": 66.7437, \"z\": -8.2223}, {\"x\": -7.8246, \"y\": 66.6522, \"z\": 0.4530}, {\"x\": -5.0306, \"y\": 16.6529, \"z\": -4.1894}, {\"x\": 12.9806, \"y\": 46.2946, \"z\": -10.3012}, {\"x\": 24.5522, \"y\": 12.9734, \"z\": -2.1074}, {\"x\": 21.3722, \"y\": 0.1914, \"z\": -1.2869}, {\"x\": 22.7925, \"y\": -9.5109, \"z\": 4.4375}, {\"x\": 4.5474, \"y\": 3.8506, \"z\": -7.1371}, {\"x\": -5.4367, \"y\": -48.6039, \"z\": -16.5421}, {\"x\": -19.3057, \"y\": -79.6104, \"z\": -23.9022}, {\"x\": -24.3594, \"y\": -82.2575, \"z\": -17.3086}, {\"x\": -31.9754, \"y\": -90.5546, \"z\": -34.7632}, {\"x\": -4.8043, \"y\": 49.5093, \"z\": 8.8623}, {\"x\": -11.2496, \"y\": 71.6844, \"z\": 25.6042}, {\"x\": 0.2201, \"y\": 78.9694, \"z\": 17.1242}, {\"x\": 6.4479, \"y\": 76.8003, \"z\": 7.4937}, {\"x\": -8.5821, \"y\": 6.7633, \"z\": 7.4614}, {\"x\": 0.9394, \"y\": -47.0864, \"z\": 13.6814}, {\"x\": 10.5969, \"y\": -83.2573, \"z\": 10.5406}, {\"x\": 18.0096, \"y\": -89.5492, \"z\": 4.5281}, {\"x\": -3.8269, \"y\": -90.9304, \"z\": 5.9279}, {\"x\": -2.3056, \"y\": 75.1190, \"z\": 18.3817}, {\"x\": 18.8173, \"y\": -11.6053, \"z\": 4.1591}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame335() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.48289415089117, 95.52923541057079, -24.15435177116131),
+                "\"skeletons\": [{\"x\": -0.9819, \"y\": 66.9043, \"z\": -8.2613}, {\"x\": -7.7525, \"y\": 66.8161, \"z\": 0.4136}, {\"x\": -4.9623, \"y\": 16.8050, \"z\": -4.2500}, {\"x\": 13.0566, \"y\": 46.4676, \"z\": -10.3301}, {\"x\": 24.6348, \"y\": 13.0990, \"z\": -2.2757}, {\"x\": 21.4085, \"y\": 0.3170, \"z\": -1.5095}, {\"x\": 22.8593, \"y\": -9.4489, \"z\": 4.1470}, {\"x\": 4.5811, \"y\": 4.0140, \"z\": -7.1846}, {\"x\": -5.4163, \"y\": -48.4378, \"z\": -16.6427}, {\"x\": -19.2787, \"y\": -79.4469, \"z\": -24.0085}, {\"x\": -24.3312, \"y\": -82.0899, \"z\": -17.4094}, {\"x\": -31.9394, \"y\": -90.3987, \"z\": -34.8539}, {\"x\": -4.8380, \"y\": 49.5320, \"z\": 8.9090}, {\"x\": -11.6981, \"y\": 71.3599, \"z\": 26.1100}, {\"x\": 0.2763, \"y\": 77.9401, \"z\": 17.7810}, {\"x\": 6.2445, \"y\": 75.6204, \"z\": 8.1005}, {\"x\": -8.5528, \"y\": 6.9027, \"z\": 7.4190}, {\"x\": 0.9909, \"y\": -46.9466, \"z\": 13.5946}, {\"x\": 10.6354, \"y\": -83.1051, \"z\": 10.4532}, {\"x\": 18.0486, \"y\": -89.3935, \"z\": 4.4430}, {\"x\": -3.8042, \"y\": -90.7836, \"z\": 5.8524}, {\"x\": -2.5435, \"y\": 74.3329, \"z\": 18.8968}, {\"x\": 18.8664, \"y\": -11.5540, \"z\": 3.9304}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame336() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.43173567021459, 95.36492147531375, -24.08388632136530),
+                "\"skeletons\": [{\"x\": -0.8561, \"y\": 67.0000, \"z\": -8.2619}, {\"x\": -7.6834, \"y\": 67.0079, \"z\": 0.3757}, {\"x\": -4.8851, \"y\": 16.9668, \"z\": -4.2789}, {\"x\": 13.1452, \"y\": 46.6421, \"z\": -10.3253}, {\"x\": 24.7411, \"y\": 13.2637, \"z\": -2.4170}, {\"x\": 21.4577, \"y\": 0.4609, \"z\": -1.6288}, {\"x\": 23.0069, \"y\": -9.2497, \"z\": 3.8263}, {\"x\": 4.6255, \"y\": 4.1901, \"z\": -7.2207}, {\"x\": -5.3850, \"y\": -48.2560, \"z\": -16.7275}, {\"x\": -19.2353, \"y\": -79.2795, \"z\": -24.0892}, {\"x\": -24.2874, \"y\": -81.9081, \"z\": -17.4827}, {\"x\": -31.8979, \"y\": -90.2293, \"z\": -34.9336}, {\"x\": -4.8112, \"y\": 49.6709, \"z\": 9.0469}, {\"x\": -12.2191, \"y\": 71.0741, \"z\": 26.6096}, {\"x\": 0.2339, \"y\": 76.6513, \"z\": 18.3268}, {\"x\": 5.9107, \"y\": 74.2140, \"z\": 8.5868}, {\"x\": -8.4888, \"y\": 7.0658, \"z\": 7.3738}, {\"x\": 1.0374, \"y\": -46.7692, \"z\": 13.5289}, {\"x\": 10.6855, \"y\": -82.9403, \"z\": 10.3785}, {\"x\": 18.0955, \"y\": -89.2300, \"z\": 4.3638}, {\"x\": -3.7512, \"y\": -90.6256, \"z\": 5.7787}, {\"x\": -2.9099, \"y\": 73.3316, \"z\": 19.3473}, {\"x\": 19.0617, \"y\": -11.2547, \"z\": 3.6521}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame337() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.36598697862661, 95.19160002265323, -24.03241018177763),
+                "\"skeletons\": [{\"x\": -0.7327, \"y\": 67.1664, \"z\": -8.2981}, {\"x\": -7.5560, \"y\": 67.2000, \"z\": 0.3750}, {\"x\": -4.7587, \"y\": 17.1409, \"z\": -4.2812}, {\"x\": 13.2693, \"y\": 46.8216, \"z\": -10.3068}, {\"x\": 24.8698, \"y\": 13.4289, \"z\": -2.5161}, {\"x\": 21.5771, \"y\": 0.6319, \"z\": -1.7357}, {\"x\": 23.0632, \"y\": -9.1391, \"z\": 3.6706}, {\"x\": 4.6884, \"y\": 4.3757, \"z\": -7.2499}, {\"x\": -5.3446, \"y\": -48.0762, \"z\": -16.7802}, {\"x\": -19.1723, \"y\": -79.1017, \"z\": -24.1448}, {\"x\": -24.2277, \"y\": -81.7205, \"z\": -17.5427}, {\"x\": -31.8238, \"y\": -90.0492, \"z\": -34.9947}, {\"x\": -4.7410, \"y\": 49.8136, \"z\": 9.1041}, {\"x\": -12.7954, \"y\": 70.7541, \"z\": 26.9568}, {\"x\": 0.0717, \"y\": 75.2712, \"z\": 18.7583}, {\"x\": 5.4562, \"y\": 72.6958, \"z\": 8.9959}, {\"x\": -8.4226, \"y\": 7.2495, \"z\": 7.3511}, {\"x\": 1.0909, \"y\": -46.5862, \"z\": 13.4700}, {\"x\": 10.7564, \"y\": -82.7485, \"z\": 10.3305}, {\"x\": 18.1934, \"y\": -89.0210, \"z\": 4.2724}, {\"x\": -3.6748, \"y\": -90.4701, \"z\": 5.7198}, {\"x\": -3.3817, \"y\": 72.3512, \"z\": 19.6089}, {\"x\": 19.0471, \"y\": -11.1661, \"z\": 3.5307}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame338() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.28669547465694, 95.02052443927742, -23.96948258428354),
+                "\"skeletons\": [{\"x\": -0.5894, \"y\": 67.3111, \"z\": -8.3414}, {\"x\": -7.3795, \"y\": 67.3692, \"z\": 0.3544}, {\"x\": -4.6209, \"y\": 17.3015, \"z\": -4.2570}, {\"x\": 13.3817, \"y\": 46.9857, \"z\": -10.3046}, {\"x\": 25.0192, \"y\": 13.5869, \"z\": -2.5731}, {\"x\": 21.7108, \"y\": 0.7976, \"z\": -1.8122}, {\"x\": 23.1916, \"y\": -8.9227, \"z\": 3.5738}, {\"x\": 4.7705, \"y\": 4.5462, \"z\": -7.2803}, {\"x\": -5.3052, \"y\": -47.9398, \"z\": -16.8157}, {\"x\": -19.0978, \"y\": -78.9349, \"z\": -24.2014}, {\"x\": -24.1467, \"y\": -81.5625, \"z\": -17.5999}, {\"x\": -31.7486, \"y\": -89.8768, \"z\": -35.0508}, {\"x\": -4.6959, \"y\": 49.9606, \"z\": 9.0906}, {\"x\": -13.4493, \"y\": 70.4796, \"z\": 27.2566}, {\"x\": -0.3503, \"y\": 73.8805, \"z\": 19.0976}, {\"x\": 4.9136, \"y\": 71.2619, \"z\": 9.4737}, {\"x\": -8.3363, \"y\": 7.4172, \"z\": 7.3225}, {\"x\": 1.1524, \"y\": -46.4194, \"z\": 13.4062}, {\"x\": 10.8341, \"y\": -82.5762, \"z\": 10.2747}, {\"x\": 18.2628, \"y\": -88.8418, \"z\": 4.2099}, {\"x\": -3.5984, \"y\": -90.3204, \"z\": 5.6597}, {\"x\": -4.1115, \"y\": 71.3237, \"z\": 19.7512}, {\"x\": 19.1784, \"y\": -10.9020, \"z\": 3.4094}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame339() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.18880757706638, 94.88027265770118, -23.90037494981571),
+                "\"skeletons\": [{\"x\": -0.4065, \"y\": 67.4300, \"z\": -8.3966}, {\"x\": -7.2293, \"y\": 67.5009, \"z\": 0.3074}, {\"x\": -4.4767, \"y\": 17.4378, \"z\": -4.2852}, {\"x\": 13.5088, \"y\": 47.1201, \"z\": -10.3540}, {\"x\": 25.1825, \"y\": 13.7164, \"z\": -2.5933}, {\"x\": 21.8606, \"y\": 0.9341, \"z\": -1.8379}, {\"x\": 23.3446, \"y\": -8.7609, \"z\": 3.5650}, {\"x\": 4.8930, \"y\": 4.6802, \"z\": -7.3294}, {\"x\": -5.2143, \"y\": -47.8145, \"z\": -16.8363}, {\"x\": -19.0083, \"y\": -78.7979, \"z\": -24.2521}, {\"x\": -24.0632, \"y\": -81.4389, \"z\": -17.6537}, {\"x\": -31.6526, \"y\": -89.7304, \"z\": -35.1108}, {\"x\": -4.7343, \"y\": 50.0589, \"z\": 9.1122}, {\"x\": -14.2001, \"y\": 70.1087, \"z\": 27.4555}, {\"x\": -0.9823, \"y\": 72.8951, \"z\": 19.3569}, {\"x\": 4.2679, \"y\": 70.0909, \"z\": 9.8984}, {\"x\": -8.2270, \"y\": 7.5537, \"z\": 7.2835}, {\"x\": 1.1769, \"y\": -46.2390, \"z\": 13.3468}, {\"x\": 10.9154, \"y\": -82.4412, \"z\": 10.2058}, {\"x\": 18.3571, \"y\": -88.7037, \"z\": 4.1421}, {\"x\": -3.5227, \"y\": -90.1571, \"z\": 5.5908}, {\"x\": -4.8995, \"y\": 70.5736, \"z\": 19.8884}, {\"x\": 19.3497, \"y\": -10.7184, \"z\": 3.4089}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame340() {
+        return new MovesDoubleFrame(
+                new Vector3d(28.07980795549629, 94.75927821435165, -23.82476260259687),
+                "\"skeletons\": [{\"x\": -0.2219, \"y\": 67.4779, \"z\": -8.4343}, {\"x\": -7.0230, \"y\": 67.6166, \"z\": 0.3132}, {\"x\": -4.3155, \"y\": 17.5477, \"z\": -4.3352}, {\"x\": 13.6830, \"y\": 47.2271, \"z\": -10.4102}, {\"x\": 25.3594, \"y\": 13.8365, \"z\": -2.6068}, {\"x\": 22.0281, \"y\": 1.0519, \"z\": -1.8167}, {\"x\": 23.5311, \"y\": -8.6055, \"z\": 3.6136}, {\"x\": 5.0165, \"y\": 4.7687, \"z\": -7.3746}, {\"x\": -5.1038, \"y\": -47.7010, \"z\": -16.8637}, {\"x\": -18.9178, \"y\": -78.6816, \"z\": -24.3124}, {\"x\": -23.9811, \"y\": -81.3243, \"z\": -17.7051}, {\"x\": -31.5572, \"y\": -89.6014, \"z\": -35.1795}, {\"x\": -4.7918, \"y\": 50.1162, \"z\": 9.1101}, {\"x\": -15.0568, \"y\": 69.7207, \"z\": 27.5951}, {\"x\": -1.8428, \"y\": 72.1785, \"z\": 19.5506}, {\"x\": 3.5347, \"y\": 69.1437, \"z\": 10.3529}, {\"x\": -8.1031, \"y\": 7.6668, \"z\": 7.2355}, {\"x\": 1.2753, \"y\": -46.1264, \"z\": 13.2891}, {\"x\": 11.0145, \"y\": -82.3253, \"z\": 10.1307}, {\"x\": 18.4627, \"y\": -88.5888, \"z\": 4.0717}, {\"x\": -3.4037, \"y\": -90.0448, \"z\": 5.5124}, {\"x\": -5.7606, \"y\": 69.9383, \"z\": 20.0810}, {\"x\": 19.5663, \"y\": -10.5447, \"z\": 3.4562}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame341() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.96466897164299, 94.64475959333845, -23.75522788791248),
+                "\"skeletons\": [{\"x\": -0.0181, \"y\": 67.5568, \"z\": -8.4524}, {\"x\": -6.7730, \"y\": 67.6847, \"z\": 0.3190}, {\"x\": -4.1302, \"y\": 17.6424, \"z\": -4.3887}, {\"x\": 13.8934, \"y\": 47.3066, \"z\": -10.4458}, {\"x\": 25.5180, \"y\": 13.9238, \"z\": -2.6040}, {\"x\": 22.1934, \"y\": 1.1866, \"z\": -1.7670}, {\"x\": 23.6347, \"y\": -8.5152, \"z\": 3.6667}, {\"x\": 5.1581, \"y\": 4.8443, \"z\": -7.3900}, {\"x\": -4.9922, \"y\": -47.6096, \"z\": -16.8698}, {\"x\": -18.8092, \"y\": -78.5746, \"z\": -24.3607}, {\"x\": -23.8883, \"y\": -81.2110, \"z\": -17.7578}, {\"x\": -31.4483, \"y\": -89.4883, \"z\": -35.2466}, {\"x\": -4.7402, \"y\": 50.1914, \"z\": 9.0519}, {\"x\": -16.1505, \"y\": 69.3443, \"z\": 27.5535}, {\"x\": -2.8004, \"y\": 71.5368, \"z\": 19.6897}, {\"x\": 2.8058, \"y\": 68.3496, \"z\": 10.7658}, {\"x\": -7.9649, \"y\": 7.7681, \"z\": 7.1963}, {\"x\": 1.4287, \"y\": -46.0553, \"z\": 13.2454}, {\"x\": 11.1363, \"y\": -82.2063, \"z\": 10.0657}, {\"x\": 18.5872, \"y\": -88.4699, \"z\": 3.9967}, {\"x\": -3.2885, \"y\": -89.9292, \"z\": 5.4427}, {\"x\": -6.7402, \"y\": 69.3186, \"z\": 20.1706}, {\"x\": 19.6167, \"y\": -10.4760, \"z\": 3.4645}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame342() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.84347081333918, 94.53699740233736, -23.69218511581421),
+                "\"skeletons\": [{\"x\": 0.2308, \"y\": 67.6951, \"z\": -8.4893}, {\"x\": -6.5124, \"y\": 67.8108, \"z\": 0.3170}, {\"x\": -3.9018, \"y\": 17.7331, \"z\": -4.4469}, {\"x\": 14.1150, \"y\": 47.3903, \"z\": -10.4743}, {\"x\": 25.6911, \"y\": 13.9916, \"z\": -2.5481}, {\"x\": 22.3369, \"y\": 1.2841, \"z\": -1.6940}, {\"x\": 23.7407, \"y\": -8.4404, \"z\": 3.7318}, {\"x\": 5.3275, \"y\": 4.9253, \"z\": -7.4097}, {\"x\": -4.8672, \"y\": -47.5275, \"z\": -16.8557}, {\"x\": -18.6860, \"y\": -78.4766, \"z\": -24.4038}, {\"x\": -23.7778, \"y\": -81.1100, \"z\": -17.8036}, {\"x\": -31.3140, \"y\": -89.3837, \"z\": -35.3103}, {\"x\": -4.7048, \"y\": 50.2566, \"z\": 9.0066}, {\"x\": -17.2814, \"y\": 68.9369, \"z\": 27.4085}, {\"x\": -3.8107, \"y\": 70.9696, \"z\": 19.7963}, {\"x\": 2.0470, \"y\": 67.6560, \"z\": 11.1653}, {\"x\": -7.8172, \"y\": 7.8465, \"z\": 7.1860}, {\"x\": 1.5411, \"y\": -45.9495, \"z\": 13.2081}, {\"x\": 11.2422, \"y\": -82.1140, \"z\": 10.0068}, {\"x\": 18.7105, \"y\": -88.3658, \"z\": 3.9377}, {\"x\": -3.1680, \"y\": -89.8152, \"z\": 5.3787}, {\"x\": -7.7288, \"y\": 68.7874, \"z\": 20.2404}, {\"x\": 19.7081, \"y\": -10.4021, \"z\": 3.5442}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame343() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.71023848276134, 94.42243699794859, -23.63724244023471),
+                "\"skeletons\": [{\"x\": 0.4791, \"y\": 67.8054, \"z\": -8.4882}, {\"x\": -6.2681, \"y\": 67.9523, \"z\": 0.2963}, {\"x\": -3.6568, \"y\": 17.8078, \"z\": -4.5006}, {\"x\": 14.3606, \"y\": 47.4869, \"z\": -10.4809}, {\"x\": 25.8852, \"y\": 14.0932, \"z\": -2.4794}, {\"x\": 22.4587, \"y\": 1.3535, \"z\": -1.6136}, {\"x\": 23.8535, \"y\": -8.3800, \"z\": 3.8147}, {\"x\": 5.5207, \"y\": 5.0191, \"z\": -7.4147}, {\"x\": -4.7110, \"y\": -47.4286, \"z\": -16.8470}, {\"x\": -18.5530, \"y\": -78.3746, \"z\": -24.4359}, {\"x\": -23.6386, \"y\": -81.0037, \"z\": -17.8488}, {\"x\": -31.1778, \"y\": -89.2700, \"z\": -35.3568}, {\"x\": -4.6786, \"y\": 50.3319, \"z\": 9.0219}, {\"x\": -18.5521, \"y\": 68.4919, \"z\": 27.2004}, {\"x\": -4.9145, \"y\": 70.4523, \"z\": 19.8131}, {\"x\": 1.1584, \"y\": 66.9506, \"z\": 11.4771}, {\"x\": -7.6524, \"y\": 7.9405, \"z\": 7.1908}, {\"x\": 1.6503, \"y\": -45.8396, \"z\": 13.1789}, {\"x\": 11.3709, \"y\": -82.0113, \"z\": 9.9483}, {\"x\": 18.8493, \"y\": -88.2556, \"z\": 3.8906}, {\"x\": -3.0404, \"y\": -89.6946, \"z\": 5.3263}, {\"x\": -8.8151, \"y\": 68.2870, \"z\": 20.2195}, {\"x\": 19.8227, \"y\": -10.3394, \"z\": 3.6811}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame344() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.55793875817806, 94.31156809356948, -23.59789932064311),
+                "\"skeletons\": [{\"x\": 0.7615, \"y\": 67.8943, \"z\": -8.4695}, {\"x\": -5.9958, \"y\": 68.0597, \"z\": 0.3322}, {\"x\": -3.4123, \"y\": 17.8767, \"z\": -4.5075}, {\"x\": 14.6543, \"y\": 47.5939, \"z\": -10.4575}, {\"x\": 26.0842, \"y\": 14.1760, \"z\": -2.3834}, {\"x\": 22.5987, \"y\": 1.4482, \"z\": -1.5167}, {\"x\": 23.9833, \"y\": -8.3093, \"z\": 3.9253}, {\"x\": 5.7242, \"y\": 5.1076, \"z\": -7.4033}, {\"x\": -4.5390, \"y\": -47.3477, \"z\": -16.8265}, {\"x\": -18.3757, \"y\": -78.2693, \"z\": -24.4668}, {\"x\": -23.4794, \"y\": -80.8921, \"z\": -17.8866}, {\"x\": -31.0187, \"y\": -89.1511, \"z\": -35.3990}, {\"x\": -4.7161, \"y\": 50.3542, \"z\": 9.0213}, {\"x\": -19.9189, \"y\": 68.0092, \"z\": 26.7979}, {\"x\": -6.0655, \"y\": 69.9313, \"z\": 19.7882}, {\"x\": 0.1527, \"y\": 66.2900, \"z\": 11.7376}, {\"x\": -7.4676, \"y\": 8.0481, \"z\": 7.1838}, {\"x\": 1.7103, \"y\": -45.6430, \"z\": 13.1824}, {\"x\": 11.5272, \"y\": -81.8952, \"z\": 9.9030}, {\"x\": 18.9971, \"y\": -88.1421, \"z\": 3.8486}, {\"x\": -2.8901, \"y\": -89.5820, \"z\": 5.2890}, {\"x\": -9.9159, \"y\": 67.7533, \"z\": 20.1241}, {\"x\": 19.9540, \"y\": -10.2744, \"z\": 3.8263}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame345() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.40393864050844, 94.19441603816760, -23.57104440276697),
+                "\"skeletons\": [{\"x\": 1.0455, \"y\": 68.0149, \"z\": -8.4257}, {\"x\": -5.7185, \"y\": 68.1628, \"z\": 0.3799}, {\"x\": -3.1829, \"y\": 17.9463, \"z\": -4.4622}, {\"x\": 14.8950, \"y\": 47.6984, \"z\": -10.4116}, {\"x\": 26.2693, \"y\": 14.2465, \"z\": -2.2683}, {\"x\": 22.7805, \"y\": 1.5533, \"z\": -1.3604}, {\"x\": 24.1133, \"y\": -8.2168, \"z\": 4.0527}, {\"x\": 5.9369, \"y\": 5.1924, \"z\": -7.3730}, {\"x\": -4.3623, \"y\": -47.2664, \"z\": -16.8041}, {\"x\": -18.1819, \"y\": -78.1584, \"z\": -24.4737}, {\"x\": -23.3081, \"y\": -80.7783, \"z\": -17.9131}, {\"x\": -30.8470, \"y\": -89.0260, \"z\": -35.4284}, {\"x\": -4.8275, \"y\": 50.3460, \"z\": 9.0301}, {\"x\": -21.3012, \"y\": 67.4880, \"z\": 26.2345}, {\"x\": -7.2925, \"y\": 69.2814, \"z\": 19.6981}, {\"x\": -0.8176, \"y\": 65.6238, \"z\": 11.9112}, {\"x\": -7.2743, \"y\": 8.1569, \"z\": 7.1800}, {\"x\": 1.8985, \"y\": -45.5431, \"z\": 13.1980}, {\"x\": 11.6817, \"y\": -81.7751, \"z\": 9.8862}, {\"x\": 19.1504, \"y\": -88.0309, \"z\": 3.8273}, {\"x\": -2.7343, \"y\": -89.4667, \"z\": 5.2620}, {\"x\": -11.1525, \"y\": 67.1139, \"z\": 19.9077}, {\"x\": 20.0645, \"y\": -10.1814, \"z\": 3.9526}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame346() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.23975448927865, 94.07439378124774, -23.56579340194328),
+                "\"skeletons\": [{\"x\": 1.3218, \"y\": 68.1307, \"z\": -8.3389}, {\"x\": -5.4389, \"y\": 68.2441, \"z\": 0.4811}, {\"x\": -2.9251, \"y\": 18.0540, \"z\": -4.4237}, {\"x\": 15.1713, \"y\": 47.7994, \"z\": -10.2851}, {\"x\": 26.4766, \"y\": 14.3336, \"z\": -2.1283}, {\"x\": 22.9391, \"y\": 1.6503, \"z\": -1.2343}, {\"x\": 24.2590, \"y\": -8.1273, \"z\": 4.1444}, {\"x\": 6.1670, \"y\": 5.2853, \"z\": -7.3103}, {\"x\": -4.1753, \"y\": -47.1672, \"z\": -16.7810}, {\"x\": -17.9988, \"y\": -78.0424, \"z\": -24.4621}, {\"x\": -23.1338, \"y\": -80.6646, \"z\": -17.9219}, {\"x\": -30.6733, \"y\": -88.8940, \"z\": -35.4362}, {\"x\": -4.9142, \"y\": 50.3549, \"z\": 9.0432}, {\"x\": -22.7769, \"y\": 66.8936, \"z\": 25.5800}, {\"x\": -8.5576, \"y\": 68.5998, \"z\": 19.5647}, {\"x\": -1.8503, \"y\": 65.0372, \"z\": 11.9645}, {\"x\": -7.0579, \"y\": 8.2621, \"z\": 7.2019}, {\"x\": 2.1391, \"y\": -45.5065, \"z\": 13.1796}, {\"x\": 11.8424, \"y\": -81.6592, \"z\": 9.8790}, {\"x\": 19.3219, \"y\": -87.9102, \"z\": 3.8260}, {\"x\": -2.5591, \"y\": -89.3479, \"z\": 5.2567}, {\"x\": -12.4254, \"y\": 66.5256, \"z\": 19.5983}, {\"x\": 20.1864, \"y\": -10.0953, \"z\": 4.0702}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame347() {
+        return new MovesDoubleFrame(
+                new Vector3d(27.06888266572218, 93.96439939898001, -23.56789775960959),
+                "\"skeletons\": [{\"x\": 1.5953, \"y\": 68.2097, \"z\": -8.2178}, {\"x\": -5.1780, \"y\": 68.3237, \"z\": 0.5848}, {\"x\": -2.6309, \"y\": 18.1510, \"z\": -4.4084}, {\"x\": 15.4702, \"y\": 47.8968, \"z\": -10.1384}, {\"x\": 26.7369, \"y\": 14.4218, \"z\": -1.9719}, {\"x\": 23.1125, \"y\": 1.7470, \"z\": -1.1517}, {\"x\": 24.4304, \"y\": -8.0608, \"z\": 4.2142}, {\"x\": 6.3882, \"y\": 5.3446, \"z\": -7.2335}, {\"x\": -3.9908, \"y\": -47.0687, \"z\": -16.7625}, {\"x\": -17.8224, \"y\": -77.9385, \"z\": -24.4542}, {\"x\": -22.9608, \"y\": -80.5540, \"z\": -17.9198}, {\"x\": -30.4942, \"y\": -88.7745, \"z\": -35.4388}, {\"x\": -4.8389, \"y\": 50.4561, \"z\": 9.0805}, {\"x\": -24.3315, \"y\": 66.2168, \"z\": 24.7829}, {\"x\": -9.9338, \"y\": 68.0574, \"z\": 19.3346}, {\"x\": -2.8978, \"y\": 64.6066, \"z\": 12.0877}, {\"x\": -6.8340, \"y\": 8.3532, \"z\": 7.2331}, {\"x\": 2.2641, \"y\": -45.3640, \"z\": 13.2206}, {\"x\": 12.0082, \"y\": -81.5597, \"z\": 9.8809}, {\"x\": 19.4780, \"y\": -87.8112, \"z\": 3.8443}, {\"x\": -2.3970, \"y\": -89.2263, \"z\": 5.2619}, {\"x\": -13.7680, \"y\": 65.9802, \"z\": 19.1889}, {\"x\": 20.3459, \"y\": -10.0299, \"z\": 4.1671}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame348() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.89558339565801, 93.86637418373735, -23.57750534154331),
+                "\"skeletons\": [{\"x\": 1.8578, \"y\": 68.2974, \"z\": -8.0822}, {\"x\": -4.9189, \"y\": 68.3857, \"z\": 0.7128}, {\"x\": -2.3334, \"y\": 18.2215, \"z\": -4.3582}, {\"x\": 15.7515, \"y\": 47.9817, \"z\": -10.0136}, {\"x\": 26.9833, \"y\": 14.5159, \"z\": -1.8411}, {\"x\": 23.3045, \"y\": 1.8595, \"z\": -1.0610}, {\"x\": 24.6159, \"y\": -8.0030, \"z\": 4.3165}, {\"x\": 6.6125, \"y\": 5.4046, \"z\": -7.1929}, {\"x\": -3.8020, \"y\": -46.9835, \"z\": -16.7394}, {\"x\": -17.6472, \"y\": -77.8497, \"z\": -24.4350}, {\"x\": -22.7801, \"y\": -80.4579, \"z\": -17.9068}, {\"x\": -30.3129, \"y\": -88.6778, \"z\": -35.4288}, {\"x\": -4.9337, \"y\": 50.4888, \"z\": 9.1300}, {\"x\": -25.9036, \"y\": 65.4396, \"z\": 23.8640}, {\"x\": -11.4034, \"y\": 67.6232, \"z\": 18.9952}, {\"x\": -3.9041, \"y\": 64.2855, \"z\": 12.1781}, {\"x\": -6.6140, \"y\": 8.4442, \"z\": 7.2777}, {\"x\": 2.4133, \"y\": -45.2513, \"z\": 13.2636}, {\"x\": 12.1894, \"y\": -81.4462, \"z\": 9.9027}, {\"x\": 19.6258, \"y\": -87.7348, \"z\": 3.8892}, {\"x\": -2.2239, \"y\": -89.1293, \"z\": 5.2718}, {\"x\": -15.1780, \"y\": 65.4339, \"z\": 18.7097}, {\"x\": 20.5169, \"y\": -9.9646, \"z\": 4.2746}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame349() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.72474332941987, 93.76219900089137, -23.60330260515402),
+                "\"skeletons\": [{\"x\": 2.1409, \"y\": 68.4149, \"z\": -7.9489}, {\"x\": -4.6494, \"y\": 68.4711, \"z\": 0.8551}, {\"x\": -2.0826, \"y\": 18.3089, \"z\": -4.3272}, {\"x\": 15.9949, \"y\": 48.0796, \"z\": -9.8913}, {\"x\": 27.2223, \"y\": 14.6227, \"z\": -1.6923}, {\"x\": 23.5340, \"y\": 1.9714, \"z\": -0.9039}, {\"x\": 24.8153, \"y\": -7.9235, \"z\": 4.4472}, {\"x\": 6.8367, \"y\": 5.4728, \"z\": -7.1313}, {\"x\": -3.6127, \"y\": -46.8937, \"z\": -16.6957}, {\"x\": -17.4784, \"y\": -77.7610, \"z\": -24.3978}, {\"x\": -22.6121, \"y\": -80.3590, \"z\": -17.8690}, {\"x\": -30.1336, \"y\": -88.5765, \"z\": -35.4001}, {\"x\": -5.0750, \"y\": 50.5452, \"z\": 9.1552}, {\"x\": -27.4582, \"y\": 64.5726, \"z\": 22.8312}, {\"x\": -12.8312, \"y\": 67.1103, \"z\": 18.6071}, {\"x\": -4.9320, \"y\": 63.9366, \"z\": 12.1687}, {\"x\": -6.4006, \"y\": 8.5335, \"z\": 7.3474}, {\"x\": 2.5627, \"y\": -45.1366, \"z\": 13.3455}, {\"x\": 12.3621, \"y\": -81.3422, \"z\": 9.9340}, {\"x\": 19.8118, \"y\": -87.6191, \"z\": 3.9010}, {\"x\": -2.0431, \"y\": -89.0354, \"z\": 5.2946}, {\"x\": -16.4949, \"y\": 64.8061, \"z\": 18.1175}, {\"x\": 20.7183, \"y\": -9.8854, \"z\": 4.4195}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame350() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.55471298697671, 93.65303062843778, -23.63964942182084),
+                "\"skeletons\": [{\"x\": 2.4132, \"y\": 68.5260, \"z\": -7.8201}, {\"x\": -4.3386, \"y\": 68.6009, \"z\": 0.9591}, {\"x\": -1.8435, \"y\": 18.3837, \"z\": -4.2743}, {\"x\": 16.2439, \"y\": 48.2008, \"z\": -9.7435}, {\"x\": 27.4692, \"y\": 14.7556, \"z\": -1.5368}, {\"x\": 23.7640, \"y\": 2.0724, \"z\": -0.7308}, {\"x\": 25.0237, \"y\": -7.8260, \"z\": 4.5769}, {\"x\": 7.0538, \"y\": 5.5456, \"z\": -7.0486}, {\"x\": -3.4234, \"y\": -46.7889, \"z\": -16.6421}, {\"x\": -17.3152, \"y\": -77.6641, \"z\": -24.3477}, {\"x\": -22.4512, \"y\": -80.2513, \"z\": -17.8181}, {\"x\": -29.9607, \"y\": -88.4623, \"z\": -35.3627}, {\"x\": -5.2097, \"y\": 50.6133, \"z\": 9.2077}, {\"x\": -28.9774, \"y\": 63.5423, \"z\": 21.6996}, {\"x\": -14.2632, \"y\": 66.5422, \"z\": 18.2191}, {\"x\": -5.9620, \"y\": 63.6402, \"z\": 12.2357}, {\"x\": -6.1984, \"y\": 8.6364, \"z\": 7.4178}, {\"x\": 2.7401, \"y\": -45.0247, \"z\": 13.4303}, {\"x\": 12.5352, \"y\": -81.2316, \"z\": 9.9793}, {\"x\": 19.9863, \"y\": -87.4965, \"z\": 3.9245}, {\"x\": -1.8586, \"y\": -88.9428, \"z\": 5.3290}, {\"x\": -17.7954, \"y\": 64.1480, \"z\": 17.5029}, {\"x\": 20.9318, \"y\": -9.7938, \"z\": 4.5644}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame351() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.38051978229667, 93.53382519663049, -23.68969277515338),
+                "\"skeletons\": [{\"x\": 2.6900, \"y\": 68.6478, \"z\": -7.6750}, {\"x\": -4.0165, \"y\": 68.7500, \"z\": 1.0314}, {\"x\": -1.6064, \"y\": 18.4708, \"z\": -4.1904}, {\"x\": 16.4628, \"y\": 48.3464, \"z\": -9.6324}, {\"x\": 27.7126, \"y\": 14.9122, \"z\": -1.4164}, {\"x\": 23.9647, \"y\": 2.1899, \"z\": -0.5954}, {\"x\": 25.2454, \"y\": -7.6957, \"z\": 4.7157}, {\"x\": 7.2714, \"y\": 5.6480, \"z\": -6.9564}, {\"x\": -3.2404, \"y\": -46.6735, \"z\": -16.5661}, {\"x\": -17.1449, \"y\": -77.5552, \"z\": -24.2807}, {\"x\": -22.2882, \"y\": -80.1349, \"z\": -17.7560}, {\"x\": -29.7836, \"y\": -88.3334, \"z\": -35.3158}, {\"x\": -5.3088, \"y\": 50.6776, \"z\": 9.2996}, {\"x\": -30.4409, \"y\": 62.3831, \"z\": 20.4513}, {\"x\": -15.6899, \"y\": 65.8829, \"z\": 17.8023}, {\"x\": -7.0349, \"y\": 63.2477, \"z\": 12.2492}, {\"x\": -6.0035, \"y\": 8.7547, \"z\": 7.5082}, {\"x\": 2.9373, \"y\": -44.9164, \"z\": 13.5314}, {\"x\": 12.7023, \"y\": -81.1089, \"z\": 10.0393}, {\"x\": 20.1467, \"y\": -87.3768, \"z\": 3.9857}, {\"x\": -1.6899, \"y\": -88.8285, \"z\": 5.3844}, {\"x\": -19.1022, \"y\": 63.4101, \"z\": 16.8564}, {\"x\": 21.1517, \"y\": -9.6733, \"z\": 4.7304}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame352() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.20559881399092, 93.39764608253412, -23.75353437640919),
+                "\"skeletons\": [{\"x\": 2.9716, \"y\": 68.7765, \"z\": -7.5095}, {\"x\": -3.7388, \"y\": 68.8741, \"z\": 1.2030}, {\"x\": -1.3805, \"y\": 18.5934, \"z\": -4.1063}, {\"x\": 16.6596, \"y\": 48.5057, \"z\": -9.5288}, {\"x\": 27.9302, \"y\": 15.0693, \"z\": -1.3197}, {\"x\": 24.1577, \"y\": 2.3511, \"z\": -0.4713}, {\"x\": 25.4684, \"y\": -7.4662, \"z\": 4.8132}, {\"x\": 7.4834, \"y\": 5.7688, \"z\": -6.8400}, {\"x\": -3.0594, \"y\": -46.5440, \"z\": -16.4681}, {\"x\": -16.9750, \"y\": -77.4322, \"z\": -24.1881}, {\"x\": -22.1207, \"y\": -80.0053, \"z\": -17.6781}, {\"x\": -29.6091, \"y\": -88.1962, \"z\": -35.2524}, {\"x\": -5.4630, \"y\": 50.7540, \"z\": 9.3857}, {\"x\": -31.7847, \"y\": 61.0682, \"z\": 19.0830}, {\"x\": -17.0790, \"y\": 65.0457, \"z\": 17.3152}, {\"x\": -8.1489, \"y\": 62.7712, \"z\": 12.1534}, {\"x\": -5.8159, \"y\": 8.8842, \"z\": 7.6363}, {\"x\": 3.1133, \"y\": -44.7786, \"z\": 13.6491}, {\"x\": 12.8692, \"y\": -80.9697, \"z\": 10.1139}, {\"x\": 20.3480, \"y\": -87.2295, \"z\": 4.0298}, {\"x\": -1.5236, \"y\": -88.6805, \"z\": 5.4427}, {\"x\": -20.3536, \"y\": 62.5575, \"z\": 16.1014}, {\"x\": 21.3680, \"y\": -9.3678, \"z\": 4.8182}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame353() {
+        return new MovesDoubleFrame(
+                new Vector3d(26.03848541713780, 93.25661091627578, -23.83202293433772),
+                "\"skeletons\": [{\"x\": 3.2242, \"y\": 68.9128, \"z\": -7.3532}, {\"x\": -3.4279, \"y\": 69.0397, \"z\": 1.4251}, {\"x\": -1.1523, \"y\": 18.7374, \"z\": -4.0085}, {\"x\": 16.8385, \"y\": 48.6660, \"z\": -9.4166}, {\"x\": 28.1288, \"y\": 15.2248, \"z\": -1.2084}, {\"x\": 24.3423, \"y\": 2.5239, \"z\": -0.3322}, {\"x\": 25.6712, \"y\": -7.1972, \"z\": 4.8555}, {\"x\": 7.6731, \"y\": 5.8904, \"z\": -6.7117}, {\"x\": -2.8882, \"y\": -46.4025, \"z\": -16.3564}, {\"x\": -16.8139, \"y\": -77.3026, \"z\": -24.0868}, {\"x\": -21.9688, \"y\": -79.8809, \"z\": -17.5884}, {\"x\": -29.4448, \"y\": -88.0579, \"z\": -35.1684}, {\"x\": -5.6091, \"y\": 50.8093, \"z\": 9.4966}, {\"x\": -33.0179, \"y\": 59.5924, \"z\": 17.6874}, {\"x\": -18.4645, \"y\": 64.1295, \"z\": 16.7967}, {\"x\": -9.2070, \"y\": 62.3468, \"z\": 11.9921}, {\"x\": -5.6215, \"y\": 9.0184, \"z\": 7.7657}, {\"x\": 3.2802, \"y\": -44.6280, \"z\": 13.7718}, {\"x\": 13.0256, \"y\": -80.8300, \"z\": 10.2020}, {\"x\": 20.4834, \"y\": -87.0961, \"z\": 4.1291}, {\"x\": -1.3607, \"y\": -88.5473, \"z\": 5.5202}, {\"x\": -21.5894, \"y\": 61.6299, \"z\": 15.3131}, {\"x\": 21.5651, \"y\": -8.9842, \"z\": 4.8225}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame354() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.87082829819062, 93.11499432854625, -23.91829736661675),
+                "\"skeletons\": [{\"x\": 3.4784, \"y\": 69.0553, \"z\": -7.1740}, {\"x\": -3.1730, \"y\": 69.1995, \"z\": 1.6119}, {\"x\": -0.9349, \"y\": 18.8803, \"z\": -3.8801}, {\"x\": 17.0191, \"y\": 48.8301, \"z\": -9.3132}, {\"x\": 28.3235, \"y\": 15.3891, \"z\": -1.1013}, {\"x\": 24.5282, \"y\": 2.6892, \"z\": -0.1955}, {\"x\": 25.8812, \"y\": -7.0370, \"z\": 4.9447}, {\"x\": 7.8457, \"y\": 6.0154, \"z\": -6.5997}, {\"x\": -2.7224, \"y\": -46.2610, \"z\": -16.2413}, {\"x\": -16.6515, \"y\": -77.1654, \"z\": -23.9913}, {\"x\": -21.8176, \"y\": -79.7632, \"z\": -17.4803}, {\"x\": -29.2795, \"y\": -87.9199, \"z\": -35.0764}, {\"x\": -5.8540, \"y\": 50.8410, \"z\": 9.6066}, {\"x\": -34.1743, \"y\": 58.0688, \"z\": 16.3187}, {\"x\": -19.8327, \"y\": 63.2433, \"z\": 16.2209}, {\"x\": -10.3286, \"y\": 61.9078, \"z\": 11.7800}, {\"x\": -5.4260, \"y\": 9.1675, \"z\": 7.9088}, {\"x\": 3.4756, \"y\": -44.4754, \"z\": 13.8750}, {\"x\": 13.1909, \"y\": -80.6811, \"z\": 10.3067}, {\"x\": 20.6203, \"y\": -86.9562, \"z\": 4.2367}, {\"x\": -1.2023, \"y\": -88.4057, \"z\": 5.6076}, {\"x\": -22.7605, \"y\": 60.6806, \"z\": 14.5291}, {\"x\": 21.7722, \"y\": -8.8295, \"z\": 4.9613}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame355() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.71263884354431, 92.95806586762659, -24.00894236363804),
+                "\"skeletons\": [{\"x\": 3.7114, \"y\": 69.2128, \"z\": -6.9730}, {\"x\": -2.9790, \"y\": 69.3335, \"z\": 1.7891}, {\"x\": -0.7395, \"y\": 19.0199, \"z\": -3.7260}, {\"x\": 17.1836, \"y\": 49.0056, \"z\": -9.2156}, {\"x\": 28.5022, \"y\": 15.5669, \"z\": -1.0112}, {\"x\": 24.7125, \"y\": 2.8750, \"z\": -0.0918}, {\"x\": 26.1020, \"y\": -6.8639, \"z\": 5.0462}, {\"x\": 8.0021, \"y\": 6.1606, \"z\": -6.4878}, {\"x\": -2.5747, \"y\": -46.1120, \"z\": -16.1356}, {\"x\": -16.4997, \"y\": -77.0150, \"z\": -23.8875}, {\"x\": -21.6614, \"y\": -79.6211, \"z\": -17.3690}, {\"x\": -29.1185, \"y\": -87.7707, \"z\": -34.9793}, {\"x\": -6.1153, \"y\": 50.8680, \"z\": 9.7196}, {\"x\": -35.1772, \"y\": 56.4493, \"z\": 14.9766}, {\"x\": -21.1315, \"y\": 62.3135, \"z\": 15.5370}, {\"x\": -11.4136, \"y\": 61.5040, \"z\": 11.5476}, {\"x\": -5.2375, \"y\": 9.3344, \"z\": 8.0614}, {\"x\": 3.6559, \"y\": -44.2969, \"z\": 13.9914}, {\"x\": 13.3506, \"y\": -80.5120, \"z\": 10.4167}, {\"x\": 20.8025, \"y\": -86.7921, \"z\": 4.3136}, {\"x\": -1.0500, \"y\": -88.2436, \"z\": 5.7007}, {\"x\": -23.8343, \"y\": 59.6401, \"z\": 13.6593}, {\"x\": 21.9825, \"y\": -8.6672, \"z\": 5.1559}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame356() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.56301340621440, 92.78505171073867, -24.12021016992386),
+                "\"skeletons\": [{\"x\": 3.9255, \"y\": 69.3835, \"z\": -6.7662}, {\"x\": -2.7637, \"y\": 69.4999, \"z\": 2.0057}, {\"x\": -0.5657, \"y\": 19.1923, \"z\": -3.5781}, {\"x\": 17.3321, \"y\": 49.1900, \"z\": -9.1137}, {\"x\": 28.6703, \"y\": 15.7490, \"z\": -0.9245}, {\"x\": 24.8786, \"y\": 3.0656, \"z\": 0.0068}, {\"x\": 26.2963, \"y\": -6.6949, \"z\": 5.1293}, {\"x\": 8.1436, \"y\": 6.3185, \"z\": -6.3561}, {\"x\": -2.4382, \"y\": -45.9484, \"z\": -16.0105}, {\"x\": -16.3565, \"y\": -76.8467, \"z\": -23.7673}, {\"x\": -21.5250, \"y\": -79.4683, \"z\": -17.2475}, {\"x\": -28.9742, \"y\": -87.6033, \"z\": -34.8643}, {\"x\": -6.4497, \"y\": 50.8853, \"z\": 9.8449}, {\"x\": -36.0079, \"y\": 54.6643, \"z\": 13.6608}, {\"x\": -22.3618, \"y\": 61.3143, \"z\": 14.7656}, {\"x\": -12.5188, \"y\": 61.1297, \"z\": 11.1472}, {\"x\": -5.0573, \"y\": 9.5009, \"z\": 8.2344}, {\"x\": 3.8225, \"y\": -44.1165, \"z\": 14.1298}, {\"x\": 13.4980, \"y\": -80.3506, \"z\": 10.5314}, {\"x\": 20.9658, \"y\": -86.6179, \"z\": 4.4172}, {\"x\": -0.8855, \"y\": -88.0878, \"z\": 5.8111}, {\"x\": -24.8392, \"y\": 58.5471, \"z\": 12.7304}, {\"x\": 22.1666, \"y\": -8.4994, \"z\": 5.3153}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame357() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.40890238147340, 92.60684047889953, -24.24270014781241),
+                "\"skeletons\": [{\"x\": 4.1495, \"y\": 69.5803, \"z\": -6.5567}, {\"x\": -2.5451, \"y\": 69.6949, \"z\": 2.2108}, {\"x\": -0.4090, \"y\": 19.3720, \"z\": -3.4097}, {\"x\": 17.4884, \"y\": 49.3700, \"z\": -8.9965}, {\"x\": 28.8654, \"y\": 15.9266, \"z\": -0.8282}, {\"x\": 25.0448, \"y\": 3.2567, \"z\": 0.0982}, {\"x\": 26.4518, \"y\": -6.5594, \"z\": 5.1970}, {\"x\": 8.2842, \"y\": 6.4757, \"z\": -6.2106}, {\"x\": -2.2966, \"y\": -45.7811, \"z\": -15.8672}, {\"x\": -16.2058, \"y\": -76.6747, \"z\": -23.6310}, {\"x\": -21.3774, \"y\": -79.3119, \"z\": -17.1057}, {\"x\": -28.8298, \"y\": -87.4354, \"z\": -34.7315}, {\"x\": -6.8143, \"y\": 50.8969, \"z\": 9.9503}, {\"x\": -36.6714, \"y\": 52.7466, \"z\": 12.4111}, {\"x\": -23.6203, \"y\": 60.2933, \"z\": 13.9596}, {\"x\": -13.7300, \"y\": 60.7545, \"z\": 10.4769}, {\"x\": -4.8726, \"y\": 9.6724, \"z\": 8.4115}, {\"x\": 3.9939, \"y\": -43.9392, \"z\": 14.2700}, {\"x\": 13.6406, \"y\": -80.1684, \"z\": 10.6637}, {\"x\": 21.0952, \"y\": -86.4478, \"z\": 4.5585}, {\"x\": -0.7282, \"y\": -87.9348, \"z\": 5.9471}, {\"x\": -25.8432, \"y\": 57.4409, \"z\": 11.8370}, {\"x\": 22.3191, \"y\": -8.3446, \"z\": 5.4708}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame358() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.26677728599963, 92.42385432965469, -24.37269939478805),
+                "\"skeletons\": [{\"x\": 4.3458, \"y\": 69.7862, \"z\": -6.3579}, {\"x\": -2.3404, \"y\": 69.8772, \"z\": 2.4026}, {\"x\": -0.2732, \"y\": 19.5344, \"z\": -3.2370}, {\"x\": 17.6297, \"y\": 49.5531, \"z\": -8.8774}, {\"x\": 29.0404, \"y\": 16.1070, \"z\": -0.7381}, {\"x\": 25.2023, \"y\": 3.4531, \"z\": 0.1625}, {\"x\": 26.6244, \"y\": -6.4146, \"z\": 5.2444}, {\"x\": 8.4145, \"y\": 6.6481, \"z\": -6.0642}, {\"x\": -2.1637, \"y\": -45.6055, \"z\": -15.7246}, {\"x\": -16.0618, \"y\": -76.5037, \"z\": -23.4893}, {\"x\": -21.2253, \"y\": -79.1503, \"z\": -16.9608}, {\"x\": -28.6914, \"y\": -87.2633, \"z\": -34.5881}, {\"x\": -7.1719, \"y\": 50.9100, \"z\": 10.0835}, {\"x\": -37.1649, \"y\": 50.7094, \"z\": 11.2246}, {\"x\": -24.8258, \"y\": 59.2105, \"z\": 13.1264}, {\"x\": -14.9423, \"y\": 60.4631, \"z\": 9.8037}, {\"x\": -4.6995, \"y\": 9.8592, \"z\": 8.5839}, {\"x\": 4.1485, \"y\": -43.7585, \"z\": 14.4113}, {\"x\": 13.7861, \"y\": -79.9849, \"z\": 10.7986}, {\"x\": 21.2146, \"y\": -86.2661, \"z\": 4.7017}, {\"x\": -0.5951, \"y\": -87.7345, \"z\": 6.0739}, {\"x\": -26.7768, \"y\": 56.2546, \"z\": 10.9151}, {\"x\": 22.4965, \"y\": -8.1947, \"z\": 5.5926}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame359() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.14387055129219, 92.23443589801931, -24.51106066353725),
+                "\"skeletons\": [{\"x\": 4.5098, \"y\": 69.9762, \"z\": -6.1730}, {\"x\": -2.1582, \"y\": 70.0637, \"z\": 2.5812}, {\"x\": -0.1515, \"y\": 19.7219, \"z\": -3.0603}, {\"x\": 17.7345, \"y\": 49.7501, \"z\": -8.7513}, {\"x\": 29.1742, \"y\": 16.3050, \"z\": -0.6574}, {\"x\": 25.3419, \"y\": 3.6605, \"z\": 0.2281}, {\"x\": 26.7806, \"y\": -6.2493, \"z\": 5.3174}, {\"x\": 8.5296, \"y\": 6.8272, \"z\": -5.9187}, {\"x\": -2.0510, \"y\": -45.4293, \"z\": -15.5722}, {\"x\": -15.9357, \"y\": -76.3282, \"z\": -23.3447}, {\"x\": -21.0828, \"y\": -78.9869, \"z\": -16.8259}, {\"x\": -28.5704, \"y\": -87.0800, \"z\": -34.4434}, {\"x\": -7.4959, \"y\": 50.9294, \"z\": 10.2428}, {\"x\": -37.4914, \"y\": 48.6509, \"z\": 10.0892}, {\"x\": -25.9285, \"y\": 58.0666, \"z\": 12.2205}, {\"x\": -16.1414, \"y\": 60.1553, \"z\": 9.1049}, {\"x\": -4.5485, \"y\": 10.0479, \"z\": 8.7663}, {\"x\": 4.2812, \"y\": -43.5719, \"z\": 14.5629}, {\"x\": 13.9276, \"y\": -79.8136, \"z\": 10.9348}, {\"x\": 21.3397, \"y\": -86.0686, \"z\": 4.8379}, {\"x\": -0.4650, \"y\": -87.5249, \"z\": 6.1960}, {\"x\": -27.5743, \"y\": 55.0154, \"z\": 9.9383}, {\"x\": 22.6582, \"y\": -8.0302, \"z\": 5.7151}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame360() {
+        return new MovesDoubleFrame(
+                new Vector3d(25.02751356879878, 92.04251495541816, -24.64671055807578),
+                "\"skeletons\": [{\"x\": 4.6451, \"y\": 70.1638, \"z\": -6.0132}, {\"x\": -2.0002, \"y\": 70.2483, \"z\": 2.7611}, {\"x\": -0.0234, \"y\": 19.9201, \"z\": -2.8992}, {\"x\": 17.8249, \"y\": 49.9537, \"z\": -8.6228}, {\"x\": 29.3027, \"y\": 16.5177, \"z\": -0.5730}, {\"x\": 25.4498, \"y\": 3.8928, \"z\": 0.3333}, {\"x\": 26.8922, \"y\": -6.0661, \"z\": 5.3780}, {\"x\": 8.6397, \"y\": 7.0040, \"z\": -5.7716}, {\"x\": -1.9425, \"y\": -45.2523, \"z\": -15.3994}, {\"x\": -15.8241, \"y\": -76.1509, \"z\": -23.1878}, {\"x\": -20.9467, \"y\": -78.8209, \"z\": -16.6815}, {\"x\": -28.4571, \"y\": -86.8896, \"z\": -34.3003}, {\"x\": -7.8581, \"y\": 50.9113, \"z\": 10.3213}, {\"x\": -37.6223, \"y\": 46.5545, \"z\": 9.0173}, {\"x\": -26.9696, \"y\": 56.8859, \"z\": 11.2827}, {\"x\": -17.3570, \"y\": 59.8240, \"z\": 8.3643}, {\"x\": -4.3833, \"y\": 10.2339, \"z\": 8.9673}, {\"x\": 4.4148, \"y\": -43.3814, \"z\": 14.7277}, {\"x\": 14.0437, \"y\": -79.6258, \"z\": 11.0849}, {\"x\": 21.4493, \"y\": -85.8815, \"z\": 4.9837}, {\"x\": -0.3478, \"y\": -87.3321, \"z\": 6.3362}, {\"x\": -28.3173, \"y\": 53.7288, \"z\": 8.9889}, {\"x\": 22.7766, \"y\": -7.8463, \"z\": 5.8295}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame361() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.91758968279061, 91.84402216203539, -24.77741376852462),
+                "\"skeletons\": [{\"x\": 4.7566, \"y\": 70.3655, \"z\": -5.8590}, {\"x\": -1.8667, \"y\": 70.4379, \"z\": 2.9266}, {\"x\": 0.0966, \"y\": 20.1085, \"z\": -2.7233}, {\"x\": 17.8969, \"y\": 50.1629, \"z\": -8.5045}, {\"x\": 29.4219, \"y\": 16.7286, \"z\": -0.4915}, {\"x\": 25.5419, \"y\": 4.1019, \"z\": 0.4277}, {\"x\": 26.9888, \"y\": -5.8646, \"z\": 5.4327}, {\"x\": 8.7435, \"y\": 7.1847, \"z\": -5.6228}, {\"x\": -1.8362, \"y\": -45.0625, \"z\": -15.2377}, {\"x\": -15.6907, \"y\": -75.9505, \"z\": -23.0701}, {\"x\": -20.8325, \"y\": -78.6386, \"z\": -16.5377}, {\"x\": -28.3511, \"y\": -86.6952, \"z\": -34.1612}, {\"x\": -8.2187, \"y\": 50.8942, \"z\": 10.4380}, {\"x\": -37.5630, \"y\": 44.4247, \"z\": 7.9928}, {\"x\": -27.9716, \"y\": 55.6544, \"z\": 10.3346}, {\"x\": -18.6235, \"y\": 59.4146, \"z\": 7.5378}, {\"x\": -4.2214, \"y\": 10.4173, \"z\": 9.1575}, {\"x\": 4.5631, \"y\": -43.2183, \"z\": 14.9008}, {\"x\": 14.1579, \"y\": -79.4354, \"z\": 11.2213}, {\"x\": 21.5894, \"y\": -85.6806, \"z\": 5.0969}, {\"x\": -0.2400, \"y\": -87.1289, \"z\": 6.4710}, {\"x\": -28.9961, \"y\": 52.3754, \"z\": 8.0425}, {\"x\": 22.8743, \"y\": -7.6534, \"z\": 5.9332}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame362() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.81218503073439, 91.63898240404278, -24.91110778772216),
+                "\"skeletons\": [{\"x\": 4.8756, \"y\": 70.5665, \"z\": -5.7076}, {\"x\": -1.7532, \"y\": 70.6319, \"z\": 3.0861}, {\"x\": 0.2059, \"y\": 20.2961, \"z\": -2.5395}, {\"x\": 17.9653, \"y\": 50.3740, \"z\": -8.3930}, {\"x\": 29.5368, \"y\": 16.9402, \"z\": -0.4063}, {\"x\": 25.6236, \"y\": 4.2858, \"z\": 0.5353}, {\"x\": 27.0574, \"y\": -5.6693, \"z\": 5.5173}, {\"x\": 8.8493, \"y\": 7.3710, \"z\": -5.4621}, {\"x\": -1.7453, \"y\": -44.8796, \"z\": -15.0909}, {\"x\": -15.5881, \"y\": -75.7584, \"z\": -22.9171}, {\"x\": -20.7348, \"y\": -78.4463, \"z\": -16.3960}, {\"x\": -28.2512, \"y\": -86.4990, \"z\": -34.0187}, {\"x\": -8.5679, \"y\": 50.8795, \"z\": 10.5627}, {\"x\": -37.4044, \"y\": 42.3690, \"z\": 7.0345}, {\"x\": -28.9120, \"y\": 54.4324, \"z\": 9.3345}, {\"x\": -19.8451, \"y\": 58.9335, \"z\": 6.6524}, {\"x\": -4.0751, \"y\": 10.5951, \"z\": 9.3447}, {\"x\": 4.6979, \"y\": -43.0497, \"z\": 15.0694}, {\"x\": 14.2681, \"y\": -79.2476, \"z\": 11.3589}, {\"x\": 21.7316, \"y\": -85.4706, \"z\": 5.2072}, {\"x\": -0.1327, \"y\": -86.9247, \"z\": 6.6037}, {\"x\": -29.5974, \"y\": 51.0568, \"z\": 7.0654}, {\"x\": 22.9389, \"y\": -7.4567, \"z\": 6.0535}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame363() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.71485951172853, 91.43859547108394, -25.04488664379082),
+                "\"skeletons\": [{\"x\": 4.9781, \"y\": 70.7611, \"z\": -5.5606}, {\"x\": -1.6566, \"y\": 70.8241, \"z\": 3.2542}, {\"x\": 0.3081, \"y\": 20.4780, \"z\": -2.3531}, {\"x\": 18.0364, \"y\": 50.5840, \"z\": -8.2696}, {\"x\": 29.6296, \"y\": 17.1402, \"z\": -0.3094}, {\"x\": 25.6864, \"y\": 4.4787, \"z\": 0.6777}, {\"x\": 27.0963, \"y\": -5.4754, \"z\": 5.6223}, {\"x\": 8.9281, \"y\": 7.5526, \"z\": -5.3185}, {\"x\": -1.6696, \"y\": -44.6947, \"z\": -14.9268}, {\"x\": -15.5122, \"y\": -75.5812, \"z\": -22.7447}, {\"x\": -20.6350, \"y\": -78.2543, \"z\": -16.2577}, {\"x\": -28.1589, \"y\": -86.3024, \"z\": -33.8760}, {\"x\": -8.9394, \"y\": 50.8611, \"z\": 10.6491}, {\"x\": -37.0847, \"y\": 40.4025, \"z\": 6.1711}, {\"x\": -29.7249, \"y\": 53.1977, \"z\": 8.3128}, {\"x\": -21.0263, \"y\": 58.3999, \"z\": 5.6880}, {\"x\": -3.9392, \"y\": 10.7728, \"z\": 9.5385}, {\"x\": 4.8074, \"y\": -42.8519, \"z\": 15.2367}, {\"x\": 14.3730, \"y\": -79.0640, \"z\": 11.5011}, {\"x\": 21.8283, \"y\": -85.2784, \"z\": 5.3466}, {\"x\": -0.0267, \"y\": -86.7355, \"z\": 6.7443}, {\"x\": -30.0768, \"y\": 49.7387, \"z\": 6.1113}, {\"x\": 22.9760, \"y\": -7.2426, \"z\": 6.1854}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame364() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.62936110088444, 91.24864559736730, -25.17796050933981),
+                "\"skeletons\": [{\"x\": 5.0530, \"y\": 70.9491, \"z\": -5.4031}, {\"x\": -1.5900, \"y\": 71.0094, \"z\": 3.4260}, {\"x\": 0.4025, \"y\": 20.6611, \"z\": -2.1772}, {\"x\": 18.0896, \"y\": 50.7837, \"z\": -8.1396}, {\"x\": 29.6994, \"y\": 17.3267, \"z\": -0.1919}, {\"x\": 25.7356, \"y\": 4.6646, \"z\": 0.8184}, {\"x\": 27.1382, \"y\": -5.2791, \"z\": 5.7420}, {\"x\": 8.9922, \"y\": 7.7253, \"z\": -5.1718}, {\"x\": -1.5966, \"y\": -44.5110, \"z\": -14.7687}, {\"x\": -15.4214, \"y\": -75.3928, \"z\": -22.6043}, {\"x\": -20.5470, \"y\": -78.0689, \"z\": -16.1208}, {\"x\": -28.0762, \"y\": -86.1082, \"z\": -33.7370}, {\"x\": -9.2756, \"y\": 50.8528, \"z\": 10.7384}, {\"x\": -36.5665, \"y\": 38.5250, \"z\": 5.4056}, {\"x\": -30.4470, \"y\": 51.9658, \"z\": 7.2765}, {\"x\": -22.2035, \"y\": 57.8043, \"z\": 4.6011}, {\"x\": -3.8292, \"y\": 10.9532, \"z\": 9.7333}, {\"x\": 4.8970, \"y\": -42.6348, \"z\": 15.4274}, {\"x\": 14.4567, \"y\": -78.8812, \"z\": 11.6127}, {\"x\": 21.9142, \"y\": -85.0858, \"z\": 5.4796}, {\"x\": 0.0591, \"y\": -86.5388, \"z\": 6.8764}, {\"x\": -30.4579, \"y\": 48.4326, \"z\": 5.1755}, {\"x\": 23.0152, \"y\": -7.0357, \"z\": 6.3118}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame365() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.55293431830615, 91.06603839859578, -25.30462506092135),
+                "\"skeletons\": [{\"x\": 5.1055, \"y\": 71.1309, \"z\": -5.2320}, {\"x\": -1.5378, \"y\": 71.1978, \"z\": 3.5852}, {\"x\": 0.4829, \"y\": 20.8359, \"z\": -2.0110}, {\"x\": 18.1270, \"y\": 50.9730, \"z\": -8.0206}, {\"x\": 29.7637, \"y\": 17.5154, \"z\": -0.0576}, {\"x\": 25.7941, \"y\": 4.8500, \"z\": 0.9639}, {\"x\": 27.1932, \"y\": -5.0861, \"z\": 5.8679}, {\"x\": 9.0592, \"y\": 7.8991, \"z\": -5.0151}, {\"x\": -1.5157, \"y\": -44.3241, \"z\": -14.6190}, {\"x\": -15.3465, \"y\": -75.2141, \"z\": -22.4681}, {\"x\": -20.4744, \"y\": -77.8951, \"z\": -15.9890}, {\"x\": -28.0024, \"y\": -85.9254, \"z\": -33.6056}, {\"x\": -9.5354, \"y\": 50.8241, \"z\": 10.7879}, {\"x\": -36.0413, \"y\": 36.8099, \"z\": 4.7328}, {\"x\": -31.0938, \"y\": 50.7483, \"z\": 6.2090}, {\"x\": -23.3559, \"y\": 57.1633, \"z\": 3.4642}, {\"x\": -3.7435, \"y\": 11.1311, \"z\": 9.9241}, {\"x\": 4.9899, \"y\": -42.4339, \"z\": 15.6069}, {\"x\": 14.5370, \"y\": -78.7062, \"z\": 11.7612}, {\"x\": 21.9852, \"y\": -84.9063, \"z\": 5.6172}, {\"x\": 0.1231, \"y\": -86.3389, \"z\": 7.0033}, {\"x\": -30.7871, \"y\": 47.1736, \"z\": 4.2238}, {\"x\": 23.0681, \"y\": -6.8410, \"z\": 6.4205}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame366() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.47973029274646, 90.88822050795913, -25.42656560422476),
+                "\"skeletons\": [{\"x\": 5.1436, \"y\": 71.3231, \"z\": -5.0754}, {\"x\": -1.4946, \"y\": 71.3493, \"z\": 3.7348}, {\"x\": 0.5471, \"y\": 20.9940, \"z\": -1.8437}, {\"x\": 18.1538, \"y\": 51.1458, \"z\": -7.9030}, {\"x\": 29.8129, \"y\": 17.6888, \"z\": 0.0885}, {\"x\": 25.8566, \"y\": 5.0209, \"z\": 1.1157}, {\"x\": 27.2212, \"y\": -4.9440, \"z\": 6.0507}, {\"x\": 9.1239, \"y\": 8.0615, \"z\": -4.8542}, {\"x\": -1.4320, \"y\": -44.1376, \"z\": -14.4729}, {\"x\": -15.2739, \"y\": -75.0506, \"z\": -22.3341}, {\"x\": -20.4020, \"y\": -77.7310, \"z\": -15.8621}, {\"x\": -27.9364, \"y\": -85.7467, \"z\": -33.4726}, {\"x\": -9.8006, \"y\": 50.8124, \"z\": 10.8378}, {\"x\": -35.4933, \"y\": 35.2868, \"z\": 4.2092}, {\"x\": -31.6872, \"y\": 49.6083, \"z\": 5.1246}, {\"x\": -24.4312, \"y\": 56.4757, \"z\": 2.2401}, {\"x\": -3.6729, \"y\": 11.3061, \"z\": 10.0978}, {\"x\": 5.0838, \"y\": -42.2526, \"z\": 15.7653}, {\"x\": 14.6177, \"y\": -78.5398, \"z\": 11.9130}, {\"x\": 22.0637, \"y\": -84.7306, \"z\": 5.7410}, {\"x\": 0.1897, \"y\": -86.1627, \"z\": 7.1286}, {\"x\": -31.0697, \"y\": 46.0201, \"z\": 3.2954}, {\"x\": 23.0624, \"y\": -6.7376, \"z\": 6.6262}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame367() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.41369404612358, 90.71610499657821, -25.54832276354151),
+                "\"skeletons\": [{\"x\": 5.1685, \"y\": 71.4920, \"z\": -4.8933}, {\"x\": -1.4670, \"y\": 71.4963, \"z\": 3.9001}, {\"x\": 0.6256, \"y\": 21.1646, \"z\": -1.6967}, {\"x\": 18.1689, \"y\": 51.3128, \"z\": -7.7867}, {\"x\": 29.8436, \"y\": 17.8463, \"z\": 0.2513}, {\"x\": 25.9074, \"y\": 5.1735, \"z\": 1.2834}, {\"x\": 27.2443, \"y\": -4.8148, \"z\": 6.2200}, {\"x\": 9.1906, \"y\": 8.2208, \"z\": -4.6911}, {\"x\": -1.3742, \"y\": -43.9888, \"z\": -14.3135}, {\"x\": -15.2066, \"y\": -74.8907, \"z\": -22.1967}, {\"x\": -20.3371, \"y\": -77.5670, \"z\": -15.7331}, {\"x\": -27.8742, \"y\": -85.5714, \"z\": -33.3429}, {\"x\": -10.0212, \"y\": 50.8454, \"z\": 10.9244}, {\"x\": -34.8743, \"y\": 33.9139, \"z\": 3.7691}, {\"x\": -32.2058, \"y\": 48.5008, \"z\": 3.9915}, {\"x\": -25.4346, \"y\": 55.7075, \"z\": 0.8558}, {\"x\": -3.6103, \"y\": 11.4739, \"z\": 10.2531}, {\"x\": 5.1717, \"y\": -42.0732, \"z\": 15.9075}, {\"x\": 14.6816, \"y\": -78.3700, \"z\": 12.0416}, {\"x\": 22.0937, \"y\": -84.5591, \"z\": 5.8844}, {\"x\": 0.2409, \"y\": -86.0051, \"z\": 7.2602}, {\"x\": -31.2558, \"y\": 44.8863, \"z\": 2.3457}, {\"x\": 23.0566, \"y\": -6.6481, \"z\": 6.8048}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame368() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.35232840573644, 90.55661121316875, -25.68084144841794),
+                "\"skeletons\": [{\"x\": 5.2018, \"y\": 71.6700, \"z\": -4.7352}, {\"x\": -1.4531, \"y\": 71.6637, \"z\": 4.0674}, {\"x\": 0.6900, \"y\": 21.3223, \"z\": -1.5449}, {\"x\": 18.1915, \"y\": 51.4714, \"z\": -7.6676}, {\"x\": 29.8746, \"y\": 17.9955, \"z\": 0.4090}, {\"x\": 25.9530, \"y\": 5.3148, \"z\": 1.4552}, {\"x\": 27.2611, \"y\": -4.6839, \"z\": 6.3991}, {\"x\": 9.2550, \"y\": 8.3805, \"z\": -4.5381}, {\"x\": -1.3296, \"y\": -43.8437, \"z\": -14.1540}, {\"x\": -15.1458, \"y\": -74.7316, \"z\": -22.0591}, {\"x\": -20.2813, \"y\": -77.4123, \"z\": -15.5997}, {\"x\": -27.8100, \"y\": -85.4112, \"z\": -33.2134}, {\"x\": -10.1876, \"y\": 50.8583, \"z\": 10.9959}, {\"x\": -34.2455, \"y\": 32.6978, \"z\": 3.4444}, {\"x\": -32.6613, \"y\": 47.4240, \"z\": 2.8630}, {\"x\": -26.4263, \"y\": 54.8771, \"z\": -0.6114}, {\"x\": -3.5567, \"y\": 11.6308, \"z\": 10.4132}, {\"x\": 5.2710, \"y\": -41.9282, \"z\": 16.0473}, {\"x\": 14.7374, \"y\": -78.2009, \"z\": 12.1834}, {\"x\": 22.1239, \"y\": -84.3967, \"z\": 6.0322}, {\"x\": 0.3201, \"y\": -85.8470, \"z\": 7.3811}, {\"x\": -31.4314, \"y\": 43.8314, \"z\": 1.4564}, {\"x\": 23.0525, \"y\": -6.5520, \"z\": 6.9814}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame369() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.29266471607454, 90.40658793579694, -25.81796299759321),
+                "\"skeletons\": [{\"x\": 5.2395, \"y\": 71.8440, \"z\": -4.5913}, {\"x\": -1.4332, \"y\": 71.8343, \"z\": 4.2225}, {\"x\": 0.7206, \"y\": 21.4525, \"z\": -1.3884}, {\"x\": 18.2309, \"y\": 51.6159, \"z\": -7.5363}, {\"x\": 29.9086, \"y\": 18.1329, \"z\": 0.5607}, {\"x\": 25.9932, \"y\": 5.4502, \"z\": 1.6258}, {\"x\": 27.2871, \"y\": -4.5384, \"z\": 6.5649}, {\"x\": 9.2972, \"y\": 8.5353, \"z\": -4.3889}, {\"x\": -1.2842, \"y\": -43.6951, \"z\": -14.0093}, {\"x\": -15.0869, \"y\": -74.5760, \"z\": -21.9252}, {\"x\": -20.2266, \"y\": -77.2620, \"z\": -15.4615}, {\"x\": -27.7492, \"y\": -85.2594, \"z\": -33.0804}, {\"x\": -10.2958, \"y\": 50.9405, \"z\": 11.1036}, {\"x\": -33.6349, \"y\": 31.6620, \"z\": 3.2388}, {\"x\": -33.0907, \"y\": 46.3944, \"z\": 1.7389}, {\"x\": -27.3892, \"y\": 53.8924, \"z\": -2.1664}, {\"x\": -3.5010, \"y\": 11.7843, \"z\": 10.5722}, {\"x\": 5.3417, \"y\": -41.7703, \"z\": 16.2030}, {\"x\": 14.7933, \"y\": -78.0312, \"z\": 12.3252}, {\"x\": 22.1703, \"y\": -84.2381, \"z\": 6.1652}, {\"x\": 0.3726, \"y\": -85.7067, \"z\": 7.5169}, {\"x\": -31.6031, \"y\": 42.8395, \"z\": 0.5669}, {\"x\": 23.0708, \"y\": -6.4179, \"z\": 7.1053}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame370() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.23799924982798, 90.26990733943873, -25.95428203312499),
+                "\"skeletons\": [{\"x\": 5.2754, \"y\": 71.9927, \"z\": -4.4111}, {\"x\": -1.3904, \"y\": 71.9734, \"z\": 4.3731}, {\"x\": 0.7535, \"y\": 21.5870, \"z\": -1.2247}, {\"x\": 18.2843, \"y\": 51.7590, \"z\": -7.4056}, {\"x\": 29.9371, \"y\": 18.2569, \"z\": 0.7255}, {\"x\": 26.0359, \"y\": 5.5910, \"z\": 1.7860}, {\"x\": 27.3632, \"y\": -4.3435, \"z\": 6.5899}, {\"x\": 9.3124, \"y\": 8.6921, \"z\": -4.2507}, {\"x\": -1.2455, \"y\": -43.5625, \"z\": -13.8642}, {\"x\": -15.0436, \"y\": -74.4250, \"z\": -21.7836}, {\"x\": -20.1787, \"y\": -77.1319, \"z\": -15.3207}, {\"x\": -27.7013, \"y\": -85.1250, \"z\": -32.9384}, {\"x\": -10.3644, \"y\": 51.0392, \"z\": 11.2153}, {\"x\": -33.0454, \"y\": 30.7209, \"z\": 3.0961}, {\"x\": -33.4803, \"y\": 45.3223, \"z\": 0.6529}, {\"x\": -28.2608, \"y\": 52.8927, \"z\": -3.6931}, {\"x\": -3.4520, \"y\": 11.9302, \"z\": 10.7318}, {\"x\": 5.3759, \"y\": -41.5638, \"z\": 16.3854}, {\"x\": 14.8440, \"y\": -77.8763, \"z\": 12.4681}, {\"x\": 22.2103, \"y\": -84.0790, \"z\": 6.3158}, {\"x\": 0.4193, \"y\": -85.5990, \"z\": 7.6697}, {\"x\": -31.7432, \"y\": 41.8133, \"z\": -0.3116}, {\"x\": 23.1903, \"y\": -6.1566, \"z\": 6.9853}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame371() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.18527561472581, 90.13780402647515, -26.08058161998743),
+                "\"skeletons\": [{\"x\": 5.3070, \"y\": 72.1692, \"z\": -4.2902}, {\"x\": -1.3478, \"y\": 72.1238, \"z\": 4.5113}, {\"x\": 0.7903, \"y\": 21.7325, \"z\": -1.0716}, {\"x\": 18.3376, \"y\": 51.8899, \"z\": -7.2893}, {\"x\": 29.9742, \"y\": 18.3825, \"z\": 0.8819}, {\"x\": 26.0662, \"y\": 5.7361, \"z\": 1.9321}, {\"x\": 27.3693, \"y\": -4.1866, \"z\": 6.7378}, {\"x\": 9.3274, \"y\": 8.8538, \"z\": -4.1284}, {\"x\": -1.2049, \"y\": -43.4216, \"z\": -13.7425}, {\"x\": -15.0137, \"y\": -74.2957, \"z\": -21.6408}, {\"x\": -20.1344, \"y\": -77.0154, \"z\": -15.1902}, {\"x\": -27.6603, \"y\": -84.9953, \"z\": -32.7953}, {\"x\": -10.4372, \"y\": 51.1249, \"z\": 11.3087}, {\"x\": -32.4702, \"y\": 29.8996, \"z\": 3.0290}, {\"x\": -33.8446, \"y\": 44.2573, \"z\": -0.3550}, {\"x\": -29.0441, \"y\": 51.7920, \"z\": -5.1825}, {\"x\": -3.4084, \"y\": 12.0768, \"z\": 10.8762}, {\"x\": 5.4123, \"y\": -41.4244, \"z\": 16.5223}, {\"x\": 14.8943, \"y\": -77.7348, \"z\": 12.6125}, {\"x\": 22.2266, \"y\": -83.9178, \"z\": 6.4760}, {\"x\": 0.4865, \"y\": -85.4755, \"z\": 7.7863}, {\"x\": -31.8709, \"y\": 40.8159, \"z\": -1.0889}, {\"x\": 23.1796, \"y\": -5.9840, \"z\": 7.1368}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame372() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.12947535681414, 90.01524018155268, -26.19873106925176),
+                "\"skeletons\": [{\"x\": 5.3474, \"y\": 72.3154, \"z\": -4.1678}, {\"x\": -1.2942, \"y\": 72.2749, \"z\": 4.6449}, {\"x\": 0.8398, \"y\": 21.8985, \"z\": -0.9509}, {\"x\": 18.3891, \"y\": 52.0199, \"z\": -7.1850}, {\"x\": 30.0392, \"y\": 18.5258, \"z\": 1.0055}, {\"x\": 26.0890, \"y\": 5.8811, \"z\": 2.0733}, {\"x\": 27.3769, \"y\": -4.0420, \"z\": 6.9390}, {\"x\": 9.3571, \"y\": 9.0111, \"z\": -4.0054}, {\"x\": -1.1687, \"y\": -43.2853, \"z\": -13.6280}, {\"x\": -14.9789, \"y\": -74.1584, \"z\": -21.5084}, {\"x\": -20.0992, \"y\": -76.9026, \"z\": -15.0601}, {\"x\": -27.6194, \"y\": -84.8725, \"z\": -32.6617}, {\"x\": -10.4564, \"y\": 51.2218, \"z\": 11.4053}, {\"x\": -31.9574, \"y\": 29.2132, \"z\": 2.9611}, {\"x\": -34.2324, \"y\": 43.1936, \"z\": -1.3449}, {\"x\": -29.9428, \"y\": 50.6239, \"z\": -6.5746}, {\"x\": -3.3601, \"y\": 12.2208, \"z\": 11.0118}, {\"x\": 5.4714, \"y\": -41.3061, \"z\": 16.6528}, {\"x\": 14.9526, \"y\": -77.5944, \"z\": 12.7565}, {\"x\": 22.2485, \"y\": -83.7478, \"z\": 6.6273}, {\"x\": 0.5339, \"y\": -85.3354, \"z\": 7.8856}, {\"x\": -32.0295, \"y\": 39.8628, \"z\": -1.8391}, {\"x\": 23.1710, \"y\": -5.8499, \"z\": 7.3340}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame373() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.08151284503437, 89.89942135601278, -26.31299995724572),
+                "\"skeletons\": [{\"x\": 5.3941, \"y\": 72.4509, \"z\": -4.0484}, {\"x\": -1.2307, \"y\": 72.4056, \"z\": 4.7597}, {\"x\": 0.8981, \"y\": 22.0589, \"z\": -0.8705}, {\"x\": 18.4352, \"y\": 52.1529, \"z\": -7.0921}, {\"x\": 30.1299, \"y\": 18.6682, \"z\": 1.0914}, {\"x\": 26.1057, \"y\": 6.0431, \"z\": 2.2238}, {\"x\": 27.3853, \"y\": -3.8805, \"z\": 7.0929}, {\"x\": 9.3735, \"y\": 9.1500, \"z\": -3.9063}, {\"x\": -1.1402, \"y\": -43.1659, \"z\": -13.5157}, {\"x\": -14.9523, \"y\": -74.0243, \"z\": -21.3814}, {\"x\": -20.0728, \"y\": -76.7905, \"z\": -14.9364}, {\"x\": -27.5802, \"y\": -84.7523, \"z\": -32.5434}, {\"x\": -10.4676, \"y\": 51.2875, \"z\": 11.5133}, {\"x\": -31.5321, \"y\": 28.6481, \"z\": 2.9330}, {\"x\": -34.6178, \"y\": 42.1540, \"z\": -2.2787}, {\"x\": -30.7256, \"y\": 49.5120, \"z\": -7.8626}, {\"x\": -3.3039, \"y\": 12.3610, \"z\": 11.1336}, {\"x\": 5.5568, \"y\": -41.1730, \"z\": 16.7632}, {\"x\": 15.0034, \"y\": -77.4530, \"z\": 12.8944}, {\"x\": 22.2589, \"y\": -83.6061, \"z\": 6.7840}, {\"x\": 0.5748, \"y\": -85.2121, \"z\": 7.9972}, {\"x\": -32.2068, \"y\": 38.9422, \"z\": -2.5424}, {\"x\": 23.1904, \"y\": -5.6635, \"z\": 7.3913}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame374() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.04109448736297, 89.77667037965733, -26.40963970550195),
+                "\"skeletons\": [{\"x\": 5.4407, \"y\": 72.5846, \"z\": -3.9506}, {\"x\": -1.1922, \"y\": 72.5396, \"z\": 4.8570}, {\"x\": 0.9094, \"y\": 22.1949, \"z\": -0.7543}, {\"x\": 18.4600, \"y\": 52.2768, \"z\": -7.0383}, {\"x\": 30.2222, \"y\": 18.8166, \"z\": 1.1676}, {\"x\": 26.1252, \"y\": 6.1990, \"z\": 2.3611}, {\"x\": 27.3791, \"y\": -3.7237, \"z\": 7.2583}, {\"x\": 9.3790, \"y\": 9.2708, \"z\": -3.8281}, {\"x\": -1.1114, \"y\": -43.0331, \"z\": -13.4160}, {\"x\": -14.9350, \"y\": -73.8956, \"z\": -21.2724}, {\"x\": -20.0481, \"y\": -76.6723, \"z\": -14.8235}, {\"x\": -27.5514, \"y\": -84.6228, \"z\": -32.4399}, {\"x\": -10.4724, \"y\": 51.3747, \"z\": 11.6018}, {\"x\": -31.1354, \"y\": 28.1464, \"z\": 2.9384}, {\"x\": -34.9061, \"y\": 41.1686, \"z\": -3.0695}, {\"x\": -31.4056, \"y\": 48.3490, \"z\": -9.0861}, {\"x\": -3.2473, \"y\": 12.4962, \"z\": 11.2393}, {\"x\": 5.6158, \"y\": -41.0406, \"z\": 16.8690}, {\"x\": 15.0516, \"y\": -77.3144, \"z\": 13.0073}, {\"x\": 22.2883, \"y\": -83.4813, \"z\": 6.9079}, {\"x\": 0.6232, \"y\": -85.1144, \"z\": 8.1113}, {\"x\": -32.3273, \"y\": 38.0704, \"z\": -3.1658}, {\"x\": 23.1988, \"y\": -5.5109, \"z\": 7.4725}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame375() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.01115200477151, 89.65677313105944, -26.50045421935431),
+                "\"skeletons\": [{\"x\": 5.4868, \"y\": 72.7186, \"z\": -3.8731}, {\"x\": -1.1391, \"y\": 72.6847, \"z\": 4.9524}, {\"x\": 0.9409, \"y\": 22.3184, \"z\": -0.6734}, {\"x\": 18.4631, \"y\": 52.3902, \"z\": -7.0175}, {\"x\": 30.3171, \"y\": 18.9710, \"z\": 1.2102}, {\"x\": 26.1359, \"y\": 6.3462, \"z\": 2.4784}, {\"x\": 27.3436, \"y\": -3.5859, \"z\": 7.4155}, {\"x\": 9.3934, \"y\": 9.3889, \"z\": -3.7709}, {\"x\": -1.0972, \"y\": -42.9121, \"z\": -13.3410}, {\"x\": -14.9160, \"y\": -73.7786, \"z\": -21.1860}, {\"x\": -20.0163, \"y\": -76.5703, \"z\": -14.7331}, {\"x\": -27.5292, \"y\": -84.5077, \"z\": -32.3424}, {\"x\": -10.4770, \"y\": 51.4701, \"z\": 11.6662}, {\"x\": -30.7920, \"y\": 27.7043, \"z\": 2.9889}, {\"x\": -35.1500, \"y\": 40.2073, \"z\": -3.7083}, {\"x\": -32.0399, \"y\": 47.2166, \"z\": -10.1264}, {\"x\": -3.1952, \"y\": 12.6205, \"z\": 11.3461}, {\"x\": 5.6817, \"y\": -40.9355, \"z\": 16.9629}, {\"x\": 15.0888, \"y\": -77.1939, \"z\": 13.0975}, {\"x\": 22.3710, \"y\": -83.3660, \"z\": 6.9424}, {\"x\": 0.6569, \"y\": -85.0018, \"z\": 8.2081}, {\"x\": -32.4108, \"y\": 37.2231, \"z\": -3.6491}, {\"x\": 23.1934, \"y\": -5.3725, \"z\": 7.5718}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame376() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.98023508271158, 89.54719060956940, -26.59177864366657),
+                "\"skeletons\": [{\"x\": 5.5453, \"y\": 72.8382, \"z\": -3.7936}, {\"x\": -1.0773, \"y\": 72.8181, \"z\": 5.0388}, {\"x\": 0.9768, \"y\": 22.4363, \"z\": -0.5947}, {\"x\": 18.4712, \"y\": 52.5075, \"z\": -6.9917}, {\"x\": 30.3496, \"y\": 19.0764, \"z\": 1.2897}, {\"x\": 26.1321, \"y\": 6.4975, \"z\": 2.5576}, {\"x\": 27.2778, \"y\": -3.3781, \"z\": 7.4692}, {\"x\": 9.4082, \"y\": 9.4927, \"z\": -3.7299}, {\"x\": -1.0794, \"y\": -42.8204, \"z\": -13.2798}, {\"x\": -14.8716, \"y\": -73.6799, \"z\": -21.1178}, {\"x\": -19.9697, \"y\": -76.4770, \"z\": -14.6569}, {\"x\": -27.4965, \"y\": -84.4069, \"z\": -32.2495}, {\"x\": -10.4748, \"y\": 51.5469, \"z\": 11.7373}, {\"x\": -30.5076, \"y\": 27.3627, \"z\": 2.9882}, {\"x\": -35.3950, \"y\": 39.2711, \"z\": -4.2798}, {\"x\": -32.5762, \"y\": 46.1009, \"z\": -11.0184}, {\"x\": -3.1262, \"y\": 12.7378, \"z\": 11.4347}, {\"x\": 5.7296, \"y\": -40.8221, \"z\": 17.0389}, {\"x\": 15.1270, \"y\": -77.0950, \"z\": 13.1759}, {\"x\": 22.3852, \"y\": -83.2609, \"z\": 7.0470}, {\"x\": 0.6871, \"y\": -84.8924, \"z\": 8.2943}, {\"x\": -32.5010, \"y\": 36.4190, \"z\": -4.0470}, {\"x\": 23.1378, \"y\": -5.0829, \"z\": 7.4740}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame377() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.95462839718997, 89.44256414346644, -26.67220012299391),
+                "\"skeletons\": [{\"x\": 5.5967, \"y\": 72.9558, \"z\": -3.7301}, {\"x\": -1.0279, \"y\": 72.9448, \"z\": 5.1105}, {\"x\": 1.0061, \"y\": 22.5498, \"z\": -0.5164}, {\"x\": 18.4848, \"y\": 52.6285, \"z\": -6.9708}, {\"x\": 30.4441, \"y\": 19.1974, \"z\": 1.2962}, {\"x\": 26.1315, \"y\": 6.6580, \"z\": 2.6189}, {\"x\": 27.1011, \"y\": -3.2662, \"z\": 7.7022}, {\"x\": 9.4274, \"y\": 9.6041, \"z\": -3.6985}, {\"x\": -1.0556, \"y\": -42.7228, \"z\": -13.2279}, {\"x\": -14.8210, \"y\": -73.5739, \"z\": -21.0589}, {\"x\": -19.9250, \"y\": -76.3570, \"z\": -14.5854}, {\"x\": -27.4680, \"y\": -84.3055, \"z\": -32.1676}, {\"x\": -10.4601, \"y\": 51.6296, \"z\": 11.8152}, {\"x\": -30.2710, \"y\": 27.0586, \"z\": 3.0130}, {\"x\": -35.6188, \"y\": 38.3871, \"z\": -4.8340}, {\"x\": -33.0534, \"y\": 44.9998, \"z\": -11.8658}, {\"x\": -3.0793, \"y\": 12.8507, \"z\": 11.5163}, {\"x\": 5.7721, \"y\": -40.7016, \"z\": 17.0929}, {\"x\": 15.1606, \"y\": -76.9801, \"z\": 13.2569}, {\"x\": 22.4107, \"y\": -83.1577, \"z\": 7.1253}, {\"x\": 0.7043, \"y\": -84.7681, \"z\": 8.3658}, {\"x\": -32.5911, \"y\": 35.6480, \"z\": -4.4554}, {\"x\": 22.8667, \"y\": -5.0016, \"z\": 7.7315}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame378() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.93605614345095, 89.35133200218192, -26.75070214081789),
+                "\"skeletons\": [{\"x\": 5.6411, \"y\": 73.0657, \"z\": -3.6738}, {\"x\": -0.9861, \"y\": 73.0609, \"z\": 5.1622}, {\"x\": 1.0540, \"y\": 22.6765, \"z\": -0.4454}, {\"x\": 18.5095, \"y\": 52.7338, \"z\": -6.9474}, {\"x\": 30.5071, \"y\": 19.2939, \"z\": 1.3084}, {\"x\": 26.1587, \"y\": 6.8156, \"z\": 2.6650}, {\"x\": 26.9602, \"y\": -3.1701, \"z\": 7.8768}, {\"x\": 9.4553, \"y\": 9.7205, \"z\": -3.6579}, {\"x\": -1.0291, \"y\": -42.6233, \"z\": -13.1751}, {\"x\": -14.7872, \"y\": -73.4755, \"z\": -21.0015}, {\"x\": -19.8886, \"y\": -76.2450, \"z\": -14.5115}, {\"x\": -27.4470, \"y\": -84.2052, \"z\": -32.1060}, {\"x\": -10.4395, \"y\": 51.6978, \"z\": 11.8912}, {\"x\": -30.0514, \"y\": 26.7914, \"z\": 3.0327}, {\"x\": -35.8247, \"y\": 37.5661, \"z\": -5.2916}, {\"x\": -33.5796, \"y\": 43.9339, \"z\": -12.5971}, {\"x\": -3.0210, \"y\": 12.9519, \"z\": 11.5775}, {\"x\": 5.8452, \"y\": -40.6390, \"z\": 17.1929}, {\"x\": 15.1847, \"y\": -76.8788, \"z\": 13.3405}, {\"x\": 22.4234, \"y\": -83.0746, \"z\": 7.2139}, {\"x\": 0.7327, \"y\": -84.6845, \"z\": 8.4539}, {\"x\": -32.7073, \"y\": 34.9436, \"z\": -4.8026}, {\"x\": 22.6859, \"y\": -4.9244, \"z\": 7.9227}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame379() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.91978754434982, 89.26483339614818, -26.82973905381819),
+                "\"skeletons\": [{\"x\": 5.6807, \"y\": 73.1757, \"z\": -3.6140}, {\"x\": -0.9339, \"y\": 73.1547, \"z\": 5.2342}, {\"x\": 1.0673, \"y\": 22.7600, \"z\": -0.3575}, {\"x\": 18.5384, \"y\": 52.8301, \"z\": -6.8936}, {\"x\": 30.6586, \"y\": 19.4147, \"z\": 1.2203}, {\"x\": 26.1725, \"y\": 6.9553, \"z\": 2.6950}, {\"x\": 26.8786, \"y\": -3.0176, \"z\": 7.9365}, {\"x\": 9.4854, \"y\": 9.8331, \"z\": -3.6093}, {\"x\": -1.0072, \"y\": -42.5285, \"z\": -13.1252}, {\"x\": -14.7673, \"y\": -73.3922, \"z\": -20.9408}, {\"x\": -19.8533, \"y\": -76.1423, \"z\": -14.4414}, {\"x\": -27.4307, \"y\": -84.1175, \"z\": -32.0278}, {\"x\": -10.3871, \"y\": 51.7373, \"z\": 11.9760}, {\"x\": -29.9008, \"y\": 26.6237, \"z\": 3.0714}, {\"x\": -36.0475, \"y\": 36.7678, \"z\": -5.6974}, {\"x\": -34.0396, \"y\": 42.8569, \"z\": -13.3776}, {\"x\": -2.9548, \"y\": 13.0424, \"z\": 11.6307}, {\"x\": 5.8699, \"y\": -40.5217, \"z\": 17.2595}, {\"x\": 15.2106, \"y\": -76.7963, \"z\": 13.4259}, {\"x\": 22.4371, \"y\": -82.9965, \"z\": 7.3028}, {\"x\": 0.7535, \"y\": -84.6049, \"z\": 8.5436}, {\"x\": -32.8371, \"y\": 34.2941, \"z\": -5.1120}, {\"x\": 22.6165, \"y\": -4.7362, \"z\": 7.9064}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame380() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.90141031528876, 89.18162592268712, -26.91585282692372),
+                "\"skeletons\": [{\"x\": 5.7121, \"y\": 73.2775, \"z\": -3.5331}, {\"x\": -0.8849, \"y\": 73.2375, \"z\": 5.3032}, {\"x\": 1.0912, \"y\": 22.8424, \"z\": -0.2746}, {\"x\": 18.5827, \"y\": 52.9222, \"z\": -6.8255}, {\"x\": 30.8172, \"y\": 19.5565, \"z\": 1.2274}, {\"x\": 26.1990, \"y\": 7.0782, \"z\": 2.7346}, {\"x\": 26.8143, \"y\": -2.8055, \"z\": 7.8531}, {\"x\": 9.5333, \"y\": 9.9315, \"z\": -3.5625}, {\"x\": -0.9710, \"y\": -42.4344, \"z\": -13.0919}, {\"x\": -14.7547, \"y\": -73.2894, \"z\": -20.8690}, {\"x\": -19.8332, \"y\": -76.0355, \"z\": -14.3666}, {\"x\": -27.4158, \"y\": -84.0347, \"z\": -31.9451}, {\"x\": -10.3329, \"y\": 51.8237, \"z\": 12.0412}, {\"x\": -29.7838, \"y\": 26.4893, \"z\": 3.0941}, {\"x\": -36.2916, \"y\": 35.9542, \"z\": -6.0875}, {\"x\": -34.5586, \"y\": 41.7541, \"z\": -14.0343}, {\"x\": -2.9095, \"y\": 13.1392, \"z\": 11.6960}, {\"x\": 5.9284, \"y\": -40.4687, \"z\": 17.3669}, {\"x\": 15.2287, \"y\": -76.7214, \"z\": 13.5089}, {\"x\": 22.4725, \"y\": -82.9079, \"z\": 7.3797}, {\"x\": 0.7603, \"y\": -84.4946, \"z\": 8.6190}, {\"x\": -33.0046, \"y\": 33.6251, \"z\": -5.4237}, {\"x\": 22.5800, \"y\": -4.4217, \"z\": 7.6050}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame381() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.88924129688256, 89.09587108395897, -27.00093163141039),
+                "\"skeletons\": [{\"x\": 5.7446, \"y\": 73.3839, \"z\": -3.4543}, {\"x\": -0.8293, \"y\": 73.3302, \"z\": 5.3893}, {\"x\": 1.1451, \"y\": 22.9366, \"z\": -0.2087}, {\"x\": 18.6293, \"y\": 53.0173, \"z\": -6.7655}, {\"x\": 30.9932, \"y\": 19.6684, \"z\": 1.1951}, {\"x\": 26.2150, \"y\": 7.1925, \"z\": 2.7736}, {\"x\": 26.7636, \"y\": -2.5836, \"z\": 7.8507}, {\"x\": 9.5735, \"y\": 10.0200, \"z\": -3.5285}, {\"x\": -0.9627, \"y\": -42.3436, \"z\": -13.0455}, {\"x\": -14.7525, \"y\": -73.1900, \"z\": -20.7999}, {\"x\": -19.8287, \"y\": -75.9320, \"z\": -14.2875}, {\"x\": -27.3961, \"y\": -83.9529, \"z\": -31.8717}, {\"x\": -10.2470, \"y\": 51.9068, \"z\": 12.1074}, {\"x\": -29.6778, \"y\": 26.3778, \"z\": 3.1141}, {\"x\": -36.5517, \"y\": 35.1453, \"z\": -6.4937}, {\"x\": -35.0840, \"y\": 40.6998, \"z\": -14.6870}, {\"x\": -2.8469, \"y\": 13.2362, \"z\": 11.7621}, {\"x\": 5.9768, \"y\": -40.3784, \"z\": 17.4594}, {\"x\": 15.2532, \"y\": -76.6338, \"z\": 13.5940}, {\"x\": 22.4906, \"y\": -82.8391, \"z\": 7.4543}, {\"x\": 0.7805, \"y\": -84.4229, \"z\": 8.7112}, {\"x\": -33.1991, \"y\": 32.9423, \"z\": -5.7494}, {\"x\": 22.5450, \"y\": -4.1339, \"z\": 7.4994}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame382() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.87973810328023, 89.02130486776150, -27.07938534904353),
+                "\"skeletons\": [{\"x\": 5.7821, \"y\": 73.4813, \"z\": -3.3905}, {\"x\": -0.7732, \"y\": 73.4256, \"z\": 5.4712}, {\"x\": 1.2129, \"y\": 23.0200, \"z\": -0.1563}, {\"x\": 18.6846, \"y\": 53.1076, \"z\": -6.7066}, {\"x\": 31.1281, \"y\": 19.7399, \"z\": 1.2264}, {\"x\": 26.2614, \"y\": 7.3281, \"z\": 2.7553}, {\"x\": 26.7234, \"y\": -2.4395, \"z\": 7.9121}, {\"x\": 9.6072, \"y\": 10.0901, \"z\": -3.4934}, {\"x\": -0.9430, \"y\": -42.2447, \"z\": -13.0092}, {\"x\": -14.7496, \"y\": -73.1062, \"z\": -20.7338}, {\"x\": -19.8177, \"y\": -75.8389, \"z\": -14.2152}, {\"x\": -27.3911, \"y\": -83.8805, \"z\": -31.7949}, {\"x\": -10.1692, \"y\": 51.9848, \"z\": 12.1867}, {\"x\": -29.6447, \"y\": 26.3408, \"z\": 3.1271}, {\"x\": -36.8534, \"y\": 34.4761, \"z\": -6.8046}, {\"x\": -35.5820, \"y\": 39.6003, \"z\": -15.3027}, {\"x\": -2.7691, \"y\": 13.3211, \"z\": 11.8317}, {\"x\": 6.0183, \"y\": -40.2663, \"z\": 17.5274}, {\"x\": 15.2728, \"y\": -76.5616, \"z\": 13.6709}, {\"x\": 22.5016, \"y\": -82.7865, \"z\": 7.5350}, {\"x\": 0.7965, \"y\": -84.3563, \"z\": 8.7962}, {\"x\": -33.4233, \"y\": 32.4171, \"z\": -5.9885}, {\"x\": 22.5183, \"y\": -4.0015, \"z\": 7.5160}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame383() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.87175564150610, 88.95026023286911, -27.16290302158852),
+                "\"skeletons\": [{\"x\": 5.8285, \"y\": 73.5682, \"z\": -3.3153}, {\"x\": -0.7255, \"y\": 73.5043, \"z\": 5.5530}, {\"x\": 1.2732, \"y\": 23.0997, \"z\": -0.1117}, {\"x\": 18.7666, \"y\": 53.2071, \"z\": -6.6521}, {\"x\": 31.2937, \"y\": 19.8480, \"z\": 1.2399}, {\"x\": 26.3531, \"y\": 7.4887, \"z\": 2.7222}, {\"x\": 26.7127, \"y\": -2.3233, \"z\": 7.9553}, {\"x\": 9.6420, \"y\": 10.1843, \"z\": -3.4734}, {\"x\": -0.9106, \"y\": -42.1394, \"z\": -12.9824}, {\"x\": -14.7476, \"y\": -73.0257, \"z\": -20.6782}, {\"x\": -19.8176, \"y\": -75.7566, \"z\": -14.1462}, {\"x\": -27.3822, \"y\": -83.8084, \"z\": -31.7366}, {\"x\": -10.0791, \"y\": 52.0692, \"z\": 12.2699}, {\"x\": -29.6394, \"y\": 26.3577, \"z\": 3.1237}, {\"x\": -37.1315, \"y\": 33.7612, \"z\": -7.1673}, {\"x\": -36.0906, \"y\": 38.6220, \"z\": -15.8392}, {\"x\": -2.6967, \"y\": 13.3946, \"z\": 11.8970}, {\"x\": 6.0599, \"y\": -40.1931, \"z\": 17.6192}, {\"x\": 15.2609, \"y\": -76.4932, \"z\": 13.7257}, {\"x\": 22.4872, \"y\": -82.7475, \"z\": 7.6424}, {\"x\": 0.7971, \"y\": -84.2559, \"z\": 8.8601}, {\"x\": -33.5929, \"y\": 31.8274, \"z\": -6.2848}, {\"x\": 22.5242, \"y\": -3.9007, \"z\": 7.5384}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame384() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.87150306316903, 88.86987453511763, -27.23518600750686),
+                "\"skeletons\": [{\"x\": 5.8793, \"y\": 73.6764, \"z\": -3.2441}, {\"x\": -0.6820, \"y\": 73.5846, \"z\": 5.6355}, {\"x\": 1.3558, \"y\": 23.2273, \"z\": -0.0579}, {\"x\": 18.8300, \"y\": 53.3098, \"z\": -6.6314}, {\"x\": 31.4931, \"y\": 19.9965, \"z\": 1.1759}, {\"x\": 26.4666, \"y\": 7.6334, \"z\": 2.7306}, {\"x\": 26.6917, \"y\": -2.2685, \"z\": 8.0475}, {\"x\": 9.6645, \"y\": 10.2751, \"z\": -3.4849}, {\"x\": -0.8527, \"y\": -41.9990, \"z\": -12.9869}, {\"x\": -14.7482, \"y\": -72.9409, \"z\": -20.6373}, {\"x\": -19.8216, \"y\": -75.6627, \"z\": -14.0880}, {\"x\": -27.3863, \"y\": -83.7350, \"z\": -31.6713}, {\"x\": -9.9647, \"y\": 52.1256, \"z\": 12.3641}, {\"x\": -29.6668, \"y\": 26.4106, \"z\": 3.1309}, {\"x\": -37.4120, \"y\": 33.0770, \"z\": -7.4656}, {\"x\": -36.6162, \"y\": 37.4034, \"z\": -16.3415}, {\"x\": -2.6210, \"y\": 13.4795, \"z\": 11.9210}, {\"x\": 6.0772, \"y\": -40.1203, \"z\": 17.6895}, {\"x\": 15.2769, \"y\": -76.4393, \"z\": 13.8143}, {\"x\": 22.5421, \"y\": -82.6727, \"z\": 7.6766}, {\"x\": 0.7938, \"y\": -84.1677, \"z\": 8.9304}, {\"x\": -33.8291, \"y\": 31.3005, \"z\": -6.5229}, {\"x\": 22.4335, \"y\": -3.9167, \"z\": 7.7509}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame385() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.88466035371976, 88.80318528576495, -27.30833307069543),
+                "\"skeletons\": [{\"x\": 5.9391, \"y\": 73.7772, \"z\": -3.1963}, {\"x\": -0.6109, \"y\": 73.6759, \"z\": 5.7339}, {\"x\": 1.4055, \"y\": 23.3152, \"z\": 0.0387}, {\"x\": 18.9044, \"y\": 53.3976, \"z\": -6.5829}, {\"x\": 31.6772, \"y\": 20.1154, \"z\": 1.1799}, {\"x\": 26.5605, \"y\": 7.7784, \"z\": 2.7160}, {\"x\": 26.7321, \"y\": -2.1820, \"z\": 8.0685}, {\"x\": 9.7103, \"y\": 10.3591, \"z\": -3.4417}, {\"x\": -0.8284, \"y\": -41.9175, \"z\": -12.9752}, {\"x\": -14.7433, \"y\": -72.8675, \"z\": -20.6138}, {\"x\": -19.8206, \"y\": -75.5802, \"z\": -14.0247}, {\"x\": -27.3963, \"y\": -83.6712, \"z\": -31.6056}, {\"x\": -9.9032, \"y\": 52.2640, \"z\": 12.3961}, {\"x\": -29.7626, \"y\": 26.5062, \"z\": 3.1829}, {\"x\": -37.7565, \"y\": 32.3504, \"z\": -7.7937}, {\"x\": -37.0171, \"y\": 36.2887, \"z\": -16.9467}, {\"x\": -2.5610, \"y\": 13.5415, \"z\": 11.9648}, {\"x\": 6.0845, \"y\": -40.0496, \"z\": 17.7344}, {\"x\": 15.2714, \"y\": -76.3887, \"z\": 13.8835}, {\"x\": 22.5731, \"y\": -82.6353, \"z\": 7.7342}, {\"x\": 0.7895, \"y\": -84.0909, \"z\": 9.0067}, {\"x\": -34.0919, \"y\": 30.7568, \"z\": -6.7788}, {\"x\": 22.4163, \"y\": -3.8488, \"z\": 7.8613}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame386() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.90501439905857, 88.74045726541306, -27.38269634024133),
+                "\"skeletons\": [{\"x\": 5.9739, \"y\": 73.8511, \"z\": -3.1492}, {\"x\": -0.4670, \"y\": 73.7685, \"z\": 5.8334}, {\"x\": 1.4784, \"y\": 23.3976, \"z\": 0.0924}, {\"x\": 18.9976, \"y\": 53.4910, \"z\": -6.5274}, {\"x\": 31.8745, \"y\": 20.2190, \"z\": 1.1881}, {\"x\": 26.6720, \"y\": 7.9052, \"z\": 2.6694}, {\"x\": 26.8205, \"y\": -2.0005, \"z\": 7.9435}, {\"x\": 9.7661, \"y\": 10.4396, \"z\": -3.4001}, {\"x\": -0.8505, \"y\": -41.8587, \"z\": -12.9421}, {\"x\": -14.7475, \"y\": -72.7818, \"z\": -20.5923}, {\"x\": -19.8357, \"y\": -75.4789, \"z\": -13.9822}, {\"x\": -27.4150, \"y\": -83.6034, \"z\": -31.5510}, {\"x\": -9.8140, \"y\": 52.3707, \"z\": 12.4447}, {\"x\": -29.7681, \"y\": 26.6386, \"z\": 3.1440}, {\"x\": -38.0993, \"y\": 31.7222, \"z\": -7.9898}, {\"x\": -37.5606, \"y\": 35.1451, \"z\": -17.3602}, {\"x\": -2.4842, \"y\": 13.5986, \"z\": 11.9958}, {\"x\": 6.1104, \"y\": -40.0057, \"z\": 17.7553}, {\"x\": 15.2624, \"y\": -76.3268, \"z\": 13.9417}, {\"x\": 22.5596, \"y\": -82.5913, \"z\": 7.8008}, {\"x\": 0.7827, \"y\": -84.0420, \"z\": 9.0956}, {\"x\": -34.3763, \"y\": 30.2828, \"z\": -6.9180}, {\"x\": 22.5527, \"y\": -3.5685, \"z\": 7.6283}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame387() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.92305304203562, 88.68776040517058, -27.45863887549714),
+                "\"skeletons\": [{\"x\": 6.0289, \"y\": 73.9355, \"z\": -3.1215}, {\"x\": -0.3859, \"y\": 73.8177, \"z\": 5.8855}, {\"x\": 1.5389, \"y\": 23.4674, \"z\": 0.1344}, {\"x\": 19.0427, \"y\": 53.5686, \"z\": -6.4614}, {\"x\": 32.0755, \"y\": 20.3353, \"z\": 1.1602}, {\"x\": 26.7656, \"y\": 8.0090, \"z\": 2.6327}, {\"x\": 26.9450, \"y\": -1.7143, \"z\": 7.7332}, {\"x\": 9.8157, \"y\": 10.5081, \"z\": -3.3788}, {\"x\": -0.8870, \"y\": -41.8297, \"z\": -12.8985}, {\"x\": -14.7544, \"y\": -72.7110, \"z\": -20.5511}, {\"x\": -19.8559, \"y\": -75.4003, \"z\": -13.9472}, {\"x\": -27.4307, \"y\": -83.5510, \"z\": -31.4847}, {\"x\": -9.6975, \"y\": 52.4393, \"z\": 12.5263}, {\"x\": -29.9422, \"y\": 26.7926, \"z\": 3.1826}, {\"x\": -38.3756, \"y\": 31.1394, \"z\": -8.1352}, {\"x\": -38.0020, \"y\": 34.0706, \"z\": -17.7612}, {\"x\": -2.4307, \"y\": 13.6626, \"z\": 12.0421}, {\"x\": 6.1413, \"y\": -39.9846, \"z\": 17.8030}, {\"x\": 15.2517, \"y\": -76.2910, \"z\": 14.0111}, {\"x\": 22.6182, \"y\": -82.5285, \"z\": 7.8183}, {\"x\": 0.7666, \"y\": -83.9881, \"z\": 9.1802}, {\"x\": -34.6788, \"y\": 29.8341, \"z\": -7.0029}, {\"x\": 22.7826, \"y\": -3.1033, \"z\": 7.1755}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame388() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.93892106644368, 88.62271584497338, -27.52022851910973),
+                "\"skeletons\": [{\"x\": 6.0705, \"y\": 74.0098, \"z\": -3.0890}, {\"x\": -0.2952, \"y\": 73.8801, \"z\": 5.9281}, {\"x\": 1.5862, \"y\": 23.5308, \"z\": 0.1806}, {\"x\": 19.0879, \"y\": 53.6517, \"z\": -6.4093}, {\"x\": 32.2544, \"y\": 20.4176, \"z\": 1.1320}, {\"x\": 26.9090, \"y\": 8.1366, \"z\": 2.5554}, {\"x\": 26.8979, \"y\": -1.5919, \"z\": 7.7775}, {\"x\": 9.8653, \"y\": 10.6058, \"z\": -3.3916}, {\"x\": -0.8995, \"y\": -41.7836, \"z\": -12.8787}, {\"x\": -14.7616, \"y\": -72.6359, \"z\": -20.5134}, {\"x\": -19.8450, \"y\": -75.3025, \"z\": -13.9255}, {\"x\": -27.4426, \"y\": -83.4960, \"z\": -31.4322}, {\"x\": -9.6175, \"y\": 52.5232, \"z\": 12.6004}, {\"x\": -30.0110, \"y\": 26.8866, \"z\": 3.1924}, {\"x\": -38.6482, \"y\": 30.5160, \"z\": -8.2729}, {\"x\": -38.4369, \"y\": 33.0513, \"z\": -18.0336}, {\"x\": -2.4167, \"y\": 13.7081, \"z\": 12.0948}, {\"x\": 6.1380, \"y\": -39.9118, \"z\": 17.8254}, {\"x\": 15.2307, \"y\": -76.2374, \"z\": 14.0732}, {\"x\": 22.6086, \"y\": -82.4802, \"z\": 7.8870}, {\"x\": 0.7490, \"y\": -83.8903, \"z\": 9.2285}, {\"x\": -34.8356, \"y\": 29.3517, \"z\": -7.1296}, {\"x\": 22.6791, \"y\": -3.0136, \"z\": 7.2616}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame389() {
+        return new MovesDoubleFrame(
+                new Vector3d(23.96836179330679, 88.56562716425017, -27.57055128789981),
+                "\"skeletons\": [{\"x\": 6.1004, \"y\": 74.0748, \"z\": -3.0828}, {\"x\": -0.2112, \"y\": 73.9626, \"z\": 5.9680}, {\"x\": 1.6472, \"y\": 23.5937, \"z\": 0.1951}, {\"x\": 19.1429, \"y\": 53.7526, \"z\": -6.3547}, {\"x\": 32.4442, \"y\": 20.5162, \"z\": 1.1162}, {\"x\": 26.9906, \"y\": 8.2860, \"z\": 2.5087}, {\"x\": 26.9042, \"y\": -1.4444, \"z\": 7.7711}, {\"x\": 9.8679, \"y\": 10.6588, \"z\": -3.4052}, {\"x\": -0.8907, \"y\": -41.7312, \"z\": -12.9270}, {\"x\": -14.7782, \"y\": -72.5788, \"z\": -20.4802}, {\"x\": -19.8472, \"y\": -75.2274, \"z\": -13.8973}, {\"x\": -27.4785, \"y\": -83.4493, \"z\": -31.3907}, {\"x\": -9.5320, \"y\": 52.5581, \"z\": 12.6515}, {\"x\": -30.0862, \"y\": 26.9644, \"z\": 3.2000}, {\"x\": -38.7782, \"y\": 29.9549, \"z\": -8.4096}, {\"x\": -38.7816, \"y\": 32.0868, \"z\": -18.2459}, {\"x\": -2.3985, \"y\": 13.8010, \"z\": 12.1249}, {\"x\": 6.1151, \"y\": -39.8517, \"z\": 17.8353}, {\"x\": 15.2010, \"y\": -76.1955, \"z\": 14.1114}, {\"x\": 22.5874, \"y\": -82.4270, \"z\": 7.9300}, {\"x\": 0.7190, \"y\": -83.8231, \"z\": 9.2791}, {\"x\": -34.9675, \"y\": 28.9371, \"z\": -7.2218}, {\"x\": 22.6752, \"y\": -2.8616, \"z\": 7.2455}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame390() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.00180862240675, 88.51024343748387, -27.61036240895823),
+                "\"skeletons\": [{\"x\": 6.1220, \"y\": 74.1520, \"z\": -3.1029}, {\"x\": -0.1207, \"y\": 74.0444, \"z\": 6.0261}, {\"x\": 1.7283, \"y\": 23.6700, \"z\": 0.1860}, {\"x\": 19.2135, \"y\": 53.8203, \"z\": -6.3091}, {\"x\": 32.6185, \"y\": 20.6319, \"z\": 1.0718}, {\"x\": 27.0788, \"y\": 8.3868, \"z\": 2.5075}, {\"x\": 26.8975, \"y\": -1.3502, \"z\": 7.7547}, {\"x\": 9.8725, \"y\": 10.7214, \"z\": -3.4122}, {\"x\": -0.9046, \"y\": -41.6722, \"z\": -12.9695}, {\"x\": -14.7992, \"y\": -72.5173, \"z\": -20.4405}, {\"x\": -19.8473, \"y\": -75.1615, \"z\": -13.8781}, {\"x\": -27.4987, \"y\": -83.3951, \"z\": -31.3523}, {\"x\": -9.4723, \"y\": 52.6218, \"z\": 12.6823}, {\"x\": -30.1340, \"y\": 27.0224, \"z\": 3.2430}, {\"x\": -38.9168, \"y\": 29.4174, \"z\": -8.4622}, {\"x\": -38.9537, \"y\": 31.2202, \"z\": -18.4015}, {\"x\": -2.3548, \"y\": 13.8691, \"z\": 12.1057}, {\"x\": 6.1350, \"y\": -39.8103, \"z\": 17.8710}, {\"x\": 15.1742, \"y\": -76.1439, \"z\": 14.1367}, {\"x\": 22.5093, \"y\": -82.3992, \"z\": 8.0205}, {\"x\": 0.6976, \"y\": -83.7630, \"z\": 9.3176}, {\"x\": -35.0706, \"y\": 28.5151, \"z\": -7.2727}, {\"x\": 22.6625, \"y\": -2.7809, \"z\": 7.2151}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame391() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.04449897405607, 88.46438222514716, -27.63576470211889),
+                "\"skeletons\": [{\"x\": 6.0988, \"y\": 74.1992, \"z\": -3.1343}, {\"x\": -0.0108, \"y\": 74.1112, \"z\": 6.0476}, {\"x\": 1.7684, \"y\": 23.7459, \"z\": 0.1571}, {\"x\": 19.2843, \"y\": 53.8780, \"z\": -6.3035}, {\"x\": 32.7182, \"y\": 20.7094, \"z\": 1.0029}, {\"x\": 27.2038, \"y\": 8.4841, \"z\": 2.4334}, {\"x\": 26.8577, \"y\": -1.3160, \"z\": 7.8382}, {\"x\": 9.8672, \"y\": 10.7630, \"z\": -3.4221}, {\"x\": -0.9074, \"y\": -41.6149, \"z\": -13.0433}, {\"x\": -14.8282, \"y\": -72.4643, \"z\": -20.4400}, {\"x\": -19.8746, \"y\": -75.1383, \"z\": -13.8848}, {\"x\": -27.5224, \"y\": -83.3526, \"z\": -31.3414}, {\"x\": -9.4156, \"y\": 52.7286, \"z\": 12.6761}, {\"x\": -30.1538, \"y\": 27.0389, \"z\": 3.3203}, {\"x\": -39.0422, \"y\": 29.0071, \"z\": -8.3786}, {\"x\": -39.1450, \"y\": 30.3730, \"z\": -18.5055}, {\"x\": -2.3191, \"y\": 13.9583, \"z\": 12.0789}, {\"x\": 6.1217, \"y\": -39.7412, \"z\": 17.8774}, {\"x\": 15.1467, \"y\": -76.0901, \"z\": 14.1577}, {\"x\": 22.4720, \"y\": -82.3628, \"z\": 8.0438}, {\"x\": 0.6630, \"y\": -83.7106, \"z\": 9.3412}, {\"x\": -35.1948, \"y\": 28.3131, \"z\": -7.0974}, {\"x\": 22.5649, \"y\": -2.7985, \"z\": 7.4019}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame392() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.09851545530556, 88.41431069314913, -27.67655572528048),
+                "\"skeletons\": [{\"x\": 6.0665, \"y\": 74.2784, \"z\": -3.1847}, {\"x\": 0.0728, \"y\": 74.1814, \"z\": 6.1050}, {\"x\": 1.7753, \"y\": 23.8094, \"z\": 0.1685}, {\"x\": 19.3282, \"y\": 53.9296, \"z\": -6.3108}, {\"x\": 32.7960, \"y\": 20.7923, \"z\": 0.9742}, {\"x\": 27.3094, \"y\": 8.5796, \"z\": 2.3757}, {\"x\": 26.8809, \"y\": -1.2535, \"z\": 7.8334}, {\"x\": 9.8453, \"y\": 10.8290, \"z\": -3.4593}, {\"x\": -0.8721, \"y\": -41.5129, \"z\": -13.0776}, {\"x\": -14.8559, \"y\": -72.4099, \"z\": -20.4335}, {\"x\": -19.9063, \"y\": -75.1462, \"z\": -13.8973}, {\"x\": -27.5747, \"y\": -83.3114, \"z\": -31.3079}, {\"x\": -9.3556, \"y\": 52.8148, \"z\": 12.7044}, {\"x\": -30.1843, \"y\": 27.0398, \"z\": 3.4655}, {\"x\": -39.0955, \"y\": 28.5364, \"z\": -8.3237}, {\"x\": -39.1876, \"y\": 29.5864, \"z\": -18.4682}, {\"x\": -2.2962, \"y\": 14.0128, \"z\": 12.0723}, {\"x\": 6.0710, \"y\": -39.6512, \"z\": 17.8919}, {\"x\": 15.1386, \"y\": -76.1078, \"z\": 14.1750}, {\"x\": 22.4211, \"y\": -82.3105, \"z\": 8.0788}, {\"x\": 0.5952, \"y\": -83.6504, \"z\": 9.3876}, {\"x\": -35.2485, \"y\": 27.9432, \"z\": -7.0289}, {\"x\": 22.5963, \"y\": -2.7607, \"z\": 7.3867}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame393() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.15516033938625, 88.36893318270009, -27.70844928686190),
+                "\"skeletons\": [{\"x\": 6.0243, \"y\": 74.3538, \"z\": -3.2344}, {\"x\": 0.1675, \"y\": 74.2473, \"z\": 6.1652}, {\"x\": 1.7703, \"y\": 23.8765, \"z\": 0.1873}, {\"x\": 19.3394, \"y\": 53.9634, \"z\": -6.3301}, {\"x\": 32.8783, \"y\": 20.8193, \"z\": 0.9134}, {\"x\": 27.3444, \"y\": 8.6029, \"z\": 2.3089}, {\"x\": 26.9934, \"y\": -1.0830, \"z\": 7.5871}, {\"x\": 9.8262, \"y\": 10.9023, \"z\": -3.5175}, {\"x\": -0.9257, \"y\": -41.4800, \"z\": -13.0673}, {\"x\": -14.8936, \"y\": -72.3565, \"z\": -20.4503}, {\"x\": -19.9256, \"y\": -75.0200, \"z\": -13.8379}, {\"x\": -27.6313, \"y\": -83.2770, \"z\": -31.2887}, {\"x\": -9.3264, \"y\": 52.8894, \"z\": 12.7397}, {\"x\": -30.1676, \"y\": 26.9602, \"z\": 3.6067}, {\"x\": -39.0901, \"y\": 28.1178, \"z\": -8.2011}, {\"x\": -39.2679, \"y\": 28.8845, \"z\": -18.4029}, {\"x\": -2.2894, \"y\": 14.0589, \"z\": 12.0755}, {\"x\": 6.0112, \"y\": -39.5863, \"z\": 17.9111}, {\"x\": 15.0317, \"y\": -76.0313, \"z\": 14.2147}, {\"x\": 22.3636, \"y\": -82.2687, \"z\": 8.1195}, {\"x\": 0.5530, \"y\": -83.6082, \"z\": 9.4159}, {\"x\": -35.2294, \"y\": 27.5805, \"z\": -6.9138}, {\"x\": 22.8284, \"y\": -2.4744, \"z\": 6.9058}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame394() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.21284091517368, 88.32359875669047, -27.72316836838589),
+                "\"skeletons\": [{\"x\": 5.9702, \"y\": 74.4192, \"z\": -3.3134}, {\"x\": 0.3081, \"y\": 74.2691, \"z\": 6.1811}, {\"x\": 1.7547, \"y\": 23.9466, \"z\": 0.1796}, {\"x\": 19.3480, \"y\": 53.9662, \"z\": -6.3745}, {\"x\": 32.9692, \"y\": 20.8772, \"z\": 0.7749}, {\"x\": 27.3555, \"y\": 8.6935, \"z\": 2.1433}, {\"x\": 26.9789, \"y\": -1.0651, \"z\": 7.4744}, {\"x\": 9.8028, \"y\": 10.9625, \"z\": -3.5755}, {\"x\": -1.0097, \"y\": -41.4767, \"z\": -13.0981}, {\"x\": -14.9337, \"y\": -72.2943, \"z\": -20.4759}, {\"x\": -19.9857, \"y\": -74.9795, \"z\": -13.8365}, {\"x\": -27.6881, \"y\": -83.2326, \"z\": -31.2811}, {\"x\": -9.2736, \"y\": 52.9507, \"z\": 12.7447}, {\"x\": -30.0960, \"y\": 26.8894, \"z\": 3.7730}, {\"x\": -39.0475, \"y\": 27.7273, \"z\": -8.0263}, {\"x\": -39.2497, \"y\": 28.3234, \"z\": -18.2507}, {\"x\": -2.2698, \"y\": 14.1201, \"z\": 12.0500}, {\"x\": 5.9663, \"y\": -39.5289, \"z\": 17.9122}, {\"x\": 14.9734, \"y\": -75.9816, \"z\": 14.2322}, {\"x\": 22.3153, \"y\": -82.2206, \"z\": 8.1302}, {\"x\": 0.5057, \"y\": -83.5579, \"z\": 9.4355}, {\"x\": -35.1595, \"y\": 27.2562, \"z\": -6.7401}, {\"x\": 22.8183, \"y\": -2.4641, \"z\": 6.8155}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame395() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.26672650420059, 88.28080288961469, -27.73524181166126),
+                "\"skeletons\": [{\"x\": 5.9114, \"y\": 74.4089, \"z\": -3.3331}, {\"x\": 0.4358, \"y\": 74.3342, \"z\": 6.2186}, {\"x\": 1.7556, \"y\": 24.0048, \"z\": 0.0927}, {\"x\": 19.3298, \"y\": 53.9656, \"z\": -6.4561}, {\"x\": 33.0444, \"y\": 20.8913, \"z\": 0.6062}, {\"x\": 27.3445, \"y\": 8.7208, \"z\": 1.9920}, {\"x\": 26.9652, \"y\": -1.0733, \"z\": 7.3786}, {\"x\": 9.7788, \"y\": 11.0016, \"z\": -3.6164}, {\"x\": -1.0362, \"y\": -41.3844, \"z\": -13.1008}, {\"x\": -14.9937, \"y\": -72.2569, \"z\": -20.4749}, {\"x\": -20.0234, \"y\": -74.9004, \"z\": -13.8300}, {\"x\": -27.7492, \"y\": -83.1812, \"z\": -31.2748}, {\"x\": -9.2631, \"y\": 53.0172, \"z\": 12.7820}, {\"x\": -29.9936, \"y\": 26.7842, \"z\": 3.9953}, {\"x\": -38.9993, \"y\": 27.4413, \"z\": -7.7912}, {\"x\": -39.2236, \"y\": 27.9173, \"z\": -18.0327}, {\"x\": -2.2538, \"y\": 14.1746, \"z\": 12.0444}, {\"x\": 5.9820, \"y\": -39.5018, \"z\": 17.8755}, {\"x\": 14.9713, \"y\": -75.9533, \"z\": 14.2054}, {\"x\": 22.2604, \"y\": -82.1778, \"z\": 8.1385}, {\"x\": 0.4554, \"y\": -83.4958, \"z\": 9.4485}, {\"x\": -35.1386, \"y\": 27.0309, \"z\": -6.4990}, {\"x\": 22.7457, \"y\": -2.5078, \"z\": 6.7966}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame396() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.31746855238567, 88.24806352472298, -27.74591789602381),
+                "\"skeletons\": [{\"x\": 5.8783, \"y\": 74.4725, \"z\": -3.4839}, {\"x\": 0.5563, \"y\": 74.3846, \"z\": 6.2468}, {\"x\": 1.7392, \"y\": 24.0592, \"z\": 0.0984}, {\"x\": 19.3359, \"y\": 53.9807, \"z\": -6.5127}, {\"x\": 33.0721, \"y\": 20.9007, \"z\": 0.3931}, {\"x\": 27.3270, \"y\": 8.7484, \"z\": 1.8335}, {\"x\": 26.9216, \"y\": -1.0937, \"z\": 7.2989}, {\"x\": 9.7682, \"y\": 11.0597, \"z\": -3.6245}, {\"x\": -1.0970, \"y\": -41.4020, \"z\": -13.1519}, {\"x\": -15.0476, \"y\": -72.2358, \"z\": -20.4783}, {\"x\": -20.0657, \"y\": -74.8678, \"z\": -13.8322}, {\"x\": -27.7934, \"y\": -83.1540, \"z\": -31.2719}, {\"x\": -9.2025, \"y\": 53.0252, \"z\": 12.8010}, {\"x\": -29.9464, \"y\": 26.6908, \"z\": 4.2671}, {\"x\": -38.9495, \"y\": 27.1804, \"z\": -7.5631}, {\"x\": -39.2751, \"y\": 27.6339, \"z\": -17.7598}, {\"x\": -2.2273, \"y\": 14.2046, \"z\": 12.0535}, {\"x\": 5.9450, \"y\": -39.4560, \"z\": 17.8837}, {\"x\": 14.9078, \"y\": -75.9087, \"z\": 14.2280}, {\"x\": 22.2166, \"y\": -82.1511, \"z\": 8.1445}, {\"x\": 0.4192, \"y\": -83.4512, \"z\": 9.4506}, {\"x\": -35.0543, \"y\": 26.8064, \"z\": -6.3090}, {\"x\": 22.6590, \"y\": -2.5479, \"z\": 6.7853}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame397() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.36858495846013, 88.20352278380096, -27.76148032118401),
+                "\"skeletons\": [{\"x\": 5.8341, \"y\": 74.4960, \"z\": -3.5244}, {\"x\": 0.6742, \"y\": 74.4513, \"z\": 6.2439}, {\"x\": 1.7336, \"y\": 24.1132, \"z\": 0.0814}, {\"x\": 19.3194, \"y\": 54.0236, \"z\": -6.6003}, {\"x\": 33.0655, \"y\": 20.9101, \"z\": 0.2402}, {\"x\": 27.3160, \"y\": 8.7200, \"z\": 1.6597}, {\"x\": 26.8887, \"y\": -1.0940, \"z\": 7.1725}, {\"x\": 9.7459, \"y\": 11.0877, \"z\": -3.6759}, {\"x\": -1.1424, \"y\": -41.3731, \"z\": -13.1438}, {\"x\": -15.0998, \"y\": -72.2064, \"z\": -20.4725}, {\"x\": -20.1298, \"y\": -74.9252, \"z\": -13.8638}, {\"x\": -27.8544, \"y\": -83.1311, \"z\": -31.2363}, {\"x\": -9.1546, \"y\": 53.0426, \"z\": 12.8508}, {\"x\": -29.8603, \"y\": 26.5832, \"z\": 4.4567}, {\"x\": -38.9005, \"y\": 27.0779, \"z\": -7.3254}, {\"x\": -39.2224, \"y\": 27.4085, \"z\": -17.5632}, {\"x\": -2.2082, \"y\": 14.2184, \"z\": 12.0660}, {\"x\": 5.9192, \"y\": -39.4130, \"z\": 17.8931}, {\"x\": 14.8850, \"y\": -75.8968, \"z\": 14.2097}, {\"x\": 22.1588, \"y\": -82.1182, \"z\": 8.1562}, {\"x\": 0.3676, \"y\": -83.4148, \"z\": 9.4675}, {\"x\": -35.0092, \"y\": 26.7100, \"z\": -6.0488}, {\"x\": 22.5948, \"y\": -2.5537, \"z\": 6.7182}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame398() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.40851848146881, 88.18870591558247, -27.77752758338359),
+                "\"skeletons\": [{\"x\": 5.8128, \"y\": 74.5167, \"z\": -3.6418}, {\"x\": 0.8190, \"y\": 74.4337, \"z\": 6.3042}, {\"x\": 1.7477, \"y\": 24.0997, \"z\": 0.0999}, {\"x\": 19.2834, \"y\": 54.0149, \"z\": -6.7332}, {\"x\": 32.9875, \"y\": 20.8647, \"z\": 0.0855}, {\"x\": 27.2959, \"y\": 8.7197, \"z\": 1.5171}, {\"x\": 26.8940, \"y\": -1.1076, \"z\": 7.0195}, {\"x\": 9.7395, \"y\": 11.1006, \"z\": -3.7276}, {\"x\": -1.1685, \"y\": -41.3560, \"z\": -13.1458}, {\"x\": -15.1562, \"y\": -72.2133, \"z\": -20.4614}, {\"x\": -20.2020, \"y\": -74.8055, \"z\": -13.7663}, {\"x\": -27.8942, \"y\": -83.1196, \"z\": -31.2248}, {\"x\": -9.0745, \"y\": 53.0294, \"z\": 12.9039}, {\"x\": -29.7838, \"y\": 26.5751, \"z\": 4.6255}, {\"x\": -38.8928, \"y\": 26.9871, \"z\": -7.0956}, {\"x\": -39.2205, \"y\": 27.3167, \"z\": -17.4017}, {\"x\": -2.1747, \"y\": 14.2609, \"z\": 12.0357}, {\"x\": 5.9812, \"y\": -39.4000, \"z\": 17.8680}, {\"x\": 14.8494, \"y\": -75.8842, \"z\": 14.2255}, {\"x\": 22.1239, \"y\": -82.0982, \"z\": 8.1685}, {\"x\": 0.3122, \"y\": -83.3966, \"z\": 9.4922}, {\"x\": -35.0126, \"y\": 26.6561, \"z\": -5.8077}, {\"x\": 22.5465, \"y\": -2.5852, \"z\": 6.6296}]}"
+        );
+    }
+
+    private static MovesDoubleFrame getFrame399() {
+        return new MovesDoubleFrame(
+                new Vector3d(24.43879251247499, 88.18790818191157, -27.78312420728729),
+                "\"skeletons\": [{\"x\": 5.7186, \"y\": 74.5015, \"z\": -3.6421}, {\"x\": 0.9422, \"y\": 74.4561, \"z\": 6.3252}, {\"x\": 1.7481, \"y\": 24.0961, \"z\": 0.0548}, {\"x\": 19.2576, \"y\": 54.0258, \"z\": -6.8640}, {\"x\": 32.9578, \"y\": 20.8529, \"z\": -0.1914}, {\"x\": 27.2796, \"y\": 8.7031, \"z\": 1.3522}, {\"x\": 26.8390, \"y\": -1.1483, \"z\": 6.9049}, {\"x\": 9.7317, \"y\": 11.1168, \"z\": -3.7826}, {\"x\": -1.1829, \"y\": -41.3445, \"z\": -13.1846}, {\"x\": -15.1761, \"y\": -72.2044, \"z\": -20.4497}, {\"x\": -20.2390, \"y\": -74.8193, \"z\": -13.7715}, {\"x\": -27.9391, \"y\": -83.1140, \"z\": -31.2049}, {\"x\": -8.9983, \"y\": 53.0348, \"z\": 12.9232}, {\"x\": -29.7270, \"y\": 26.5403, \"z\": 4.7811}, {\"x\": -38.9150, \"y\": 26.9819, \"z\": -6.9271}, {\"x\": -39.2324, \"y\": 27.3132, \"z\": -17.1445}, {\"x\": -2.1233, \"y\": 14.2714, \"z\": 12.0273}, {\"x\": 5.9988, \"y\": -39.4516, \"z\": 17.9257}, {\"x\": 14.8170, \"y\": -75.8685, \"z\": 14.2527}, {\"x\": 22.0930, \"y\": -82.1045, \"z\": 8.1749}, {\"x\": 0.3010, \"y\": -83.3831, \"z\": 9.4819}, {\"x\": -34.9954, \"y\": 26.6309, \"z\": -5.6667}, {\"x\": 22.4980, \"y\": -2.6203, \"z\": 6.6059}]}"
         );
     }
 

@@ -8,7 +8,13 @@ public class MovesDouble {
 
     public static HashMap<String, MovesDoubleFrame[]> moves;
 
+    public static MovesDoubleFrame[] getMoves(String step) {
+        return moves.get(step);
+    }
+
     public static void init() {
+        moves = new HashMap<>();
+
         HelperC___C_0_1.initMovesDouble();
         HelperC___C_0_2.initMovesDouble();
         HelperC___C_0_3.initMovesDouble();
@@ -161,9 +167,6 @@ public class MovesDouble {
         HelperW___W_20_1.initMovesDouble();
         HelperW___W_21_1.initMovesDouble();
         HelperW___W_22_1.initMovesDouble();
-    }
 
-    public static MovesDoubleFrame[] getMoves(String step) {
-        return moves.get(step);
     }
 }

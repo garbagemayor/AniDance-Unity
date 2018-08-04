@@ -11,22 +11,29 @@ import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.List;
 
+import anidance.anidance_android.table.MovesDoubleFrame;
+import anidance.anidance_android.table.Vector3d;
+
 public class SendMoveThread extends Thread {
 
     public static String TAG = "SendMoveThread";
-
+    public static SendMoveThread SEND_THREAD = null;
+    private static byte[] byteBuffer = new byte[1 << 16];
     private static String termin = "{\"skeletons\": [{\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}, {\"z\": 10000, \"x\": 10000, \"y\": 10000}], \"center\": {\"z\": 10000, \"x\": 10000, \"y\": 10000}}";
+    public static Vector3d currentCenter = new Vector3d(28, 88, 128);
+    public static Vector3d lastCenter = null;
+
     private String mStepName;
     private double mStepDuration;
-    private List<String> mStepMoves;
+    private MovesDoubleFrame[] mStepMoves;
 
     private static DatagramSocket mUnitySocket;
     private static InetAddress mUnityAddr;
     private static int mUnityPort;
 
-    public static SendMoveThread SEND_THREAD = null;
 
     public SendMoveThread(String stepName, double stepDuration) {
+        Thread.currentThread().setPriority(Thread.MAX_PRIORITY);
         if (mUnitySocket == null) {
             try {
                 mUnityPort = 12345;
@@ -39,34 +46,42 @@ public class SendMoveThread extends Thread {
         mStepName = stepName;
         mStepDuration = stepDuration;
         mStepMoves = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].getMoves(stepName);
-        if (mStepMoves == null) {
-            mStepMoves = new ArrayList<>();
-            mStepMoves.add("");
-        }
+        Log.d(TAG, "create " + mStepName);
     }
 
     @Override
     public void run() {
-        long frameDuration = (long) Math.floor(mStepDuration * 1000 / mStepMoves.size() * 0.98);
+        if (mStepMoves == null || mStepMoves.length == 0) {
+            return;
+        }
+        Log.d(TAG, "start! " + mStepName);
+        long frameDuration = (long) Math.floor(mStepDuration * 1000 / mStepMoves.length * 0.98);
+        long startTime = System.nanoTime();
+        int i = 0;
         try {
-            for (int i = 0; i < mStepMoves.size(); i ++) {
-                if (i % 25 == 0) {
-                    Log.d(TAG, mStepName + "[" + i + "]");
-                }
-                if (!mStepMoves.get(i).equals("")) {
-                    byte data[] = mStepMoves.get(i).getBytes();
-                    DatagramPacket packet = new DatagramPacket(data, data.length, mUnityAddr, mUnityPort);
+            for (i = 0; i < mStepMoves.length; i ++) {
+                if (mStepMoves[i] != null) {
+                    long st = System.nanoTime();
+                    int bufferLength = mStepMoves[i].toByteBuffer(byteBuffer, 0);
+                    long en = System.nanoTime();
+                    if (i % 100 == 0) {
+                        Log.d(TAG, mStepName + "[" + i + "], toString time = " + ((en - st) * 1e-6));
+                        //Log.d(TAG, new String(byteBuffer, 0, bufferLength));
+                    }
+                    DatagramPacket packet = new DatagramPacket(byteBuffer, bufferLength, mUnityAddr, mUnityPort);
                     try {
                         mUnitySocket.send(packet);
                     } catch (IOException e) {
                         e.printStackTrace();
                     }
                 }
-                Thread.sleep(frameDuration);
+                long currentTime = System.nanoTime();
+                long sleepTime = Math.max((i + 1) * frameDuration - (currentTime - startTime) / 1000000, 0);
+                Thread.sleep(sleepTime);
             }
             Log.d(TAG, "send finish.");
         } catch (InterruptedException e) {
-            Log.d(TAG, "send interrupted.");
+            Log.d(TAG, "send interrupted at [" + i + "] in " + mStepMoves.length);
             e.printStackTrace();
         }
     }
