@@ -8,6 +8,8 @@ import com.unity3d.player.R;
 public class MetronomeController extends BaseController {
 
     public static String TAG = "MetronomeController";
+    public static int MIN_BPM = 30;
+    public static int MAX_BPM = 180;
 
     private Context mContext;
 
@@ -19,6 +21,15 @@ public class MetronomeController extends BaseController {
         super();
         mContext = context;
         mMediaPlayer = MediaPlayer.create(mContext, R.raw.metronome_beat_1);
+    }
+
+    public void setBpm(int bpm) {
+        mBpm = bpm;
+    }
+
+    @Override
+    public void start() {
+        mOnControllerStartStopListener.onStartStop(true);
         mBeatThread = new Thread(new Runnable() {
             @Override
             public void run() {
@@ -35,15 +46,6 @@ public class MetronomeController extends BaseController {
                 }
             }
         });
-    }
-
-    public void setBpm(int bpm) {
-        mBpm = bpm;
-    }
-
-    @Override
-    public void start() {
-        mOnControllerStartStopListener.onStartStop(true);
         mBeatThread.start();
         super.start();
     }

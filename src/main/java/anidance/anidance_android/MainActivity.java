@@ -295,20 +295,6 @@ public class MainActivity extends UnityPlayerActivity {
 
     //现场演唱的节拍器
     private void initLiveModeMetronome() {
-        //节拍器使能
-        mMetronomeCheckBox = findViewById(R.id.metronome_checkbox);
-        mMetronomeCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                mMetronomeEditText.setEnabled(isChecked);
-                if (isChecked) {
-                    mMetronomeController.setBpm(Integer.valueOf(mMetronomeEditText.getText().toString()));
-                } else {
-                    mMetronomeController.setBpm(0);
-                }
-            }
-        });
-
         //节拍器数字
         mMetronomeEditText = findViewById(R.id.metronome_edittext);
         mMetronomeEditText.setInputType(InputType.TYPE_CLASS_NUMBER);
@@ -321,13 +307,13 @@ public class MainActivity extends UnityPlayerActivity {
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 if (s.length() > 0) {
                     int value = Integer.valueOf(s.toString());
-                    if (value < 1) {
-                        value = 1;
-                        mMetronomeEditText.setText("1");
+                    if (value < MetronomeController.MIN_BPM) {
+                        value = MetronomeController.MIN_BPM;
+                        mMetronomeEditText.setText(String.valueOf(MetronomeController.MIN_BPM));
                         mMetronomeEditText.setSelection(1);
-                    } else if (value > 600) {
-                        value = 600;
-                        mMetronomeEditText.setText("600");
+                    } else if (value > MetronomeController.MAX_BPM) {
+                        value = MetronomeController.MAX_BPM;
+                        mMetronomeEditText.setText(String.valueOf(MetronomeController.MAX_BPM));
                         mMetronomeEditText.setSelection(3);
                     }
                     mMetronomeController.setBpm(value);

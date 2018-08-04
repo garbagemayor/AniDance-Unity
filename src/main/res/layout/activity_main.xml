@@ -334,15 +334,6 @@
                         android:textSize="20sp"
                         />
 
-                    <CheckBox
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:layout_marginEnd="20dp"
-                        android:id="@+id/metronome_checkbox"
-                        android:checked="true"
-                        />
-
                     <anidance.anidance_android.VisualizerPackage.VisualizerView
                         android:layout_width="1dp"
                         android:layout_height="match_parent"
@@ -357,7 +348,7 @@
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="5dp"
                         android:id="@+id/metronome_start_btn"
-                        android:text="开始"
+                        android:text="节拍开始"
                         android:textSize="20sp"
                         android:singleLine="true"
                         />
@@ -385,6 +376,16 @@
                     android:paddingRight="20dp"
                     >
 
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginEnd="20dp"
+                        android:text="提示：舞蹈将在检测到足够音量持续2秒后开始，并在检测不到声音10秒后结束"
+                        android:textSize="12sp"
+                        android:singleLine="true"
+                        />
+
                     <anidance.anidance_android.VisualizerPackage.VisualizerView
                         android:layout_width="1dp"
                         android:layout_height="match_parent"
@@ -399,7 +400,7 @@
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="5dp"
                         android:id="@+id/recorder_start_btn"
-                        android:text="开始"
+                        android:text="录音开始"
                         android:textSize="20sp"
                         android:singleLine="true"
                         />
