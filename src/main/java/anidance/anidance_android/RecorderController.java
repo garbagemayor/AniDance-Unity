@@ -1,5 +1,6 @@
 package anidance.anidance_android;
 
+import android.app.Activity;
 import android.content.Context;
 import android.media.AudioFormat;
 import android.media.AudioRecord;
@@ -18,8 +19,8 @@ public class RecorderController extends BaseController {
 
     public static int SAMPLE_RATE = 44100;
     public static int MAX_BUFFER_SIZE = SAMPLE_RATE * 16;
-    //等待时每次获取多长时间的录音
-    public static double WAITTING_BEATS = 2;
+    public static double WAITTING_BEATS = 2;//等待时每次获取多长时间的录音
+    public static int WAIT_BUFFER_SIZE = (int) Math.round(SAMPLE_RATE * WAITTING_BEATS);
 
     private Context mContext;
 
@@ -31,7 +32,7 @@ public class RecorderController extends BaseController {
     public RecorderController(Context context) {
         super();
         mContext = context;
-        mAudioRecord = new AudioRecord(MediaRecorder.AudioSource.DEFAULT, SAMPLE_RATE, 1, AudioFormat.ENCODING_PCM_8BIT, SAMPLE_RATE * 16);
+        mAudioRecord = new AudioRecord(MediaRecorder.AudioSource.DEFAULT, SAMPLE_RATE, 1, AudioFormat.ENCODING_PCM_8BIT, MAX_BUFFER_SIZE);
         Log.d(TAG, "init");
         mAnalyzer = new RecorderAnalyzer(SAMPLE_RATE);
 
@@ -47,55 +48,65 @@ public class RecorderController extends BaseController {
             public void run() {
                 byte[] buffer = new byte[MAX_BUFFER_SIZE];
                 try {
-                    while (true) {
-                        //等待开始唱
-                        int waitBufferSize = (int) Math.round(SAMPLE_RATE * WAITTING_BEATS);
-                        while (true) {
-                            //获取一段等待的录音
-                            Thread.sleep(1);
-                            mAudioRecord.read(buffer, 0, waitBufferSize);
-                            mAnalyzer.skip(buffer, waitBufferSize);
-                            if (mAnalyzer.hasEnoughEnergy()) {
-                                break;
-                            }
+                    while (true) {//等待开始唱
+                        //获取一段等待的录音
+                        int length = mAudioRecord.read(buffer, 0, WAIT_BUFFER_SIZE);
+                        if (length != WAIT_BUFFER_SIZE) {
+                            throw new RecorderStopException();
                         }
-                        //用最近的数据算出节拍
-                        Beats.BeatsGener beatsGener = mAnalyzer.analysisBeats();
-                        //跳过一段到达节拍点
-                        int recorderSkip = (int) Math.round(SAMPLE_RATE * beatsGener.offset);
-                        Thread.sleep(1);
-                        mAudioRecord.read(buffer, 0, recorderSkip);
-                        mAnalyzer.skip(buffer, recorderSkip);
-                        //开始了
-                        while (true) {
-                            //用末尾MFCC数据
-                            double[] maskingMfcc = mAnalyzer.analysisNearest(beatsGener.duration);
-                            //转化为可以发送的数据
-                            List<Double> maskingMfccList = new ArrayList<>();
-                            for (int i = 0; i < maskingMfcc.length; i++) {
-                                maskingMfccList.add(maskingMfcc[i]);
-                            }
-                            String stepName = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].next(maskingMfccList);
-                            int stepBeats = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].getStepBeats(stepName);
-                            Log.d(TAG, "stepName = " + stepName + ", stepBeats = " + stepBeats);
-                            //直接发送
-                            if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
-                                SendMoveThread.SEND_THREAD.interrupt();
-                            }
-                            SendMoveThread.SEND_THREAD = new SendMoveThread(stepName, stepBeats * beatsGener.duration);
-                            SendMoveThread.SEND_THREAD.start();
-                            //跳过动作剩余节拍
-                            Thread.sleep(1);
-                            for (int movesSkip = (int) Math.round(SAMPLE_RATE * stepBeats * beatsGener.duration); movesSkip > 0; movesSkip -= MAX_BUFFER_SIZE) {
-                                mAudioRecord.read(buffer, 0, Math.min(movesSkip, MAX_BUFFER_SIZE));
-                            }
-                            if (mAnalyzer.notHasEnoughEnergy()) {
-                                break;
+                        mAnalyzer.skip(buffer, WAIT_BUFFER_SIZE);
+                        if (mAnalyzer.hasEnoughEnergy()) {
+                            break;
+                        }
+                    }
+                    //用最近的数据算出节拍
+                    Beats.BeatsGener beatsGener = mAnalyzer.analysisBeats();
+                    //跳过一段到达节拍点
+                    int skipLength = (int) Math.round(SAMPLE_RATE * beatsGener.offset);
+                    int length = mAudioRecord.read(buffer, 0, skipLength);
+                    if (length != skipLength) {
+                        throw new RecorderStopException();
+                    }
+                    mAnalyzer.skip(buffer, skipLength);
+                    while (true) {//开始了就根本停不下来
+                        //用末尾MFCC数据
+                        double[] maskingMfcc = mAnalyzer.analysisNearest(beatsGener.duration);
+                        //转化为可以发送的数据
+                        List<Double> maskingMfccList = new ArrayList<>();
+                        for (int i = 0; i < maskingMfcc.length; i++) {
+                            maskingMfccList.add(maskingMfcc[i]);
+                        }
+                        String stepName = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].next(maskingMfccList);
+                        int stepBeats = MainActivity.TABLE_MANAGER[MainActivity.DANCE_TYPE_NOW].getStepBeats(stepName);
+                        Log.d(TAG, "stepName = " + stepName + ", stepBeats = " + stepBeats);
+                        //直接发送
+                        if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
+                            SendMoveThread.SEND_THREAD.interrupt();
+                        }
+                        SendMoveThread.SEND_THREAD = new SendMoveThread(stepName, stepBeats * beatsGener.duration);
+                        SendMoveThread.SEND_THREAD.start();
+                        //跳过动作剩余节拍，每次至多跳MAX_BUFFER_SIZE
+                        for (int movesSkip = (int) Math.round(SAMPLE_RATE * stepBeats * beatsGener.duration); movesSkip > 0; movesSkip -= MAX_BUFFER_SIZE) {
+                            skipLength = Math.min(movesSkip, MAX_BUFFER_SIZE);
+                            length = mAudioRecord.read(buffer, 0, skipLength);
+                            if (length < skipLength) {
+                                throw new RecorderStopException();
                             }
                         }
                     }
-                } catch (InterruptedException e) {
+                } catch (RecorderStopException e) {
+                    Log.d(TAG, "RecorderStop!");
                     e.printStackTrace();
+                    if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
+                        SendMoveThread.SEND_THREAD.interrupt();
+                    }
+                    SendMoveThread.sendTerminal();
+                    ((Activity) mContext).runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            RecorderController.this.realStop();
+                        }
+                    });
                 }
                 Log.d(TAG, "ReadThread end");
             }
@@ -106,20 +117,16 @@ public class RecorderController extends BaseController {
 
     @Override
     public void stop() {
-        super.stop();
         mAudioRecord.stop();
+    }
+
+    private void realStop() {
+        super.stop();
         mAudioRecord.release();
-        mAudioRecord = new AudioRecord(MediaRecorder.AudioSource.DEFAULT, SAMPLE_RATE, 1, AudioFormat.ENCODING_PCM_8BIT, SAMPLE_RATE * 16);
-        Log.d(TAG, "ReadThread interrupt");
-        for (int i = 0; i < 1000; i ++) {
-            mReadBufferThread.interrupt();
-        }
-        if (SendMoveThread.SEND_THREAD != null && SendMoveThread.SEND_THREAD.isAlive()) {
-            for (int i = 0; i < 1000; i ++) {
-                SendMoveThread.SEND_THREAD.interrupt();
-            }
-        }
+        mAudioRecord = new AudioRecord(MediaRecorder.AudioSource.DEFAULT, SAMPLE_RATE, 1, AudioFormat.ENCODING_PCM_8BIT, MAX_BUFFER_SIZE);
         mOnControllerStartStopListener.onStartStop(false);
-        SendMoveThread.sendTerminal();
+    }
+
+    public class RecorderStopException extends Exception {
     }
 }

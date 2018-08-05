@@ -6,10 +6,13 @@ import android.util.Log;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Random;
+import java.util.Set;
 
 public class TableManager {
 
     public static boolean initFinishFlag = false;
+    private static double PROB_REDUCTION = 0.7;
 
     private String fileName = "ppp.json";
     private String TAG = "TableManager";
@@ -52,28 +55,56 @@ public class TableManager {
         String s = "";
         double max = Double.MIN_VALUE;
         Log.d(TAG, "choose_next: step = " + step + ", tmp = " + tmp);
-        for (String w : tmp.keySet()) {
-            if (w.equals("HOLD") || motions.get(w).is_terminal) {
-                bad = w;
-            } else {
-                double prob = 0;
-                double prior = tmp.get(w).probability;
-                List<Double> mu = dict.dict.get(w).subList(0, 13);
-                List<Double> sigma = dict.dict.get(w).subList(13, 26);
-                if (mfcc == null) {
-                    prob = prior;
+        if (tmp == null) {
+            int motionCnt = motions.keySet().size();
+            String[] motion = new String[motionCnt];
+            Log.d(TAG, "random step from all " + motionCnt + " motions");
+            double[] prob = new double[motionCnt];
+            double sumProb = 0;
+            for (int i = 0; i < motionCnt; i ++) {
+                prob[i] = 1;
+                for (String ns : mNearestStepList) {
+                    if (ns != null && motion[i].equals(ns)) {
+                        prob[i] *= PROB_REDUCTION;
+                    }
+                }
+                sumProb += prob[i];
+            }
+            Random random = new Random();
+            double r = random.nextDouble() * sumProb;
+            for (int i = 0; i < motionCnt; i ++) {
+                if (sumProb <= prob[i]) {
+                    s = motion[i];
+                    break;
                 } else {
-                    for (int i = 0; i < 13; ++i) {
-                        prob += Math.exp((mu.get(i) - mfcc.get(i)) / sigma.get(i));
-                    }
-                    for (int j = 0; j < mNearestStepList.length; j ++) {
-                        if (mNearestStepList[j] != null && w.equals(mNearestStepList[j])) {
-                            prob *= 0.7;
+                    sumProb -= prob[i];
+                }
+            }
+            Log.d(TAG, "random result: s = " + s);
+        } else {
+            for (String w : tmp.keySet()) {
+                if (w.equals("HOLD") || motions.get(w).is_terminal) {
+                    bad = w;
+                } else {
+                    double prob = 0;
+                    double prior = tmp.get(w).probability;
+                    List<Double> mu = dict.dict.get(w).subList(0, 13);
+                    List<Double> sigma = dict.dict.get(w).subList(13, 26);
+                    if (mfcc == null) {
+                        prob = prior;
+                    } else {
+                        for (int i = 0; i < 13; ++i) {
+                            prob += Math.exp((mu.get(i) - mfcc.get(i)) / sigma.get(i));
                         }
-                    }
-                    if (max < prob) {
-                        s = w;
-                        max = prob;
+                        for (String ns : mNearestStepList) {
+                            if (ns != null && w.equals(ns)) {
+                                prob *= 0.7;
+                            }
+                        }
+                        if (max < prob) {
+                            s = w;
+                            max = prob;
+                        }
                     }
                 }
             }

@@ -331,6 +331,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
                         android:text="拍"
+                        android:layout_marginEnd="20dp"
                         android:textSize="20sp"
                         />
 
@@ -381,7 +382,7 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="20dp"
-                        android:text="提示：舞蹈将在检测到足够音量持续2秒后开始，并在检测不到声音10秒后结束"
+                        android:text="提示：舞蹈将在检测到足够音量持续2秒后开始"
                         android:textSize="12sp"
                         android:singleLine="true"
                         />

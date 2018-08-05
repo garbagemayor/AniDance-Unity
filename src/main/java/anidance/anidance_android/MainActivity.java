@@ -66,7 +66,6 @@ public class MainActivity extends UnityPlayerActivity {
     private MediaController mMediaController;
 
     //现场演唱部分的节拍器
-    private CheckBox mMetronomeCheckBox;
     private EditText mMetronomeEditText;
     private VisualizerView mMetronomeVisualizerView;
     private Button mMetronomeStartBtn;
@@ -354,8 +353,7 @@ public class MainActivity extends UnityPlayerActivity {
         mMetronomeController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
-                mMetronomeCheckBox.setEnabled(!isStart);
-                mMetronomeEditText.setEnabled(!isStart && mMetronomeCheckBox.isChecked());
+                mMetronomeEditText.setEnabled(!isStart);
                 mMetronomeStartBtn.setEnabled(!isStart);
                 mMetronomeStopBtn.setEnabled(isStart);
                 mColumnFileView.setEnabled(!isStart && !mRecorderController.isRunning());
