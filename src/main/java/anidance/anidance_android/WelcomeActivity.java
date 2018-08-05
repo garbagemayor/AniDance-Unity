@@ -3,6 +3,7 @@ package anidance.anidance_android;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.drawable.BitmapDrawable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -118,7 +119,7 @@ public class WelcomeActivity extends AppCompatActivity {
                     while (mLoadImageFlag != 2) {
                         Thread.sleep(10);
                     }
-                    Thread.sleep(300000);
+                    Thread.sleep(3000);
                     mInitThread.join();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
@@ -133,10 +134,8 @@ public class WelcomeActivity extends AppCompatActivity {
 
     private void loadLargeBitmapForImageView(ImageView imageView, int resourceId, ImageView.ScaleType scaleType) {
         Bitmap bitmap = BitmapFactory.decodeResource(this.getResources(), resourceId);
-        Log.d(TAG, "bitmap: w = " + bitmap.getWidth() + ", h = " + bitmap.getHeight());
         int resW = bitmap.getWidth();
         int resH = bitmap.getHeight();
-        Log.d(TAG, "imageView: w = " + imageView.getWidth() + ", h = " + imageView.getHeight());
         int viewW = imageView.getWidth();
         int viewH = imageView.getHeight();
         int scaleW = 0;
@@ -153,9 +152,18 @@ public class WelcomeActivity extends AppCompatActivity {
             scaleW = viewW;
             scaleH = viewH;
         }
-        Bitmap bitmapOnView = Bitmap.createScaledBitmap(bitmap, scaleW, scaleH, true);
-        Log.d(TAG, "bitmapOnView: w = " + bitmapOnView.getWidth() + ", h = " + bitmapOnView.getHeight());
+        Bitmap bitmapOnView = Bitmap.createScaledBitmap(bitmap, scaleW  / 2, scaleH / 2, true);
+        bitmap.recycle();
         imageView.setImageBitmap(bitmapOnView);
-        imageView.setScaleType(ImageView.ScaleType.FIT_CENTER);
+        imageView.setScaleType(scaleType);
+    }
+
+    @Override
+    protected void onDestroy() {
+        ((BitmapDrawable) mBackground1.getDrawable()).getBitmap().recycle();
+        mBackground1.setImageDrawable(null);
+        ((BitmapDrawable) mBackground2.getDrawable()).getBitmap().recycle();
+        mBackground2.setImageDrawable(null);
+        super.onDestroy();
     }
 }
