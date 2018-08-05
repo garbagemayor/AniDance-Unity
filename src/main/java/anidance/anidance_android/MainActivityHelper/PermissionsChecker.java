@@ -1,4 +1,4 @@
-package anidance.anidance_android;
+package anidance.anidance_android.MainActivityHelper;
 
 import android.Manifest;
 import android.app.Activity;

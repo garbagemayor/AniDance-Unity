@@ -1,4 +1,4 @@
-package anidance.anidance_android;
+package anidance.anidance_android.MainActivityHelper;
 
 import android.os.Environment;
 import android.util.Log;

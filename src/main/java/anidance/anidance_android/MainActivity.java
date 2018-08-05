@@ -29,6 +29,13 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
+import anidance.anidance_android.MainActivityHelper.BaseController;
+import anidance.anidance_android.MainActivityHelper.FolderGenerator;
+import anidance.anidance_android.MainActivityHelper.HackerThread;
+import anidance.anidance_android.MainActivityHelper.MediaController;
+import anidance.anidance_android.MainActivityHelper.MetronomeController;
+import anidance.anidance_android.MainActivityHelper.PermissionsChecker;
+import anidance.anidance_android.MainActivityHelper.RecorderController;
 import anidance.anidance_android.VisualizerPackage.VisualizerView;
 import anidance.anidance_android.VisualizerPackage.VisualizerViewHelper;
 import anidance.anidance_android.table.MovesDouble;

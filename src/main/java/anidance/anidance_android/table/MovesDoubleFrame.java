@@ -1,8 +1,6 @@
 package anidance.anidance_android.table;
 
-import android.util.Log;
-
-import anidance.anidance_android.SendMoveThread;
+import anidance.anidance_android.MainActivityHelper.SendMoveThread;
 
 public class MovesDoubleFrame {
 

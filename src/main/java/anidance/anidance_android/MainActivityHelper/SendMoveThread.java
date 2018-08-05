@@ -1,4 +1,4 @@
-package anidance.anidance_android;
+package anidance.anidance_android.MainActivityHelper;
 
 import android.util.Log;
 
@@ -8,9 +8,8 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
-import java.util.ArrayList;
-import java.util.List;
 
+import anidance.anidance_android.MainActivity;
 import anidance.anidance_android.table.MovesDoubleFrame;
 import anidance.anidance_android.table.Vector3d;
 

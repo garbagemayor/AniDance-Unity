@@ -1,4 +1,4 @@
-package anidance.anidance_android;
+package anidance.anidance_android.MainActivityHelper;
 
 import android.app.Activity;
 import android.content.ContentResolver;
@@ -6,22 +6,14 @@ import android.content.Context;
 import android.database.Cursor;
 import android.media.MediaPlayer;
 import android.net.Uri;
-import android.os.Environment;
 import android.provider.MediaStore;
 import android.util.Log;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.io.PrintWriter;
-import java.net.DatagramPacket;
-import java.net.DatagramSocket;
-import java.net.InetAddress;
-import java.net.SocketException;
-import java.net.UnknownHostException;
 import java.util.ArrayList;
 import java.util.List;
 
+import anidance.anidance_android.MainActivity;
 import anidance.anidance_android.MfccPackage.WaveFileAnalyzer;
 import anidance.anidance_android.beats.Beats;
 
