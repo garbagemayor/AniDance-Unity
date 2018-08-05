@@ -85,22 +85,11 @@ public class MainActivity extends UnityPlayerActivity {
     private Button mRecorderStopBtn;
     private RecorderController mRecorderController;
 
-    private DatagramSocket mUnitySocket;
-    private InetAddress mUnityAddr;
-    private int mUnityPort;
-    private Thread mReadAndSendThread;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         setContentView(R.layout.activity_main);
-
-        //权限检验器
-        PermissionsChecker.run(MainActivity.this);
-
-        //文件路径生成器
-        FolderGenerator.run();
 
         //Unity背景部分
         initUnityBackgroundView();
@@ -117,19 +106,6 @@ public class MainActivity extends UnityPlayerActivity {
         //现场演唱部分
         initLiveModeMetronome();
         initLiveModeRecorder();
-
-        //准备与Unity通信
-        try {
-            mUnityPort = 12345;
-            mUnitySocket = new DatagramSocket();
-            mUnityAddr = InetAddress.getByName("127.0.0.1");
-        } catch (SocketException e) {
-            Log.e(TAG, "mUnitySocket炸了");
-            e.printStackTrace();
-        } catch (UnknownHostException e) {
-            Log.e(TAG, "mUnityAddr炸了");
-            e.printStackTrace();
-        }
     }
 
     //Unity背景部分
@@ -219,20 +195,6 @@ public class MainActivity extends UnityPlayerActivity {
                 }
             });
         }
-        //初始化巨大的数据表
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                MovesDouble.init();
-                TABLE_MANAGER = new TableManager[4];
-                TABLE_MANAGER[0] = new TableManager("T");
-                TABLE_MANAGER[1] = new TableManager("R");
-                TABLE_MANAGER[2] = new TableManager("C");
-                TABLE_MANAGER[3] = new TableManager("W");
-                TableManager.initFinishFlag = true;
-                Log.d(TAG, "TableManager init finish");
-            }
-        }).start();
     }
 
     //选择文件部分
