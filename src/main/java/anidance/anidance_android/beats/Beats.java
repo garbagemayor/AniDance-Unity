@@ -23,8 +23,8 @@ public class Beats {
 
         //找节奏的最优等差数列
         double frameDuration = 1.0 / (((double) sampleRate) / FRAME_SIZE);
-        int minBeatsFrame = (int) Math.ceil(0.5 / frameDuration);
-        int maxBeatsFrame = (int) Math.floor(1.0 / frameDuration);
+        int minBeatsFrame = (int) Math.ceil(0.25 / frameDuration);
+        int maxBeatsFrame = (int) Math.floor(0.5 / frameDuration);
         int bestBf = -1;
         int bestBs = -1;
         double bestScore = Double.MIN_VALUE;

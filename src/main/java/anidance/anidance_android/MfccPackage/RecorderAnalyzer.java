@@ -42,18 +42,6 @@ public class RecorderAnalyzer {
         return avg > 0.05;
     }
 
-    //对最近5秒的数据进行能量检查，不满足条件就开始停止
-    public boolean notHasEnoughEnergy() {
-        double avg = 0;
-        int judgeLength = Math.min(mNearestLength, mSampleRate * 10);
-        for (int i = mNearestLength - judgeLength; i < mNearestLength; i ++) {
-            avg += Math.abs(mNearestSample[i]);
-        }
-        avg = avg / judgeLength;
-        Log.d(TAG, "notHasEnoughEnergy:  judgeLength = " + judgeLength + ", avg = " + avg);
-        return avg < 0.02;
-    }
-
     //插入数据
     public void skip(byte[] wave, int length) {
         //获取浮点音频数据

@@ -1,12 +1,19 @@
 package anidance.anidance_android.table;
 
 import android.content.Context;
+import android.util.Log;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Random;
+import java.util.Set;
 
 public class TableManager {
+
+    public static boolean initFinishFlag = false;
+    private static double PROB_REDUCTION = 0.7;
+
     private String fileName = "ppp.json";
     private String TAG = "TableManager";
     private Context context;
@@ -15,10 +22,12 @@ public class TableManager {
     private HashMap<String, HashMap<String, EdgesItem>> edges;
     private HashMap<String, MotionItem> motions;
     private HashMap<String, List<String>> startstep;
-    private Moves moves;
+    private MovesDouble moves;
     private String status;
     private int beats;
     private String lastStep;
+
+    private String[] mNearestStepList = new String[16];
 
     public TableManager(String dance_type) {
         this.dict = new Dict();
@@ -26,13 +35,12 @@ public class TableManager {
         this.edges = e.edges.get(dance_type);
         Motions m = new Motions();
         this.motions = m.motions.get(dance_type);
-        this.moves = new Moves();
         this.dance_type = dance_type;
         this.status = "rest";
         this.beats = 0;
         this.startstep = new HashMap<>();
         startstep.put("C", Arrays.asList("C-0-1", "C-0-2", "C-0-3", "C-0-4", "C-1-1", "C-11-2", "C-25-1"));
-        startstep.put("T", Arrays.asList("START"));
+        startstep.put("T", Arrays.asList("T-1-1", "T-14-1", "T-16-2", "T-2-3", "T-4-1", "T-5-1", "T-8-1"));
         startstep.put("W", Arrays.asList("W-0-2", "W-1-1", "W-2-1"));
         startstep.put("R", Arrays.asList("R-0-3", "R-0-4", "R-0-5", "R-0-6", "R-10-1", "R-11-1", "R-14-1", "R-22-3"));
         lastStep = null;
@@ -45,33 +53,69 @@ public class TableManager {
         }
         String bad = "";
         String s = "";
-        double max = 0;
-        for (String w : tmp.keySet()) {
-            if (w.equals("HOLD") || motions.get(w).is_terminal) {
-                bad = w;
-            } else {
-                double prob = 0;
-                double prior = tmp.get(w).probability;
-                List<Double> mu = dict.dict.get(w).subList(0, 13);
-                List<Double> sigma = dict.dict.get(w).subList(13, 26);
-                if (mfcc == null) {
-                    prob = prior;
-                } else {
-                    for (int i = 0; i < 13; ++i) {
-                        prob = Math.max(prob, (mu.get(i) - mfcc.get(i)) * sigma.get(i));
+        double max = Double.MIN_VALUE;
+        Log.d(TAG, "choose_next: step = " + step + ", tmp = " + tmp);
+        if (tmp == null) {
+            int motionCnt = motions.keySet().size();
+            String[] motion = new String[motionCnt];
+            Log.d(TAG, "random step from all " + motionCnt + " motions");
+            double[] prob = new double[motionCnt];
+            double sumProb = 0;
+            for (int i = 0; i < motionCnt; i ++) {
+                prob[i] = 1;
+                for (String ns : mNearestStepList) {
+                    if (ns != null && motion[i].equals(ns)) {
+                        prob[i] *= PROB_REDUCTION;
                     }
-                    if (max < prob) {
-                        s = w;
-                        max = prob;
+                }
+                sumProb += prob[i];
+            }
+            Random random = new Random();
+            double r = random.nextDouble() * sumProb;
+            for (int i = 0; i < motionCnt; i ++) {
+                if (sumProb <= prob[i]) {
+                    s = motion[i];
+                    break;
+                } else {
+                    sumProb -= prob[i];
+                }
+            }
+            Log.d(TAG, "random result: s = " + s);
+        } else {
+            for (String w : tmp.keySet()) {
+                if (w.equals("HOLD") || motions.get(w).is_terminal) {
+                    bad = w;
+                } else {
+                    double prob = 0;
+                    double prior = tmp.get(w).probability;
+                    List<Double> mu = dict.dict.get(w).subList(0, 13);
+                    List<Double> sigma = dict.dict.get(w).subList(13, 26);
+                    if (mfcc == null) {
+                        prob = prior;
+                    } else {
+                        for (int i = 0; i < 13; ++i) {
+                            prob += Math.exp((mu.get(i) - mfcc.get(i)) / sigma.get(i));
+                        }
+                        for (String ns : mNearestStepList) {
+                            if (ns != null && w.equals(ns)) {
+                                prob *= 0.7;
+                            }
+                        }
+                        if (max < prob) {
+                            s = w;
+                            max = prob;
+                        }
                     }
                 }
             }
         }
-        if (max == 0) {
-            return bad;
-        } else {
-            return s;
+        if (max != Double.MIN_VALUE) {
+            for (int i = mNearestStepList.length - 1; i >= 1; i--) {
+                mNearestStepList[i] = mNearestStepList[i - 1];
+            }
+            mNearestStepList[0] = s;
         }
+        return s;
     }
 
     public void reset() {
@@ -113,8 +157,7 @@ public class TableManager {
         return this.beats;
     }
 
-    public List<String> getMoves(String step) {
-        return this.moves.getMoves(step);
-        //return Arrays.asList("");
+    public MovesDoubleFrame[] getMoves(String step) {
+        return MovesDouble.getMoves(step);
     }
 }

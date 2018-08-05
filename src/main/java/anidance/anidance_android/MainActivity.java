@@ -29,8 +29,16 @@ import java.net.InetAddress;
 import java.net.SocketException;
 import java.net.UnknownHostException;
 
+import anidance.anidance_android.MainActivityHelper.BaseController;
+import anidance.anidance_android.MainActivityHelper.FolderGenerator;
+import anidance.anidance_android.MainActivityHelper.HackerThread;
+import anidance.anidance_android.MainActivityHelper.MediaController;
+import anidance.anidance_android.MainActivityHelper.MetronomeController;
+import anidance.anidance_android.MainActivityHelper.PermissionsChecker;
+import anidance.anidance_android.MainActivityHelper.RecorderController;
 import anidance.anidance_android.VisualizerPackage.VisualizerView;
 import anidance.anidance_android.VisualizerPackage.VisualizerViewHelper;
+import anidance.anidance_android.table.MovesDouble;
 import anidance.anidance_android.table.TableManager;
 
 public class MainActivity extends UnityPlayerActivity {
@@ -65,7 +73,6 @@ public class MainActivity extends UnityPlayerActivity {
     private MediaController mMediaController;
 
     //现场演唱部分的节拍器
-    private CheckBox mMetronomeCheckBox;
     private EditText mMetronomeEditText;
     private VisualizerView mMetronomeVisualizerView;
     private Button mMetronomeStartBtn;
@@ -78,22 +85,11 @@ public class MainActivity extends UnityPlayerActivity {
     private Button mRecorderStopBtn;
     private RecorderController mRecorderController;
 
-    private DatagramSocket mUnitySocket;
-    private InetAddress mUnityAddr;
-    private int mUnityPort;
-    private Thread mReadAndSendThread;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_LANDSCAPE);
         setContentView(R.layout.activity_main);
-
-        //权限检验器
-        PermissionsChecker.run(MainActivity.this);
-
-        //文件路径生成器
-        FolderGenerator.run();
 
         //Unity背景部分
         initUnityBackgroundView();
@@ -110,19 +106,6 @@ public class MainActivity extends UnityPlayerActivity {
         //现场演唱部分
         initLiveModeMetronome();
         initLiveModeRecorder();
-
-        //准备与Unity通信
-        try {
-            mUnityPort = 12345;
-            mUnitySocket = new DatagramSocket();
-            mUnityAddr = InetAddress.getByName("127.0.0.1");
-        } catch (SocketException e) {
-            Log.e(TAG, "mUnitySocket炸了");
-            e.printStackTrace();
-        } catch (UnknownHostException e) {
-            Log.e(TAG, "mUnityAddr炸了");
-            e.printStackTrace();
-        }
     }
 
     //Unity背景部分
@@ -212,17 +195,6 @@ public class MainActivity extends UnityPlayerActivity {
                 }
             });
         }
-        //初始化巨大的数据表
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                TABLE_MANAGER = new TableManager[4];
-                TABLE_MANAGER[0] = new TableManager("T");
-                TABLE_MANAGER[1] = new TableManager("R");
-                TABLE_MANAGER[2] = new TableManager("C");
-                TABLE_MANAGER[3] = new TableManager("W");
-            }
-        }).start();
     }
 
     //选择文件部分
@@ -252,6 +224,9 @@ public class MainActivity extends UnityPlayerActivity {
         mFileStartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if (! TableManager.initFinishFlag) {
+                    return;
+                }
                 mMediaController.start();
             }
         });
@@ -267,13 +242,13 @@ public class MainActivity extends UnityPlayerActivity {
 
         //播放与跳舞控制器
         mMediaController = new MediaController(MainActivity.this);
-        mMediaController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mMediaController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mFileVisualizerView;
             }
         });
-        mMediaController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mMediaController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
                 mFileBrowseBtn.setEnabled(!isStart);
@@ -288,20 +263,6 @@ public class MainActivity extends UnityPlayerActivity {
 
     //现场演唱的节拍器
     private void initLiveModeMetronome() {
-        //节拍器使能
-        mMetronomeCheckBox = findViewById(R.id.metronome_checkbox);
-        mMetronomeCheckBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                mMetronomeEditText.setEnabled(isChecked);
-                if (isChecked) {
-                    mMetronomeController.setBpm(Integer.valueOf(mMetronomeEditText.getText().toString()));
-                } else {
-                    mMetronomeController.setBpm(0);
-                }
-            }
-        });
-
         //节拍器数字
         mMetronomeEditText = findViewById(R.id.metronome_edittext);
         mMetronomeEditText.setInputType(InputType.TYPE_CLASS_NUMBER);
@@ -314,13 +275,13 @@ public class MainActivity extends UnityPlayerActivity {
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 if (s.length() > 0) {
                     int value = Integer.valueOf(s.toString());
-                    if (value < 1) {
-                        value = 1;
-                        mMetronomeEditText.setText("1");
+                    if (value < MetronomeController.MIN_BPM) {
+                        value = MetronomeController.MIN_BPM;
+                        mMetronomeEditText.setText(String.valueOf(MetronomeController.MIN_BPM));
                         mMetronomeEditText.setSelection(1);
-                    } else if (value > 600) {
-                        value = 600;
-                        mMetronomeEditText.setText("600");
+                    } else if (value > MetronomeController.MAX_BPM) {
+                        value = MetronomeController.MAX_BPM;
+                        mMetronomeEditText.setText(String.valueOf(MetronomeController.MAX_BPM));
                         mMetronomeEditText.setSelection(3);
                     }
                     mMetronomeController.setBpm(value);
@@ -352,17 +313,16 @@ public class MainActivity extends UnityPlayerActivity {
 
         //节拍器控制器
         mMetronomeController = new MetronomeController(MainActivity.this, Integer.valueOf(mMetronomeEditText.getText().toString()));
-        mMetronomeController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mMetronomeController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mMetronomeVisualizerView;
             }
         });
-        mMetronomeController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mMetronomeController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
-                mMetronomeCheckBox.setEnabled(!isStart);
-                mMetronomeEditText.setEnabled(!isStart && mMetronomeCheckBox.isChecked());
+                mMetronomeEditText.setEnabled(!isStart);
                 mMetronomeStartBtn.setEnabled(!isStart);
                 mMetronomeStopBtn.setEnabled(isStart);
                 mColumnFileView.setEnabled(!isStart && !mRecorderController.isRunning());
@@ -383,6 +343,9 @@ public class MainActivity extends UnityPlayerActivity {
         mRecorderStartBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                if (! TableManager.initFinishFlag) {
+                    return;
+                }
                 mRecorderController.start();
             }
         });
@@ -398,13 +361,13 @@ public class MainActivity extends UnityPlayerActivity {
 
         //录音控制器
         mRecorderController = new RecorderController(MainActivity.this);
-        mRecorderController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mRecorderController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mRecorderVisualizerView;
             }
         });
-        mRecorderController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mRecorderController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
                 mRecorderStartBtn.setEnabled(!isStart);

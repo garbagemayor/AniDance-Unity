@@ -49,7 +49,6 @@
         android:isGame="true"
         android:label="@string/app_show_name"
         android:theme="@style/AppTheme">
-
         <activity
             android:name="anidance.anidance_android.UnityPlayerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
@@ -61,9 +60,8 @@
                 android:name="unityplayer.UnityActivity"
                 android:value="true" />
         </activity>
-
         <activity
-            android:name="anidance.anidance_android.MainActivity"
+            android:name="anidance.anidance_android.WelcomeActivity"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -72,7 +70,16 @@
                 <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="anidance.anidance_android.MainActivity"
+            android:screenOrientation="landscape">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>-->
+        </activity>
     </application>
 
 </manifest>
