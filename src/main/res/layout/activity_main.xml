@@ -256,6 +256,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="20dp"
                     android:layout_marginEnd="5dp"
                     android:id="@+id/file_mode_browse_btn"
                     android:text="浏览"
@@ -347,6 +348,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="20dp"
                         android:layout_marginEnd="5dp"
                         android:id="@+id/metronome_start_btn"
                         android:text="节拍开始"
@@ -377,16 +379,6 @@
                     android:paddingRight="20dp"
                     >
 
-                    <TextView
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:layout_marginEnd="20dp"
-                        android:text="提示：舞蹈将在检测到足够音量持续2秒后开始"
-                        android:textSize="12sp"
-                        android:singleLine="true"
-                        />
-
                     <anidance.anidance_android.VisualizerPackage.VisualizerView
                         android:layout_width="1dp"
                         android:layout_height="match_parent"
@@ -401,6 +393,7 @@
                         android:layout_gravity="center_vertical"
                         android:layout_marginEnd="5dp"
                         android:id="@+id/recorder_start_btn"
+                        android:layout_marginLeft="20dp"
                         android:text="录音开始"
                         android:textSize="20sp"
                         android:singleLine="true"
