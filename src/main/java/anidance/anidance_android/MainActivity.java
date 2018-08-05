@@ -273,13 +273,13 @@ public class MainActivity extends UnityPlayerActivity {
 
         //播放与跳舞控制器
         mMediaController = new MediaController(MainActivity.this);
-        mMediaController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mMediaController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mFileVisualizerView;
             }
         });
-        mMediaController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mMediaController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
                 mFileBrowseBtn.setEnabled(!isStart);
@@ -344,13 +344,13 @@ public class MainActivity extends UnityPlayerActivity {
 
         //节拍器控制器
         mMetronomeController = new MetronomeController(MainActivity.this, Integer.valueOf(mMetronomeEditText.getText().toString()));
-        mMetronomeController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mMetronomeController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mMetronomeVisualizerView;
             }
         });
-        mMetronomeController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mMetronomeController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
                 mMetronomeEditText.setEnabled(!isStart);
@@ -392,13 +392,13 @@ public class MainActivity extends UnityPlayerActivity {
 
         //录音控制器
         mRecorderController = new RecorderController(MainActivity.this);
-        mRecorderController.setVisualizerViewCallBack(new VisualizerViewCallBack() {
+        mRecorderController.setVisualizerViewCallBack(new BaseController.VisualizerViewCallBack() {
             @Override
             public VisualizerView getView() {
                 return mRecorderVisualizerView;
             }
         });
-        mRecorderController.setOnControllerStartStopListener(new OnControllerStartStopListener() {
+        mRecorderController.setOnControllerStartStopListener(new BaseController.OnControllerStartStopListener() {
             @Override
             public void onStartStop(boolean isStart) {
                 mRecorderStartBtn.setEnabled(!isStart);

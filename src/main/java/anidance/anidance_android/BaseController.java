@@ -1,5 +1,7 @@
 package anidance.anidance_android;
 
+import anidance.anidance_android.VisualizerPackage.VisualizerView;
+
 public abstract class BaseController {
 
     protected boolean runningFlag;
@@ -29,5 +31,13 @@ public abstract class BaseController {
 
     public boolean isRunning() {
         return runningFlag;
+    }
+
+    public static interface OnControllerStartStopListener {
+        void onStartStop(boolean isStart);
+    }
+
+    public static interface VisualizerViewCallBack {
+        VisualizerView getView();
     }
 }
